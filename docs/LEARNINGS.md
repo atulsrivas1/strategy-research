@@ -24,3 +24,5 @@ These old ETF studies remain source evidence, not permission to run ETFs now. Ne
 After each experiment add evidence/version links, universe/horizon/period, costs/execution, uncertainty, supporting/contradicting findings, action and revisit conditions. Retain invalid, rejected and inconclusive runs and superseded records. Documentation/governance corrections are not empirical market lessons.
 
 M0 receiving-session evidence: [partial qualification](../reports/M0-qualification.md), [partial receipt](releases/M0_RECEIPT.md). Bounded checks pass; full data/engine/confirmation/review gates remain explicit. No released M0 or new strategy result. Current lifecycle is in Project4.
+
+DQ-003 — bounded input audit: retained adjustment safeguards deliberately suppress rolling references after discontinuities; daily and finalized last-trade closes have distinct contracts. Missing remains unavailable. [Evidence and limits](../reports/SR-002-input-audit.md). No source repair or strategy conclusion.

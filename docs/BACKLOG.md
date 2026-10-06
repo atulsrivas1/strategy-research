@@ -42,3 +42,5 @@ SR-001 foundation delivered; EQ-001-P1 locally completed/inconclusive, not promo
 After every run record all variants/failures and exposure, update scoped lessons and dependencies, rerank by uncertainty resolved/relevance/feasibility and select the next best Ready question. Numerical thresholds/splits not yet specified block execution rather than being invented after outcomes. See [knowledge workflow](knowledge/BACKLOG_WORKFLOW.md).
 
 M0 receiving-session evidence: [partial qualification](../reports/M0-qualification.md), [partial receipt](releases/M0_RECEIPT.md). Bounded checks pass; full data/engine/confirmation/review gates remain explicit. No released M0 or new strategy result. Current lifecycle is in Project4.
+
+SR-002 diagnostic evidence is available; see [report](../reports/SR-002-input-audit.md). SR-008 universe feasibility and SR-009 synthetic checks follow bounded semantics; market replay and action/universe adoption remain gated.

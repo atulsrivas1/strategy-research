@@ -9,3 +9,5 @@ EQ-001-P1 is locally completed/inconclusive; bar-proxy evidence, not funded/exec
 Resume: inspect live Project, PR7 actual review/head coverage and planning checks. Resolve findings and verify merged source before planning Done. Then read SR-002 plan and private source rules; preserve all commands/failed runs and publish sanitized findings. Do not rerun initial GitHub setup scripts or create duplicate IDs. Data audits may proceed privately within authorized scope without fabricating public-review completion.
 
 M0 receiving-session evidence: [partial qualification](../reports/M0-qualification.md), [partial receipt](releases/M0_RECEIPT.md). Bounded checks pass; full data/engine/confirmation/review gates remain explicit. No released M0 or new strategy result. Current lifecycle is in Project4.
+
+M0 owner privately completed SR-002 diagnostic; [report](../reports/SR-002-input-audit.md). Actual hosted review remains required; no public Done/release. Continue only dependency-qualified bounded M0 work.

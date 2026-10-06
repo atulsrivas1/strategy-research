@@ -13,3 +13,5 @@
 Add every executed experiment version, variant, invalid/failed run and scoped verdict when it exists. Detailed private manifests/commands/ledgers preserve reproducibility; public summaries cannot independently certify them. No new market experiment, fresh holdout, profitable/robust/replicated strategy or hosted-review completion claimed.
 
 M0 receiving-session evidence: [partial qualification](../reports/M0-qualification.md), [partial receipt](releases/M0_RECEIPT.md). Bounded checks pass; full data/engine/confirmation/review gates remain explicit. No released M0 or new strategy result. Current lifecycle is in Project4.
+
+SR-002-A1: [bounded reference/close audit](../reports/SR-002-input-audit.md); 154 local assertions, zero replay, public acceptance pending hosted review.

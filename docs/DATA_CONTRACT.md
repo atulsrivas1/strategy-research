@@ -7,3 +7,5 @@ Record immutable version/hash and access rules; schema/units, event/arrival/refe
 Stock membership/action qualification precedes representative cohort claims. Quote paths and order/latency assumptions precede executable claims. Option expiry/multiplier/exercise/settlement, rates/dividends and Greek/OI known-at lineage precede affected call metrics. Missing fields stay unavailable. Passing a source build or owner-reported causal derivation is useful source evidence, not independent source certification.
 
 M0 receiving-session evidence: [partial qualification](../reports/M0-qualification.md), [partial receipt](releases/M0_RECEIPT.md). Bounded checks pass; full data/engine/confirmation/review gates remain explicit. No released M0 or new strategy result. Current lifecycle is in Project4.
+
+SR-002 records a bounded prior-session reference contract, explicit unavailable rolling-history state and distinct last-trade/daily closes. [Audit limits](../reports/SR-002-input-audit.md); raw feed, historical arrival and actions remain unqualified.
