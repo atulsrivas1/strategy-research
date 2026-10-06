@@ -1,5 +1,9 @@
 # SR-012 — Specify downside-risk diagnostics for long entries
 
+## M1 feasibility-only amendment — October 6, 2026
+
+This pass delivers the bounded [design/feasibility/defer decision](../../reports/M1-feasibility.md), not the empirical extension described below. Original dependencies and future scopes remain visible. Zero auxiliary veto/flow ablations, zero fits, zero monthly/news outcomes. Scope is reconciled for review, not yet accepted as release/Done. Separate final-head review/publication requirements remain.
+
 Parent: [E02](https://github.com/atulsrivas1/strategy-research/issues/9). Release plan: [M1](../releases/M1_PLAN.md). Backlog mapping: B-009 adaptation. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **exploratory**.
 
 ## Hypothesis and information value

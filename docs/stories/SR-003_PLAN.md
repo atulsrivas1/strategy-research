@@ -1,5 +1,9 @@
 # SR-003 — Broaden the fixed stock comparison
 
+## M1 restricted protocol amendment — October 6, 2026
+
+The original broad-cohort/two-control pullback proposal below is preserved, not the qualified executable plan. The owner-authorized restricted amendment is [frozen methodology](../../reports/M1-methodology.md): one new one-day relative-loser capped long tilt, one same-name/date/exposure equal-weight baseline, five sessions, primary cost plus three stresses. Fixed 18-stock approved quality-conditioned cohort and both exposed R2 windows; final access disabled. No unchanged pullback retry, grid or representative-universe inference. New operators qualified before outcomes. [Completed scientific result](../../reports/M1-development.md) is inconclusive; actual separate final-head review and declared delivery remain pending. No public Done/alpha claim.
+
 Parent: [E02](https://github.com/atulsrivas1/strategy-research/issues/9). Release plan: [M1](../releases/M1_PLAN.md). Backlog mapping: B-004. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **blocked**.
 
 ## Hypothesis and information value

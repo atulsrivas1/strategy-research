@@ -1,5 +1,11 @@
 # M1 — Bounded stock comparisons
 
+## Restricted receiving-owner scope reconciliation — October 6, 2026
+
+SR-003 includes one preregistered restricted five-session candidate/control comparison, scientifically inconclusive. SR-012/013/014/011 include reviewed design/feasibility/no-run decisions only, preserving SR-004/M2, flow clock/operator, sample/fresh-evidence and monthly-horizon/news dependencies. [Evidence](../../reports/M1-development.md), [methodology](../../reports/M1-methodology.md), [feasibility](../../reports/M1-feasibility.md). This is the explicit bounded scope proposed for delivery; original plans below remain provenance. No second candidate, veto/flow ablation, model fit or monthly replay.
+
+Acceptance is still partial: completed final-head Codex review/findings disposition, owner scope reconciliation and exact published source/artifact verification are required before release/Done. M0's one-time owner administrative review acceptance does not extend here. No tag/release created.
+
 Status: planned evidence release, not published. No date/version promise. Fixed long-stock comparisons with chronological development, uncertainty and preserved failures.
 
 ## Scope and dependencies

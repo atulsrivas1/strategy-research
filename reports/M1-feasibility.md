@@ -1,0 +1,35 @@
+# M1 auxiliary decisions — design/defer, zero empirical ablations/fits
+
+October6,2026; governed bySPEC andM1handoff. Sources M1-SRC-02, SRC017, L001–003/L012–014. Existing storydependencies preserved; none changes SR003outcomes or trialbudget.
+
+## SR-012: one shadow downside design; empirical work deferred
+
+One proposed veto: at completed daily decision, shadow reject an otherwise eligible name if its current Close is strictly below the immediately prior governed-session Low. PriorLow/currentClose and known-at must independently qualify before any application. Equality does not veto; missing/late/unknown priorLow means unknown veto, not pass/reject; sourceprice convention identical to baseline. Economic hypothesis: breaking yesterday's trading range may indicate ongoing repricing whose rejected losses exceed sacrificed winners. It may instead reject temporary-pressure recoveries, so no favorable presumption. This is a new stock design, not imported option-veto replication.
+
+Matched benchmark is the frozen executable longstock baseline required bySR004/M2. Preserve original per-leg weights and trade opportunities, rejected allocations remain cash without rescaling kept names; fee/capital policies fixed separately. Counterfactual shadow accounting identifies avoided loss=sum negativebaselinelegpayoffs negated, rejectedwinnercost=sum positivebaselinelegpayoffs, with allunknowns/coverage reported. Netveto increment is theirdifference minus differential costs, with dependence-awaredateuncertainty, participation/drawdown limits and future coststresses preregistered. No user risk tolerance invented here. Need numeric participation/risklimits and executable baseline before empirical acceptance; current dailyproxySR003 is not that prerequisite. Designonly delivered for review; no veto computed on actualstocks.
+
+Logical cases checked manually: baseline−4→veto0 adds+4; baseline+3→veto0 loses3; combined+1before extra costs. Missing priorLow remainsunknown. These arithmetic examples validate intended accounting semantics, not stockbehavior. L013/L014 warn against calling rescuedlosses or higher winrate sufficient.
+
+## SR-013: source semantics feasible to specify; adoption blocked
+
+Capability candidate: estimate signedstocktrade notional only when instrument/session, event/receive clocks, valid priorBBO and sourcecondition are known before dailydecision. Values use USD pertrade=priceUSD*shares; inferredsign∈{−1,0,+1,unknown}, with ambiguous mid/spreadcrossed/late/condition/revision records keptseparately. A possible descriptive imbalance=sum signednotional / sum eligibleabsolute notional, denominatorzero/uncoveredstate unavailable. This is a proposed definition, not an adopted localflowfeature. No threshold chosen and no empirical gate.
+
+Documented trades/TCBBO fields support schema design, not exactlocal availability. Required bundle remains absent from this qualification: pinned localflowoperator/version, feedinstrument mapping, event→capture→local availability chain, correction/cancel behavior, tradeconditionhandling, exactquoteasof and coverage denominators, known-at OI/Greekscenario assumptions if options used. Ownerreported inputs in DATA_AND_TOOLS are clues. I2 explicitly shows some producer ingestfields alias event; that cannot become measuredhistoricalreceive evidence forflow. No Ndrive scans, sourceproducerjobs ornewextract needed now. Greek/OPRA/dealerclaims remain unqualified; no ownership/opening/parent-order inference.
+
+Logical cases: tradeabovevalidask with priorquote supports a buy-aggressor estimate, not institutionalidentity; midpricetrade remainsambiguous; quoteaftertrade/latecapture rejectedforcausal use; no prints means unavailablecoverage, not zero interest. Future empirical comparison depends onSR003andown temporal qualification: identicalprice entries withoneflowgate, retainedmissingstates/coverage-matchedcontrol and incrementalnetbenefit. Budgetnowzeroablation.
+
+## SR-014: sample/decision feasibility; zero fits
+
+ObservedSR003supportmetadata:171scheduleddecisiondates,3078stocklegs,18names; only68development/103validationdates. Not3078independentexamples: commondate exposures and5sessionoverlap. A deterministic greedy five-session nonoverlap sampler of the predeclared schedule yields14development+21validation entrycohorts; ten-session blocks yield7+11. Counts are temporal grouping diagnostics, not effective sample size/power estimates. Existing windows exposed; no independent confirmation interval. Imported106SPYentries/46supportedpredictions and12identicalmodel/control decisions remain reportednegative evidence, not thisstock sample.
+
+Potential changed economic decision would be one fixed limited stock allocation/veto versus constant/equalweights and the frozen rule under samegrossnotional, costs and decisionclock. No reachablemodelpolicy/features/architecture/threshold selected here. No calibration, resamplingfits, predictions or labelsaccess beyondSR003alreadylogged. Lackofuntoucheddata/independentpower and unknownadditionalfeatureclocks means no fit qualifies. Future separately scoped story needs independent episode/supportprecision justification, exact causal features, constant/frozen/simplelinearbaselines, prescribedmodel/searchbudget and incrementalnetdecisioncriterion. AQuA30minlong-short authorclaims remain unreplicated. Feasibility verdict: defer modeling, not rejection of allmodels.
+
+## SR-011: literature/data-clock assessment; no-run/defer
+
+NYFed513monthly industry/newsdecomposition needs forecastissuance/revision vintages, datedindustrymembership, historicalprice/riskinputs and share-splitcompatibleforecastunits. Those specific inputs/arrivalclocks are not qualified byM0priceprotocol. Future ingestion/publication/retrieval clocks differ; finalrevised earnings forecasts cannot be backdated. Monthly or20session execution is outside current2–10scope; owner direction required before thatdependentwork, no extra question needed now. PriceonlyshortreversalSR003 is not a newsresidual replication and its inconclusive outcome neither validates nor disproves monthlypaper.
+
+One feasible future designnote would contrast unconditional with industrydemeaned/newsconditioned reversal after horizon/dataauthorization, preserving future exactbudget rather than executingthree variants now. No residualcallednonfundamental without measurementlimits. Verdict explicitno-run/defer; paperprimary targetedreading complete, no localforecastquery/fit/backtest.
+
+## Scope reconciliation and relevant checks
+
+M1 includes these four boundedfeasibility/designdecisions for review only. Empirical storyfollow-ups remain attachedto same numberedstories and originaldependencies, without duplicateissue/releasecreation. No auxiliary empirical acceptance or Done/releaseclaim. Manual semantic checks above andmetadata groupingchecker are same-agentselfverification, not separate hosted review. Review/publicdelivery remainsrequired; actual reviewer none until completedresponse. Next work publicsanitizedscope/docs/PRreview only; no secondcandidate/veto/flow/model/monthlyrun.

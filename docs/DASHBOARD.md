@@ -1,3 +1,7 @@
+# Current M1 evidence links
+
+[SR-003 comparison](../reports/M1-development.md), [methodology](../reports/M1-methodology.md), [SR-011/012/013/014 design and defer evidence](../reports/M1-feasibility.md), [Project status authority](https://github.com/users/atulsrivas1/projects/4). Scientific verdict inconclusive; actual separate review/publication acceptance still pending. No competing lifecycle count or M1 release claim.
+
 # Research dashboard
 
 [Live Project — current status authority](https://github.com/users/atulsrivas1/projects/4). [Epic/story map](ROADMAP.md), [ranked scope](BACKLOG.md), [delivery gates](DELIVERY_POLICY.md).

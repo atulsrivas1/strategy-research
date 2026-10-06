@@ -1,0 +1,9 @@
+# M1-SRC-02 — auxiliary targeted sources
+
+Accessed October6,2026; primary claims only, no local replication.
+
+Da, Liu, Schaumburg, *Decomposing Short-Term Return Reversal*, NYFed StaffReport513, September2011,45PDFpages: https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr513.pdf . Read abstract/introduction PDF2–6 and cash-flow/forecast data discussion PDF13–16. Source decomposes monthly reversal using industry, risk and analyst forecast revisions; its residual includes measurement error and need not uniquely identify nonfundamental price pressure. I/B/E/S consensus issuance frequency and vintage/share-split treatment matter. Author results do not support shortening to5sessions or assuming licensed forecasts available locally. No formula replication, no article-wide robustness review. SR011 feasibility requires dated industries, analyst/announcement revision vintages and horizon authorization; current daily price comparison cannot satisfy those requirements.
+
+Databento Trades and TCBBO schemas: https://databento.com/docs/schemas-and-data-formats/trades and https://databento.com/docs/schemas-and-data-formats/tcbbo . Read trade field table and TCBBO definition/field/publisher distinctions. Capture receive time differs from event time; side can be missing; TCBBO pairs trades with preceding consolidated BBO rather than continuous time coverage. Publisher IDs identify venues, not economic owners. Generic schema definitions do not certify local OPRA/feed availability, historical revisions or a derived signed-flow implementation. Require exact source mappings and missing/ambiguous states before flow claims. No local feed query or purchase. No institution/opening/dealer inventory inference from signed premium.
+
+SR014 reuses already readSRC017AQuA assessment andL001–003; no new paper performance claim. SR012 usesL013/L014andsource-limited cost/pressure interpretation; no claimed validated price veto.
