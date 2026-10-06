@@ -22,3 +22,5 @@ Original source reports and private provenance are retained in the private evide
 These old ETF studies remain source evidence, not permission to run ETFs now. Negative results reject tested scope, not universal market laws. No source claim establishes profitable/robust/replicated strategy performance here.
 
 After each experiment add evidence/version links, universe/horizon/period, costs/execution, uncertainty, supporting/contradicting findings, action and revisit conditions. Retain invalid, rejected and inconclusive runs and superseded records. Documentation/governance corrections are not empirical market lessons.
+
+DQ-003 — bounded input audit: retained adjustment safeguards deliberately suppress rolling references after discontinuities; daily and finalized last-trade closes have distinct contracts. Missing remains unavailable. [Evidence and limits](../reports/SR-002-input-audit.md). No source repair or strategy conclusion.

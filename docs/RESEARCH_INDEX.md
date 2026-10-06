@@ -11,3 +11,5 @@
 | [Handoff](SESSION_HANDOFF.md) | SR-002 next Ready; planning/reviewer acceptance pending |
 
 Add every executed experiment version, variant, invalid/failed run and scoped verdict when it exists. Detailed private manifests/commands/ledgers preserve reproducibility; public summaries cannot independently certify them. No new market experiment, fresh holdout, profitable/robust/replicated strategy or hosted-review completion claimed.
+
+SR-002-A1: [bounded reference/close audit](../reports/SR-002-input-audit.md); 154 local assertions, zero replay, public acceptance pending hosted review.
