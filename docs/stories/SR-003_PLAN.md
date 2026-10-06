@@ -1,12 +1,12 @@
-# SR-002 — Explain missing daily references and close conventions
+# SR-003 — Broaden the fixed stock comparison
 
-Parent: [E01](https://github.com/atulsrivas1/strategy-research/issues/8). Release plan: [M0](../releases/M0_PLAN.md). Backlog mapping: B-001. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **ready**.
+Parent: [E02](https://github.com/atulsrivas1/strategy-research/issues/9). Release plan: [M1](../releases/M1_PLAN.md). Backlog mapping: B-004. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **blocked**.
 
 ## Hypothesis and information value
 
-Source lineage can explain missing daily references and price-definition discrepancies before they distort outcomes.
+The unchanged pullback condition adds information beyond unrestricted uptrend exposure across a historically qualified stock cohort.
 
-Expected information value: Very high: resolves anomalies comparable to the apparent signal effect. Effort: Small; provisional 3 complexity points; estimates describe planning complexity, not deadlines or velocity.
+Expected information value: High: directly answers long-stock timing question. Effort: Medium; estimates describe planning complexity, not deadlines or velocity.
 
 ## Sources and prior lessons
 
@@ -14,19 +14,19 @@ Expected information value: Very high: resolves anomalies comparable to the appa
 
 ## Dependencies and required data
 
-No story dependency; applicable access/review gate still applies.
+[SR-002](https://github.com/atulsrivas1/strategy-research/issues/2), [SR-008](https://github.com/atulsrivas1/strategy-research/issues/14), [SR-009](https://github.com/atulsrivas1/strategy-research/issues/15), [SR-010](https://github.com/atulsrivas1/strategy-research/issues/16)
 
-Existing derived/raw/curated references, clocks, corporate actions, identity and source definitions; source unchanged.
+Qualified historical membership and prices, fixed availability/adjustments, exposure ledger; daily proxies until fills qualified.
 
 ## Baseline and experiment
 
-First missing dates for two affected stocks, adjacent available dates and one control; three largest input-only close discrepancies. Independent source/date/unit reconciliation; no signal tuning.
+Preserve pilot thresholds. One pullback rule versus unrestricted uptrend and scheduled-entry control under identical horizons/costs; outcome-free control selection.
 
-Trial/search budget: One bounded input audit; no market outcome replay.
+Trial/search budget: One candidate/two controls, fixed 10/20 bps proxy scenarios; no threshold/ticker grid. Stress values remain assumptions until SR-004.
 
 ## Acceptance and rejection
 
-Every examined case has evidenced semantics or an explicit unresolved gate. Implicated corrections pass boundary checks before a new replay. Unresolved source ambiguity blocks affected claims.
+Freeze dates and quantitative decision rule before outcomes. Incremental net mean must have dependence-aware lower 95% bound above zero, remain positive under predeclared cost stress and not rely on one quarter or largest date. Wide uncertainty is inconclusive; controls explaining improvement reject tested timing value. Bar proxies cannot support fill claims.
 
 - [ ] Before execution, freeze exact mathematics/units/clocks, eligibility, dataset version and exposure, splits/purge, costs, metrics, quantitative thresholds and command in a versioned experiment specification. A feasibility or documentation story records why market-run fields do not apply.
 - [ ] Independent relevant checks establish the claimed scope; any bug invalidates affected results, not the market hypothesis.

@@ -15,3 +15,7 @@ Commits are attributed to Atul Srivastava. Codex provides a separate PR review; 
 - [Next input-qualification plan](docs/stories/SR-002_PLAN.md)
 
 This repository publishes sanitized summaries and methodology. Market datasets, detailed trade ledgers, private chat records, credentials and internal paths are excluded. No proven profitable strategy, independently replicated market result or fresh final holdout is claimed.
+
+## Planning and delivery
+
+[Epics and all story plans](docs/ROADMAP.md), [release policy](docs/DELIVERY_POLICY.md), [dashboard](docs/DASHBOARD.md), [scope and decisions](docs/RESEARCH_BRIEF.md), [lessons](docs/LEARNINGS.md), [source map](docs/sources/SOURCE_MAP.md), [handoff](docs/SESSION_HANDOFF.md). Five epics and twenty-one numbered stories cover the current backlog; M0–M3 are planned evidence releases and M4 preserves excluded future scope. No published GitHub release is claimed.

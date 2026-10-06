@@ -1,32 +1,32 @@
-# SR-002 — Explain missing daily references and close conventions
+# SR-006 — Require owner commits and qualify Codex PR review
 
-Parent: [E01](https://github.com/atulsrivas1/strategy-research/issues/8). Release plan: [M0](../releases/M0_PLAN.md). Backlog mapping: B-001. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **ready**.
+Parent: [E01](https://github.com/atulsrivas1/strategy-research/issues/8). Release plan: [M0](../releases/M0_PLAN.md). Backlog mapping: Governance. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **blocked**.
 
 ## Hypothesis and information value
 
-Source lineage can explain missing daily references and price-definition discrepancies before they distort outcomes.
+Correct attribution and actual separate automated review provide honest accountable delivery.
 
-Expected information value: Very high: resolves anomalies comparable to the apparent signal effect. Effort: Small; provisional 3 complexity points; estimates describe planning complexity, not deadlines or velocity.
+Expected information value: High governance. Effort: Small; blocked on hosted access; estimates describe planning complexity, not deadlines or velocity.
 
 ## Sources and prior lessons
 
-[EQ-001-P1](../../reports/EQ-001-P1.md), locally tested and inconclusive; L-016/DQ-002. Read linked source/lesson limitations before selecting work. Literature and imported reports are not local replication. See [source map](../sources/SOURCE_MAP.md).
+[Official hosted review guide](https://learn.chatgpt.com/docs/third-party/github); owner direction. Read linked source/lesson limitations before selecting work. Literature and imported reports are not local replication. See [source map](../sources/SOURCE_MAP.md).
 
 ## Dependencies and required data
 
 No story dependency; applicable access/review gate still applies.
 
-Existing derived/raw/curated references, clocks, corporate actions, identity and source definitions; source unchanged.
+Owner-linked identity and connected Codex repository review access.
 
 ## Baseline and experiment
 
-First missing dates for two affected stocks, adjacent available dates and one control; three largest input-only close discrepancies. Independent source/date/unit reconciliation; no signal tuning.
+Verify author/committer and no Codex trailers; request actual final-head review and distinguish response from request/reaction.
 
-Trial/search budget: One bounded input audit; no market outcome replay.
+Trial/search budget: One repository qualification; retries only after access/state changes.
 
 ## Acceptance and rejection
 
-Every examined case has evidenced semantics or an explicit unresolved gate. Implicated corrections pass boundary checks before a new replay. Unresolved source ambiguity blocks affected claims.
+Actual completed Codex response covering final head, findings disposition and delivered source verified; missing settings access or quota is a blocker. No invented bot check or human approval.
 
 - [ ] Before execution, freeze exact mathematics/units/clocks, eligibility, dataset version and exposure, splits/purge, costs, metrics, quantitative thresholds and command in a versioned experiment specification. A feasibility or documentation story records why market-run fields do not apply.
 - [ ] Independent relevant checks establish the claimed scope; any bug invalidates affected results, not the market hypothesis.

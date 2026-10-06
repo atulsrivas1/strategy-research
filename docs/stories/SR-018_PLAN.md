@@ -1,32 +1,32 @@
-# SR-002 — Explain missing daily references and close conventions
+# SR-018 — Preserve deferred ETF descriptive research
 
-Parent: [E01](https://github.com/atulsrivas1/strategy-research/issues/8). Release plan: [M0](../releases/M0_PLAN.md). Backlog mapping: B-001. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **ready**.
+Parent: [E05](https://github.com/atulsrivas1/strategy-research/issues/12). Release plan: [M4](../releases/M4_PLAN.md). Backlog mapping: B-007. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **deferred**.
 
 ## Hypothesis and information value
 
-Source lineage can explain missing daily references and price-definition discrepancies before they distort outcomes.
+Expiry-linked activity may describe responses and missingness, without a forecast or profitable strategy claim.
 
-Expected information value: Very high: resolves anomalies comparable to the apparent signal effect. Effort: Small; provisional 3 complexity points; estimates describe planning complexity, not deadlines or velocity.
+Expected information value: Low current relevance because ETFs excluded. Effort: Small preservation; estimates describe planning complexity, not deadlines or velocity.
 
 ## Sources and prior lessons
 
-[EQ-001-P1](../../reports/EQ-001-P1.md), locally tested and inconclusive; L-016/DQ-002. Read linked source/lesson limitations before selecting work. Literature and imported reports are not local replication. See [source map](../sources/SOURCE_MAP.md).
+[Preserved lessons](../LEARNINGS.md), imported report claims not independently replayed; reported QQQ episodes not independently verified. Read linked source/lesson limitations before selecting work. Literature and imported reports are not local replication. See [source map](../sources/SOURCE_MAP.md).
 
 ## Dependencies and required data
 
 No story dependency; applicable access/review gate still applies.
 
-Existing derived/raw/curated references, clocks, corporate actions, identity and source definitions; source unchanged.
+Explicit owner decision to restore ETFs; qualified episode/expiry identities, sampling and labeling lineage.
 
 ## Baseline and experiment
 
-First missing dates for two affected stocks, adjacent available dates and one control; three largest input-only close discrepancies. Independent source/date/unit reconciliation; no signal tuning.
+Preserve proposed fixed stratified before/during/after case study with pooled response/missingness controls; include flat/failing cases.
 
-Trial/search budget: One bounded input audit; no market outcome replay.
+Trial/search budget: Archived proposal only; zero data queries or experiments.
 
 ## Acceptance and rejection
 
-Every examined case has evidenced semantics or an explicit unresolved gate. Implicated corrections pass boundary checks before a new replay. Unresolved source ambiguity blocks affected claims.
+No ETF work in this pass. On resumption require transparent denominators, reconciled identities and uncertainty; sparse/selected cohorts cannot support generalization. No profitability criterion for descriptive study.
 
 - [ ] Before execution, freeze exact mathematics/units/clocks, eligibility, dataset version and exposure, splits/purge, costs, metrics, quantitative thresholds and command in a versioned experiment specification. A feasibility or documentation story records why market-run fields do not apply.
 - [ ] Independent relevant checks establish the claimed scope; any bug invalidates affected results, not the market hypothesis.

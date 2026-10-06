@@ -1,32 +1,32 @@
-# SR-002 — Explain missing daily references and close conventions
+# SR-007 — Complete epic story and release planning
 
-Parent: [E01](https://github.com/atulsrivas1/strategy-research/issues/8). Release plan: [M0](../releases/M0_PLAN.md). Backlog mapping: B-001. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **ready**.
+Parent: [E01](https://github.com/atulsrivas1/strategy-research/issues/8). Release plan: [M0](../releases/M0_PLAN.md). Backlog mapping: C-002. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **blocked**.
 
 ## Hypothesis and information value
 
-Source lineage can explain missing daily references and price-definition discrepancies before they distort outcomes.
+A complete dependency and acceptance map prevents omitted work and false completion.
 
-Expected information value: Very high: resolves anomalies comparable to the apparent signal effect. Effort: Small; provisional 3 complexity points; estimates describe planning complexity, not deadlines or velocity.
+Expected information value: High: clarifies all remaining work. Effort: Small/medium; estimates describe planning complexity, not deadlines or velocity.
 
 ## Sources and prior lessons
 
-[EQ-001-P1](../../reports/EQ-001-P1.md), locally tested and inconclusive; L-016/DQ-002. Read linked source/lesson limitations before selecting work. Literature and imported reports are not local replication. See [source map](../sources/SOURCE_MAP.md).
+Owner direction to follow equity-features; [delivery policy](../DELIVERY_POLICY.md). Read linked source/lesson limitations before selecting work. Literature and imported reports are not local replication. See [source map](../sources/SOURCE_MAP.md).
 
 ## Dependencies and required data
 
 No story dependency; applicable access/review gate still applies.
 
-Existing derived/raw/curated references, clocks, corporate actions, identity and source definitions; source unchanged.
+Existing backlog, source-linked lessons and live GitHub planning records.
 
 ## Baseline and experiment
 
-First missing dates for two affected stocks, adjacent available dates and one control; three largest input-only close discrepancies. Independent source/date/unit reconciliation; no signal tuning.
+Map every B item to numbered scope; verify unique IDs, epics, milestones, plans, dependencies and public/private boundaries.
 
-Trial/search budget: One bounded input audit; no market outcome replay.
+Trial/search budget: One planning revision; zero experiments.
 
 ## Acceptance and rejection
 
-Every examined case has evidenced semantics or an explicit unresolved gate. Implicated corrections pass boundary checks before a new replay. Unresolved source ambiguity blocks affected claims.
+All backlog items represented once or with explicit bounded splits; release acceptance and documentation defined; semantic/link/privacy checks pass; actual separate final-head review and publication verification before Done.
 
 - [ ] Before execution, freeze exact mathematics/units/clocks, eligibility, dataset version and exposure, splits/purge, costs, metrics, quantitative thresholds and command in a versioned experiment specification. A feasibility or documentation story records why market-run fields do not apply.
 - [ ] Independent relevant checks establish the claimed scope; any bug invalidates affected results, not the market hypothesis.

@@ -1,32 +1,32 @@
-# SR-002 — Explain missing daily references and close conventions
+# SR-014 — Check predictor sample and decision feasibility
 
-Parent: [E01](https://github.com/atulsrivas1/strategy-research/issues/8). Release plan: [M0](../releases/M0_PLAN.md). Backlog mapping: B-001. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **ready**.
+Parent: [E02](https://github.com/atulsrivas1/strategy-research/issues/9). Release plan: [M1](../releases/M1_PLAN.md). Backlog mapping: B-012. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **exploratory**.
 
 ## Hypothesis and information value
 
-Source lineage can explain missing daily references and price-definition discrepancies before they distort outcomes.
+A predictor is useful only with independent support and changed economically meaningful decisions.
 
-Expected information value: Very high: resolves anomalies comparable to the apparent signal effect. Effort: Small; provisional 3 complexity points; estimates describe planning complexity, not deadlines or velocity.
+Expected information value: Low now; avoids expensive repeated failure. Effort: Small; estimates describe planning complexity, not deadlines or velocity.
 
 ## Sources and prior lessons
 
-[EQ-001-P1](../../reports/EQ-001-P1.md), locally tested and inconclusive; L-016/DQ-002. Read linked source/lesson limitations before selecting work. Literature and imported reports are not local replication. See [source map](../sources/SOURCE_MAP.md).
+[Preserved lessons](../LEARNINGS.md), imported report claims not independently replayed; L-001/L-002/L-003. Read linked source/lesson limitations before selecting work. Literature and imported reports are not local replication. See [source map](../sources/SOURCE_MAP.md).
 
 ## Dependencies and required data
 
-No story dependency; applicable access/review gate still applies.
+[SR-003](https://github.com/atulsrivas1/strategy-research/issues/3), [SR-010](https://github.com/atulsrivas1/strategy-research/issues/16)
 
-Existing derived/raw/curated references, clocks, corporate actions, identity and source definitions; source unchanged.
+Unique episode counts, feature availability and decision diversity; documented changed mechanism before retry; old forecasts remain development.
 
 ## Baseline and experiment
 
-First missing dates for two affected stocks, adjacent available dates and one control; three largest input-only close discrepancies. Independent source/date/unit reconciliation; no signal tuning.
+Feasibility/counts first; compare proposed decision reach to constant-policy baseline. Do not fit a model in this story.
 
-Trial/search budget: One bounded input audit; no market outcome replay.
+Trial/search budget: One feasibility audit, zero model fits/search.
 
 ## Acceptance and rejection
 
-Every examined case has evidenced semantics or an explicit unresolved gate. Implicated corrections pass boundary checks before a new replay. Unresolved source ambiguity blocks affected claims.
+Insufficient independent support or identical reachable decisions stops modeling. Future model story requires power/precision rationale, fixed features, chronological calibration and incremental economic criterion. Probability-score improvement alone is insufficient.
 
 - [ ] Before execution, freeze exact mathematics/units/clocks, eligibility, dataset version and exposure, splits/purge, costs, metrics, quantitative thresholds and command in a versioned experiment specification. A feasibility or documentation story records why market-run fields do not apply.
 - [ ] Independent relevant checks establish the claimed scope; any bug invalidates affected results, not the market hypothesis.
