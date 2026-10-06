@@ -1,3 +1,7 @@
+# Current Gate 4 continuation — merged source, retrospective review pending
+
+[Post-merge reconciliation](../reports/M0-post-merge-review.md): PR30/31 owner-merged, main e3ee3ed tree equals prepared head2cc64c4; 58 blobs and main CI verified. No actual hosted review response; GitHub/web-flow merge committer is a disclosed attribution exception. Highest priority remains explicitly scoped integrated-M0 review, findings disposition, acceptance reconciliation and verified evidence release. Earlier rankings/status snapshots below remain historical; no Done/M1/market/holdout/confirmation result or release.
+
 # Current qualification and delivery state
 
 [Restricted M0 evidence](../reports/M0-qualification.md) supersedes older prerequisite snapshots below. Gates 1–3 qualified under owner-approved fixed 18-stock exploratory daily simulation: original input bytes unchanged, real-history/library/actual-date adapter checks bounded, exposed chronology and disabled final protection explicit. No market/holdout rerun, profitability or release. Broad historical source adoption deferred; source claims and imported paper findings remain unreplicated where stated. Final-head hosted Codex review, checks and exact delivery pending in PR31, which incorporates PR30's safeguards. See [receipt](releases/M0_RECEIPT.md); live Project4 remains lifecycle authority.

@@ -1,3 +1,9 @@
+# Current post-merge state — review and release pending
+
+Owner merged PR30/31; integrated main e3ee3ed matches all 58 prepared PR31 source blobs and main CI passes. [Reconciliation](../../reports/M0-post-merge-review.md) records missing hosted review and the GitHub/web-flow merge-committer exception. M0 remains partial/not released. Retrospective review must explicitly cover the integrated M0 implementation plus current amendment; a review of status wording alone is insufficient. No history rewrite, release/Done or new strategy/holdout result. Earlier preparation receipt below is historical.
+
+## Preserved preparation receipt
+
 # M0 delivery preparation receipt — not released
 
 Required assigned stories remain SR-001/002/006/007/008/009/010/019. [Restricted qualification report](../../reports/M0-qualification.md) records the owner-approved scope amendment and bounded scientific Gates 1–3. Broad historical universe/cap/raw/action adoption remains deferred under SR-008; final confirmation remains blocked for M2. This receipt supersedes earlier no-de-scope wording preserved in Git history; original data/pilot/failures stay unchanged.
