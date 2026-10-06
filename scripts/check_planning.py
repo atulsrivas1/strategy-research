@@ -6,7 +6,7 @@ ROOT=Path(__file__).resolve().parents[1]
 ALLOW_ROOT={'README.md','AGENTS.md','.gitignore'}
 ALLOW_DOCS={'WORKFLOW.md','BACKLOG.md','RESEARCH_INDEX.md','ROADMAP.md','DELIVERY_POLICY.md','RESEARCH_BRIEF.md','LEARNINGS.md','CODE_REVIEW.md','PROJECT_KNOWLEDGE.md','DATA_CONTRACT.md','VALIDATION_PLAN.md','SESSION_HANDOFF.md','DASHBOARD.md','STORY_TEMPLATE.md'}
 ALLOW_OTHER={'.github/PULL_REQUEST_TEMPLATE.md','.github/workflows/planning.yml','scripts/check_planning.py','docs/sources/SOURCE_MAP.md','docs/knowledge/BACKLOG_WORKFLOW.md','reports/EQ-001-P1.md','reports/M0-qualification.md','fixtures/reference_machinery.py','scripts/check_reference_fixtures.py','docs/releases/M0_RECEIPT.md'}
-allowed=ALLOW_ROOT|{'docs/'+p for p in ALLOW_DOCS}|ALLOW_OTHER|{f'docs/stories/SR-{i:03}_PLAN.md' for i in range(1,22)}|{f'docs/releases/M{i}_PLAN.md' for i in range(5)}
+allowed=ALLOW_ROOT|{'docs/'+p for p in ALLOW_DOCS}|ALLOW_OTHER|{f'docs/stories/SR-{i:03}_PLAN.md' for i in range(1,22)}|{f'docs/releases/M{i}_PLAN.md' for i in range(5)}|{'docs/releases/M0_HANDOFF.md'}
 tracked={p.relative_to(ROOT).as_posix() for p in ROOT.rglob('*') if p.is_file() and '.git' not in p.relative_to(ROOT).parts and '__pycache__' not in p.relative_to(ROOT).parts}
 assert tracked==allowed, f'Unexpected/missing publication files: {sorted(tracked^allowed)}'
 links=0
