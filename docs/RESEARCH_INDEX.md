@@ -11,3 +11,5 @@
 | [Handoff](SESSION_HANDOFF.md) | SR-002 next Ready; planning/reviewer acceptance pending |
 
 Add every executed experiment version, variant, invalid/failed run and scoped verdict when it exists. Detailed private manifests/commands/ledgers preserve reproducibility; public summaries cannot independently certify them. No new market experiment, fresh holdout, profitable/robust/replicated strategy or hosted-review completion claimed.
+
+M0 receiving-session evidence: [partial qualification](../reports/M0-qualification.md), [partial receipt](releases/M0_RECEIPT.md). Bounded checks pass; full data/engine/confirmation/review gates remain explicit. No released M0 or new strategy result. Current lifecycle is in Project4.

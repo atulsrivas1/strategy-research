@@ -5,3 +5,5 @@ Start with [brief](RESEARCH_BRIEF.md), [workflow](WORKFLOW.md), [ranked backlog]
 Architecture: data access/normalization is separate from pure calculations, signals, labels and simulation/accounting. Existing derived features need known-at/schema/identity/source qualification. Exact accepted equity-features package version and adapter parity are SR-019; no library adoption claimed merely from inspection. The pilot remains its original producer/version.
 
 Detailed private records are the authority for data provenance, commands, logs, exposures and all variants. Public artifacts are sanitized methodology/aggregates and cannot by themselves reproduce the private market runs. Source report findings and externally published mechanisms remain separate from independently tested results. No profitable strategy or fresh holdout result is established.
+
+M0 receiving-session evidence: [partial qualification](../reports/M0-qualification.md), [partial receipt](releases/M0_RECEIPT.md). Bounded checks pass; full data/engine/confirmation/review gates remain explicit. No released M0 or new strategy result. Current lifecycle is in Project4.

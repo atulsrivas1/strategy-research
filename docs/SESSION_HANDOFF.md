@@ -7,3 +7,5 @@ Next Ready research question: SR-002 missing daily references and close conventi
 EQ-001-P1 is locally completed/inconclusive; bar-proxy evidence, not funded/executable profits. Imported prior failures are retained and not independently replayed. All own planning commands finish synchronously; no backtest worker or recurring schedule started. No live orders/purchases/library job changes.
 
 Resume: inspect live Project, PR7 actual review/head coverage and planning checks. Resolve findings and verify merged source before planning Done. Then read SR-002 plan and private source rules; preserve all commands/failed runs and publish sanitized findings. Do not rerun initial GitHub setup scripts or create duplicate IDs. Data audits may proceed privately within authorized scope without fabricating public-review completion.
+
+M0 receiving-session evidence: [partial qualification](../reports/M0-qualification.md), [partial receipt](releases/M0_RECEIPT.md). Bounded checks pass; full data/engine/confirmation/review gates remain explicit. No released M0 or new strategy result. Current lifecycle is in Project4.
