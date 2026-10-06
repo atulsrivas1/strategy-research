@@ -1,0 +1,40 @@
+# SR-019 — Verify equity-features version and adapter parity
+
+Parent: [E01](https://github.com/atulsrivas1/strategy-research/issues/8). Release plan: [M0](../releases/M0_PLAN.md). Backlog mapping: B-003. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **blocked**.
+
+## Hypothesis and information value
+
+An accepted calculation-library version can replace research calculations only after mathematical and adapter parity is demonstrated.
+
+Expected information value: High reuse confidence; not prerequisite to every private audit. Effort: Small/medium; estimates describe planning complexity, not deadlines or velocity.
+
+## Sources and prior lessons
+
+[equity-features](https://github.com/atulsrivas1/equity-features); pilot provenance and L-009/L-012. Read linked source/lesson limitations before selecting work. Literature and imported reports are not local replication. See [source map](../sources/SOURCE_MAP.md).
+
+## Dependencies and required data
+
+[SR-002](https://github.com/atulsrivas1/strategy-research/issues/2), [SR-009](https://github.com/atulsrivas1/strategy-research/issues/15)
+
+Exact released/accepted library version, public contracts and synthetic fixtures; reference field/availability semantics. Source project ownership unchanged.
+
+## Baseline and experiment
+
+Compare independently expected synthetic cases and current qualified adapter outputs with installed package outputs; record version/hash and tolerances.
+
+Trial/search budget: One accepted version and bounded fixture/sample comparison, no library feature implementation.
+
+## Acceptance and rejection
+
+Exact clock/category identity and declared numeric parity; unsupported APIs or unavailable accepted distribution block adoption. Pilot is not retroactively relabeled as library-generated. Do not build or take over library release work here.
+
+- [ ] Before execution, freeze exact mathematics/units/clocks, eligibility, dataset version and exposure, splits/purge, costs, metrics, quantitative thresholds and command in a versioned experiment specification. A feasibility or documentation story records why market-run fields do not apply.
+- [ ] Independent relevant checks establish the claimed scope; any bug invalidates affected results, not the market hypothesis.
+- [ ] Save all variants, failed runs, exclusions, amendments, exact commands/manifests and uncertainty; publish only sanitized methodology/aggregates.
+- [ ] Deliver the scoped verdict and limitations, including rejected/inconclusive/no-change findings; do not require a positive strategy to complete research.
+- [ ] Update applicable report/source notes, lessons, index, backlog dependencies and handoff in the same story.
+- [ ] Separate completed Codex review covers final head; findings resolved/dispositioned, relevant checks pass, declared deliverable published and actual source/artifacts verified before Done.
+
+## Deliverables and resume
+
+Public plan, applicable sanitized result or feasibility/decision report, evidence index and delivery receipt. Detailed commands, manifests, logs, ledgers and original source provenance remain in the private evidence store. Do not fabricate a run command before implementation. Select dependency-satisfied work from the ranked backlog; no experiment starts merely because this plan exists.
