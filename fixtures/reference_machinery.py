@@ -48,5 +48,5 @@ class Account:
         if type(cents_per_share) is not int or cents_per_share<0:raise ValueError('units')
         self.cash+=self.positions[key]*cents_per_share
     def equity(self,marks):
-        if any(k not in marks or marks[k] is None for k in self.positions):return None
+        if any(k not in marks or type(marks[k]) is not int or marks[k]<=0 for k in self.positions):return None
         return self.cash+sum(q*marks[k] for k,q in self.positions.items())

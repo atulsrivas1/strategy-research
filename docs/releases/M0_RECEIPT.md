@@ -9,3 +9,5 @@ Accepted experimental library source39d153588fc30d61d381c22e4cdcd9cbee47cc34, pa
 Remaining acceptance gates: current actual Codex final-head review/findings disposition, historically available complete security/universe/actions and raw-price proof, full engine/source adapter integration and certified untouched/prospective chronology. No user-approved de-scope of mandatory M0 exists. Scientific diagnostics/synthetic correctness are separate from delivery/release status. Stop before M1, calls, protected outcomes or source-owner job changes.
 
 Concrete review blocker: settings are reachable but the target public repository is absent from exact repository search in the available connection. Owner connection/review configuration is required before a hosted response can be qualified.
+
+Current publication reconciliation: PR29 was owner-merged at 2026-10-06T02:02:02Z, main e9b71b3. Earlier draft references above are historical. No completed hosted review is evidenced. PR31 includes the SR-009-F2 synthetic invalid-mark correction; release remains partial and mandatory source/integration/chronology/review gates remain open.

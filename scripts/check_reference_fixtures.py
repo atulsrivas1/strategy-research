@@ -37,6 +37,8 @@ def main():
  check('fill_cash',a.cash==79900 and a.positions=={'A':2} and not a.reservations)
  check('duplicate_position',rejects(lambda:a.reserve('A',1,10000,100)))
  check('unknown_mark',a.equity({'A':None}) is None)
+ for label,mark in [('nan',float('nan')),('positive_infinity',float('inf')),('negative_infinity',float('-inf')),('zero',0),('negative',-10000),('fractional_cent',10000.5),('boolean',True),('string','10000'),('complex',complex(10000,0))]:
+  check('invalid_mark_'+label,a.equity({'A':mark}) is None)
  check('mark_equity',a.equity({'A':11000})==101900)
  a.sell('A',11000,100);check('roundtrip_cash',a.cash==101800 and not a.positions)
  a=Account(100000);a.reserve('A',2,10000,0);a.fill('A',2,10000,0);a.dividend('A',100)

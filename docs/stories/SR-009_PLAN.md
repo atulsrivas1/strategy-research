@@ -40,3 +40,5 @@ Exact timestamps/categories and declared numeric tolerances; future-input pertur
 Public plan, applicable sanitized result or feasibility/decision report, evidence index and delivery receipt. Detailed commands, manifests, logs, ledgers and original source provenance remain in the private evidence store. Do not fabricate a run command before implementation. Select dependency-satisfied work from the ranked backlog; no experiment starts merely because this plan exists.
 
 Bounded execution/feasibility evidence: [M0 report](../../reports/M0-qualification.md). Full story acceptance and public delivery remain partial; no approved scope deletion or Done.
+
+Coordinator acceptance correction: reject nonfinite, nonpositive and non-integer-cent marks before synthetic equity calculation; retain original fixture evidence and add nine independent invalid-mark cases. Passing corrected reference tests does not certify integration or market data.
