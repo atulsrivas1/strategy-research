@@ -2,6 +2,8 @@
 
 Status: planned evidence release, not published. No date/version promise. Qualified inputs, independent machinery and complete reviewed research delivery foundation.
 
+Execution assignment: [M0 release handoff](M0_HANDOFF.md). One separate session owns the bounded release and pulls its dependency-ready stories; later release sessions are assigned after qualification. Preparing/dispatching the handoff is not a release acceptance or published release.
+
 ## Scope and dependencies
 
 - [SR-001](https://github.com/atulsrivas1/strategy-research/issues/1) — Adopt evidence-gated public research delivery
