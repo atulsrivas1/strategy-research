@@ -1,3 +1,7 @@
+# Current Gate 4 continuation — merged source, retrospective review pending
+
+[Post-merge reconciliation](../reports/M0-post-merge-review.md): PR30/31 owner-merged, main e3ee3ed tree equals prepared head2cc64c4; 58 blobs and main CI verified. No actual hosted review response; GitHub/web-flow merge committer is a disclosed attribution exception. Highest priority remains explicitly scoped integrated-M0 review, findings disposition, acceptance reconciliation and verified evidence release. Earlier rankings/status snapshots below remain historical; no Done/M1/market/holdout/confirmation result or release.
+
 # Current ranked M0 work
 
 1. Final-head reviewed delivery of [restricted qualification](../reports/M0-qualification.md): Ready to prepare, blocked for release until actual hosted review/check/publication acceptance. Highest remaining M0 uncertainty; no repeated source scan.
