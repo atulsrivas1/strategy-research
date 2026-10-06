@@ -40,3 +40,5 @@ SR-001 foundation delivered; EQ-001-P1 locally completed/inconclusive, not promo
 ## Maintenance
 
 After every run record all variants/failures and exposure, update scoped lessons and dependencies, rerank by uncertainty resolved/relevance/feasibility and select the next best Ready question. Numerical thresholds/splits not yet specified block execution rather than being invented after outcomes. See [knowledge workflow](knowledge/BACKLOG_WORKFLOW.md).
+
+SR-002 diagnostic evidence is available; see [report](../reports/SR-002-input-audit.md). SR-008 universe feasibility and SR-009 synthetic checks follow bounded semantics; market replay and action/universe adoption remain gated.
