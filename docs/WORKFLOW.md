@@ -24,3 +24,7 @@ Preserve all runs/variants/failures and original provenance. A bug invalidates e
 Each story delivers complete relevant source/method/report documentation, commands/manifests privately, scoped interpretation, lessons and next question. Publish sanitized aggregates/methodology and synthetic/expressly licensed fixtures only. No private data, detailed proprietary ledgers, raw chats, secrets or internal paths. Live trading, paid purchases and brokerage changes require separate direction.
 
 Read [Codex review policy](CODE_REVIEW.md) and [release checklists](ROADMAP.md). Planning records do not start experiments, publish releases or configure recurring work.
+
+## Fixed research interfaces and evidence access
+
+User-approved [AQuA-derived safeguards](sources/AQUA.md) refine SR-009/010/019: qualify operator temporal footprints with independent prefix/future-perturbation fixtures, freeze evaluator/data/label identities within comparisons, expose only declared candidate changes, and retain complete trial and holdout-access records. AI review supplements these checks. Passing fixtures is implementation evidence, not alpha or full data certification. Version protocol changes before execution; prior failed/invalid variants remain visible. SR-014 remains feasibility-only with zero model fits.

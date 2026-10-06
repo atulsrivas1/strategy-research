@@ -1,6 +1,6 @@
 # SR-008 — Qualify historical stock universe and corporate actions
 
-Parent: [E01](https://github.com/atulsrivas1/strategy-research/issues/8). Release plan: [M0](../releases/M0_PLAN.md). Backlog mapping: B-001. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **blocked**.
+Parent: [E01](https://github.com/atulsrivas1/strategy-research/issues/8). Release plan: [M0](../releases/M0_PLAN.md). Backlog mapping: B-001. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **bounded qualification prepared; review/delivery pending**.
 
 ## Hypothesis and information value
 
@@ -40,3 +40,7 @@ Selection uses past-only facts; delisted/renamed and excluded names documented; 
 Public plan, applicable sanitized result or feasibility/decision report, evidence index and delivery receipt. Detailed commands, manifests, logs, ledgers and original source provenance remain in the private evidence store. Do not fabricate a run command before implementation. Select dependency-satisfied work from the ranked backlog; no experiment starts merely because this plan exists.
 
 Bounded execution/feasibility evidence: [M0 report](../../reports/M0-qualification.md). Full story acceptance and public delivery remain partial; no approved scope deletion or Done.
+
+## Owner-approved restricted M0 acceptance amendment
+
+[Restricted evidence and exact limits](../../reports/M0-qualification.md) qualify this story only for its applicable bounded daily simulation/feasibility deliverable. Broader historical source adoption remains deferred under SR-008; unused final confirmation is a later M2 dependency, not an M0 outcome evaluation. Original specifications/results/failures are retained. This is an explicit approved scope amendment, not silently completed original broad acceptance. Actual final-head hosted review, relevant checks and verified publication are required before lifecycle completion; Project4 remains status authority. No new market trial or source/library job.

@@ -14,3 +14,4 @@ jobs:
           python-version: '3.12'
       - run: python scripts/check_planning.py
       - run: python scripts/check_reference_fixtures.py
+      - run: python scripts/check_chronology.py

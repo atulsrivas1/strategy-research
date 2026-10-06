@@ -1,3 +1,10 @@
+# Current qualification and delivery state
+
+[Restricted M0 evidence](../reports/M0-qualification.md) supersedes older prerequisite snapshots below. Gates 1–3 qualified under owner-approved fixed 18-stock exploratory daily simulation: original input bytes unchanged, real-history/library/actual-date adapter checks bounded, exposed chronology and disabled final protection explicit. No market/holdout rerun, profitability or release. Broad historical source adoption deferred; source claims and imported paper findings remain unreplicated where stated. Final-head hosted Codex review, checks and exact delivery pending in PR31, which incorporates PR30's safeguards. See [receipt](releases/M0_RECEIPT.md); live Project4 remains lifecycle authority.
+
+
+## Preserved earlier record
+
 # Research brief and decision ownership
 
 Settled: United States individual stocks; liquid large/mid-cap, long shares first and bought calls later; 2–10-session holding scope and +2–3% movement over a few sessions as descriptive target. ETFs excluded this pass. Downward-move analysis is for avoidance, not short selling/puts. Existing raw/curated/derived stock and option data/features/contexts are available privately; source causal calculation is owner-reported and must be independently qualified where claims require it.

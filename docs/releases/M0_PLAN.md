@@ -1,3 +1,10 @@
+## Current owner-approved restricted M0 contract
+
+[Final qualification report](../../reports/M0-qualification.md): scientific Gates 1–3 qualified within a disclosed 18-stock daily simulation, not representative historical cap/security adoption, actual latency/fills or fresh confirmation. AMD/NFLX excluded throughout for unresolved adjustments without replacement; earlier source audits/failures retained. Historical broader adoption remains deferred under SR-008 and independent final evidence under M2. Current M0 is not released: actual final-head hosted review, checks and verified delivery still required. No new market/holdout trial.
+
+
+## Preserved earlier record
+
 # M0 — Reliable stock inputs
 
 Status: planned evidence release, not published. No date/version promise. Qualified inputs, independent machinery and complete reviewed research delivery foundation.
@@ -32,3 +39,7 @@ Release ordering: M0 qualified foundation; M1 fixed stock development; M2 credib
 ## Declared channel and receipt
 
 Public GitHub documentation/aggregate evidence snapshot plus private reproducibility records. A milestone, issue, PR or draft checklist is not a published release. Create the actual tag/GitHub release only after readiness; no empty release now. Receipt must name exact source SHA/tag, reviewer response and reviewed head, check URLs, artifact hashes, included stories, scientific verdicts/limitations and post-publication verification. No package or trading-system deployment is implied.
+
+## AQuA acceptance addendum
+
+[Source assessment](../sources/AQUA.md): SR-009/010/019 acceptance now explicitly covers temporal footprints, fixed evaluator/configuration boundaries, complete trial records and holdout-access audit. Existing selected stories, dependency gates and release scope remain unchanged; no new release or experiment is claimed.

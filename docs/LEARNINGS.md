@@ -1,3 +1,10 @@
+# Latest scoped qualification lessons
+
+[M0 report](../reports/M0-qualification.md): event/receive/ingest aliases require an explicit simulation availability model; future/prefix invariance plus independent expectations qualify only used operators. Shared historical features and exposed validation remain dependent/adaptive despite purge/embargo. A missing future label is censoring, not an ex-ante trade filter. Retrospective whole-symbol quality exclusions and broad-source gaps must stay disclosed. Original failed/inconclusive experiments and imported unreplicated claims remain preserved. Private check counts do not replace hosted final-head review.
+
+
+## Preserved earlier record
+
 # Scoped lessons and unsuccessful approaches
 
 ## Independently tested in this project
@@ -24,5 +31,11 @@ These old ETF studies remain source evidence, not permission to run ETFs now. Ne
 After each experiment add evidence/version links, universe/horizon/period, costs/execution, uncertainty, supporting/contradicting findings, action and revisit conditions. Retain invalid, rejected and inconclusive runs and superseded records. Documentation/governance corrections are not empirical market lessons.
 
 M0 receiving-session evidence: [partial qualification](../reports/M0-qualification.md), [partial receipt](releases/M0_RECEIPT.md). Bounded checks pass; full data/engine/confirmation/review gates remain explicit. No released M0 or new strategy result. Current lifecycle is in Project4.
+
+DQ-003 — bounded input audit: retained adjustment safeguards deliberately suppress rolling references after discontinuities; daily and finalized last-trade closes have distinct contracts. Missing remains unavailable. [Evidence and limits](../reports/SR-002-input-audit.md). No source repair or strategy conclusion.
+
+## METH-AQUA-01 — reported temporal-leakage failure
+
+[AQuA Appendix B, p. 23](sources/AQUA.md) reports that current-day final-volume normalization and full-day aggregation leaked future intraday data despite AI review. This is source-reported evidence, not a locally reproduced defect or performance result. Action: independently check actual input/fit windows with prefix and future-perturbation fixtures in SR-009/019, and preserve invalid runs. Fixed interfaces still depend on qualified primitives and availability timestamps; holdout isolation requires an access audit in SR-010. Applicability to our features remains to be tested.
 
 DQ-003 — bounded input audit: retained adjustment safeguards deliberately suppress rolling references after discontinuities; daily and finalized last-trade closes have distinct contracts. Missing remains unavailable. [Evidence and limits](../reports/SR-002-input-audit.md). No source repair or strategy conclusion.

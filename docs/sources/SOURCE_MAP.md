@@ -13,3 +13,5 @@ Prior literature was read in targeted sections during the private research prepa
 | [equity-features workflow](https://github.com/atulsrivas1/equity-features/blob/main/docs/DELIVERY_POLICY.md) | Repository rules, release/story/epic structure inspected locally | Delivery model only; library release/version/math claims separately qualify in SR-019 |
 
 [EQ-001-P1](../../reports/EQ-001-P1.md) is local exploratory proxy evidence. [Imported lessons](../LEARNINGS.md) are report-reviewed private-source findings; original sources/versions/failures remain privately linked and are not published as raw chats or proprietary ledgers. Public summaries do not permit independent reproduction of private data; disclose this limitation rather than imply it.
+
+New reading: [SRC-017 AQuA](AQUA.md), with page coverage, author-reported results/failure, applicability and limitations; no local performance reproduction.

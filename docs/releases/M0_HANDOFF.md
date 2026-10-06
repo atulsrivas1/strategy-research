@@ -1,3 +1,10 @@
+## Current owner-approved restricted M0 contract
+
+[Final qualification report](../../reports/M0-qualification.md): scientific Gates 1–3 qualified within a disclosed 18-stock daily simulation, not representative historical cap/security adoption, actual latency/fills or fresh confirmation. AMD/NFLX excluded throughout for unresolved adjustments without replacement; earlier source audits/failures retained. Historical broader adoption remains deferred under SR-008 and independent final evidence under M2. Current M0 is not released: actual final-head hosted review, checks and verified delivery still required. No new market/holdout trial.
+
+
+## Preserved earlier record
+
 # M0 execution handoff — Reliable stock inputs
 
 Owner directed release-based execution: select stories, prepare a bounded handoff and assign one new session per dependency-ready release. This is the first release assignment, not publication/acceptance evidence. [M0 plan](M0_PLAN.md), [epic E01](https://github.com/atulsrivas1/strategy-research/issues/8), [milestone](https://github.com/atulsrivas1/strategy-research/milestone/1), [live Project](https://github.com/users/atulsrivas1/projects/4).

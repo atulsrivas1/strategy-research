@@ -1,3 +1,10 @@
+# Current qualification and delivery state
+
+[Restricted M0 evidence](../reports/M0-qualification.md) supersedes older prerequisite snapshots below. Gates 1–3 qualified under owner-approved fixed 18-stock exploratory daily simulation: original input bytes unchanged, real-history/library/actual-date adapter checks bounded, exposed chronology and disabled final protection explicit. No market/holdout rerun, profitability or release. Broad historical source adoption deferred; source claims and imported paper findings remain unreplicated where stated. Final-head hosted Codex review, checks and exact delivery pending in PR31, which incorporates PR30's safeguards. See [receipt](releases/M0_RECEIPT.md); live Project4 remains lifecycle authority.
+
+
+## Preserved earlier record
+
 # Required data and availability contract
 
 SR-002/008/010/015 populate actual evidence; this is a checklist, not certification. Existing raw/curated/derived stock/option features and contexts are accessible privately. No new acquisition or producer rebuild is assumed.

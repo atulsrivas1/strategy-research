@@ -1,6 +1,6 @@
 # SR-009 — Verify causal simulation and accounting fixtures
 
-Parent: [E01](https://github.com/atulsrivas1/strategy-research/issues/8). Release plan: [M0](../releases/M0_PLAN.md). Backlog mapping: B-003. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **blocked**.
+Parent: [E01](https://github.com/atulsrivas1/strategy-research/issues/8). Release plan: [M0](../releases/M0_PLAN.md). Backlog mapping: B-003. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **bounded qualification prepared; review/delivery pending**.
 
 ## Hypothesis and information value
 
@@ -42,3 +42,11 @@ Public plan, applicable sanitized result or feasibility/decision report, evidenc
 Bounded execution/feasibility evidence: [M0 report](../../reports/M0-qualification.md). Full story acceptance and public delivery remain partial; no approved scope deletion or Done.
 
 Coordinator acceptance correction: reject nonfinite, nonpositive and non-integer-cent marks before synthetic equity calculation; retain original fixture evidence and add nine independent invalid-mark cases. Passing corrected reference tests does not certify integration or market data.
+
+### AQuA-informed acceptance amendment
+
+Source: [AQuA assessment](../sources/AQUA.md), Appendix B (p. 23); author-reported failure, not a defect established in our inputs. Add bounded synthetic prefix-invariance and future-perturbation cases for each registered feature family used by the next experiment. Compare output at decision time t from full history with output from inputs available at t only; perturb later bars and require prior outputs/decisions to stay unchanged at predeclared tolerances. Include current-day volume denominators, daily-to-intraday aggregation, multi-resolution branches, preprocessing fit windows and revised-source availability. Later-bar invariance alone cannot certify source arrival timing or corporate-action revisions. Preserve any failing fixtures and invalidate affected outputs before replay. No market outcomes or full producer rebuild is required for these checks.
+
+## Owner-approved restricted M0 acceptance amendment
+
+[Restricted evidence and exact limits](../../reports/M0-qualification.md) qualify this story only for its applicable bounded daily simulation/feasibility deliverable. Broader historical source adoption remains deferred under SR-008; unused final confirmation is a later M2 dependency, not an M0 outcome evaluation. Original specifications/results/failures are retained. This is an explicit approved scope amendment, not silently completed original broad acceptance. Actual final-head hosted review, relevant checks and verified publication are required before lifecycle completion; Project4 remains status authority. No new market trial or source/library job.
