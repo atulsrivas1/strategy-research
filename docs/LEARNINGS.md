@@ -22,3 +22,7 @@ Original source reports and private provenance are retained in the private evide
 These old ETF studies remain source evidence, not permission to run ETFs now. Negative results reject tested scope, not universal market laws. No source claim establishes profitable/robust/replicated strategy performance here.
 
 After each experiment add evidence/version links, universe/horizon/period, costs/execution, uncertainty, supporting/contradicting findings, action and revisit conditions. Retain invalid, rejected and inconclusive runs and superseded records. Documentation/governance corrections are not empirical market lessons.
+
+## METH-AQUA-01 — reported temporal-leakage failure
+
+[AQuA Appendix B, p. 23](sources/AQUA.md) reports that current-day final-volume normalization and full-day aggregation leaked future intraday data despite AI review. This is source-reported evidence, not a locally reproduced defect or performance result. Action: independently check actual input/fit windows with prefix and future-perturbation fixtures in SR-009/019, and preserve invalid runs. Fixed interfaces still depend on qualified primitives and availability timestamps; holdout isolation requires an access audit in SR-010. Applicability to our features remains to be tested.

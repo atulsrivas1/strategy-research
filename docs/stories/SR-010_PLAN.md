@@ -38,3 +38,7 @@ Exact splits/search budget fixed before outcome access; previously examined wind
 ## Deliverables and resume
 
 Public plan, applicable sanitized result or feasibility/decision report, evidence index and delivery receipt. Detailed commands, manifests, logs, ledgers and original source provenance remain in the private evidence store. Do not fabricate a run command before implementation. Select dependency-satisfied work from the ranked backlog; no experiment starts merely because this plan exists.
+
+### AQuA-informed acceptance amendment
+
+Source: [AQuA assessment](../sources/AQUA.md), sections 3.1 and 7. Version/hash the evaluator, split/label/preprocessing contracts, operator registry and candidate configuration; declare which components may change and which remain fixed within a comparison. Record every proposed/executed variant, failed run, sign reversal and selection score. Validation feedback is development exposure. Keep a final-holdout access log (who/process, timestamp, dataset version, purpose and feedback disclosed); unauthorized or adaptive exposure removes its untouched designation. Where feasible restrict outcome access technically; documented isolation is not a hard guarantee. A boundary test must reject candidate attempts to alter sealed contracts without an explicit versioned protocol amendment. No holdout scoring or large sandbox platform build is authorized by this addition.

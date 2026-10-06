@@ -11,3 +11,7 @@
 | [Handoff](SESSION_HANDOFF.md) | SR-002 next Ready; planning/reviewer acceptance pending |
 
 Add every executed experiment version, variant, invalid/failed run and scoped verdict when it exists. Detailed private manifests/commands/ledgers preserve reproducibility; public summaries cannot independently certify them. No new market experiment, fresh holdout, profitable/robust/replicated strategy or hosted-review completion claimed.
+
+## New literature and acceptance amendment
+
+[SRC-017: AQuA](sources/AQUA.md): reported methods/failure/performance with reading coverage and reproducibility limits. Existing SR-009/010/014/019 plans amended; E01/E02 and M0/M1 unchanged. No local reproduction, new market experiment or holdout access claimed.

@@ -7,3 +7,7 @@ Next Ready research question: SR-002 missing daily references and close conventi
 EQ-001-P1 is locally completed/inconclusive; bar-proxy evidence, not funded/executable profits. Imported prior failures are retained and not independently replayed. All own planning commands finish synchronously; no backtest worker or recurring schedule started. No live orders/purchases/library job changes.
 
 Resume: inspect live Project, PR7 actual review/head coverage and planning checks. Resolve findings and verify merged source before planning Done. Then read SR-002 plan and private source rules; preserve all commands/failed runs and publish sanitized findings. Do not rerun initial GitHub setup scripts or create duplicate IDs. Data audits may proceed privately within authorized scope without fabricating public-review completion.
+
+## AQuA planning addendum
+
+User approved incorporating [SRC-017 safeguards](sources/AQUA.md). Read amended SR-009/010/019 acceptance before selecting their work; SR-014 remains zero-fit feasibility. No new epic/story or experiment; existing M0 execution ownership continues. Treat any adopted change to an already frozen protocol as a versioned pre-execution amendment, preserving original evidence. Earlier status snapshots above do not replace the live Project. Public amendments require completed final-head Codex review and relevant checks before merge/Done.

@@ -38,3 +38,7 @@ Exact clock/category identity and declared numeric parity; unsupported APIs or u
 ## Deliverables and resume
 
 Public plan, applicable sanitized result or feasibility/decision report, evidence index and delivery receipt. Detailed commands, manifests, logs, ledgers and original source provenance remain in the private evidence store. Do not fabricate a run command before implementation. Select dependency-satisfied work from the ranked backlog; no experiment starts merely because this plan exists.
+
+### AQuA-informed acceptance amendment
+
+Source: [AQuA assessment](../sources/AQUA.md), sections 3.1/7 and Appendix B. For the exact accepted package version, inventory the feature/operator temporal footprint, fit/normalization windows and source availability contracts used here. Reuse SR-009's independent prefix/perturbation fixtures against both adapter and installed package; a causal-looking name or matching pair of implementations is insufficient without independent expected outputs. Record unsupported operations as blockers; do not claim a causal-by-construction guarantee without qualifying each used primitive and its input timestamps. No changes to the separately owned library or its release jobs are authorized by this amendment.

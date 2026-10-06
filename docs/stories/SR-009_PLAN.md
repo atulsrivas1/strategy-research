@@ -38,3 +38,7 @@ Exact timestamps/categories and declared numeric tolerances; future-input pertur
 ## Deliverables and resume
 
 Public plan, applicable sanitized result or feasibility/decision report, evidence index and delivery receipt. Detailed commands, manifests, logs, ledgers and original source provenance remain in the private evidence store. Do not fabricate a run command before implementation. Select dependency-satisfied work from the ranked backlog; no experiment starts merely because this plan exists.
+
+### AQuA-informed acceptance amendment
+
+Source: [AQuA assessment](../sources/AQUA.md), Appendix B (p. 23); author-reported failure, not a defect established in our inputs. Add bounded synthetic prefix-invariance and future-perturbation cases for each registered feature family used by the next experiment. Compare output at decision time t from full history with output from inputs available at t only; perturb later bars and require prior outputs/decisions to stay unchanged at predeclared tolerances. Include current-day volume denominators, daily-to-intraday aggregation, multi-resolution branches, preprocessing fit windows and revised-source availability. Later-bar invariance alone cannot certify source arrival timing or corporate-action revisions. Preserve any failing fixtures and invalidate affected outputs before replay. No market outcomes or full producer rebuild is required for these checks.
