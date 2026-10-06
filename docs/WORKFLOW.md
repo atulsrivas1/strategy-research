@@ -2,6 +2,8 @@
 
 Adopted October 5, 2026 from [equity-features](https://github.com/atulsrivas1/equity-features/blob/main/docs/PUBLIC_DEVELOPMENT.md).
 
+Owner instruction: all commits attributed to Atul Srivastava; Codex is the separate PR reviewer. Use linked short-lived branches and PRs. Require a completed Codex review covering the final PR head, with findings resolved or explicitly dispositioned, before merge. If hosted review is unavailable, retain Code review with the blocker; author self-review cannot substitute. Activation is only established by actual settings and a completed representative review, never by this document alone. Request with `@codex review` following [official setup guidance](https://learn.chatgpt.com/docs/third-party/github).
+
 Use stable SR story IDs, linked experiment IDs and evidence milestones. Pull the highest-priority dependency-satisfied Ready story, one active implementation initially. Rank uncertainty resolved, objective relevance and feasible data before adding complexity. No mandatory sprints, artificial deadlines or unattended worker.
 
 | Stage | Gate |

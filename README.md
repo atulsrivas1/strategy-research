@@ -6,6 +6,8 @@ Current scope: long shares first; bought calls later; two to ten trading session
 
 Work uses numbered stories, milestones, dependency-ready continuous pulling and one active implementation initially. Plans, correctness checks and evidence precede completion. Positive and unsuccessful experiments are retained. A completed research task may have an inconclusive or rejected finding.
 
+Commits are attributed to Atul Srivastava. Codex provides a separate PR review; an actual completed review is required before merge. [Public roadmap](https://github.com/users/atulsrivas1/projects/4).
+
 - [Workflow](docs/WORKFLOW.md)
 - [Ranked backlog](docs/BACKLOG.md)
 - [Research index](docs/RESEARCH_INDEX.md)
