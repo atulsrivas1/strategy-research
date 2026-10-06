@@ -2,6 +2,8 @@
 
 Follow the equity-features delivery approach: numbered parent epics and child stories, one milestone per story, concrete plans before implementation, independent relevant verification, documentation with each story and exact delivery receipts. Research releases deliver evidence, not library packages or live trading.
 
+Execute through a bounded release handoff and one explicitly assigned receiving session per dependency-ready release. The coordinator selects release stories, freezes scope/dependencies, source access, acceptance, resume/stop conditions and documentation obligations before dispatch. The release owner then pulls qualified stories autonomously, records real blockers and produces the receipt; no concurrent owner or automatic later-release assignment. M0's handoff is in releases/M0_HANDOFF.md, with full private execution details retained in the research project.
+
 Pull the highest-ranked dependency-satisfied Ready story, starting with one active implementation. Finish active work before adding more; record urgent interruptions and displaced work. No mandatory sprints, deadlines or automatic schedules. Weekly review during active work is a manual planning practice, not an unattended worker.
 
 GitHub Project owns current lifecycle status. Ranked backlog owns scope, dependencies and relevance; epic acceptance aggregates children. Release milestones M0–M3 have evidence gates, not dates. M4 is deferred future scope excluded from this pass. Each story has one release assignment and a defined delivery channel. A favorable result is not necessary for a complete research delivery.
