@@ -38,3 +38,5 @@ Every examined case has evidenced semantics or an explicit unresolved gate. Impl
 ## Deliverables and resume
 
 Public plan, applicable sanitized result or feasibility/decision report, evidence index and delivery receipt. Detailed commands, manifests, logs, ledgers and original source provenance remain in the private evidence store. Do not fabricate a run command before implementation. Select dependency-satisfied work from the ranked backlog; no experiment starts merely because this plan exists.
+
+Bounded audit evidence: [report](../../reports/SR-002-input-audit.md). Diagnostic execution complete; actual final-head hosted review and verified delivery pending.

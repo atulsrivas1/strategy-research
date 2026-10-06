@@ -11,3 +11,5 @@ Resume: inspect live Project, PR7 actual review/head coverage and planning check
 ## AQuA planning addendum
 
 User approved incorporating [SRC-017 safeguards](sources/AQUA.md). Read amended SR-009/010/019 acceptance before selecting their work; SR-014 remains zero-fit feasibility. No new epic/story or experiment; existing M0 execution ownership continues. Treat any adopted change to an already frozen protocol as a versioned pre-execution amendment, preserving original evidence. Earlier status snapshots above do not replace the live Project. Public amendments require completed final-head Codex review and relevant checks before merge/Done.
+
+M0 owner privately completed SR-002 diagnostic; [report](../reports/SR-002-input-audit.md). Actual hosted review remains required; no public Done/release. Continue only dependency-qualified bounded M0 work.

@@ -15,3 +15,5 @@ Add every executed experiment version, variant, invalid/failed run and scoped ve
 ## New literature and acceptance amendment
 
 [SRC-017: AQuA](sources/AQUA.md): reported methods/failure/performance with reading coverage and reproducibility limits. Existing SR-009/010/014/019 plans amended; E01/E02 and M0/M1 unchanged. No local reproduction, new market experiment or holdout access claimed.
+
+SR-002-A1: [bounded reference/close audit](../reports/SR-002-input-audit.md); 154 local assertions, zero replay, public acceptance pending hosted review.

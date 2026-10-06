@@ -44,3 +44,5 @@ After every run record all variants/failures and exposure, update scoped lessons
 ## AQuA amendment — priority unchanged
 
 [SRC-017](sources/AQUA.md) strengthens existing E01 stories SR-009/010/019; highest information value comes from detecting temporal defects before strategy search. SR-014 stays exploratory behind stock evidence and exposure qualification, one feasibility audit and zero fits. The paper's intraday long/short performance and undisclosed model do not justify a new deep-learning epic, scope expansion or another unsuccessful classifier retry. Current top-three ordering and all dependency gates remain unchanged; live Project is status authority.
+
+SR-002 diagnostic evidence is available; see [report](../reports/SR-002-input-audit.md). SR-008 universe feasibility and SR-009 synthetic checks follow bounded semantics; market replay and action/universe adoption remain gated.
