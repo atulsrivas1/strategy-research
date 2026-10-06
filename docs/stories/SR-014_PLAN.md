@@ -38,3 +38,7 @@ Insufficient independent support or identical reachable decisions stops modeling
 ## Deliverables and resume
 
 Public plan, applicable sanitized result or feasibility/decision report, evidence index and delivery receipt. Detailed commands, manifests, logs, ledgers and original source provenance remain in the private evidence store. Do not fabricate a run command before implementation. Select dependency-satisfied work from the ranked backlog; no experiment starts merely because this plan exists.
+
+### AQuA-informed feasibility amendment
+
+Source: [AQuA assessment](../sources/AQUA.md), sections 5 and 7. The reported 30-minute long/short results do not establish daily long-only or call performance. Retain one feasibility audit and zero fits. A possible later hypothesis is that a small fixed price/volume feature set adds incremental long-entry decision value over 2–10 sessions. Before proposing a separate fit story, establish causal feature support, independent episode counts, chronological sample precision and changed reachable decisions versus constant/no-signal, the frozen stock rule and a simple linear baseline. Require matched exposure, net costs and dependence-aware uncertainty, with preset model/search budget. Reject feasibility if support is inadequate or decisions cannot differ economically. Do not copy undisclosed architecture/features or enlarge our horizon/universe. Memory-driven search has not been causally established by this paper; any later memory-effect claim needs a matched-budget memory-disabled control.
