@@ -1,6 +1,6 @@
 # SR-019 — Verify equity-features version and adapter parity
 
-Parent: [E01](https://github.com/atulsrivas1/strategy-research/issues/8). Release plan: [M0](../releases/M0_PLAN.md). Backlog mapping: B-003. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **blocked**.
+Parent: [E01](https://github.com/atulsrivas1/strategy-research/issues/8). Release plan: [M0](../releases/M0_PLAN.md). Backlog mapping: B-003. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **bounded qualification prepared; review/delivery pending**.
 
 ## Hypothesis and information value
 
@@ -39,6 +39,12 @@ Exact clock/category identity and declared numeric parity; unsupported APIs or u
 
 Public plan, applicable sanitized result or feasibility/decision report, evidence index and delivery receipt. Detailed commands, manifests, logs, ledgers and original source provenance remain in the private evidence store. Do not fabricate a run command before implementation. Select dependency-satisfied work from the ranked backlog; no experiment starts merely because this plan exists.
 
+Bounded execution/feasibility evidence: [M0 report](../../reports/M0-qualification.md). Full story acceptance and public delivery remain partial; no approved scope deletion or Done.
+
 ### AQuA-informed acceptance amendment
 
 Source: [AQuA assessment](../sources/AQUA.md), sections 3.1/7 and Appendix B. For the exact accepted package version, inventory the feature/operator temporal footprint, fit/normalization windows and source availability contracts used here. Reuse SR-009's independent prefix/perturbation fixtures against both adapter and installed package; a causal-looking name or matching pair of implementations is insufficient without independent expected outputs. Record unsupported operations as blockers; do not claim a causal-by-construction guarantee without qualifying each used primitive and its input timestamps. No changes to the separately owned library or its release jobs are authorized by this amendment.
+
+## Owner-approved restricted M0 acceptance amendment
+
+[Restricted evidence and exact limits](../../reports/M0-qualification.md) qualify this story only for its applicable bounded daily simulation/feasibility deliverable. Broader historical source adoption remains deferred under SR-008; unused final confirmation is a later M2 dependency, not an M0 outcome evaluation. Original specifications/results/failures are retained. This is an explicit approved scope amendment, not silently completed original broad acceptance. Actual final-head hosted review, relevant checks and verified publication are required before lifecycle completion; Project4 remains status authority. No new market trial or source/library job.

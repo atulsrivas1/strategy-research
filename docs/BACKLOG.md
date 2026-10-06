@@ -1,3 +1,14 @@
+# Current ranked M0 work
+
+1. Final-head reviewed delivery of [restricted qualification](../reports/M0-qualification.md): Ready to prepare, blocked for release until actual hosted review/check/publication acceptance. Highest remaining M0 uncertainty; no repeated source scan.
+2. One newly justified candidate/matched baseline: exploratory, replay awaits M0 delivery and its own frozen mechanism/cost/metric/budget protocol; original inconclusive rule cannot be retried unchanged without new justification.
+3. Independent final confirmation: blocked for outcomes; unused/prospective coverage/exposure cutoff and separate frozen M2 evaluator needed. Exposed development stays exposed.
+
+Historical broad SR-008 cap/universe/raw/action qualification remains deferred under the owner-approved restriction; not repaired or silently deleted. No strategy/holdout trials added. Current lifecycle is Project4.
+
+
+## Preserved earlier record
+
 # Ranked research scope
 
 US individual stocks, long shares first and bought calls later; ETFs excluded this pass. GitHub Project owns lifecycle status; labels distinguish ready/blocked/exploratory/deferred/completed. No story creation starts an experiment.
@@ -40,6 +51,10 @@ SR-001 foundation delivered; EQ-001-P1 locally completed/inconclusive, not promo
 ## Maintenance
 
 After every run record all variants/failures and exposure, update scoped lessons and dependencies, rerank by uncertainty resolved/relevance/feasibility and select the next best Ready question. Numerical thresholds/splits not yet specified block execution rather than being invented after outcomes. See [knowledge workflow](knowledge/BACKLOG_WORKFLOW.md).
+
+M0 receiving-session evidence: [partial qualification](../reports/M0-qualification.md), [partial receipt](releases/M0_RECEIPT.md). Bounded checks pass; full data/engine/confirmation/review gates remain explicit. No released M0 or new strategy result. Current lifecycle is in Project4.
+
+SR-002 diagnostic evidence is available; see [report](../reports/SR-002-input-audit.md). SR-008 universe feasibility and SR-009 synthetic checks follow bounded semantics; market replay and action/universe adoption remain gated.
 
 ## AQuA amendment — priority unchanged
 

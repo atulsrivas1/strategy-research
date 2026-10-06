@@ -1,6 +1,6 @@
 # SR-010 — Freeze data exposure splits and trial registry
 
-Parent: [E01](https://github.com/atulsrivas1/strategy-research/issues/8). Release plan: [M0](../releases/M0_PLAN.md). Backlog mapping: B-001/B-003. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **blocked**.
+Parent: [E01](https://github.com/atulsrivas1/strategy-research/issues/8). Release plan: [M0](../releases/M0_PLAN.md). Backlog mapping: B-001/B-003. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **bounded qualification prepared; review/delivery pending**.
 
 ## Hypothesis and information value
 
@@ -39,6 +39,12 @@ Exact splits/search budget fixed before outcome access; previously examined wind
 
 Public plan, applicable sanitized result or feasibility/decision report, evidence index and delivery receipt. Detailed commands, manifests, logs, ledgers and original source provenance remain in the private evidence store. Do not fabricate a run command before implementation. Select dependency-satisfied work from the ranked backlog; no experiment starts merely because this plan exists.
 
+Bounded execution/feasibility evidence: [M0 report](../../reports/M0-qualification.md). Full story acceptance and public delivery remain partial; no approved scope deletion or Done.
+
 ### AQuA-informed acceptance amendment
 
 Source: [AQuA assessment](../sources/AQUA.md), sections 3.1 and 7. Version/hash the evaluator, split/label/preprocessing contracts, operator registry and candidate configuration; declare which components may change and which remain fixed within a comparison. Record every proposed/executed variant, failed run, sign reversal and selection score. Validation feedback is development exposure. Keep a final-holdout access log (who/process, timestamp, dataset version, purpose and feedback disclosed); unauthorized or adaptive exposure removes its untouched designation. Where feasible restrict outcome access technically; documented isolation is not a hard guarantee. A boundary test must reject candidate attempts to alter sealed contracts without an explicit versioned protocol amendment. No holdout scoring or large sandbox platform build is authorized by this addition.
+
+## Owner-approved restricted M0 acceptance amendment
+
+[Restricted evidence and exact limits](../../reports/M0-qualification.md) qualify this story only for its applicable bounded daily simulation/feasibility deliverable. Broader historical source adoption remains deferred under SR-008; unused final confirmation is a later M2 dependency, not an M0 outcome evaluation. Original specifications/results/failures are retained. This is an explicit approved scope amendment, not silently completed original broad acceptance. Actual final-head hosted review, relevant checks and verified publication are required before lifecycle completion; Project4 remains status authority. No new market trial or source/library job.

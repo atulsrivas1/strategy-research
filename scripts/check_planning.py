@@ -5,7 +5,7 @@ import json, re
 ROOT=Path(__file__).resolve().parents[1]
 ALLOW_ROOT={'README.md','AGENTS.md','.gitignore'}
 ALLOW_DOCS={'WORKFLOW.md','BACKLOG.md','RESEARCH_INDEX.md','ROADMAP.md','DELIVERY_POLICY.md','RESEARCH_BRIEF.md','LEARNINGS.md','CODE_REVIEW.md','PROJECT_KNOWLEDGE.md','DATA_CONTRACT.md','VALIDATION_PLAN.md','SESSION_HANDOFF.md','DASHBOARD.md','STORY_TEMPLATE.md'}
-ALLOW_OTHER={'docs/knowledge/BACKLOG_WORKFLOW.md', 'scripts/check_planning.py', 'docs/sources/SOURCE_MAP.md', 'docs/sources/AQUA.md', '.github/workflows/planning.yml', 'reports/EQ-001-P1.md', 'reports/SR-002-input-audit.md', '.github/PULL_REQUEST_TEMPLATE.md'}
+ALLOW_OTHER={'docs/knowledge/BACKLOG_WORKFLOW.md', 'reports/SR-002-input-audit.md', 'docs/sources/SOURCE_MAP.md', 'reports/M0-qualification.md', 'fixtures/reference_machinery.py', 'docs/sources/AQUA.md', 'scripts/check_planning.py', 'reports/EQ-001-P1.md', 'scripts/check_reference_fixtures.py', '.github/PULL_REQUEST_TEMPLATE.md', 'docs/releases/M0_RECEIPT.md', '.github/workflows/planning.yml', 'fixtures/chronology.py', 'scripts/check_chronology.py'}
 allowed=ALLOW_ROOT|{'docs/'+p for p in ALLOW_DOCS}|ALLOW_OTHER|{f'docs/stories/SR-{i:03}_PLAN.md' for i in range(1,22)}|{f'docs/releases/M{i}_PLAN.md' for i in range(5)}|{'docs/releases/M0_HANDOFF.md'}
 tracked={p.relative_to(ROOT).as_posix() for p in ROOT.rglob('*') if p.is_file() and '.git' not in p.relative_to(ROOT).parts and '__pycache__' not in p.relative_to(ROOT).parts}
 assert tracked==allowed, f'Unexpected/missing publication files: {sorted(tracked^allowed)}'
@@ -41,4 +41,4 @@ plans='\n'.join((ROOT/f'docs/stories/SR-{i:03}_PLAN.md').read_text(encoding='utf
 assert set(re.findall(r'B-\d{3}',plans))=={f'B-{i:03}' for i in range(1,13)}
 assert all((ROOT/f'docs/releases/M{i}_PLAN.md').is_file() for i in range(5))
 assert 'no published' in (ROOT/'docs/ROADMAP.md').read_text(encoding='utf-8').lower() or 'no github release/tag has been published' in (ROOT/'docs/ROADMAP.md').read_text(encoding='utf-8').lower()
-print(json.dumps(dict(files=len(tracked),relative_links=links,story_plans=len(graph),backlog_items=12,release_plans=5,dependency_graph='acyclic',privacy='pattern scan passed; human/agent semantic review still required',scope='documentation only; no market data or strategy test'),indent=2))
+print(json.dumps(dict(files=len(tracked),relative_links=links,story_plans=len(graph),backlog_items=12,release_plans=5,dependency_graph='acyclic',privacy='pattern scan passed; human/agent semantic review still required',scope='sanitized documentation and synthetic fixtures; no market data or strategy test'),indent=2))

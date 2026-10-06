@@ -1,3 +1,10 @@
+# Current qualification and delivery state
+
+[Restricted M0 evidence](../reports/M0-qualification.md) supersedes older prerequisite snapshots below. Gates 1–3 qualified under owner-approved fixed 18-stock exploratory daily simulation: original input bytes unchanged, real-history/library/actual-date adapter checks bounded, exposed chronology and disabled final protection explicit. No market/holdout rerun, profitability or release. Broad historical source adoption deferred; source claims and imported paper findings remain unreplicated where stated. Final-head hosted Codex review, checks and exact delivery pending in PR31, which incorporates PR30's safeguards. See [receipt](releases/M0_RECEIPT.md); live Project4 remains lifecycle authority.
+
+
+## Preserved earlier record
+
 # Current research handoff
 
 Planning revision: 5 epics, 21 numbered stories, 5 milestone/release plans (M4 deferred future scope). Existing stories and pilot preserved; native parent/sub-issues and Project links created. SR-006/SR-007 are reviewable governance/planning work, not Done. Actual hosted review/activation remains unverified. Current signed-in browser redirects repository-review settings to ChatGPT home; settings access needs resolution in the connected Codex account.
@@ -8,8 +15,10 @@ EQ-001-P1 is locally completed/inconclusive; bar-proxy evidence, not funded/exec
 
 Resume: inspect live Project, PR7 actual review/head coverage and planning checks. Resolve findings and verify merged source before planning Done. Then read SR-002 plan and private source rules; preserve all commands/failed runs and publish sanitized findings. Do not rerun initial GitHub setup scripts or create duplicate IDs. Data audits may proceed privately within authorized scope without fabricating public-review completion.
 
+M0 receiving-session evidence: [partial qualification](../reports/M0-qualification.md), [partial receipt](releases/M0_RECEIPT.md). Bounded checks pass; full data/engine/confirmation/review gates remain explicit. No released M0 or new strategy result. Current lifecycle is in Project4.
+
+M0 owner privately completed SR-002 diagnostic; [report](../reports/SR-002-input-audit.md). Actual hosted review remains required; no public Done/release. Continue only dependency-qualified bounded M0 work.
+
 ## AQuA planning addendum
 
 User approved incorporating [SRC-017 safeguards](sources/AQUA.md). Read amended SR-009/010/019 acceptance before selecting their work; SR-014 remains zero-fit feasibility. No new epic/story or experiment; existing M0 execution ownership continues. Treat any adopted change to an already frozen protocol as a versioned pre-execution amendment, preserving original evidence. Earlier status snapshots above do not replace the live Project. Public amendments require completed final-head Codex review and relevant checks before merge/Done.
-
-M0 owner privately completed SR-002 diagnostic; [report](../reports/SR-002-input-audit.md). Actual hosted review remains required; no public Done/release. Continue only dependency-qualified bounded M0 work.

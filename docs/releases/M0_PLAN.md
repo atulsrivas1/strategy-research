@@ -1,3 +1,10 @@
+## Current owner-approved restricted M0 contract
+
+[Final qualification report](../../reports/M0-qualification.md): scientific Gates 1–3 qualified within a disclosed 18-stock daily simulation, not representative historical cap/security adoption, actual latency/fills or fresh confirmation. AMD/NFLX excluded throughout for unresolved adjustments without replacement; earlier source audits/failures retained. Historical broader adoption remains deferred under SR-008 and independent final evidence under M2. Current M0 is not released: actual final-head hosted review, checks and verified delivery still required. No new market/holdout trial.
+
+
+## Preserved earlier record
+
 # M0 — Reliable stock inputs
 
 Status: planned evidence release, not published. No date/version promise. Qualified inputs, independent machinery and complete reviewed research delivery foundation.
