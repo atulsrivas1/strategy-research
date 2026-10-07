@@ -1,0 +1,277 @@
+[
+  {
+    "file": "01-ultra-queue-imbalance-market-making.md",
+    "source_sha256": "f01b67a9d06613eb8d541451dfffde59c3a686b665863bf62e9a5f45826529b4",
+    "private_sha256": "f01b67a9d06613eb8d541451dfffde59c3a686b665863bf62e9a5f45826529b4",
+    "public_sha256": "f01b67a9d06613eb8d541451dfffde59c3a686b665863bf62e9a5f45826529b4",
+    "transformations": []
+  },
+  {
+    "file": "02-ultra-latency-cross-venue-arb.md",
+    "source_sha256": "32bd0cc57591babd0045726c097ef3bee0be64e4378cd0e4268595433b2ce0be",
+    "private_sha256": "32bd0cc57591babd0045726c097ef3bee0be64e4378cd0e4268595433b2ce0be",
+    "public_sha256": "32bd0cc57591babd0045726c097ef3bee0be64e4378cd0e4268595433b2ce0be",
+    "transformations": []
+  },
+  {
+    "file": "03-ultra-tape-reading-scalping.md",
+    "source_sha256": "e27f691749f504aa4b199640f083214cbfcd2bd3cb1bd32ac5cd346cae92b2fb",
+    "private_sha256": "e27f691749f504aa4b199640f083214cbfcd2bd3cb1bd32ac5cd346cae92b2fb",
+    "public_sha256": "e27f691749f504aa4b199640f083214cbfcd2bd3cb1bd32ac5cd346cae92b2fb",
+    "transformations": []
+  },
+  {
+    "file": "04-ultra-inventory-skew-avellaneda-stoikov.md",
+    "source_sha256": "0b738671c80b703480788cf4c17f64e9507a5f490a6bb2d29f7f75fe07de9f5f",
+    "private_sha256": "0b738671c80b703480788cf4c17f64e9507a5f490a6bb2d29f7f75fe07de9f5f",
+    "public_sha256": "0b738671c80b703480788cf4c17f64e9507a5f490a6bb2d29f7f75fe07de9f5f",
+    "transformations": []
+  },
+  {
+    "file": "05-ultra-opening-drive-scalping.md",
+    "source_sha256": "bfa528c096d8f16d352bd2a077c9eb2b2b377e6814ab636e84df150f7ea3916c",
+    "private_sha256": "bfa528c096d8f16d352bd2a077c9eb2b2b377e6814ab636e84df150f7ea3916c",
+    "public_sha256": "bfa528c096d8f16d352bd2a077c9eb2b2b377e6814ab636e84df150f7ea3916c",
+    "transformations": []
+  },
+  {
+    "file": "06-ultra-liquidity-sweep-fade.md",
+    "source_sha256": "7fd371502626a4c59404baa67485eb295aca436450d0a3e5c25e6e969449d6f0",
+    "private_sha256": "7fd371502626a4c59404baa67485eb295aca436450d0a3e5c25e6e969449d6f0",
+    "public_sha256": "7fd371502626a4c59404baa67485eb295aca436450d0a3e5c25e6e969449d6f0",
+    "transformations": []
+  },
+  {
+    "file": "07-intraday-crabel-orb.md",
+    "source_sha256": "347757485b3749d8b013cb58b0db83da808e046ab784034d18381ae59a8568ee",
+    "private_sha256": "347757485b3749d8b013cb58b0db83da808e046ab784034d18381ae59a8568ee",
+    "public_sha256": "347757485b3749d8b013cb58b0db83da808e046ab784034d18381ae59a8568ee",
+    "transformations": []
+  },
+  {
+    "file": "08-intraday-fisher-acd.md",
+    "source_sha256": "59baad5b2ca016872f2c62b02c403e0591972e6f7f66304bbf29676f8aee9f4f",
+    "private_sha256": "59baad5b2ca016872f2c62b02c403e0591972e6f7f66304bbf29676f8aee9f4f",
+    "public_sha256": "59baad5b2ca016872f2c62b02c403e0591972e6f7f66304bbf29676f8aee9f4f",
+    "transformations": []
+  },
+  {
+    "file": "09-intraday-vwap-reversion.md",
+    "source_sha256": "98c8a5c6c18fd8f3ce1cc6e3fd1182544356beff28f9143813af33dccd68c7a3",
+    "private_sha256": "98c8a5c6c18fd8f3ce1cc6e3fd1182544356beff28f9143813af33dccd68c7a3",
+    "public_sha256": "98c8a5c6c18fd8f3ce1cc6e3fd1182544356beff28f9143813af33dccd68c7a3",
+    "transformations": []
+  },
+  {
+    "file": "10-intraday-aziz-bull-flag.md",
+    "source_sha256": "8d4151f71a783eb27b18203a22e5ba3a0faea231961395a5b4606017f01c8d57",
+    "private_sha256": "8d4151f71a783eb27b18203a22e5ba3a0faea231961395a5b4606017f01c8d57",
+    "public_sha256": "8d4151f71a783eb27b18203a22e5ba3a0faea231961395a5b4606017f01c8d57",
+    "transformations": []
+  },
+  {
+    "file": "11-intraday-raschke-taylor-cycle.md",
+    "source_sha256": "7c6a34095194fbbd0bf825fd240738e1ecb5a7840642ba9ee9e4a78f010c0a77",
+    "private_sha256": "7c6a34095194fbbd0bf825fd240738e1ecb5a7840642ba9ee9e4a78f010c0a77",
+    "public_sha256": "7c6a34095194fbbd0bf825fd240738e1ecb5a7840642ba9ee9e4a78f010c0a77",
+    "transformations": []
+  },
+  {
+    "file": "12-intraday-wyckoff-orderflow.md",
+    "source_sha256": "0307df2f4577c0e1c19d6052ec58f3bcf0e7402ee286f6d25493c6696c0f9f85",
+    "private_sha256": "0307df2f4577c0e1c19d6052ec58f3bcf0e7402ee286f6d25493c6696c0f9f85",
+    "public_sha256": "0307df2f4577c0e1c19d6052ec58f3bcf0e7402ee286f6d25493c6696c0f9f85",
+    "transformations": []
+  },
+  {
+    "file": "13-swing-connors-rsi2.md",
+    "source_sha256": "7d5a951ff10d335a2c76e5df60940faaa9c585815edb0a309417ebc9f5ed3e6b",
+    "private_sha256": "7d5a951ff10d335a2c76e5df60940faaa9c585815edb0a309417ebc9f5ed3e6b",
+    "public_sha256": "7d5a951ff10d335a2c76e5df60940faaa9c585815edb0a309417ebc9f5ed3e6b",
+    "transformations": []
+  },
+  {
+    "file": "14-swing-qullamaggie-episodic-pivots.md",
+    "source_sha256": "52a29a9acff3c1325a413445196066697928dc341627585b755075d02657e569",
+    "private_sha256": "52a29a9acff3c1325a413445196066697928dc341627585b755075d02657e569",
+    "public_sha256": "52a29a9acff3c1325a413445196066697928dc341627585b755075d02657e569",
+    "transformations": []
+  },
+  {
+    "file": "15-swing-pairs-stat-arb.md",
+    "source_sha256": "1220a35f7e4a120e4ebce9f8600b0508b5ab07bb3a94cdb416fa6997026b673c",
+    "private_sha256": "1220a35f7e4a120e4ebce9f8600b0508b5ab07bb3a94cdb416fa6997026b673c",
+    "public_sha256": "1220a35f7e4a120e4ebce9f8600b0508b5ab07bb3a94cdb416fa6997026b673c",
+    "transformations": []
+  },
+  {
+    "file": "16-swing-overnight-gap-momentum.md",
+    "source_sha256": "5ef56bd74b8bfaa4b5450bf35b87143363e81855644955a9ed480ca91f70cf80",
+    "private_sha256": "5ef56bd74b8bfaa4b5450bf35b87143363e81855644955a9ed480ca91f70cf80",
+    "public_sha256": "5ef56bd74b8bfaa4b5450bf35b87143363e81855644955a9ed480ca91f70cf80",
+    "transformations": []
+  },
+  {
+    "file": "17-swing-darvas-box.md",
+    "source_sha256": "8c0c8c0be5d5033ddebf26e06cea2152f1c5653bde327207e9ed4527f4a187cf",
+    "private_sha256": "8c0c8c0be5d5033ddebf26e06cea2152f1c5653bde327207e9ed4527f4a187cf",
+    "public_sha256": "8c0c8c0be5d5033ddebf26e06cea2152f1c5653bde327207e9ed4527f4a187cf",
+    "transformations": []
+  },
+  {
+    "file": "18-swing-bonde-high-tight-flag.md",
+    "source_sha256": "713f6d15901c9b109985ccaaaab39a1dc0c010009bcbd6c7655d8c67282a48e2",
+    "private_sha256": "713f6d15901c9b109985ccaaaab39a1dc0c010009bcbd6c7655d8c67282a48e2",
+    "public_sha256": "713f6d15901c9b109985ccaaaab39a1dc0c010009bcbd6c7655d8c67282a48e2",
+    "transformations": []
+  },
+  {
+    "file": "19-position-livermore-trend.md",
+    "source_sha256": "5511364a75c044c8ecab0ccfe4fee47919b49eff42d747f4b9a571ea4728c195",
+    "private_sha256": "5511364a75c044c8ecab0ccfe4fee47919b49eff42d747f4b9a571ea4728c195",
+    "public_sha256": "5511364a75c044c8ecab0ccfe4fee47919b49eff42d747f4b9a571ea4728c195",
+    "transformations": []
+  },
+  {
+    "file": "20-position-turtle-trend.md",
+    "source_sha256": "647ce1e3562694b414743b5517a181d4a9ff9b4de1ef9f386a39b71078c3b99e",
+    "private_sha256": "647ce1e3562694b414743b5517a181d4a9ff9b4de1ef9f386a39b71078c3b99e",
+    "public_sha256": "647ce1e3562694b414743b5517a181d4a9ff9b4de1ef9f386a39b71078c3b99e",
+    "transformations": []
+  },
+  {
+    "file": "21-position-oneil-canslim.md",
+    "source_sha256": "469ce0ac502bd803fd5fc8df86a80a5f275deaac57e1fa43a12fb58d80e50a39",
+    "private_sha256": "469ce0ac502bd803fd5fc8df86a80a5f275deaac57e1fa43a12fb58d80e50a39",
+    "public_sha256": "469ce0ac502bd803fd5fc8df86a80a5f275deaac57e1fa43a12fb58d80e50a39",
+    "transformations": []
+  },
+  {
+    "file": "22-position-minervini-sepa.md",
+    "source_sha256": "fa663b32637b23915fecaedf125df60dc0c997af88d6edffbd40923dc5458a45",
+    "private_sha256": "fa663b32637b23915fecaedf125df60dc0c997af88d6edffbd40923dc5458a45",
+    "public_sha256": "fa663b32637b23915fecaedf125df60dc0c997af88d6edffbd40923dc5458a45",
+    "transformations": []
+  },
+  {
+    "file": "23-position-dual-momentum.md",
+    "source_sha256": "bf66c72915612fb963c716e3869497be6fff003fb4ce971d2594af97dfa8abe5",
+    "private_sha256": "bf66c72915612fb963c716e3869497be6fff003fb4ce971d2594af97dfa8abe5",
+    "public_sha256": "bf66c72915612fb963c716e3869497be6fff003fb4ce971d2594af97dfa8abe5",
+    "transformations": []
+  },
+  {
+    "file": "24-position-pead-drift.md",
+    "source_sha256": "a19dc5989cc44332ae673dddb6a12e19b4cd2d3ed84fafa60fffef30a9a4498f",
+    "private_sha256": "a19dc5989cc44332ae673dddb6a12e19b4cd2d3ed84fafa60fffef30a9a4498f",
+    "public_sha256": "a19dc5989cc44332ae673dddb6a12e19b4cd2d3ed84fafa60fffef30a9a4498f",
+    "transformations": []
+  },
+  {
+    "file": "25-portfolio-dalio-allweather.md",
+    "source_sha256": "a3fb01a66ab99e31f124c7325de3bfa514582f354ed38035f8d5c01764c39a13",
+    "private_sha256": "a3fb01a66ab99e31f124c7325de3bfa514582f354ed38035f8d5c01764c39a13",
+    "public_sha256": "a3fb01a66ab99e31f124c7325de3bfa514582f354ed38035f8d5c01764c39a13",
+    "transformations": []
+  },
+  {
+    "file": "26-portfolio-vrp-put-writing.md",
+    "source_sha256": "b9f3df1921bbf0816b5d4b4bc863a47aac33459dc5f9000e3dea110b8d933278",
+    "private_sha256": "b9f3df1921bbf0816b5d4b4bc863a47aac33459dc5f9000e3dea110b8d933278",
+    "public_sha256": "b9f3df1921bbf0816b5d4b4bc863a47aac33459dc5f9000e3dea110b8d933278",
+    "transformations": []
+  },
+  {
+    "file": "27-portfolio-managed-futures-cta.md",
+    "source_sha256": "7456d667cb4182482bfcc3369e127f6efa86c30ef948662b238ec895ab2d6fc3",
+    "private_sha256": "7456d667cb4182482bfcc3369e127f6efa86c30ef948662b238ec895ab2d6fc3",
+    "public_sha256": "7456d667cb4182482bfcc3369e127f6efa86c30ef948662b238ec895ab2d6fc3",
+    "transformations": []
+  },
+  {
+    "file": "28-portfolio-fx-carry.md",
+    "source_sha256": "2b79f3f06a9e037b5d3cff8b56bf1d19d8f0942a15d70f8e9ee5936b4207e1e6",
+    "private_sha256": "2b79f3f06a9e037b5d3cff8b56bf1d19d8f0942a15d70f8e9ee5936b4207e1e6",
+    "public_sha256": "2b79f3f06a9e037b5d3cff8b56bf1d19d8f0942a15d70f8e9ee5936b4207e1e6",
+    "transformations": []
+  },
+  {
+    "file": "29-portfolio-multifactor-ensemble.md",
+    "source_sha256": "409291d1d130580aa9ca27a27f4e9f216c7a1f2287ca348ac4cef7e9953c263b",
+    "private_sha256": "409291d1d130580aa9ca27a27f4e9f216c7a1f2287ca348ac4cef7e9953c263b",
+    "public_sha256": "409291d1d130580aa9ca27a27f4e9f216c7a1f2287ca348ac4cef7e9953c263b",
+    "transformations": []
+  },
+  {
+    "file": "30-portfolio-tail-hedge-universa.md",
+    "source_sha256": "d0f6c5f18a8f3ece8fa18a5c54adeada282822d98ba65c341da49afeb2def970",
+    "private_sha256": "d0f6c5f18a8f3ece8fa18a5c54adeada282822d98ba65c341da49afeb2def970",
+    "public_sha256": "d0f6c5f18a8f3ece8fa18a5c54adeada282822d98ba65c341da49afeb2def970",
+    "transformations": []
+  },
+  {
+    "file": "31-invest-buffett-value.md",
+    "source_sha256": "65664e87a4237b1efc33b28bc65286276bc83d8ff7cee948562b2de69345171c",
+    "private_sha256": "65664e87a4237b1efc33b28bc65286276bc83d8ff7cee948562b2de69345171c",
+    "public_sha256": "65664e87a4237b1efc33b28bc65286276bc83d8ff7cee948562b2de69345171c",
+    "transformations": []
+  },
+  {
+    "file": "32-invest-lynch-garp.md",
+    "source_sha256": "602c1f7f86789d42ecd0aa9f89e030b6d9c6295310cb35a09b7d686174547c3b",
+    "private_sha256": "602c1f7f86789d42ecd0aa9f89e030b6d9c6295310cb35a09b7d686174547c3b",
+    "public_sha256": "602c1f7f86789d42ecd0aa9f89e030b6d9c6295310cb35a09b7d686174547c3b",
+    "transformations": []
+  },
+  {
+    "file": "33-invest-greenblatt-magic-formula.md",
+    "source_sha256": "ccf621aa7c59928593d468803a7e044581431901fd7e4ccd63f6537595be802a",
+    "private_sha256": "ccf621aa7c59928593d468803a7e044581431901fd7e4ccd63f6537595be802a",
+    "public_sha256": "ccf621aa7c59928593d468803a7e044581431901fd7e4ccd63f6537595be802a",
+    "transformations": []
+  },
+  {
+    "file": "34-invest-piotroski-fscore.md",
+    "source_sha256": "426ce9c4125c134bb4bdbe1032b5f4b57ed5792ee2514d36876ea0eee50cd038",
+    "private_sha256": "426ce9c4125c134bb4bdbe1032b5f4b57ed5792ee2514d36876ea0eee50cd038",
+    "public_sha256": "426ce9c4125c134bb4bdbe1032b5f4b57ed5792ee2514d36876ea0eee50cd038",
+    "transformations": []
+  },
+  {
+    "file": "35-invest-terry-smith-quality.md",
+    "source_sha256": "7f199e9cd68e6b6dc47e805d02bf4734a445ce10bbe8a44e97ae6679ba5faacd",
+    "private_sha256": "7f199e9cd68e6b6dc47e805d02bf4734a445ce10bbe8a44e97ae6679ba5faacd",
+    "public_sha256": "7f199e9cd68e6b6dc47e805d02bf4734a445ce10bbe8a44e97ae6679ba5faacd",
+    "transformations": []
+  },
+  {
+    "file": "36-invest-permanent-index-tilt.md",
+    "source_sha256": "a62a902f5116c055ce4b0bd25e669dd572afd2a5bf24616784cb7794679e7884",
+    "private_sha256": "a62a902f5116c055ce4b0bd25e669dd572afd2a5bf24616784cb7794679e7884",
+    "public_sha256": "a62a902f5116c055ce4b0bd25e669dd572afd2a5bf24616784cb7794679e7884",
+    "transformations": []
+  },
+  {
+    "file": "_TEMPLATE.md",
+    "source_sha256": "f0e08d63ff6bad374e42049cb06b7650268b3d9b7a4de5693338eec803074c52",
+    "private_sha256": "f0e08d63ff6bad374e42049cb06b7650268b3d9b7a4de5693338eec803074c52",
+    "public_sha256": "f0e08d63ff6bad374e42049cb06b7650268b3d9b7a4de5693338eec803074c52",
+    "transformations": []
+  },
+  {
+    "file": "README.md",
+    "source_sha256": "db9a35b154a237586940c3962f3c0573eb801a15289b0ecae7921f48a643f16e",
+    "private_sha256": "db9a35b154a237586940c3962f3c0573eb801a15289b0ecae7921f48a643f16e",
+    "public_sha256": "c0fb94304c1270c2d76812cb4792f3ff0d9950337aaf8e3725b3653411c7aefb",
+    "transformations": [
+      "README PDF-directory link redirected to availability note; original PDFs and builders not published"
+    ]
+  },
+  {
+    "file": "ROSTER.md",
+    "source_sha256": "78cc83c2bed755e3763370317b31d250c518a184605ea874ec26b69c4cdb0bf4",
+    "private_sha256": "78cc83c2bed755e3763370317b31d250c518a184605ea874ec26b69c4cdb0bf4",
+    "public_sha256": "78cc83c2bed755e3763370317b31d250c518a184605ea874ec26b69c4cdb0bf4",
+    "transformations": []
+  }
+]

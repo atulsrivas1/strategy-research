@@ -1,3 +1,7 @@
+## V2 readiness amendment
+
+[SR-062](../stories/SR-062_PLAN.md) catalyst clocks and [SR-063](../stories/SR-063_PLAN.md) causal flags/sample support queue after current momentum readiness. D1 remains first; no enlarged universe or new replay budget.
+
 ## V3 readiness amendment
 
 Eight M6 questions now include [SR-051](../stories/SR-051_PLAN.md), blocked for empirical work on exact routine-year cutoff and public Form4 history. D1 remains first; V3 canonical holdouts/risk limits are archived proposals, not this project protocol.

@@ -22,7 +22,7 @@ Before historical access specify full inputs/available-at clocks, missing values
 
 ## Release acceptance
 
-Reconcile eight assigned stories and dependencies; preserve inaccessible sources, negative findings, amendments, failures and actual results or exact blockers. Include primary sources actually read, manifests, checks/CI, scoped claims and verified sanitized delivered bytes. Separate research PR review is optional under owner waiver; no review completion fabricated. Plans/issues/milestones are not releases. Do not tag/publish M6 until its frozen scope is accepted and source/artifact receipt exists. M0/M1 historical published snapshots remain intact; M2 remains partial.
+Reconcile ten assigned stories and dependencies; preserve inaccessible sources, negative findings, amendments, failures and actual results or exact blockers. Include primary sources actually read, manifests, checks/CI, scoped claims and verified sanitized delivered bytes. Separate research PR review is optional under owner waiver; no review completion fabricated. Plans/issues/milestones are not releases. Do not tag/publish M6 until its frozen scope is accepted and source/artifact receipt exists. M0/M1 historical published snapshots remain intact; M2 remains partial.
 
 ## Handoff
 
@@ -31,3 +31,9 @@ Reconcile eight assigned stories and dependencies; preserve inaccessible sources
 - [SR-051](https://github.com/atulsrivas1/strategy-research/issues/71) — V3-04: Blocked empirical; exploratory five-session adaptation only, canonical hold about one month
 
 V3 import amendment: SR-051 adds only insider-source/five-session adaptation readiness. Original seven-story momentum scope retained; eight current assigned questions include honest blocked qualification dispositions. No extra empirical budget.
+
+- [SR-062](https://github.com/atulsrivas1/strategy-research/issues/82) — V2-14: Blocked empirical; exploratory US long-stock five-session adaptation, new catalysts/universe not qualified
+
+- [SR-063](https://github.com/atulsrivas1/strategy-research/issues/83) — V2-18: Exploratory readiness; empirical rules/sample support and applicable inputs unqualified
+
+V2 import amendment: SR-062 episodic pivots and SR-063 high-tight flags add readiness only; ten current assigned questions, no additional historical trial budget. Existing overlaps reuse their stories with canonical off-scope rules archived.

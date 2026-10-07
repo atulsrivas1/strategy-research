@@ -28,3 +28,9 @@ Readiness succeeds when scope, rules, source access, field lineage/clocks and ap
 ## Deliverables and resume
 
 Source qualification note, scoped specification or honest blocker, exact manifests/commands, trial registry, independent correctness checks and all results if later run; update lessons/index/backlog/handoff and live tracking. Current delivery is import/planning only. Resume source/rule qualification in M6 priority order; M4 stays deferred. No worker, new chat, paid data, live orders or final holdout.
+
+## V2 overlapping source proposals
+
+- [V2-28](../strategy-library-v2/28-portfolio-fx-carry.md) — related source family; retain differing rules as untested proposals.
+
+[Full overlap/provenance map](../strategy-library-v2/CATALOG.md). Existing scope/milestone/scanner unchanged; canonical off-scope instruments or horizons stay deferred even where this story qualifies a stock adaptation. Source grades/strong verdicts are reported and unverified here. Selecting a differing variant later requires a separate mechanism, frozen specification and registered budget; importing it does not reopen a rejected gate or authorize a grid.

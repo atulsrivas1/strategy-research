@@ -1,3 +1,7 @@
+## Additional V2 source mapping
+
+[V2 36-note overlap catalog](../strategy-library-v2/CATALOG.md):24family overlaps reuse current stories,12distinct questions added.64source dossiers/40epic stories total; original source files and earlier ranking remain.
+
 ## Additional library
 
 [V3 eight-note catalog](../strategy-library-v3/CATALOG.md) extends E08 to28 stories. First-library ranking below remains; V3-04 joins in-scope readiness after momentum questions, seven others deferred.

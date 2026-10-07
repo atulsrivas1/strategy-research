@@ -1,3 +1,7 @@
+## Additional V2 source mapping
+
+[V2 36-note overlap catalog](../strategy-library-v2/CATALOG.md):24family overlaps reuse current stories,12distinct questions added.64source dossiers/40epic stories total; original source files and earlier ranking remain.
+
 # V3 qualification catalog
 
 [Original index](INDEX.md), [source access log](SOURCES.md), [provenance/limitations](IMPORT_NOTES.md). All eight ideas untested locally. Import is complete documentary work; all eight research stories are Backlog, not completed strategies. V3-04 is the only current-scope adaptation-readiness proposal; no missing owner decision blocks import, while excluded horizons/instruments need later scope instructions.

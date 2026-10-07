@@ -60,3 +60,23 @@ Thirteen additional archival qualification stories; this does not authorize exec
 - [SR-054](https://github.com/atulsrivas1/strategy-research/issues/74) — V3-07: Deferred: futures and monthly roll outside scope; roll appendix unread
 
 - [SR-055](https://github.com/atulsrivas1/strategy-research/issues/75) — V3-08: Deferred: one-year holding outside scope; point-in-time fundamentals unqualified
+
+- [SR-056](https://github.com/atulsrivas1/strategy-research/issues/76) — V2-02: Deferred: milliseconds/seconds, ETF/futures and passive fill calibration outside scope
+
+- [SR-057](https://github.com/atulsrivas1/strategy-research/issues/77) — V2-05: Deferred: intraday scalping outside this pass
+
+- [SR-058](https://github.com/atulsrivas1/strategy-research/issues/78) — V2-06: Deferred: intraday/short-side scope and sweep identification unqualified
+
+- [SR-059](https://github.com/atulsrivas1/strategy-research/issues/79) — V2-08: Deferred: intraday and discretionary rule/primary-source verification
+
+- [SR-060](https://github.com/atulsrivas1/strategy-research/issues/80) — V2-10: Deferred: intraday and primary rule/causal flag specification
+
+- [SR-061](https://github.com/atulsrivas1/strategy-research/issues/81) — V2-11: Deferred: intraday/short-side canonical protocol and primary book rules
+
+- [SR-064](https://github.com/atulsrivas1/strategy-research/issues/84) — V2-23: Deferred: ETF/multi-asset and month/year holding outside scope
+
+- [SR-065](https://github.com/atulsrivas1/strategy-research/issues/85) — V2-30: Deferred: puts/VIX insurance/multi-asset years outside long-shares/bought-calls scope
+
+- [SR-066](https://github.com/atulsrivas1/strategy-research/issues/86) — V2-32: Deferred: multi-year investing, no current daily adaptation selected
+
+- [SR-067](https://github.com/atulsrivas1/strategy-research/issues/87) — V2-36: Deferred: ETF/multi-asset and decades outside scope
