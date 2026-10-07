@@ -1,3 +1,38 @@
+## Ranked imported hypotheses — current qualification order
+
+Each linked plan records mechanism/sources, inputs/dependencies, baseline, falsification/acceptance, value/effort and status. No empirical trials authorized by this table.
+
+| Rank | Dossier | Story | Release | Readiness / scope |
+|---|---|---|---|---|
+| 1 | D1 | [SR-040](https://github.com/atulsrivas1/strategy-research/issues/59) / [plan](stories/SR-040_PLAN.md) | M6 | Ready for outcome-free source/rule qualification; empirical protocol not frozen |
+| 2 | D2 | [SR-041](https://github.com/atulsrivas1/strategy-research/issues/60) / [plan](stories/SR-041_PLAN.md) | M6 | Ready for outcome-free adaptation design; canonical evidence is months and long-short |
+| 3 | E4 | [SR-047](https://github.com/atulsrivas1/strategy-research/issues/66) / [plan](stories/SR-047_PLAN.md) | M6 | Exploratory: five-session price-only adaptation; pattern/fundamental claims unverified |
+| 4 | B3 | [SR-034](https://github.com/atulsrivas1/strategy-research/issues/53) / [plan](stories/SR-034_PLAN.md) | M6 | Blocked for empirical work: pre-release consensus vintage and release time unqualified |
+| 5 | B1 | [SR-032](https://github.com/atulsrivas1/strategy-research/issues/51) / [plan](stories/SR-032_PLAN.md) | M6 | Exploratory: individual-stock adaptation; original ETF evidence excluded |
+| 6 | B2 | [SR-033](https://github.com/atulsrivas1/strategy-research/issues/52) / [plan](stories/SR-033_PLAN.md) | M6 | Exploratory: original overnight hold outside 2–10 sessions; daily adaptation needs a new mechanism |
+| 7 | D4 | [SR-043](https://github.com/atulsrivas1/strategy-research/issues/62) / [plan](stories/SR-043_PLAN.md) | M6 | Exploratory context design only: modern decay and schedule availability |
+| 8 | C3 | [SR-038](https://github.com/atulsrivas1/strategy-research/issues/57) / [plan](stories/SR-038_PLAN.md) | M4 | Deferred pending model/clock qualification; optional future stock context, not proven dealer position |
+| 9 | E1 | [SR-044](https://github.com/atulsrivas1/strategy-research/issues/63) / [plan](stories/SR-044_PLAN.md) | M4 | Deferred: years; possible later context does not authorize fundamental strategy |
+| 10 | E2 | [SR-045](https://github.com/atulsrivas1/strategy-research/issues/64) / [plan](stories/SR-045_PLAN.md) | M4 | Deferred: years/leverage/short hedge; no daily stock adaptation selected |
+| 11 | A2 | [SR-029](https://github.com/atulsrivas1/strategy-research/issues/48) / [plan](stories/SR-029_PLAN.md) | M4 | Deferred: intraday holding and opening execution outside this pass |
+| 12 | C1 | [SR-036](https://github.com/atulsrivas1/strategy-research/issues/55) / [plan](stories/SR-036_PLAN.md) | M4 | Deferred: option selling and severe tail/funding exposure outside bought-calls scope |
+| 13 | B4 | [SR-035](https://github.com/atulsrivas1/strategy-research/issues/54) / [plan](stories/SR-035_PLAN.md) | M4 | Deferred: canonical hedged long-short pairs outside long-only scope |
+| 14 | C2 | [SR-037](https://github.com/atulsrivas1/strategy-research/issues/56) / [plan](stories/SR-037_PLAN.md) | M4 | Deferred: multi-leg dispersion and short options outside scope |
+| 15 | D3 | [SR-042](https://github.com/atulsrivas1/strategy-research/issues/61) / [plan](stories/SR-042_PLAN.md) | M4 | Deferred: FX/futures and months outside scope |
+| 16 | A1 | [SR-028](https://github.com/atulsrivas1/strategy-research/issues/47) / [plan](stories/SR-028_PLAN.md) | M4 | Deferred: intraday two-sided quoting and live calibration outside this pass |
+| 17 | A3 | [SR-030](https://github.com/atulsrivas1/strategy-research/issues/49) / [plan](stories/SR-030_PLAN.md) | M4 | Deferred: intraday; weak reported forecast evidence |
+| 18 | E3 | [SR-046](https://github.com/atulsrivas1/strategy-research/issues/65) / [plan](stories/SR-046_PLAN.md) | M4 | Deferred: multi-asset years, futures and leverage outside scope |
+| 19 | A4 | [SR-031](https://github.com/atulsrivas1/strategy-research/issues/50) / [plan](stories/SR-031_PLAN.md) | M4 | Deferred: intraday; predictive claim unqualified |
+| 20 | C4 | [SR-039](https://github.com/atulsrivas1/strategy-research/issues/58) / [plan](stories/SR-039_PLAN.md) | M4 | Deferred: crypto and short derivatives outside US equity scope |
+
+## Current momentum-first library priorities
+
+[All 20 dossier stories and ranked catalog](strategy-library/CATALOG.md); [M6 plan](releases/M6_PLAN.md). E08 covers SR-028–047; SR-026/027 and M5 remain separately owned community work in [PR45](https://github.com/atulsrivas1/strategy-research/pull/45). Seven eligible stock/readiness stories assigned M6; thirteen excluded strategies M4. D1 then D2 then E4; no new backtest or final access. Review waiver recorded, scientific gates retained.
+
+## Owner research-review amendment — October 7, 2026
+
+The owner explicitly waived separate code/PR review for this strategy-research project and authorized autonomous work within its operating scope. This supersedes older mandatory Codex-review clauses in research plans, templates, checklists and pending-delivery descriptions, including SR-006's review activation dependency. Separate review is optional, not a merge/Done gate. No completed review is retrospectively claimed. This does not waive source qualification, causal validity, independent relevant numerical verification, CI, privacy, exact source/artifact verification, release acceptance or current scope. It does not apply to equity-features or chartsspeak development. Retain the eight tracking stages; Code review records agent evidence inspection and the owner waiver, not independent approval. Frozen historical receipts remain unchanged; old review requirements below are historical where they conflict with this amendment.
+
 # Veto diagnosis and next mechanism design
 
 [Exclusive saved-ledger attribution](../reports/M2-veto-diagnosis.md): market-only vetoes sacrifice the largest exclusive winning contribution, but shared vetoes prevent unique credit. Both gates remain parked, no new ablation/replay. [Next proposed hypothesis](knowledge/EVENT_CONTINUATION_DESIGN.md) is earnings-event continuation with explicit counterevidence; empirical blocked on exact event/forecast contracts and support. Next Ready work is outcome-free source trace; M2partial, final disabled, normal review required.
