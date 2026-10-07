@@ -1,3 +1,7 @@
+# Standing scanner/context requirement
+
+Every future strategy test compares its frozen primary scanner alone with one preregistered decision-time stock/market-context policy. Qualify historical available-at clocks, report alignment/conflict/neutral/unknown, preserve original opportunities and account for lost winners alongside avoided losses net of costs. Read [protocol](docs/knowledge/SCANNER_CONTEXT_PROTOCOL.md). Do not retrospectively filter known losers or reopen released results silently.
+
 # Research work agreements
 
 All commits use Atul Srivastava <102820540+atulsrivas1@users.noreply.github.com> as both author and committer. Do not add Codex co-author trailers. Codex acts as the separate PR reviewer; requesting a review is not proof that it ran. Require an actual completed Codex review on the final PR head and disposition of its findings before merging or declaring delivery complete. After changes, request another review if the previous review no longer covers the final diff. This does not replace correctness checks or imply human review.

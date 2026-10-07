@@ -1,3 +1,14 @@
+# Additional M2 workstream
+
+[E06](https://github.com/atulsrivas1/strategy-research/issues/34) — context-conditioned stock scanner rework; planned M2, no new release. Native children linked in GitHub:
+
+- [SR-022](https://github.com/atulsrivas1/strategy-research/issues/35): [SR-022 plan](stories/SR-022_PLAN.md); Ready for qualification.
+- [SR-023](https://github.com/atulsrivas1/strategy-research/issues/36): [SR-023 plan](stories/SR-023_PLAN.md); blocked; no replay.
+- [SR-024](https://github.com/atulsrivas1/strategy-research/issues/37): [SR-024 plan](stories/SR-024_PLAN.md); blocked; no replay.
+- [SR-025](https://github.com/atulsrivas1/strategy-research/issues/38): [SR-025 plan](stories/SR-025_PLAN.md); blocked; no replay.
+
+Original E02/M1 completed scope remains unchanged. Existing table/status prose below is historical where superseded; current Project and release receipts are authoritative.
+
 # Epic and release roadmap
 
 [Project status authority](https://github.com/users/atulsrivas1/projects/4). Plans are not delivery evidence. Existing IDs preserved; native GitHub parent/sub-issue relationships accompany links.

@@ -1,3 +1,7 @@
+# Scanner/context experiment requirement
+
+Every strategy test retains its primary scanner control and compares one preregistered decision-time stock/market overlay. Follow [protocol](knowledge/SCANNER_CONTEXT_PROTOCOL.md); report alignment/conflict/neutral/unknown and sacrificed winners as well as avoided losses. New stories are plans, not results.
+
 # Evidence-gated research workflow
 
 Scope: US liquid large/mid-cap individual stocks, long shares, 2–10 trading sessions; bought calls conditional on stock evidence. ETFs excluded and intraday/monthly extensions deferred or feasibility-only pending explicit scope decisions. Downside analysis supports suitable long entries; no short selling or puts.
