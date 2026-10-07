@@ -1,3 +1,7 @@
+# Veto diagnosis and next mechanism design
+
+[Exclusive saved-ledger attribution](../reports/M2-veto-diagnosis.md): market-only vetoes sacrifice the largest exclusive winning contribution, but shared vetoes prevent unique credit. Both gates remain parked, no new ablation/replay. [Next proposed hypothesis](knowledge/EVENT_CONTINUATION_DESIGN.md) is earnings-event continuation with explicit counterevidence; empirical blocked on exact event/forecast contracts and support. Next Ready work is outcome-free source trace; M2partial, final disabled, normal review required.
+
 # Owner-approved exploratory proxy results
 
 [Two context comparisons](../reports/M2-context-proxy.md) rejected the frozen incremental-benefit criterion: validation -55.43/-24.05bps per original sleeve; intervals include zero and both sacrificed more winners than avoided losses. Both studies use reconstructed historical inputs/assumed costs, not observed delivery or fills. Two-trial budget exhausted, final disabled. Original findings preserved; M2partial, full execution/fresh-evidence/review gates open.
