@@ -1,0 +1,95 @@
+[
+  {
+    "file": "01-close-moc-imbalance.md",
+    "source_sha256": "3111075e2aa5fe234933b40c33c4eb43d68fb7a17d0934a5839dc27600a52022",
+    "private_sha256": "3111075e2aa5fe234933b40c33c4eb43d68fb7a17d0934a5839dc27600a52022",
+    "public_sha256": "3111075e2aa5fe234933b40c33c4eb43d68fb7a17d0934a5839dc27600a52022",
+    "transformations": []
+  },
+  {
+    "file": "02-intraday-last-half-hour.md",
+    "source_sha256": "6a3efa32677cc8adb2c88387fb09be4563561662e0e5432b22c6bdd7dbe85541",
+    "private_sha256": "6a3efa32677cc8adb2c88387fb09be4563561662e0e5432b22c6bdd7dbe85541",
+    "public_sha256": "6a3efa32677cc8adb2c88387fb09be4563561662e0e5432b22c6bdd7dbe85541",
+    "transformations": []
+  },
+  {
+    "file": "03-intraday-williams-oops.md",
+    "source_sha256": "ff78e2c7afc02f0584690ff8db533dd4d19a133e108758e4ae0879c5a2a2e6a5",
+    "private_sha256": "ff78e2c7afc02f0584690ff8db533dd4d19a133e108758e4ae0879c5a2a2e6a5",
+    "public_sha256": "ff78e2c7afc02f0584690ff8db533dd4d19a133e108758e4ae0879c5a2a2e6a5",
+    "transformations": []
+  },
+  {
+    "file": "04-swing-opportunistic-insiders.md",
+    "source_sha256": "8df30d3db97a36ec314d7ced1be4b4136407ce3c868d16b7de4a3d2f07a0368b",
+    "private_sha256": "8df30d3db97a36ec314d7ced1be4b4136407ce3c868d16b7de4a3d2f07a0368b",
+    "public_sha256": "8df30d3db97a36ec314d7ced1be4b4136407ce3c868d16b7de4a3d2f07a0368b",
+    "transformations": []
+  },
+  {
+    "file": "05-position-merger-arbitrage.md",
+    "source_sha256": "fc64190513a16c079e2801d2a22985490aedc1320a0d10258cd5b9fb882aba1c",
+    "private_sha256": "fc64190513a16c079e2801d2a22985490aedc1320a0d10258cd5b9fb882aba1c",
+    "public_sha256": "fc64190513a16c079e2801d2a22985490aedc1320a0d10258cd5b9fb882aba1c",
+    "transformations": []
+  },
+  {
+    "file": "06-position-spinoff-drift.md",
+    "source_sha256": "c4b3135ee78f2a367db0531fbbb2ba7d0ac32b26d98d449ad925fc85734d4cda",
+    "private_sha256": "c4b3135ee78f2a367db0531fbbb2ba7d0ac32b26d98d449ad925fc85734d4cda",
+    "public_sha256": "c4b3135ee78f2a367db0531fbbb2ba7d0ac32b26d98d449ad925fc85734d4cda",
+    "transformations": []
+  },
+  {
+    "file": "07-portfolio-commodity-basis.md",
+    "source_sha256": "51c2434b3aa6004feb9106cecaab80075a357ecc168a53331fc630706e75b9c7",
+    "private_sha256": "51c2434b3aa6004feb9106cecaab80075a357ecc168a53331fc630706e75b9c7",
+    "public_sha256": "51c2434b3aa6004feb9106cecaab80075a357ecc168a53331fc630706e75b9c7",
+    "transformations": []
+  },
+  {
+    "file": "08-invest-graham-ncav.md",
+    "source_sha256": "d1cd0f18d5ea13c4a712acfd8601a78e7085a49531b301669c59f3d7300a69cf",
+    "private_sha256": "d1cd0f18d5ea13c4a712acfd8601a78e7085a49531b301669c59f3d7300a69cf",
+    "public_sha256": "d1cd0f18d5ea13c4a712acfd8601a78e7085a49531b301669c59f3d7300a69cf",
+    "transformations": []
+  },
+  {
+    "file": "INDEX.md",
+    "source_sha256": "615a87d647de9b6190c3a0782f7a3a513b035f25a448a11e30bded0e4a475af2",
+    "private_sha256": "615a87d647de9b6190c3a0782f7a3a513b035f25a448a11e30bded0e4a475af2",
+    "public_sha256": "615a87d647de9b6190c3a0782f7a3a513b035f25a448a11e30bded0e4a475af2",
+    "transformations": []
+  },
+  {
+    "file": "README.md",
+    "source_sha256": "c7be0161cc6e435cc252645cf06374c3460463b8ecce82dddf156fe0ea9a5774",
+    "private_sha256": "c7be0161cc6e435cc252645cf06374c3460463b8ecce82dddf156fe0ea9a5774",
+    "public_sha256": "113adb8d2582ab8234e4726b7005f0f8e72d9f4ca701cb709d6f166390052978",
+    "transformations": [
+      "README PDF-directory link points to import PDF availability note; PDF files/builder not published"
+    ]
+  },
+  {
+    "file": "ROSTER.md",
+    "source_sha256": "28bb8201aaa60bb60183ce5acee0b03aa1b586a5178f8d8838c81fee448533cc",
+    "private_sha256": "28bb8201aaa60bb60183ce5acee0b03aa1b586a5178f8d8838c81fee448533cc",
+    "public_sha256": "28bb8201aaa60bb60183ce5acee0b03aa1b586a5178f8d8838c81fee448533cc",
+    "transformations": []
+  },
+  {
+    "file": "SESSION_HANDOFF.md",
+    "source_sha256": "4cdc79de32f5cdc45a214f3010ab7780c98d7b424550f7cb15d430a0fa0821cb",
+    "private_sha256": "4cdc79de32f5cdc45a214f3010ab7780c98d7b424550f7cb15d430a0fa0821cb",
+    "public_sha256": "4cdc79de32f5cdc45a214f3010ab7780c98d7b424550f7cb15d430a0fa0821cb",
+    "transformations": []
+  },
+  {
+    "file": "SOURCES.md",
+    "source_sha256": "40df5f0d4054eaa1692dcb123494feb6e0f4d756e4c63307eaf6f57db26efc7a",
+    "private_sha256": "40df5f0d4054eaa1692dcb123494feb6e0f4d756e4c63307eaf6f57db26efc7a",
+    "public_sha256": "40df5f0d4054eaa1692dcb123494feb6e0f4d756e4c63307eaf6f57db26efc7a",
+    "transformations": []
+  }
+]

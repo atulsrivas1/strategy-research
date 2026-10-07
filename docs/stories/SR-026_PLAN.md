@@ -1,4 +1,36 @@
-# SR-026 - Publish a newcomer guide to sanitized research evidence
+# SR-026 — Publish a newcomer guide to sanitized research evidence
+
+Parent: [E07](https://github.com/atulsrivas1/strategy-research/issues/42). Release plan: [M5](../releases/M5_PLAN.md).
+
+## Hypothesis and information value
+
+A source-linked newcomer guide and concrete feedback tasks can make sanitized research evidence easier to understand and challenge. This is community/documentation qualification, not a trading hypothesis or experiment; original scope and complexity estimates below retained.
+
+## Sources and prior lessons
+
+Owner-approved C1 plan and [M5 predecessor gates](../releases/M5_PLAN.md); existing research reports distinguish source claims, restricted proxy results, unsuccessful runs and execution gaps. Preserve those caveats in any public guide or feedback request.
+
+## Dependencies and required data
+
+Original frozen R5–R13 and research M2/M3 dependency list below remains authoritative; M4 excluded. Use only sanitized delivered source/receipts. Imports/M6 planning do not automatically extend or satisfy the community predecessor list. No market dataset or outcome access needed for this planning story.
+
+## Baseline and experiment
+
+Review current public evidence navigation against the proposed guide or feedback-task artifacts using documentation acceptance below. No performance test, scanner, outreach, new chat or worker authorized by integration. This adds common planning fields without weakening original community gates.
+
+## Acceptance and rejection
+
+Retain the original acceptance/checklist below. Documentation must link exact sanitized sources, make limitations and unsuccessful findings visible, and provide a complete usable contribution path. Broken/private/misleading evidence links reject delivery until repaired. Owner research-review waiver supersedes old separate Codex-review demand, but CI/source/privacy/readback and frozen predecessors remain required. Planning alone does not release/complete M5.
+
+## Deliverables and resume
+
+Original guide/feedback artifacts and dependent release receipt, with source verification and live Project status; keep Backlog until original prerequisites qualify. No community execution or scientific experiment starts from merging this plan. Resume using the original tasks below.
+
+
+## Owner research-review amendment — October 7, 2026
+
+The owner explicitly waived separate code/PR review for this strategy-research project and authorized autonomous work within its operating scope. This supersedes older mandatory Codex-review clauses in research plans, templates, checklists and pending-delivery descriptions, including SR-006's review activation dependency. Separate review is optional, not a merge/Done gate. No completed review is retrospectively claimed. This does not waive source qualification, causal validity, independent relevant numerical verification, CI, privacy, exact source/artifact verification, release acceptance or current scope. It does not apply to equity-features or chartsspeak development. Retain the eight tracking stages; Code review records agent evidence inspection and the owner waiver, not independent approval. Frozen historical receipts remain unchanged; old review requirements below are historical where they conflict with this amendment.
+
 
 ## Problem and value
 

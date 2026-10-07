@@ -1,5 +1,10 @@
 # SR-003 — Broaden the fixed stock comparison
 
+## Owner research-review amendment — October 7, 2026
+
+The owner explicitly waived separate code/PR review for this strategy-research project and authorized autonomous work within its operating scope. This supersedes older mandatory Codex-review clauses in research plans, templates, checklists and pending-delivery descriptions, including SR-006's review activation dependency. Separate review is optional, not a merge/Done gate. No completed review is retrospectively claimed. This does not waive source qualification, causal validity, independent relevant numerical verification, CI, privacy, exact source/artifact verification, release acceptance or current scope. It does not apply to equity-features or chartsspeak development. Retain the eight tracking stages; Code review records agent evidence inspection and the owner waiver, not independent approval. Frozen historical receipts remain unchanged; old review requirements below are historical where they conflict with this amendment.
+
+
 ## M1 restricted protocol amendment — October 6, 2026
 
 The original broad-cohort/two-control pullback proposal below is preserved, not the qualified executable plan. The owner-authorized restricted amendment is [frozen methodology](../../reports/M1-methodology.md): one new one-day relative-loser capped long tilt, one same-name/date/exposure equal-weight baseline, five sessions, primary cost plus three stresses. Fixed 18-stock approved quality-conditioned cohort and both exposed R2 windows; final access disabled. No unchanged pullback retry, grid or representative-universe inference. New operators qualified before outcomes. [Completed scientific result](../../reports/M1-development.md) is inconclusive; actual separate final-head review and declared delivery remain pending. No public Done/alpha claim.

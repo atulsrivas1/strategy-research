@@ -1,0 +1,149 @@
+[
+  {
+    "file": "A-intraday/A1-inventory-skew-market-making.md",
+    "source_sha256": "5164e26bb2290b985ca91860b6768d9ceb47e3010cb5d1716c3e5bf97521ed59",
+    "private_sha256": "5164e26bb2290b985ca91860b6768d9ceb47e3010cb5d1716c3e5bf97521ed59",
+    "public_sha256": "5164e26bb2290b985ca91860b6768d9ceb47e3010cb5d1716c3e5bf97521ed59",
+    "transformations": []
+  },
+  {
+    "file": "A-intraday/A2-opening-range-breakout-intraday-momentum.md",
+    "source_sha256": "6ce40dd0c2a81c3e286b0803d49dc1e1a74c43ad597df2cb598bf26ddc2830d5",
+    "private_sha256": "6ce40dd0c2a81c3e286b0803d49dc1e1a74c43ad597df2cb598bf26ddc2830d5",
+    "public_sha256": "6ce40dd0c2a81c3e286b0803d49dc1e1a74c43ad597df2cb598bf26ddc2830d5",
+    "transformations": []
+  },
+  {
+    "file": "A-intraday/A3-vwap-anchored-vwap-reversion.md",
+    "source_sha256": "151b61997aad62a33237561b2abdfe2aff3f78cae6342808b402533e471b3251",
+    "private_sha256": "151b61997aad62a33237561b2abdfe2aff3f78cae6342808b402533e471b3251",
+    "public_sha256": "151b61997aad62a33237561b2abdfe2aff3f78cae6342808b402533e471b3251",
+    "transformations": []
+  },
+  {
+    "file": "A-intraday/A4-volume-profile-order-flow-auction.md",
+    "source_sha256": "93ebe02ef4f93de804f9f78ba4a28fca93a0b84ca60a4c365c15bb21a61e890d",
+    "private_sha256": "93ebe02ef4f93de804f9f78ba4a28fca93a0b84ca60a4c365c15bb21a61e890d",
+    "public_sha256": "93ebe02ef4f93de804f9f78ba4a28fca93a0b84ca60a4c365c15bb21a61e890d",
+    "transformations": []
+  },
+  {
+    "file": "B-short-term/B1-rsi2-short-term-reversal.md",
+    "source_sha256": "32a231710dcb47617508e0f785e23754c0d7985ffae5793615553546a74446b7",
+    "private_sha256": "32a231710dcb47617508e0f785e23754c0d7985ffae5793615553546a74446b7",
+    "public_sha256": "32a231710dcb47617508e0f785e23754c0d7985ffae5793615553546a74446b7",
+    "transformations": []
+  },
+  {
+    "file": "B-short-term/B2-overnight-drift-gap-fade.md",
+    "source_sha256": "cebf9f52bdf5875984f4afa540a116e994f5c39cac4827ef8a692f33f5047014",
+    "private_sha256": "cebf9f52bdf5875984f4afa540a116e994f5c39cac4827ef8a692f33f5047014",
+    "public_sha256": "cebf9f52bdf5875984f4afa540a116e994f5c39cac4827ef8a692f33f5047014",
+    "transformations": []
+  },
+  {
+    "file": "B-short-term/B3-post-earnings-announcement-drift.md",
+    "source_sha256": "4d06cfc33720b0223fa35eccfd7e9166ee02c5bd9ee398366ed406dba9e43e56",
+    "private_sha256": "4d06cfc33720b0223fa35eccfd7e9166ee02c5bd9ee398366ed406dba9e43e56",
+    "public_sha256": "4d06cfc33720b0223fa35eccfd7e9166ee02c5bd9ee398366ed406dba9e43e56",
+    "transformations": []
+  },
+  {
+    "file": "B-short-term/B4-pairs-trading-statistical-arbitrage.md",
+    "source_sha256": "e87e2dd6475beb84cc36b080771a1004b9580fb33070dd126f72080a36fc614c",
+    "private_sha256": "e87e2dd6475beb84cc36b080771a1004b9580fb33070dd126f72080a36fc614c",
+    "public_sha256": "e87e2dd6475beb84cc36b080771a1004b9580fb33070dd126f72080a36fc614c",
+    "transformations": []
+  },
+  {
+    "file": "C-vol-and-flow/C1-variance-risk-premium-harvesting.md",
+    "source_sha256": "6cf177b6f5d3d80d096cb9ba5f8fb97c30459e425bbb2304d7ef33a442b2fe54",
+    "private_sha256": "6cf177b6f5d3d80d096cb9ba5f8fb97c30459e425bbb2304d7ef33a442b2fe54",
+    "public_sha256": "6cf177b6f5d3d80d096cb9ba5f8fb97c30459e425bbb2304d7ef33a442b2fe54",
+    "transformations": []
+  },
+  {
+    "file": "C-vol-and-flow/C2-dispersion-correlation-trading.md",
+    "source_sha256": "0fa6661887567ee1cebdd7b77dc11ba1a329d7cae255e8ea74a0f582e5586c26",
+    "private_sha256": "0fa6661887567ee1cebdd7b77dc11ba1a329d7cae255e8ea74a0f582e5586c26",
+    "public_sha256": "0fa6661887567ee1cebdd7b77dc11ba1a329d7cae255e8ea74a0f582e5586c26",
+    "transformations": []
+  },
+  {
+    "file": "C-vol-and-flow/C3-dealer-gamma-exposure-opex-flows.md",
+    "source_sha256": "7c1ec15fd9aee0e9ea9e084d042152e7aa3b195d843f29ef497e683a08e9f9e2",
+    "private_sha256": "7c1ec15fd9aee0e9ea9e084d042152e7aa3b195d843f29ef497e683a08e9f9e2",
+    "public_sha256": "7c1ec15fd9aee0e9ea9e084d042152e7aa3b195d843f29ef497e683a08e9f9e2",
+    "transformations": []
+  },
+  {
+    "file": "C-vol-and-flow/C4-crypto-funding-basis-carry.md",
+    "source_sha256": "ca14936e07b4a1ad18e9b2a6e88ccc331409fa6d139afa2004fb536feeb4024f",
+    "private_sha256": "ca14936e07b4a1ad18e9b2a6e88ccc331409fa6d139afa2004fb536feeb4024f",
+    "public_sha256": "ca14936e07b4a1ad18e9b2a6e88ccc331409fa6d139afa2004fb536feeb4024f",
+    "transformations": []
+  },
+  {
+    "file": "D-medium-term/D1-trend-following-turtles-cta.md",
+    "source_sha256": "c41507c0a6099f67be4f57474dce975e0ea86091d66ce5d7f9d64bc95274f195",
+    "private_sha256": "c41507c0a6099f67be4f57474dce975e0ea86091d66ce5d7f9d64bc95274f195",
+    "public_sha256": "c41507c0a6099f67be4f57474dce975e0ea86091d66ce5d7f9d64bc95274f195",
+    "transformations": []
+  },
+  {
+    "file": "D-medium-term/D2-cross-sectional-momentum.md",
+    "source_sha256": "c015504bf16b03e44c36abe3ac73d51dfee65946e9a626b07f6f9bf75fe17efc",
+    "private_sha256": "c015504bf16b03e44c36abe3ac73d51dfee65946e9a626b07f6f9bf75fe17efc",
+    "public_sha256": "c015504bf16b03e44c36abe3ac73d51dfee65946e9a626b07f6f9bf75fe17efc",
+    "transformations": []
+  },
+  {
+    "file": "D-medium-term/D3-carry-fx-futures.md",
+    "source_sha256": "23b51b0d905e1208bd8fd494b63ef1a18fa24fea5f536f38d6bd198e6cd06961",
+    "private_sha256": "23b51b0d905e1208bd8fd494b63ef1a18fa24fea5f536f38d6bd198e6cd06961",
+    "public_sha256": "23b51b0d905e1208bd8fd494b63ef1a18fa24fea5f536f38d6bd198e6cd06961",
+    "transformations": []
+  },
+  {
+    "file": "D-medium-term/D4-seasonality-fomc-turn-of-month.md",
+    "source_sha256": "818af70dd6b052911fbbab6f39e15e830c558a02fb32bb104ce573e3f1969dc6",
+    "private_sha256": "818af70dd6b052911fbbab6f39e15e830c558a02fb32bb104ce573e3f1969dc6",
+    "public_sha256": "818af70dd6b052911fbbab6f39e15e830c558a02fb32bb104ce573e3f1969dc6",
+    "transformations": []
+  },
+  {
+    "file": "E-long-term/E1-value-plus-quality.md",
+    "source_sha256": "7c6e733b8db0b59b7f83541fe260b4bad149c5bd88b48e3ae144ac867227dd28",
+    "private_sha256": "7c6e733b8db0b59b7f83541fe260b4bad149c5bd88b48e3ae144ac867227dd28",
+    "public_sha256": "7c6e733b8db0b59b7f83541fe260b4bad149c5bd88b48e3ae144ac867227dd28",
+    "transformations": []
+  },
+  {
+    "file": "E-long-term/E2-low-volatility-betting-against-beta.md",
+    "source_sha256": "b2ebbf51a1964d32cb46de7323c6e29ae7d8a5c8ee9d8fcee82f53caff8e324e",
+    "private_sha256": "b2ebbf51a1964d32cb46de7323c6e29ae7d8a5c8ee9d8fcee82f53caff8e324e",
+    "public_sha256": "b2ebbf51a1964d32cb46de7323c6e29ae7d8a5c8ee9d8fcee82f53caff8e324e",
+    "transformations": []
+  },
+  {
+    "file": "E-long-term/E3-risk-parity-all-weather.md",
+    "source_sha256": "1590ca70b89f88b507e4992dc05931733a0953652fdbc54c73a8a56029963f54",
+    "private_sha256": "1590ca70b89f88b507e4992dc05931733a0953652fdbc54c73a8a56029963f54",
+    "public_sha256": "1590ca70b89f88b507e4992dc05931733a0953652fdbc54c73a8a56029963f54",
+    "transformations": []
+  },
+  {
+    "file": "E-long-term/E4-canslim-minervini-growth-breakout.md",
+    "source_sha256": "0c14cb57298d5a86347d323637002ee991198d810a1eac1c0259975bfcc97792",
+    "private_sha256": "0c14cb57298d5a86347d323637002ee991198d810a1eac1c0259975bfcc97792",
+    "public_sha256": "0c14cb57298d5a86347d323637002ee991198d810a1eac1c0259975bfcc97792",
+    "transformations": []
+  },
+  {
+    "file": "INDEX.md",
+    "source_sha256": "0d16153f5c641add9098c46ea853dbe3adf1aa2a6b39d3f67ae2fa11c6625abd",
+    "private_sha256": "0d16153f5c641add9098c46ea853dbe3adf1aa2a6b39d3f67ae2fa11c6625abd",
+    "public_sha256": "0d16153f5c641add9098c46ea853dbe3adf1aa2a6b39d3f67ae2fa11c6625abd",
+    "transformations": []
+  }
+]

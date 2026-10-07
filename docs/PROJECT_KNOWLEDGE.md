@@ -1,3 +1,12 @@
+## Combined research delivery
+
+All64imported dossiers and40E08stories coexist with the M5community plan/SR-026/027. Earlier PRs merged into parent branches did not publish the full stack to main; this integration retains both histories and resolves their overlapping planning sections. Owner research-review waiver supersedes older review clauses; scientific checks, M2partial status, M3stock-evidence dependency and M5frozen predecessor gates remain. D1/D2/E4 momentum qualification next;no new backtest/final access/release.
+
+# M2 receiving-owner readiness evidence
+
+[Bounded readiness report](../reports/M2-readiness.md):54sampled stock references supported arithmetically,201index metadata dates present but observed historical availability unqualified; quote clock/economics dependencies remain. Synthetic foundations68checks/23separate verifications,439private source checks. SR-023/024zero comparisons, SR-020final null/disabled, no promoted candidate. M2partial/unreleased; completed final-head Codex review required, original results preserved. Next highest-value work is exact source/clock and execution contracts, then complete shared harness before either empirical rework. Metadata/fixtures do not make blocked dependencies Ready.
+
+
 # C1 community release planning - October 7, 2026
 
 [E07](https://github.com/atulsrivas1/strategy-research/issues/42) adds [SR-026](https://github.com/atulsrivas1/strategy-research/issues/43) and [SR-027](https://github.com/atulsrivas1/strategy-research/issues/44) in [M5](https://github.com/atulsrivas1/strategy-research/milestone/6), coordinated with equity-features R14/[EPIC-E20](https://github.com/atulsrivas1/equity-features/issues/311). [M5 plan](releases/M5_PLAN.md) records the frozen R5-R13 and M2/M3 predecessor gates. Already deferred M4 remains excluded. All new stories are Backlog in the Project. Planning only; no market run, library takeover, outreach, new chat, schedule or published release. Actual final-head Codex review and delivery readback remain required.

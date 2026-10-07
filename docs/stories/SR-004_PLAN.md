@@ -1,5 +1,10 @@
 # SR-004 — Validate observed fills and funded stock accounting
 
+## Owner research-review amendment — October 7, 2026
+
+The owner explicitly waived separate code/PR review for this strategy-research project and authorized autonomous work within its operating scope. This supersedes older mandatory Codex-review clauses in research plans, templates, checklists and pending-delivery descriptions, including SR-006's review activation dependency. Separate review is optional, not a merge/Done gate. No completed review is retrospectively claimed. This does not waive source qualification, causal validity, independent relevant numerical verification, CI, privacy, exact source/artifact verification, release acceptance or current scope. It does not apply to equity-features or chartsspeak development. Retain the eight tracking stages; Code review records agent evidence inspection and the owner waiver, not independent approval. Frozen historical receipts remain unchanged; old review requirements below are historical where they conflict with this amendment.
+
+
 Parent: [E03](https://github.com/atulsrivas1/strategy-research/issues/10). Release plan: [M2](../releases/M2_PLAN.md). Backlog mapping: B-003. Current lifecycle is in the [Project](https://github.com/users/atulsrivas1/projects/4); readiness classification: **blocked**.
 
 ## Hypothesis and information value
@@ -38,3 +43,7 @@ Exact cash/position identity and predeclared numeric tolerances; no unsupported 
 ## Deliverables and resume
 
 Public plan, applicable sanitized result or feasibility/decision report, evidence index and delivery receipt. Detailed commands, manifests, logs, ledgers and original source provenance remain in the private evidence store. Do not fabricate a run command before implementation. Select dependency-satisfied work from the ranked backlog; no experiment starts merely because this plan exists.
+
+## M2 readiness evidence, not acceptance closure
+
+[Actual bounded findings](../../reports/M2-readiness.md) document useful outcome-free work and remaining dependencies. No strategy result, observed-fill qualification, final access, completed hosted review, release or Done claim. Original plans retained; full applicable acceptance remains open.
