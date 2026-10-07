@@ -1,3 +1,7 @@
+## Additional V3 import — October 7, 2026
+
+[V3 catalog and eight linked stories](strategy-library-v3/CATALOG.md), [source caveats](strategy-library-v3/IMPORT_NOTES.md). E08 now has28 children: SR-028–055. M6 planned8 scoped readiness/stock stories, M4 deferred20 library stories; other existing M4 stories remain. D1/D2/E4 momentum order unchanged. V3-04 filing/routine classification is blocked for empirical work; seven V3 ideas excluded this pass. No outcomes/backtests/final access.
+
 ## Library expansion: E08 / M6
 
 [All 20 dossier stories and ranked catalog](strategy-library/CATALOG.md); [M6 plan](releases/M6_PLAN.md). E08 covers SR-028–047; SR-026/027 and M5 remain separately owned community work in [PR45](https://github.com/atulsrivas1/strategy-research/pull/45). Seven eligible stock/readiness stories assigned M6; thirteen excluded strategies M4. D1 then D2 then E4; no new backtest or final access. Review waiver recorded, scientific gates retained.

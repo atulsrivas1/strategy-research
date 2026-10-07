@@ -46,3 +46,17 @@ Thirteen additional archival qualification stories; this does not authorize exec
 - [SR-044](https://github.com/atulsrivas1/strategy-research/issues/63) — E1: Deferred: years; possible later context does not authorize fundamental strategy
 - [SR-045](https://github.com/atulsrivas1/strategy-research/issues/64) — E2: Deferred: years/leverage/short hedge; no daily stock adaptation selected
 - [SR-046](https://github.com/atulsrivas1/strategy-research/issues/65) — E3: Deferred: multi-asset years, futures and leverage outside scope
+
+- [SR-048](https://github.com/atulsrivas1/strategy-research/issues/68) — V3-01: Deferred: close/overnight holding outside 2–10 sessions
+
+- [SR-049](https://github.com/atulsrivas1/strategy-research/issues/69) — V3-02: Deferred: intraday and original SPY instrument excluded
+
+- [SR-050](https://github.com/atulsrivas1/strategy-research/issues/70) — V3-03: Deferred: one-session/intraday and futures variants excluded; primary book unread
+
+- [SR-052](https://github.com/atulsrivas1/strategy-research/issues/72) — V3-05: Deferred: deal-life horizon and stock-deal hedges/borrow outside scope
+
+- [SR-053](https://github.com/atulsrivas1/strategy-research/issues/73) — V3-06: Deferred: 12–24 month horizon outside current pass
+
+- [SR-054](https://github.com/atulsrivas1/strategy-research/issues/74) — V3-07: Deferred: futures and monthly roll outside scope; roll appendix unread
+
+- [SR-055](https://github.com/atulsrivas1/strategy-research/issues/75) — V3-08: Deferred: one-year holding outside scope; point-in-time fundamentals unqualified

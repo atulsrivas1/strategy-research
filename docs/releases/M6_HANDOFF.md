@@ -1,3 +1,7 @@
+## V3 readiness amendment
+
+Eight M6 questions now include [SR-051](../stories/SR-051_PLAN.md), blocked for empirical work on exact routine-year cutoff and public Form4 history. D1 remains first; V3 canonical holdouts/risk limits are archived proposals, not this project protocol.
+
 # M6 — qualification handoff, not dispatched
 
 Read AGENTS, workflow, brief, lessons, catalog and M6 plan. First story [SR-040](../stories/SR-040_PLAN.md): outcome-free D1 primary-source/rule/data-clock qualification. Record material actually read and supporting/contradictory claims. Proposed prior-20 high breakout and five-session hold are a new stock adaptation, not an ETF/monthly replication. Do not run a grid or reuse rejected M2 gates.

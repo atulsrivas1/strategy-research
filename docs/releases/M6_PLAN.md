@@ -22,8 +22,12 @@ Before historical access specify full inputs/available-at clocks, missing values
 
 ## Release acceptance
 
-Reconcile seven assigned stories and dependencies; preserve inaccessible sources, negative findings, amendments, failures and actual results or exact blockers. Include primary sources actually read, manifests, checks/CI, scoped claims and verified sanitized delivered bytes. Separate research PR review is optional under owner waiver; no review completion fabricated. Plans/issues/milestones are not releases. Do not tag/publish M6 until its frozen scope is accepted and source/artifact receipt exists. M0/M1 historical published snapshots remain intact; M2 remains partial.
+Reconcile eight assigned stories and dependencies; preserve inaccessible sources, negative findings, amendments, failures and actual results or exact blockers. Include primary sources actually read, manifests, checks/CI, scoped claims and verified sanitized delivered bytes. Separate research PR review is optional under owner waiver; no review completion fabricated. Plans/issues/milestones are not releases. Do not tag/publish M6 until its frozen scope is accepted and source/artifact receipt exists. M0/M1 historical published snapshots remain intact; M2 remains partial.
 
 ## Handoff
 
 [M6 qualification handoff](M6_HANDOFF.md). No new chat, experiment worker or recurring schedule created. Resume D1 source/rule qualification, not a bulk runner. After every experiment update the ranked backlog, index, lessons, exposure registry and next question, including rejected ideas and reasons.
+
+- [SR-051](https://github.com/atulsrivas1/strategy-research/issues/71) — V3-04: Blocked empirical; exploratory five-session adaptation only, canonical hold about one month
+
+V3 import amendment: SR-051 adds only insider-source/five-session adaptation readiness. Original seven-story momentum scope retained; eight current assigned questions include honest blocked qualification dispositions. No extra empirical budget.

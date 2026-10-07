@@ -1,3 +1,7 @@
+## Additional library
+
+[V3 eight-note catalog](../strategy-library-v3/CATALOG.md) extends E08 to28 stories. First-library ranking below remains; V3-04 joins in-scope readiness after momentum questions, seven others deferred.
+
 # Strategy library — ranked qualification backlog
 
 [Provenance and caveats](IMPORT_NOTES.md); [original index](INDEX.md). All 20 scientific ideas are untested locally; archival/import work is completed. Ready means outcome-free design only; historical tests still need exact contracts and a frozen budget. M4 is deferred, not an execution commitment.

@@ -1,3 +1,7 @@
+## Additional V3 import — October 7, 2026
+
+[V3 catalog and eight linked stories](strategy-library-v3/CATALOG.md), [source caveats](strategy-library-v3/IMPORT_NOTES.md). E08 now has28 children: SR-028–055. M6 planned8 scoped readiness/stock stories, M4 deferred20 library stories; other existing M4 stories remain. D1/D2/E4 momentum order unchanged. V3-04 filing/routine classification is blocked for empirical work; seven V3 ideas excluded this pass. No outcomes/backtests/final access.
+
 ## Ranked imported hypotheses — current qualification order
 
 Each linked plan records mechanism/sources, inputs/dependencies, baseline, falsification/acceptance, value/effort and status. No empirical trials authorized by this table.
