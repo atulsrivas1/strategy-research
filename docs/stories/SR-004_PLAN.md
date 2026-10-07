@@ -38,3 +38,7 @@ Exact cash/position identity and predeclared numeric tolerances; no unsupported 
 ## Deliverables and resume
 
 Public plan, applicable sanitized result or feasibility/decision report, evidence index and delivery receipt. Detailed commands, manifests, logs, ledgers and original source provenance remain in the private evidence store. Do not fabricate a run command before implementation. Select dependency-satisfied work from the ranked backlog; no experiment starts merely because this plan exists.
+
+## M2 readiness evidence, not acceptance closure
+
+[Actual bounded findings](../../reports/M2-readiness.md) document useful outcome-free work and remaining dependencies. No strategy result, observed-fill qualification, final access, completed hosted review, release or Done claim. Original plans retained; full applicable acceptance remains open.

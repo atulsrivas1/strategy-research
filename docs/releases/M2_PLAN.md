@@ -35,3 +35,7 @@ Release ordering: M0 qualified foundation; M1 fixed stock development; M2 credib
 ## Declared channel and receipt
 
 Public GitHub documentation/aggregate evidence snapshot plus private reproducibility records. A milestone, issue, PR or draft checklist is not a published release. Create the actual tag/GitHub release only after readiness; no empty release now. Receipt must name exact source SHA/tag, reviewer response and reviewed head, check URLs, artifact hashes, included stories, scientific verdicts/limitations and post-publication verification. No package or trading-system deployment is implied.
+
+## Receiving-owner partial evidence
+
+[Readiness report](../../reports/M2-readiness.md) and artificial fixtures cover bounded field/metadata/accounting checks. Missing historical clock/execution/evaluator contracts keep empirical reworks and release acceptance blocked. No de-scoping or release claim.

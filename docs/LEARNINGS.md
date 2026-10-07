@@ -1,3 +1,7 @@
+# M2 receiving-owner readiness evidence
+
+[Bounded readiness report](../reports/M2-readiness.md):54sampled stock references supported arithmetically,201index metadata dates present but observed historical availability unqualified; quote clock/economics dependencies remain. Synthetic foundations68checks/23separate verifications,439private source checks. SR-023/024zero comparisons, SR-020final null/disabled, no promoted candidate. M2partial/unreleased; completed final-head Codex review required, original results preserved. Next highest-value work is exact source/clock and execution contracts, then complete shared harness before either empirical rework. Metadata/fixtures do not make blocked dependencies Ready.
+
 # Context rework is an untested incremental hypothesis
 
 Preserve original inconclusive scanner results. A context filter can discard rebound winners and alter exposure; avoided losers alone are not evidence of benefit. [Protocol](knowledge/SCANNER_CONTEXT_PROTOCOL.md), [new story plans](ROADMAP.md). No local context replay has run; prior option findings remain imported/report-based.

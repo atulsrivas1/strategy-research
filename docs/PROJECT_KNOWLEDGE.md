@@ -1,3 +1,7 @@
+# M2 receiving-owner readiness evidence
+
+[Bounded readiness report](../reports/M2-readiness.md):54sampled stock references supported arithmetically,201index metadata dates present but observed historical availability unqualified; quote clock/economics dependencies remain. Synthetic foundations68checks/23separate verifications,439private source checks. SR-023/024zero comparisons, SR-020final null/disabled, no promoted candidate. M2partial/unreleased; completed final-head Codex review required, original results preserved. Next highest-value work is exact source/clock and execution contracts, then complete shared harness before either empirical rework. Metadata/fixtures do not make blocked dependencies Ready.
+
 # Context-conditioned stock rework — planning, not new results
 
 [E06](https://github.com/atulsrivas1/strategy-research/issues/34) adds four versioned stories to M2: [SR-022](https://github.com/atulsrivas1/strategy-research/issues/35), [SR-023](https://github.com/atulsrivas1/strategy-research/issues/36), [SR-024](https://github.com/atulsrivas1/strategy-research/issues/37), [SR-025](https://github.com/atulsrivas1/strategy-research/issues/38). [Protocol](knowledge/SCANNER_CONTEXT_PROTOCOL.md); [M2 plan](releases/M2_PLAN.md). SR-022 is Ready for input qualification; SR-025 and the two replay stories remain blocked/Backlog until dependencies qualify. Live [Project](https://github.com/users/atulsrivas1/projects/4) remains status authority.

@@ -55,3 +55,7 @@ No live orders, purchases, source-production jobs or automatic new session/sched
 ## Deliverables and resume
 
 Versioned specification, field/clock coverage manifest or honest blocker, independent relevant checks, complete commands/provenance and failed attempts, scoped report/lessons/index/backlog/handoff. Original results remain immutable; no final holdout or new session is created. First qualify SR-022, then the shared SR-025/SR-004 gates before either replay. Exact source/CI/reviewer response and publication verification precede Done.
+
+## M2 readiness evidence, not acceptance closure
+
+[Actual bounded findings](../../reports/M2-readiness.md) document useful outcome-free work and remaining dependencies. No strategy result, observed-fill qualification, final access, completed hosted review, release or Done claim. Original plans retained; full applicable acceptance remains open.
