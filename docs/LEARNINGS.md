@@ -1,3 +1,19 @@
+# Veto diagnosis and next mechanism design
+
+[Exclusive saved-ledger attribution](../reports/M2-veto-diagnosis.md): market-only vetoes sacrifice the largest exclusive winning contribution, but shared vetoes prevent unique credit. Both gates remain parked, no new ablation/replay. [Next proposed hypothesis](knowledge/EVENT_CONTINUATION_DESIGN.md) is earnings-event continuation with explicit counterevidence; empirical blocked on exact event/forecast contracts and support. Next Ready work is outcome-free source trace; M2partial, final disabled, normal review required.
+
+# Owner-approved exploratory proxy results
+
+[Two context comparisons](../reports/M2-context-proxy.md) rejected the frozen incremental-benefit criterion: validation -55.43/-24.05bps per original sleeve; intervals include zero and both sacrificed more winners than avoided losses. Both studies use reconstructed historical inputs/assumed costs, not observed delivery or fills. Two-trial budget exhausted, final disabled. Original findings preserved; M2partial, full execution/fresh-evidence/review gates open.
+
+# Latest M2 continuation — additional readiness, no replay
+
+Targeted source lineage still lacks sampled old-period quote/index availability evidence. New five-session artificial scanner/sleeve accounting passes29controls/67separate checks and16public witness checks. [Evidence and limits](../reports/M2-readiness.md). Both replays remain blocked; final disabled, original inconclusive results unchanged, no market outcome access. Review/publication gates remain unresolved.
+
+# M2 receiving-owner readiness evidence
+
+[Bounded readiness report](../reports/M2-readiness.md):54sampled stock references supported arithmetically,201index metadata dates present but observed historical availability unqualified; quote clock/economics dependencies remain. Synthetic foundations68checks/23separate verifications,439private source checks. SR-023/024zero comparisons, SR-020final null/disabled, no promoted candidate. M2partial/unreleased; completed final-head Codex review required, original results preserved. Next highest-value work is exact source/clock and execution contracts, then complete shared harness before either empirical rework. Metadata/fixtures do not make blocked dependencies Ready.
+
 # Context rework is an untested incremental hypothesis
 
 Preserve original inconclusive scanner results. A context filter can discard rebound winners and alter exposure; avoided losers alone are not evidence of benefit. [Protocol](knowledge/SCANNER_CONTEXT_PROTOCOL.md), [new story plans](ROADMAP.md). No local context replay has run; prior option findings remain imported/report-based.

@@ -1,3 +1,7 @@
+## Owner research-review amendment — October 7, 2026
+
+The owner explicitly waived separate code/PR review for this strategy-research project and authorized autonomous work within its operating scope. This supersedes older mandatory Codex-review clauses in research plans, templates, checklists and pending-delivery descriptions, including SR-006's review activation dependency. Separate review is optional, not a merge/Done gate. No completed review is retrospectively claimed. This does not waive source qualification, causal validity, independent relevant numerical verification, CI, privacy, exact source/artifact verification, release acceptance or current scope. It does not apply to equity-features or chartsspeak development. Retain the eight tracking stages; Code review records agent evidence inspection and the owner waiver, not independent approval. Frozen historical receipts remain unchanged; old review requirements below are historical where they conflict with this amendment.
+
 # Standing scanner/context requirement
 
 Every future strategy test compares its frozen primary scanner alone with one preregistered decision-time stock/market-context policy. Qualify historical available-at clocks, report alignment/conflict/neutral/unknown, preserve original opportunities and account for lost winners alongside avoided losses net of costs. Read [protocol](docs/knowledge/SCANNER_CONTEXT_PROTOCOL.md). Do not retrospectively filter known losers or reopen released results silently.

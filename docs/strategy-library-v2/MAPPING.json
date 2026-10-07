@@ -1,0 +1,290 @@
+[
+  {
+    "note": "01",
+    "file": "01-ultra-queue-imbalance-market-making.md",
+    "story": "SR-028",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/47",
+    "release": "M4",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "02",
+    "file": "02-ultra-latency-cross-venue-arb.md",
+    "story": "SR-056",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/76",
+    "release": "M4",
+    "kind": "Distinct question; new qualification story"
+  },
+  {
+    "note": "03",
+    "file": "03-ultra-tape-reading-scalping.md",
+    "story": "SR-031",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/50",
+    "release": "M4",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "04",
+    "file": "04-ultra-inventory-skew-avellaneda-stoikov.md",
+    "story": "SR-028",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/47",
+    "release": "M4",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "05",
+    "file": "05-ultra-opening-drive-scalping.md",
+    "story": "SR-057",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/77",
+    "release": "M4",
+    "kind": "Distinct question; new qualification story"
+  },
+  {
+    "note": "06",
+    "file": "06-ultra-liquidity-sweep-fade.md",
+    "story": "SR-058",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/78",
+    "release": "M4",
+    "kind": "Distinct question; new qualification story"
+  },
+  {
+    "note": "07",
+    "file": "07-intraday-crabel-orb.md",
+    "story": "SR-029",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/48",
+    "release": "M4",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "08",
+    "file": "08-intraday-fisher-acd.md",
+    "story": "SR-059",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/79",
+    "release": "M4",
+    "kind": "Distinct question; new qualification story"
+  },
+  {
+    "note": "09",
+    "file": "09-intraday-vwap-reversion.md",
+    "story": "SR-030",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/49",
+    "release": "M4",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "10",
+    "file": "10-intraday-aziz-bull-flag.md",
+    "story": "SR-060",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/80",
+    "release": "M4",
+    "kind": "Distinct question; new qualification story"
+  },
+  {
+    "note": "11",
+    "file": "11-intraday-raschke-taylor-cycle.md",
+    "story": "SR-061",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/81",
+    "release": "M4",
+    "kind": "Distinct question; new qualification story"
+  },
+  {
+    "note": "12",
+    "file": "12-intraday-wyckoff-orderflow.md",
+    "story": "SR-031",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/50",
+    "release": "M4",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "13",
+    "file": "13-swing-connors-rsi2.md",
+    "story": "SR-032",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/51",
+    "release": "M6",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "14",
+    "file": "14-swing-qullamaggie-episodic-pivots.md",
+    "story": "SR-062",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/82",
+    "release": "M6",
+    "kind": "Distinct question; new qualification story"
+  },
+  {
+    "note": "15",
+    "file": "15-swing-pairs-stat-arb.md",
+    "story": "SR-035",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/54",
+    "release": "M4",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "16",
+    "file": "16-swing-overnight-gap-momentum.md",
+    "story": "SR-033",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/52",
+    "release": "M6",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "17",
+    "file": "17-swing-darvas-box.md",
+    "story": "SR-047",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/66",
+    "release": "M6",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "18",
+    "file": "18-swing-bonde-high-tight-flag.md",
+    "story": "SR-063",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/83",
+    "release": "M6",
+    "kind": "Distinct question; new qualification story"
+  },
+  {
+    "note": "19",
+    "file": "19-position-livermore-trend.md",
+    "story": "SR-040",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/59",
+    "release": "M6",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "20",
+    "file": "20-position-turtle-trend.md",
+    "story": "SR-040",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/59",
+    "release": "M6",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "21",
+    "file": "21-position-oneil-canslim.md",
+    "story": "SR-047",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/66",
+    "release": "M6",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "22",
+    "file": "22-position-minervini-sepa.md",
+    "story": "SR-047",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/66",
+    "release": "M6",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "23",
+    "file": "23-position-dual-momentum.md",
+    "story": "SR-064",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/84",
+    "release": "M4",
+    "kind": "Distinct question; new qualification story"
+  },
+  {
+    "note": "24",
+    "file": "24-position-pead-drift.md",
+    "story": "SR-034",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/53",
+    "release": "M6",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "25",
+    "file": "25-portfolio-dalio-allweather.md",
+    "story": "SR-046",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/65",
+    "release": "M4",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "26",
+    "file": "26-portfolio-vrp-put-writing.md",
+    "story": "SR-036",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/55",
+    "release": "M4",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "27",
+    "file": "27-portfolio-managed-futures-cta.md",
+    "story": "SR-040",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/59",
+    "release": "M6",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "28",
+    "file": "28-portfolio-fx-carry.md",
+    "story": "SR-042",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/61",
+    "release": "M4",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "29",
+    "file": "29-portfolio-multifactor-ensemble.md",
+    "story": "SR-044",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/63",
+    "release": "M4",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "30",
+    "file": "30-portfolio-tail-hedge-universa.md",
+    "story": "SR-065",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/85",
+    "release": "M4",
+    "kind": "Distinct question; new qualification story"
+  },
+  {
+    "note": "31",
+    "file": "31-invest-buffett-value.md",
+    "story": "SR-044",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/63",
+    "release": "M4",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "32",
+    "file": "32-invest-lynch-garp.md",
+    "story": "SR-066",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/86",
+    "release": "M4",
+    "kind": "Distinct question; new qualification story"
+  },
+  {
+    "note": "33",
+    "file": "33-invest-greenblatt-magic-formula.md",
+    "story": "SR-044",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/63",
+    "release": "M4",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "34",
+    "file": "34-invest-piotroski-fscore.md",
+    "story": "SR-044",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/63",
+    "release": "M4",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "35",
+    "file": "35-invest-terry-smith-quality.md",
+    "story": "SR-044",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/63",
+    "release": "M4",
+    "kind": "Existing family; V2 variants retained, not identical tested rules"
+  },
+  {
+    "note": "36",
+    "file": "36-invest-permanent-index-tilt.md",
+    "story": "SR-067",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/87",
+    "release": "M4",
+    "kind": "Distinct question; new qualification story"
+  }
+]

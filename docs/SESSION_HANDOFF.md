@@ -1,3 +1,40 @@
+## Combined research delivery
+
+All64imported dossiers and40E08stories coexist with the M5community plan/SR-026/027. Earlier PRs merged into parent branches did not publish the full stack to main; this integration retains both histories and resolves their overlapping planning sections. Owner research-review waiver supersedes older review clauses; scientific checks, M2partial status, M3stock-evidence dependency and M5frozen predecessor gates remain. D1/D2/E4 momentum qualification next;no new backtest/final access/release.
+
+## V2 import and deduplication
+
+[All36notes mapped](strategy-library-v2/CATALOG.md), [source caveats](strategy-library-v2/IMPORT_NOTES.md).24existing family mappings;12new stories SR-056–067. E08now40children across64imported dossiers;M6planned10readiness/stock questions andM4deferred30library questions. D1/D2/E4 unchanged first;no replay/final access. Old counts below retained as history.
+
+## Additional V3 import — October 7, 2026
+
+[V3 catalog and eight linked stories](strategy-library-v3/CATALOG.md), [source caveats](strategy-library-v3/IMPORT_NOTES.md). E08 now has28 children: SR-028–055. M6 planned8 scoped readiness/stock stories, M4 deferred20 library stories; other existing M4 stories remain. D1/D2/E4 momentum order unchanged. V3-04 filing/routine classification is blocked for empirical work; seven V3 ideas excluded this pass. No outcomes/backtests/final access.
+
+## Current next work: M6 momentum qualification
+
+[All 20 dossier stories and ranked catalog](strategy-library/CATALOG.md); [M6 plan](releases/M6_PLAN.md). E08 covers SR-028–047; SR-026/027 and M5 remain separately owned community work in [PR45](https://github.com/atulsrivas1/strategy-research/pull/45). Seven eligible stock/readiness stories assigned M6; thirteen excluded strategies M4. D1 then D2 then E4; no new backtest or final access. Review waiver recorded, scientific gates retained.
+
+## Owner research-review amendment — October 7, 2026
+
+The owner explicitly waived separate code/PR review for this strategy-research project and authorized autonomous work within its operating scope. This supersedes older mandatory Codex-review clauses in research plans, templates, checklists and pending-delivery descriptions, including SR-006's review activation dependency. Separate review is optional, not a merge/Done gate. No completed review is retrospectively claimed. This does not waive source qualification, causal validity, independent relevant numerical verification, CI, privacy, exact source/artifact verification, release acceptance or current scope. It does not apply to equity-features or chartsspeak development. Retain the eight tracking stages; Code review records agent evidence inspection and the owner waiver, not independent approval. Frozen historical receipts remain unchanged; old review requirements below are historical where they conflict with this amendment.
+
+# Veto diagnosis and next mechanism design
+
+[Exclusive saved-ledger attribution](../reports/M2-veto-diagnosis.md): market-only vetoes sacrifice the largest exclusive winning contribution, but shared vetoes prevent unique credit. Both gates remain parked, no new ablation/replay. [Next proposed hypothesis](knowledge/EVENT_CONTINUATION_DESIGN.md) is earnings-event continuation with explicit counterevidence; empirical blocked on exact event/forecast contracts and support. Next Ready work is outcome-free source trace; M2partial, final disabled, normal review required.
+
+# Owner-approved exploratory proxy results
+
+[Two context comparisons](../reports/M2-context-proxy.md) rejected the frozen incremental-benefit criterion: validation -55.43/-24.05bps per original sleeve; intervals include zero and both sacrificed more winners than avoided losses. Both studies use reconstructed historical inputs/assumed costs, not observed delivery or fills. Two-trial budget exhausted, final disabled. Original findings preserved; M2partial, full execution/fresh-evidence/review gates open.
+
+# Latest M2 continuation — additional readiness, no replay
+
+Targeted source lineage still lacks sampled old-period quote/index availability evidence. New five-session artificial scanner/sleeve accounting passes29controls/67separate checks and16public witness checks. [Evidence and limits](../reports/M2-readiness.md). Both replays remain blocked; final disabled, original inconclusive results unchanged, no market outcome access. Review/publication gates remain unresolved.
+
+# M2 receiving-owner readiness evidence
+
+[Bounded readiness report](../reports/M2-readiness.md):54sampled stock references supported arithmetically,201index metadata dates present but observed historical availability unqualified; quote clock/economics dependencies remain. Synthetic foundations68checks/23separate verifications,439private source checks. SR-023/024zero comparisons, SR-020final null/disabled, no promoted candidate. M2partial/unreleased; completed final-head Codex review required, original results preserved. Next highest-value work is exact source/clock and execution contracts, then complete shared harness before either empirical rework. Metadata/fixtures do not make blocked dependencies Ready.
+
+
 # C1 community release planning - October 7, 2026
 
 [E07](https://github.com/atulsrivas1/strategy-research/issues/42) adds [SR-026](https://github.com/atulsrivas1/strategy-research/issues/43) and [SR-027](https://github.com/atulsrivas1/strategy-research/issues/44) in [M5](https://github.com/atulsrivas1/strategy-research/milestone/6), coordinated with equity-features R14/[EPIC-E20](https://github.com/atulsrivas1/equity-features/issues/311). [M5 plan](releases/M5_PLAN.md) records the frozen R5-R13 and M2/M3 predecessor gates. Already deferred M4 remains excluded. All new stories are Backlog in the Project. Planning only; no market run, library takeover, outreach, new chat, schedule or published release. Actual final-head Codex review and delivery readback remain required.

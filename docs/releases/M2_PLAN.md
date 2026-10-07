@@ -1,3 +1,11 @@
+## Owner research-review amendment — October 7, 2026
+
+The owner explicitly waived separate code/PR review for this strategy-research project and authorized autonomous work within its operating scope. This supersedes older mandatory Codex-review clauses in research plans, templates, checklists and pending-delivery descriptions, including SR-006's review activation dependency. Separate review is optional, not a merge/Done gate. No completed review is retrospectively claimed. This does not waive source qualification, causal validity, independent relevant numerical verification, CI, privacy, exact source/artifact verification, release acceptance or current scope. It does not apply to equity-features or chartsspeak development. Retain the eight tracking stages; Code review records agent evidence inspection and the owner waiver, not independent approval. Frozen historical receipts remain unchanged; old review requirements below are historical where they conflict with this amendment.
+
+# Latest owner-approved exploratory scope
+
+[Two completed context comparisons](../../reports/M2-context-proxy.md) failed the declared benefit criterion under modeled inputs/costs; intervals include zero. Earlier zero-replay statements below are historical readiness snapshots. M2 remains partial: strict execution/fresh-evidence and completed final-head review still open. No additional trial, holdout, merge or release.
+
 # M2 scope amendment — context-conditioned stock rework
 
 Owner requested versioned rework of both previously tested stock scenarios. Add [E06](https://github.com/atulsrivas1/strategy-research/issues/34) and SR-022–025 alongside original SR-004/SR-020. M2 remains planned/unreleased; no new execution owner or dates promised.
@@ -35,3 +43,7 @@ Release ordering: M0 qualified foundation; M1 fixed stock development; M2 credib
 ## Declared channel and receipt
 
 Public GitHub documentation/aggregate evidence snapshot plus private reproducibility records. A milestone, issue, PR or draft checklist is not a published release. Create the actual tag/GitHub release only after readiness; no empty release now. Receipt must name exact source SHA/tag, reviewer response and reviewed head, check URLs, artifact hashes, included stories, scientific verdicts/limitations and post-publication verification. No package or trading-system deployment is implied.
+
+## Receiving-owner partial evidence
+
+[Readiness report](../../reports/M2-readiness.md) and artificial fixtures cover bounded field/metadata/accounting checks. Missing historical clock/execution/evaluator contracts keep empirical reworks and release acceptance blocked. No de-scoping or release claim.
