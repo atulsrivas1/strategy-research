@@ -1,3 +1,14 @@
+# M2 scope amendment — context-conditioned stock rework
+
+Owner requested versioned rework of both previously tested stock scenarios. Add [E06](https://github.com/atulsrivas1/strategy-research/issues/34) and SR-022–025 alongside original SR-004/SR-020. M2 remains planned/unreleased; no new execution owner or dates promised.
+
+- [SR-022](https://github.com/atulsrivas1/strategy-research/issues/35): [SR-022 plan](../stories/SR-022_PLAN.md); Ready for qualification.
+- [SR-023](https://github.com/atulsrivas1/strategy-research/issues/36): [SR-023 plan](../stories/SR-023_PLAN.md); blocked; no replay.
+- [SR-024](https://github.com/atulsrivas1/strategy-research/issues/37): [SR-024 plan](../stories/SR-024_PLAN.md); blocked; no replay.
+- [SR-025](https://github.com/atulsrivas1/strategy-research/issues/38): [SR-025 plan](../stories/SR-025_PLAN.md); blocked; no replay.
+
+Order: qualify context, qualify causal comparison/accounting (including SR-004), then one pullback and one relative-loser overlay comparison. Original M1 outcomes remain exposed/inconclusive; SR-020 confirmation is not automatic and requires eligible frozen candidate and unused evidence. Exact scoped feasibility/defer delivery is allowed only when explicitly reconciled; blocked empirical work is not silently accepted. Follow [protocol](../knowledge/SCANNER_CONTEXT_PROTOCOL.md).
+
 # M2 — Execution and independent evidence
 
 Status: planned evidence release, not published. No date/version promise. Qualified stock execution/accounting and a frozen independent evaluation when justified.

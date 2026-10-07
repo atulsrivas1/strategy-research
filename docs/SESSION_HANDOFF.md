@@ -1,3 +1,12 @@
+# Context-conditioned stock rework — planning, not new results
+
+[E06](https://github.com/atulsrivas1/strategy-research/issues/34) adds four versioned stories to M2: [SR-022](https://github.com/atulsrivas1/strategy-research/issues/35), [SR-023](https://github.com/atulsrivas1/strategy-research/issues/36), [SR-024](https://github.com/atulsrivas1/strategy-research/issues/37), [SR-025](https://github.com/atulsrivas1/strategy-research/issues/38). [Protocol](knowledge/SCANNER_CONTEXT_PROTOCOL.md); [M2 plan](releases/M2_PLAN.md). SR-022 is Ready for input qualification; SR-025 and the two replay stories remain blocked/Backlog until dependencies qualify. Live [Project](https://github.com/users/atulsrivas1/projects/4) remains status authority.
+
+[M1 release](https://github.com/atulsrivas1/strategy-research/releases/tag/m1-restricted-evidence-v1) is delivered only within accepted scope: comparison inconclusive, auxiliary designs/feasibility/defer decisions. Five scoped stories/E02 and milestone closed after downloaded-byte/source verification; owner-human review accepted by explicit M1-only exception. No completed Codex review or independent market replication implied. Old partial/pending snapshots below are historical.
+
+Rework does not overwrite either previous stock report, select filters from known losing trades, or make old data fresh. No new replay/fit/holdout access, worker or new chat. Two new incremental context comparisons require separate budgets and qualified stock/market clocks plus applicable execution/accounting. Prior source presence/blocked metadata are readiness evidence only, not feature-wide rejection.
+
+
 # M1 evidence prepared — actual review and delivery pending
 
 [Comparison](../reports/M1-development.md), [frozen methodology](../reports/M1-methodology.md), [auxiliary decisions](../reports/M1-feasibility.md), [sources](sources/M1_REVERSAL.md). One new capped reversal tilt versus exact same-name/date equal weights is inconclusive: validation +0.6761 bps, 95% interval −8.2282 to +9.2856 bps. No final access or second candidate. Auxiliary veto/flow/model/monthly work remains design/defer only with original empirical dependencies. Same-agent separate mathematical verification is distinct from actual final-head Codex review, which remains required. M1 is partial, not released or Done; live Project owns stages. Original records below remain preserved history.

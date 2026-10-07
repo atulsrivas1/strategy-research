@@ -6,7 +6,8 @@ ROOT=Path(__file__).resolve().parents[1]
 ALLOW_ROOT={'README.md','AGENTS.md','.gitignore'}
 ALLOW_DOCS={'WORKFLOW.md','BACKLOG.md','RESEARCH_INDEX.md','ROADMAP.md','DELIVERY_POLICY.md','RESEARCH_BRIEF.md','LEARNINGS.md','CODE_REVIEW.md','PROJECT_KNOWLEDGE.md','DATA_CONTRACT.md','VALIDATION_PLAN.md','SESSION_HANDOFF.md','DASHBOARD.md','STORY_TEMPLATE.md'}
 ALLOW_OTHER={'docs/knowledge/BACKLOG_WORKFLOW.md', 'reports/SR-002-input-audit.md', 'docs/sources/SOURCE_MAP.md', 'reports/M0-qualification.md', 'fixtures/reference_machinery.py', 'docs/sources/AQUA.md', 'scripts/check_planning.py', 'reports/EQ-001-P1.md', 'scripts/check_reference_fixtures.py', '.github/PULL_REQUEST_TEMPLATE.md', 'docs/releases/M0_RECEIPT.md', '.github/workflows/planning.yml', 'fixtures/chronology.py', 'scripts/check_chronology.py', 'reports/M0-post-merge-review.md'}
-allowed=ALLOW_ROOT|{'docs/'+p for p in ALLOW_DOCS}|ALLOW_OTHER|{f'docs/stories/SR-{i:03}_PLAN.md' for i in range(1,22)}|{f'docs/releases/M{i}_PLAN.md' for i in range(5)}|{'docs/releases/M0_HANDOFF.md'}
+allowed=ALLOW_ROOT|{'docs/'+p for p in ALLOW_DOCS}|ALLOW_OTHER|{f'docs/stories/SR-{i:03}_PLAN.md' for i in range(1,26)}|{f'docs/releases/M{i}_PLAN.md' for i in range(5)}|{'docs/releases/M0_HANDOFF.md'}
+allowed|={'docs/knowledge/SCANNER_CONTEXT_PROTOCOL.md'}
 allowed|={'reports/M1-development.md','reports/M1-methodology.md','reports/M1-feasibility.md','docs/sources/M1_REVERSAL.md','docs/sources/M1_AUXILIARY.md','fixtures/m1_math.py','scripts/check_m1.py'}
 tracked={p.relative_to(ROOT).as_posix() for p in ROOT.rglob('*') if p.is_file() and '.git' not in p.relative_to(ROOT).parts and '__pycache__' not in p.relative_to(ROOT).parts}
 assert tracked==allowed, f'Unexpected/missing publication files: {sorted(tracked^allowed)}'
@@ -23,7 +24,7 @@ for name in sorted(tracked):
 stages=re.findall(r'^\| (Backlog|Ready|In progress|Code review|Test|Ready to release|Released|Done) \|',(ROOT/'docs/WORKFLOW.md').read_text(encoding='utf-8'),re.M)
 assert stages==['Backlog','Ready','In progress','Code review','Test','Ready to release','Released','Done']
 graph={}
-for i in range(1,22):
+for i in range(1,26):
     sid=f'SR-{i:03}';text=(ROOT/f'docs/stories/{sid}_PLAN.md').read_text(encoding='utf-8')
     assert text.startswith('# '+sid+' — '),sid
     for section in ['Hypothesis and information value','Sources and prior lessons','Dependencies and required data','Baseline and experiment','Acceptance and rejection','Deliverables and resume']:
@@ -38,7 +39,7 @@ def visit(sid,path):
         assert dependency in graph,(sid,dependency)
         visit(dependency,path+[sid])
 for sid in graph: visit(sid,[])
-plans='\n'.join((ROOT/f'docs/stories/SR-{i:03}_PLAN.md').read_text(encoding='utf-8') for i in range(1,22))
+plans='\n'.join((ROOT/f'docs/stories/SR-{i:03}_PLAN.md').read_text(encoding='utf-8') for i in range(1,26))
 assert set(re.findall(r'B-\d{3}',plans))=={f'B-{i:03}' for i in range(1,13)}
 assert all((ROOT/f'docs/releases/M{i}_PLAN.md').is_file() for i in range(5))
 assert 'no published' in (ROOT/'docs/ROADMAP.md').read_text(encoding='utf-8').lower() or 'no github release/tag has been published' in (ROOT/'docs/ROADMAP.md').read_text(encoding='utf-8').lower()
