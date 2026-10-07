@@ -1,5 +1,7 @@
 # SR-023 — Rework the uptrend-pullback test with context
 
+Owner scope amendment: two exploratory context price-proxy comparisons are completed under assumed historical availability/costs; [sanitized evidence](../../reports/M2-context-proxy.md). Both incremental-benefit criteria reject; preserve failures, no further trial budget or final access. This delivers scoped evidence only; original observed execution/fresh-evidence contracts and completed final-head review remain open. Full story is not Done.
+
 Parent: [E06](https://github.com/atulsrivas1/strategy-research/issues/34). Release plan: [M2](../releases/M2_PLAN.md). Scientific status: not tested; milestone planned/unreleased. [Live story](https://github.com/atulsrivas1/strategy-research/issues/36).
 
 ## Hypothesis and information value

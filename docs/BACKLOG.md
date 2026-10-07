@@ -1,3 +1,7 @@
+# Owner-approved exploratory proxy results
+
+[Two context comparisons](../reports/M2-context-proxy.md) rejected the frozen incremental-benefit criterion: validation -55.43/-24.05bps per original sleeve; intervals include zero and both sacrificed more winners than avoided losses. Both studies use reconstructed historical inputs/assumed costs, not observed delivery or fills. Two-trial budget exhausted, final disabled. Original findings preserved; M2partial, full execution/fresh-evidence/review gates open.
+
 # Latest M2 continuation — additional readiness, no replay
 
 Targeted source lineage still lacks sampled old-period quote/index availability evidence. New five-session artificial scanner/sleeve accounting passes29controls/67separate checks and16public witness checks. [Evidence and limits](../reports/M2-readiness.md). Both replays remain blocked; final disabled, original inconclusive results unchanged, no market outcome access. Review/publication gates remain unresolved.

@@ -1,3 +1,7 @@
+# Latest owner-approved exploratory scope
+
+[Two completed context comparisons](M2-context-proxy.md) failed the declared benefit criterion under modeled inputs/costs; intervals include zero. Earlier zero-replay statements below are historical readiness snapshots. M2 remains partial: strict execution/fresh-evidence and completed final-head review still open. No additional trial, holdout, merge or release.
+
 # M2 continuation — bounded lineage audit and artificial sleeve integration
 
 Historical source gates remain unresolved. Targeted raw/preparation lineage for the three fixed old-period samples did not recover separate event/capture-receive quote clocks. The retained raw TBBO archive inspected has nine dates in September2026, outside the sampled study period; these later records were not used as strategy data. One newer curated quote schema also retains only a single timestamp. This is a scoped finding, not a claim all provider data is unavailable or invalid.

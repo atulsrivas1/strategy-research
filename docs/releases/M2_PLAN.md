@@ -1,3 +1,7 @@
+# Latest owner-approved exploratory scope
+
+[Two completed context comparisons](../../reports/M2-context-proxy.md) failed the declared benefit criterion under modeled inputs/costs; intervals include zero. Earlier zero-replay statements below are historical readiness snapshots. M2 remains partial: strict execution/fresh-evidence and completed final-head review still open. No additional trial, holdout, merge or release.
+
 # M2 scope amendment — context-conditioned stock rework
 
 Owner requested versioned rework of both previously tested stock scenarios. Add [E06](https://github.com/atulsrivas1/strategy-research/issues/34) and SR-022–025 alongside original SR-004/SR-020. M2 remains planned/unreleased; no new execution owner or dates promised.
