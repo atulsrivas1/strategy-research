@@ -1,3 +1,7 @@
+# Context rework is an untested incremental hypothesis
+
+Preserve original inconclusive scanner results. A context filter can discard rebound winners and alter exposure; avoided losers alone are not evidence of benefit. [Protocol](knowledge/SCANNER_CONTEXT_PROTOCOL.md), [new story plans](ROADMAP.md). No local context replay has run; prior option findings remain imported/report-based.
+
 # M1 evidence prepared — actual review and delivery pending
 
 [Comparison](../reports/M1-development.md), [frozen methodology](../reports/M1-methodology.md), [auxiliary decisions](../reports/M1-feasibility.md), [sources](sources/M1_REVERSAL.md). One new capped reversal tilt versus exact same-name/date equal weights is inconclusive: validation +0.6761 bps, 95% interval −8.2282 to +9.2856 bps. No final access or second candidate. Auxiliary veto/flow/model/monthly work remains design/defer only with original empirical dependencies. Same-agent separate mathematical verification is distinct from actual final-head Codex review, which remains required. M1 is partial, not released or Done; live Project owns stages. Original records below remain preserved history.

@@ -1,6 +1,13 @@
 # C1 community release planning - October 7, 2026
 
 [E07](https://github.com/atulsrivas1/strategy-research/issues/42) adds [SR-026](https://github.com/atulsrivas1/strategy-research/issues/43) and [SR-027](https://github.com/atulsrivas1/strategy-research/issues/44) in [M5](https://github.com/atulsrivas1/strategy-research/milestone/6), coordinated with equity-features R14/[EPIC-E20](https://github.com/atulsrivas1/equity-features/issues/311). [M5 plan](releases/M5_PLAN.md) records the frozen R5-R13 and M2/M3 predecessor gates. Already deferred M4 remains excluded. All new stories are Backlog in the Project. Planning only; no market run, library takeover, outreach, new chat, schedule or published release. Actual final-head Codex review and delivery readback remain required.
+# Context-conditioned stock rework — planning, not new results
+
+[E06](https://github.com/atulsrivas1/strategy-research/issues/34) adds four versioned stories to M2: [SR-022](https://github.com/atulsrivas1/strategy-research/issues/35), [SR-023](https://github.com/atulsrivas1/strategy-research/issues/36), [SR-024](https://github.com/atulsrivas1/strategy-research/issues/37), [SR-025](https://github.com/atulsrivas1/strategy-research/issues/38). [Protocol](knowledge/SCANNER_CONTEXT_PROTOCOL.md); [M2 plan](releases/M2_PLAN.md). SR-022 is Ready for input qualification; SR-025 and the two replay stories remain blocked/Backlog until dependencies qualify. Live [Project](https://github.com/users/atulsrivas1/projects/4) remains status authority.
+
+[M1 release](https://github.com/atulsrivas1/strategy-research/releases/tag/m1-restricted-evidence-v1) is delivered only within accepted scope: comparison inconclusive, auxiliary designs/feasibility/defer decisions. Five scoped stories/E02 and milestone closed after downloaded-byte/source verification; owner-human review accepted by explicit M1-only exception. No completed Codex review or independent market replication implied. Old partial/pending snapshots below are historical.
+
+Rework does not overwrite either previous stock report, select filters from known losing trades, or make old data fresh. No new replay/fit/holdout access, worker or new chat. Two new incremental context comparisons require separate budgets and qualified stock/market clocks plus applicable execution/accounting. Prior source presence/blocked metadata are readiness evidence only, not feature-wide rejection.
 
 
 # M1 ranked scope after one development comparison
