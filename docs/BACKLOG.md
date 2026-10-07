@@ -1,3 +1,8 @@
+# C1 community release planning - October 7, 2026
+
+[E07](https://github.com/atulsrivas1/strategy-research/issues/42) adds [SR-026](https://github.com/atulsrivas1/strategy-research/issues/43) and [SR-027](https://github.com/atulsrivas1/strategy-research/issues/44) in [M5](https://github.com/atulsrivas1/strategy-research/milestone/6), coordinated with equity-features R14/[EPIC-E20](https://github.com/atulsrivas1/equity-features/issues/311). [M5 plan](releases/M5_PLAN.md) records the frozen R5-R13 and M2/M3 predecessor gates. Already deferred M4 remains excluded. All new stories are Backlog in the Project. Planning only; no market run, library takeover, outreach, new chat, schedule or published release. Actual final-head Codex review and delivery readback remain required.
+
+
 # M1 ranked scope after one development comparison
 
 P1: final-head Codex review, findings disposition and explicit M1 scope/delivery acceptance of [inconclusive comparison](../reports/M1-development.md) plus [four feasibility decisions](../reports/M1-feasibility.md). No release/Done yet. P2: retain later SR-004/SR-020 execution/fresh coverage as blocked; no M2 assignment or final access here. P3: retain broader source and auxiliary empirical prerequisites; no repeated archive scans, unchanged candidate retry or automatic modeling. The one-candidate M1 budget is consumed. Prior rankings below are historical.

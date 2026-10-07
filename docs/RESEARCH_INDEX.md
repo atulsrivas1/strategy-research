@@ -1,3 +1,8 @@
+# C1 community release planning - October 7, 2026
+
+[E07](https://github.com/atulsrivas1/strategy-research/issues/42) adds [SR-026](https://github.com/atulsrivas1/strategy-research/issues/43) and [SR-027](https://github.com/atulsrivas1/strategy-research/issues/44) in [M5](https://github.com/atulsrivas1/strategy-research/milestone/6), coordinated with equity-features R14/[EPIC-E20](https://github.com/atulsrivas1/equity-features/issues/311). [M5 plan](releases/M5_PLAN.md) records the frozen R5-R13 and M2/M3 predecessor gates. Already deferred M4 remains excluded. All new stories are Backlog in the Project. Planning only; no market run, library takeover, outreach, new chat, schedule or published release. Actual final-head Codex review and delivery readback remain required.
+
+
 # M1 evidence prepared — actual review and delivery pending
 
 [Comparison](../reports/M1-development.md), [frozen methodology](../reports/M1-methodology.md), [auxiliary decisions](../reports/M1-feasibility.md), [sources](sources/M1_REVERSAL.md). One new capped reversal tilt versus exact same-name/date equal weights is inconclusive: validation +0.6761 bps, 95% interval −8.2282 to +9.2856 bps. No final access or second candidate. Auxiliary veto/flow/model/monthly work remains design/defer only with original empirical dependencies. Same-agent separate mathematical verification is distinct from actual final-head Codex review, which remains required. M1 is partial, not released or Done; live Project owns stages. Original records below remain preserved history.
