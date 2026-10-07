@@ -1,3 +1,15 @@
+# M2 continuation — bounded lineage audit and artificial sleeve integration
+
+Historical source gates remain unresolved. Targeted raw/preparation lineage for the three fixed old-period samples did not recover separate event/capture-receive quote clocks. The retained raw TBBO archive inspected has nine dates in September2026, outside the sampled study period; these later records were not used as strategy data. One newer curated quote schema also retains only a single timestamp. This is a scoped finding, not a claim all provider data is unavailable or invalid.
+
+Proposed cash-index records retain assigned session-close availability with later first-seen/retrieval; this does not establish historical arrival/revision semantics. [Databento TBBO fields](https://databento.com/docs/schemas-and-data-formats/tbbo) distinguish event and capture-received timestamps; vendor capture time is not measured local pipeline delivery or a fill guarantee. Exact historical source/admission contracts remain required. No new index/stock outcomes or provider purchases.
+
+New artificial integration: both inherited scanner cores, next-session entry/fifth-session exit, independent same-symbol overlapping sleeves, marks, entry/exit fees, vetoed cash/no rescaling, missing opens/marks/exits and paired-calendar block uncertainty.29controls and67separate saved-output hand checks passed. The initial floating-point exact-equality assertion failed; preserved and corrected to an absolute1e-15 tolerance for artificial bootstrap bounds only. Fraction cash/weights remain exact, no empirical criteria relaxed. Separate checks are by the same agent, not a hosted reviewer or independent market replication.
+
+[Published sleeve witness](../fixtures/m2_sleeves.py) has identical function bodies to private artificial decision/simulation fixtures. [16public checks](../scripts/check_m2_sleeves.py) independently verify hand terminal values, clocks, overlap, cash and missing-data cases. Private bootstrap examples qualify arithmetic only; this public witness is not a full licensed replay or proof of sample power.
+
+Neither contextual strategy replay ran. Real source clocks/revisions, applicable observed execution/action economics, owner-funded contract and actual-data scanner parity remain open. Final access disabled; original reports/results/proposed specifications preserved. M2 remains partial and PRs require completed final-head Codex review; no merge/release/Done inferred from these checks.
+
 # M2 readiness — partial, no new strategy result
 
 October 7, 2026. Assigned work: SR-022 context readiness, SR-004 execution/accounting, SR-025 causal harness foundations and metadata-only SR-020; SR-023/024 replays remain blocked. Original pullback and relative-loser findings remain INCONCLUSIVE and unpromoted. M2 is unreleased; public Project governs lifecycle.

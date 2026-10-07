@@ -1,3 +1,7 @@
+# Latest M2 continuation — additional readiness, no replay
+
+Targeted source lineage still lacks sampled old-period quote/index availability evidence. New five-session artificial scanner/sleeve accounting passes29controls/67separate checks and16public witness checks. [Evidence and limits](../reports/M2-readiness.md). Both replays remain blocked; final disabled, original inconclusive results unchanged, no market outcome access. Review/publication gates remain unresolved.
+
 # M2 receiving-owner readiness evidence
 
 [Bounded readiness report](../reports/M2-readiness.md):54sampled stock references supported arithmetically,201index metadata dates present but observed historical availability unqualified; quote clock/economics dependencies remain. Synthetic foundations68checks/23separate verifications,439private source checks. SR-023/024zero comparisons, SR-020final null/disabled, no promoted candidate. M2partial/unreleased; completed final-head Codex review required, original results preserved. Next highest-value work is exact source/clock and execution contracts, then complete shared harness before either empirical rework. Metadata/fixtures do not make blocked dependencies Ready.
