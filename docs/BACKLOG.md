@@ -1,3 +1,7 @@
+# M1 ranked scope after one development comparison
+
+P1: final-head Codex review, findings disposition and explicit M1 scope/delivery acceptance of [inconclusive comparison](../reports/M1-development.md) plus [four feasibility decisions](../reports/M1-feasibility.md). No release/Done yet. P2: retain later SR-004/SR-020 execution/fresh coverage as blocked; no M2 assignment or final access here. P3: retain broader source and auxiliary empirical prerequisites; no repeated archive scans, unchanged candidate retry or automatic modeling. The one-candidate M1 budget is consumed. Prior rankings below are historical.
+
 # Current Gate 4 continuation — merged source, retrospective review pending
 
 [Post-merge reconciliation](../reports/M0-post-merge-review.md): PR30/31 owner-merged, main e3ee3ed tree equals prepared head2cc64c4; 58 blobs and main CI verified. No actual hosted review response; GitHub/web-flow merge committer is a disclosed attribution exception. Highest priority remains explicitly scoped integrated-M0 review, findings disposition, acceptance reconciliation and verified evidence release. Earlier rankings/status snapshots below remain historical; no Done/M1/market/holdout/confirmation result or release.

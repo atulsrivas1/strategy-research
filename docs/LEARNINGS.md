@@ -1,3 +1,7 @@
+# M1 evidence prepared — actual review and delivery pending
+
+[Comparison](../reports/M1-development.md), [frozen methodology](../reports/M1-methodology.md), [auxiliary decisions](../reports/M1-feasibility.md), [sources](sources/M1_REVERSAL.md). One new capped reversal tilt versus exact same-name/date equal weights is inconclusive: validation +0.6761 bps, 95% interval −8.2282 to +9.2856 bps. No final access or second candidate. Auxiliary veto/flow/model/monthly work remains design/defer only with original empirical dependencies. Same-agent separate mathematical verification is distinct from actual final-head Codex review, which remains required. M1 is partial, not released or Done; live Project owns stages. Original records below remain preserved history.
+
 # Latest scoped qualification lessons
 
 [M0 report](../reports/M0-qualification.md): event/receive/ingest aliases require an explicit simulation availability model; future/prefix invariance plus independent expectations qualify only used operators. Shared historical features and exposed validation remain dependent/adaptive despite purge/embargo. A missing future label is censoring, not an ex-ante trade filter. Retrospective whole-symbol quality exclusions and broad-source gaps must stay disclosed. Original failed/inconclusive experiments and imported unreplicated claims remain preserved. Private check counts do not replace hosted final-head review.
