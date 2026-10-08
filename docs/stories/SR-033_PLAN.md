@@ -1,5 +1,9 @@
 # SR-033 — Qualify B2: Overnight Drift and Gap Fade
 
+## Bounded source/gap evidence — October 8, 2026
+
+[Source boundaries and 65 independent gap/action/timing checks](../../reports/B2-source-qualification.md). Accepted SR-068 verified; full SR-033 open at partial Test. Empirical source/endpoint/actions/calendar/arrival/execution gates blocked. Zero strategy trials/final evaluations, M7 planned/unreleased. No independent approval claimed. Older startup/design-blocked wording below is history; original scientific acceptance remains required.
+
 ## Full replan priority — October 7, 2026
 
 Current priority: 3.06 — Provisional qualification. Current release: M7. Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.
@@ -8,7 +12,7 @@ Current priority: 3.06 — Provisional qualification. Current release: M7. Backl
 
 ## Current delivery reconciliation — October 7, 2026
 
-M7 planned, unreleased. Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.
+M7 planned, unreleased. Accepted SR-068 verified; bounded source/gap evidence linked above. Full story open at partial Test; empirical endpoint/action/calendar/arrival/execution gates blocked, no historical trial budget.
 
 Separate research PR review is optional under the owner waiver; causal/source qualification, independent relevant checks, CI, privacy and exact acceptance remain required. No independent approval claimed.
 

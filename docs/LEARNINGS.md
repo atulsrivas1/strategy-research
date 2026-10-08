@@ -1,3 +1,7 @@
+## L-B2-001 — Match gap endpoints, share units and decision clocks
+
+[B2 checks](../reports/B2-source-qualification.md) distinguish a split-aligned price gap from dividend-inclusive overnight return or an executable open fill. Exact adjacent-session/endpoint lineage and opening-price arrival precede a causal gap feature. A first-half-hour VWAP source result cannot establish an official-opening-price scanner; cash distributions require separate treatment. These are synthetic contract/source boundaries, not empirical efficacy.
+
 ## L-B1-001 — Initialization is part of an indicator contract
 
 [B1 RSI checks](../reports/B1-source-qualification.md) verify declared seeded Wilder arithmetic, complete session inputs and past-only availability. A rolling reset, a different warmup or an arbitrary flat-price default can change outputs; exact engine parity and historical source qualification remain separate. Primary R2 index rules do not establish the proposed stock scanner or a cost-surviving reversal edge.

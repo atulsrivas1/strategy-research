@@ -1,3 +1,7 @@
+## Current sixth M7 prerequisite increment — October 8, 2026
+
+SR-033 adds bounded opening-gap source/timing/action evidence. Read [current handoff](docs/SESSION_HANDOFF.md) and [report](reports/B2-source-qualification.md). Six full stories stay open at partial Test; empirical authority blocked, M7 unreleased. No trial budget, later release/session or source job. Both implementation and local merge must use owner author AND committer. Older dated snapshots below retain history.
+
 ## Current fifth M7 prerequisite increment — October 8, 2026
 
 SR-032 adds bounded RSI source/calculation evidence. Read [current handoff](docs/SESSION_HANDOFF.md) and [report](reports/B1-source-qualification.md). Five full stories have bounded evidence and stay open at partial Test; empirical authority blocked, M7 unreleased. No trial budget, new session or source job. Older dated snapshots below retain history.
