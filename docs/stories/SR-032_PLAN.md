@@ -1,5 +1,9 @@
 # SR-032 — Qualify B1: RSI(2) and Short-Term Reversal
 
+## Bounded source/calculation evidence — October 8, 2026
+
+[RSI source boundaries and 53 independent rational/causal checks](../../reports/B1-source-qualification.md). Accepted SR-068 verified; full SR-032 open at partial Test. Empirical source/actions/sessions/arrival/universe/execution gates blocked. Zero strategy trials/final evaluations, M7 planned/unreleased. No independent approval claimed. Older startup/design-blocked wording below is history; original scientific acceptance remains required.
+
 ## Full replan priority — October 7, 2026
 
 Current priority: 3.05 — Provisional qualification. Current release: M7. Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.
@@ -8,7 +12,7 @@ Current priority: 3.05 — Provisional qualification. Current release: M7. Backl
 
 ## Current delivery reconciliation — October 7, 2026
 
-M7 planned, unreleased. Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.
+M7 planned, unreleased. Accepted SR-068 verified; bounded source/calculation evidence linked above. Full story open at partial Test; empirical source/action/session/arrival/execution gates blocked, no historical trial budget.
 
 Separate research PR review is optional under the owner waiver; causal/source qualification, independent relevant checks, CI, privacy and exact acceptance remain required. No independent approval claimed.
 
