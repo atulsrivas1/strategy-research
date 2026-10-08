@@ -6,6 +6,8 @@ Deferred and excluded from this pass. Includes 30 library stories plus SR-017/01
 
 [Live Project stages](https://github.com/users/atulsrivas1/projects/4) remain authoritative. Separate research PR review is optional under the owner waiver; agent inspection, independent relevant numerical checks, CI, privacy and exact delivery verification remain required. No independent approval is claimed.
 
+Owner priority amendment: [SR-068](https://github.com/atulsrivas1/strategy-research/issues/91) library-wide research design and requirements must be accepted and verified before further imported-family qualification, adaptation or empirical work. This is the owner-directed first priority; M4 stays deferred, and no historical trial budget or final access is added.
+
 ## Preserved plan and amendments
 
 The original specification and dated amendments below retain provenance. Earlier delivery/status/review wording is superseded by the current reconciliation and owner waiver. Unfulfilled scientific requirements remain requirements.
@@ -22,6 +24,8 @@ A short consolidation after a demand impulse may precede intraday continuation. 
 [V2-10 source note](../strategy-library-v2/10-intraday-aziz-bull-flag.md), sections1–9 including failure modes, source access limits and proposed rules; [overlap catalog](../strategy-library-v2/CATALOG.md) and [import caveats](../strategy-library-v2/IMPORT_NOTES.md). Source headings called sources-read often contain secondary/known-not-refetched or generic homepage citations; those do not establish primary full-text verification. Figures/grades/asserted edge/capacity are reported claims, not local results. [Prior M2 rejected joint overlays](../../reports/M2-context-proxy.md) stay parked. Neither V2's labels nor imported grids authorize rescuing a known losing filter.
 
 ## Dependencies and required data
+
+[SR-068](https://github.com/atulsrivas1/strategy-research/issues/91) library-wide research design and requirements must be accepted and verified before further imported-family qualification, adaptation or empirical work. This is the owner-directed first priority; M4 stays deferred, and no historical trial budget or final access is added.
 
 causal impulse/flag bars, confirmation clocks, volume, quotes and execution. [SR-008](https://github.com/atulsrivas1/strategy-research/issues/14) universe/actions; [SR-010](https://github.com/atulsrivas1/strategy-research/issues/16) chronology/exposure; [SR-022](https://github.com/atulsrivas1/strategy-research/issues/35) context clocks; [SR-025](https://github.com/atulsrivas1/strategy-research/issues/38) matched accounting; [SR-004](https://github.com/atulsrivas1/strategy-research/issues/4) applicable execution qualification. Explicit later owner scope expansion required before empirical work. Archive inclusion is not scope authorization.
 

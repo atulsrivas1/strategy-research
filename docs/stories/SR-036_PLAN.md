@@ -6,6 +6,8 @@ Deferred and excluded from this pass. Includes 30 library stories plus SR-017/01
 
 [Live Project stages](https://github.com/users/atulsrivas1/projects/4) remain authoritative. Separate research PR review is optional under the owner waiver; agent inspection, independent relevant numerical checks, CI, privacy and exact delivery verification remain required. No independent approval is claimed.
 
+Owner priority amendment: [SR-068](https://github.com/atulsrivas1/strategy-research/issues/91) library-wide research design and requirements must be accepted and verified before further imported-family qualification, adaptation or empirical work. This is the owner-directed first priority; M4 stays deferred, and no historical trial budget or final access is added.
+
 ## Preserved plan and amendments
 
 The original specification and dated amendments below retain provenance. Earlier delivery/status/review wording is superseded by the current reconciliation and owner waiver. Unfulfilled scientific requirements remain requirements.
@@ -22,6 +24,8 @@ Option insurance sellers may earn a premium for tail risk. Testability matters b
 [Imported dossier](../strategy-library/C-vol-and-flow/C1-variance-risk-premium-harvesting.md) sections 3–7, 9, 11–12 and any second-pass corrections; [import provenance and limitations](../strategy-library/IMPORT_NOTES.md). Annotated primary URLs and access grades are retained verbatim. This project has not independently reread/reproduced those claims. [Prior unsuccessful joint context comparisons](../../reports/M2-context-proxy.md) and [exclusive veto diagnosis](../../reports/M2-veto-diagnosis.md) prohibit rescuing the same failed gate by retrospective tuning. ETF, overnight, months/years and long-short results do not establish this stock adaptation.
 
 ## Dependencies and required data
+
+[SR-068](https://github.com/atulsrivas1/strategy-research/issues/91) library-wide research design and requirements must be accepted and verified before further imported-family qualification, adaptation or empirical work. This is the owner-directed first priority; M4 stays deferred, and no historical trial budget or final access is added.
 
 Required: historical executable option quotes, margin, tail exposure and assignments. [SR-008](https://github.com/atulsrivas1/strategy-research/issues/14) universe/actions; [SR-010](https://github.com/atulsrivas1/strategy-research/issues/16) chronology/exposure; [SR-022](https://github.com/atulsrivas1/strategy-research/issues/35) context clocks; [SR-025](https://github.com/atulsrivas1/strategy-research/issues/38) matched accounting; [SR-004](https://github.com/atulsrivas1/strategy-research/issues/4) applicable execution evidence. Existing restricted proxy assumptions are not observed-fill certification. Owner scope expansion required before empirical work.
 

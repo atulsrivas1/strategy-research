@@ -4,9 +4,9 @@ Research on US individual stocks, long shares first, over 2–10 trading session
 
 M0 and M1 are [published evidence releases](https://github.com/atulsrivas1/strategy-research/releases), within accepted restricted scopes. M1 is inconclusive and unpromoted. M2 is partial and unreleased; its two modeled context comparisons rejected their frozen benefit criteria and have exhausted their budget. No profitable, robust or independently confirmed winning strategy has been established.
 
-All four imported libraries are delivered in main: 76 dossiers map to 40 E08 family/readiness stories. Imports preserve source claims; they are not independent backtests. M6 qualification proceeds D1, D2, E4, with no automatic replay budget.
+All four imported libraries are delivered in main: 76 dossiers map to 40 E08 family/readiness stories. Imports preserve source claims; they are not independent backtests. M6 starts with [SR-068 library-wide research design](docs/stories/SR-068_PLAN.md); after its verified acceptance, qualification proceeds D1, D2, E4, with no automatic replay budget.
 
-[GitHub Project](https://github.com/users/atulsrivas1/projects/4) owns current lifecycle stages. [Roadmap](docs/ROADMAP.md) maps eight epics, 67 stories and M0–M6 plans. [Dashboard](docs/DASHBOARD.md) links evidence and release state. [Backlog](docs/BACKLOG.md) ranks scope and dependencies; [handoff](docs/SESSION_HANDOFF.md) preserves continuity.
+[GitHub Project](https://github.com/users/atulsrivas1/projects/4) owns current lifecycle stages. [Roadmap](docs/ROADMAP.md) maps eight epics, 68 stories and M0–M6 plans. [Dashboard](docs/DASHBOARD.md) links evidence and release state. [Backlog](docs/BACKLOG.md) ranks scope and dependencies; [handoff](docs/SESSION_HANDOFF.md) preserves continuity.
 
 All agent-created commits use Atul Srivastava as author and committer. Separate research PR review is optional under the October 7 owner waiver; scientific qualification, independent relevant numerical checks, CI, privacy and verified delivery remain required. Agent inspection is not independent approval. See [policy](docs/CODE_REVIEW.md) and [workflow](docs/WORKFLOW.md).
 

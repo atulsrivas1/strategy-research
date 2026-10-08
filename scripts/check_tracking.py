@@ -20,10 +20,16 @@ for path in sorted((ROOT/'docs/stories').glob('SR-*_PLAN.md')):
     current=text.split('## Current delivery reconciliation — October 7, 2026',1)[1].split('## Preserved plan and amendments',1)[0]
     assert 'Separate research PR review is optional' in current,sid
     stories[sid]={'epic':parent[1],'parent':int(parent[2]),'release':release[1]}
-assert len(stories)==67
+assert len(stories)==68
+for n in range(28,68):
+    sid=f'SR-{n:03}'
+    text=(ROOT/f'docs/stories/{sid}_PLAN.md').read_text(encoding='utf-8')
+    dependencies=text.split('## Dependencies and required data',1)[1].split('## Baseline and experiment',1)[0]
+    assert '[SR-068](https://github.com/atulsrivas1/strategy-research/issues/91)' in dependencies,(sid,'missing design prerequisite')
+assert stories['SR-068']['epic']=='E08' and stories['SR-068']['release']=='M6'
 for release in sorted({s['release'] for s in stories.values()}):
     text=(ROOT/f'docs/releases/{release}_PLAN.md').read_text(encoding='utf-8')
-    current=text.split('## Current assigned stories',1)[1].split('## Preserved original plan and amendments',1)[0]
+    current=text.split('## Current assigned stories',1)[1].split('\n## ',1)[0]
     declared=re.findall(r'\[(SR-\d{3})\]',current)
     expected={sid for sid,s in stories.items() if s['release']==release}
     assert len(declared)==len(set(declared)) and set(declared)==expected,(release,'story assignment drift')
@@ -37,7 +43,8 @@ for line in roadmap.splitlines():
 assert set(epics)=={s['epic'] for s in stories.values()}
 for epic,declared in epics.items():
     assert declared=={sid for sid,s in stories.items() if s['epic']==epic},(epic,'roadmap membership drift')
-assert len(epics)==8 and len(epics['E08'])==40
+assert len(epics)==8 and len(epics['E08'])==41
+assert epics['E08']-{f'SR-{n:03}' for n in range(28,68)}=={'SR-068'}
 workflow=(ROOT/'docs/WORKFLOW.md').read_text(encoding='utf-8')
 review_row=next(line for line in workflow.splitlines() if line.startswith('| Code review |'))
 assert 'optional under owner waiver' in review_row and 'required before merge' not in review_row

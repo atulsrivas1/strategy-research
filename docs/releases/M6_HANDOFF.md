@@ -1,3 +1,9 @@
+# Current owner priority — design before strategy qualification
+
+[SR-068](https://github.com/atulsrivas1/strategy-research/issues/91) library-wide research design and requirements must be accepted and verified before further imported-family qualification, adaptation or empirical work. This is the owner-directed first priority; M4 stays deferred, and no historical trial budget or final access is added.
+
+Start the [SR-068 design plan](../stories/SR-068_PLAN.md), not D1. Deliver the common methodology, requirements matrix and templates before resuming D1/D2/E4. M6 now has eleven assigned stories: one common design plus ten strategy/readiness questions. No release execution session dispatched, backtest started or final access enabled. Older startup/order statements below are preserved history.
+
 ## Sigmatiq V1 source continuity
 
 [12note mapping](../sigmatiq-strategy-library-v1/CATALOG.md) supplies additional source versions,not new experiments. D1first;qualified rule/clock contracts and frozen budget precede replay.76dossiers/40E08stories;other scope and priorities unchanged.

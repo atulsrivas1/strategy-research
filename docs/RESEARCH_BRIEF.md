@@ -1,3 +1,7 @@
+## Owner priority amendment — shared research design first
+
+[SR-068](stories/SR-068_PLAN.md) / [live issue](https://github.com/atulsrivas1/strategy-research/issues/91) is the first Ready design task under E08/M6. Accept and verify its library-wide methodology, requirements matrix and templates before any further SR-028–067 qualification/adaptation/empirical work. D1/D2 are now Backlog pending it. There are 68 total stories, with 40 imported-family stories plus this one common design story under E08; M6 has eleven assigned stories. Source dossiers remain 76. No backtest, final access, scope expansion or new worker. Older priority/status snapshots below are historical.
+
 # Context-conditioned stock rework — planning, not new results
 
 [E06](https://github.com/atulsrivas1/strategy-research/issues/34) adds four versioned stories to M2: [SR-022](https://github.com/atulsrivas1/strategy-research/issues/35), [SR-023](https://github.com/atulsrivas1/strategy-research/issues/36), [SR-024](https://github.com/atulsrivas1/strategy-research/issues/37), [SR-025](https://github.com/atulsrivas1/strategy-research/issues/38). [Protocol](knowledge/SCANNER_CONTEXT_PROTOCOL.md); [M2 plan](releases/M2_PLAN.md). SR-022 is Ready for input qualification; SR-025 and the two replay stories remain blocked/Backlog until dependencies qualify. Live [Project](https://github.com/users/atulsrivas1/projects/4) remains status authority.
