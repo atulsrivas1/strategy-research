@@ -1,3 +1,7 @@
+## L-D1-002 — Date parity does not establish session timing
+
+[D1 daily-input audit](../reports/D1-daily-inputs.md) reconciles the sampled20dates/40prices while source documentation identifies UTC-day intervals. A date label, interval start and core-session completion/arrival are different clocks. Preserve interval basis, original prices and unknown arrivals; qualify finer aggregation/auction rules before core-session use. This bounded finding does not automatically rerun or invalidate earlier frozen proxy receipts.
+
 ## L-D1-001 — Ingredient existence is not causal qualification
 
 [D1 bounded audit](../reports/D1-input-qualification.md): a sufficient-looking ordered daily window can coexist with unavailable action normalization and reconstructed availability. Fail closed on unknown authority. Primary monthly futures trend evidence does not independently establish a five-session individual-stock adaptation. One sampled name does not qualify an entire universe; missing historical clocks cannot be recreated by a checker.

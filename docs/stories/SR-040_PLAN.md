@@ -6,6 +6,10 @@ Current priority: 3.01 — Provisional qualification. Current release: M7. SR-06
 
 [Complete current plan](../REPLAN.md) supersedes older ranks and release summaries below; original mechanisms, scientific requirements and executed evidence retain provenance. Project lifecycle is authoritative.
 
+## Daily normalizer and stored parity — October 8, 2026
+
+[Continuation evidence](../../reports/D1-daily-inputs.md) qualifies the sampled20-date calendar and40stored numeric comparisons. Immutable normalizer/split-only feature/clock contracts have60hand-derived checks. Finer-source metadata exists on20dates, but core-session/auction boundaries, symbol coverage, adjustment and observed clocks still unqualified. Full story remains open, M7 unreleased, zero historical trials. Restricted closed SR-008/010 receipts remain immutable; broad capability lineage is not a new completion claim.
+
 ## Bounded source/input qualification — October 8, 2026
 
 [Current qualification report](../../reports/D1-input-qualification.md) and [ingredient checks](../../scripts/check_d1_inputs.py): primary source/adaptation boundaries, one past-only development ingredient audit, feasible build paths and explicit blockers. 45 synthetic checks pass; no empirical replay or package parity. Full story remains open with adjustment, historical availability, calendar/source parity, universe, execution/accounting and exact protocol gates unresolved. M7 unreleased. Earlier unstarted source wording below is history.

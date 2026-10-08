@@ -1,3 +1,7 @@
+## Daily-input continuation — October 8, 2026
+
+[SR-040 input evidence](../../reports/D1-daily-inputs.md) now includes60hand-derived normalization/action/clock checks, a bounded20-date calendar and40exact stored numeric comparisons. Finer-input existence is checked, no outcome trial. Full SR-040 open; remaining applicable input/clock/execution/protocol gates remain blocked. M7 planned/unreleased with ten assigned stories, other families unstarted. No broadening of restricted M0 acceptance.
+
 ## October 8 qualification progress
 
 SR-040 bounded source/input qualification started under owner authorization after accepted M6 design. [Evidence and blockers](../../reports/D1-input-qualification.md) delivers a synthetic ingredient contract and source/data disposition; full story remains open. Other families are not launched. M7 remains planned, unreleased with ten assigned stories, zero historical comparisons and no release acceptance from this partial delivery.
