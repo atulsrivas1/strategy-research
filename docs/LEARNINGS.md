@@ -1,3 +1,7 @@
+## L-D1-006 — Distinguish receipt path drift from source certification
+
+[Preparation inspection](../reports/D1-preparation-provenance.md) confines twenty receipt/root disagreements to output paths; hashes and declared counts agree. Preserve the discrepancy and verify each field. Neither metadata agreement nor current producer code proves historical execution, original provider coverage or arrival. Missing upstream receipts remain admission blockers.
+
 ## L-D1-005 — Re-encoding lineage stops at its actual input
 
 [Catalog/receipt audit](../reports/D1-lineage-location.md) locates twenty optimized copies whose receipts name prepared inputs. Their counts, bytes and paths agree, but they do not establish an earlier original-feed chain or historical knowledge time. Record each transformation boundary and missing links; current file integrity does not upgrade legacy provenance.

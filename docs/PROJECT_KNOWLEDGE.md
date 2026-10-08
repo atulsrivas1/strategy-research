@@ -1,3 +1,7 @@
+## Preparation provenance — October 8, 2026
+
+[Preparation provenance](../reports/D1-preparation-provenance.md): all twenty partition/root disagreements are output-path changes only; source metadata/hashes/counts/exclusions agree. Twenty originals and request sidecars absent at declared paths; current code does not bind historical execution. Four source gates blocked, full SR040 and all ten M7 stories open partial Test; M7 unreleased, zero market rows/trials/final access. PR105 exact publication/main CI verified. Next bounded recovery/admission specification; no source-owner jobs or modifications. Older snapshots retain history.
+
 ## Daily lineage location — October 8, 2026
 
 [Daily lineage location](../reports/D1-lineage-location.md) finds all twenty prepared entries and optimized-copy receipts in both declared catalogs. 220 independent metadata/hash/footer/path comparisons pass. Receipts trace prepared-to-optimized copies, not the absent original-feed chain; all four actual admission gates remain blocked. PR104 publication is now verified, exact main CI passed. Full SR-040 and other nine M7 stories remain open at partial Test; M7 planned/unreleased, strategy trials/final evaluations zero, final disabled. Next read existing producer preparation code/input manifests for exact lineage mapping without running its jobs. Older dated snapshots below retain history.
