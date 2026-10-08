@@ -1,3 +1,7 @@
+## Current daily-lineage qualification — October 8, 2026
+
+Read [current handoff](docs/SESSION_HANDOFF.md) and [lineage report](reports/D1-lineage-location.md). Optimized-copy receipts do not establish original-feed lineage; all four actual gates blocked. PR104 verification complete; full stories partial Test, M7 unreleased. Next bounded producer-code/manifest reading only; no source jobs, later release or new session. Owner author AND committer for implementation/local merge. Older dated snapshots below retain history.
+
 ## Current shared daily-source audit — October 8, 2026
 
 Read [current handoff](docs/SESSION_HANDOFF.md) and [source-admission report](reports/D1-source-admission.md). Prepared integrity differs from original-feed lineage; all4 actual admission gates blocked. Full SR-040 partialTest, all10M7issues open/unreleased, trials0. Next exact provenance search requires frozen bounded read-only source scope; never take producer jobs or silently substitute source dates/names. Owner author AND committer for implementation/local merge. Older dated snapshots below retain history.

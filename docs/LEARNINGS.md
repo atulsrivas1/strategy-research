@@ -1,3 +1,7 @@
+## L-D1-005 — Re-encoding lineage stops at its actual input
+
+[Catalog/receipt audit](../reports/D1-lineage-location.md) locates twenty optimized copies whose receipts name prepared inputs. Their counts, bytes and paths agree, but they do not establish an earlier original-feed chain or historical knowledge time. Record each transformation boundary and missing links; current file integrity does not upgrade legacy provenance.
+
 ## L-D1-004 — A manifest parent is a claim until the parent is verified
 
 [Source-admission audit](../reports/D1-source-admission.md) confirms20prepared hashes but finds20absent declared curated parents. Legacy provenance, UTCdaybars, partial ex-post actions and unknown historical arrivals remain independent blockers. File integrity/producer success cannot establish original feed identity or knowledge time; a bounded archive absence is not whole-lake absence. Preserve absent links rather than matching filenames/dates.
