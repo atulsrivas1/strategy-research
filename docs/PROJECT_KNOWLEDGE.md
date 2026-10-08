@@ -1,20 +1,20 @@
-## Owner priority amendment â€” shared research design first
+## Owner priority amendment — shared research design first
 
 ## M6 v1 design acceptance — October 8, 2026
 
 The complete shared design is accepted within its methodology-only scope: 76 source versions / 40 families, 24 explicit requirement/build contracts, four templates and three independently hand-checked synthetic walkthroughs. [Design acceptance receipt](releases/M6_RECEIPT.md) declares scope; [M6 design release](https://github.com/atulsrivas1/strategy-research/releases/tag/m6-shared-design-v1) carries exact source/artifact identities. Final publication readback is required before Released/Done. Original sources and scientific reports remain frozen. Design completion does not qualify every dataset/tool or register a trial; M7 activation still requires its exact applicable qualifications. No automatic later release/session, data job or experiment. Earlier authored/planning/undelivered status below is dated history after verified publication.
 
-## Shared design authored â€” October 8, 2026
+## Shared design authored — October 8, 2026
 
 [Shared design v1](design/DESIGN.md), [complete 76-dossier/40-family applicability](design/APPLICABILITY.md), [24 requirement and feasible-build contracts](design/BUILD_REGISTER.md), [required templates](design/TEMPLATES.md) and [synthetic walkthroughs](design/WALKTHROUGHS.md) are authored. Missing data/tools remain explicit; qualify/reuse, build, prospective capture, acquire or defer paths are retained. Source imports are not causal/execution certification. Design checks/publication acceptance remain gates before SR-068 Done or M7 activation. No historical comparison/final evaluation, source-owner job or scope expansion from design.
 
-## Current full replan â€” October 7, 2026
+## Current full replan — October 7, 2026
 
 [Current priorities and all 68 story assignments](REPLAN.md) supersede older ranks, release-order summaries and M6 family assignments below. M6 now contains only SR-068 common research design, first; M7 contains the ten stock/family-readiness stories formerly assigned to M6. M0/M1 remain published, M2 partial with exhausted negative modeled tests, M3 conditional, M4 deferred and M5 frozen predecessors unchanged. No empirical budget, final access, execution owner or schedule is created. Project lifecycle remains authoritative; accepted design is required before family research.
 
-[SR-068](stories/SR-068_PLAN.md) / [live issue](https://github.com/atulsrivas1/strategy-research/issues/91) is the first Ready design task under E08/M6. Accept and verify its library-wide methodology, requirements matrix and templates before any further SR-028â€“067 qualification/adaptation/empirical work. D1/D2 are now Backlog pending it. There are 68 total stories, with 40 imported-family stories plus this one common design story under E08; M6 has eleven assigned stories. Source dossiers remain 76. No backtest, final access, scope expansion or new worker. Older priority/status snapshots below are historical.
+[SR-068](stories/SR-068_PLAN.md) / [live issue](https://github.com/atulsrivas1/strategy-research/issues/91) is the first Ready design task under E08/M6. Accept and verify its library-wide methodology, requirements matrix and templates before any further SR-028–067 qualification/adaptation/empirical work. D1/D2 are now Backlog pending it. There are 68 total stories, with 40 imported-family stories plus this one common design story under E08; M6 has eleven assigned stories. Source dossiers remain 76. No backtest, final access, scope expansion or new worker. Older priority/status snapshots below are historical.
 
-## Current synchronization â€” October 7, 2026
+## Current synchronization — October 7, 2026
 
 [Current dashboard](DASHBOARD.md), [epic/release map](ROADMAP.md) and [live Project](https://github.com/users/atulsrivas1/projects/4) supersede older delivery/status snapshots below. M0/M1 released, M2 partial with two rejected modeled comparisons and exhausted budget, M3 conditional, M4 deferred, M5 planning only, M6 D1/D2/E4 qualification next. Four libraries / 76 dossiers / 40 E08 stories; no new market test. Separate research review optional; scientific/CI/privacy/actual delivery gates remain.
 
@@ -30,7 +30,7 @@ All64imported dossiers and40E08stories coexist with the M5community plan/SR-026/
 # C1 community release planning - October 7, 2026
 
 [E07](https://github.com/atulsrivas1/strategy-research/issues/42) adds [SR-026](https://github.com/atulsrivas1/strategy-research/issues/43) and [SR-027](https://github.com/atulsrivas1/strategy-research/issues/44) in [M5](https://github.com/atulsrivas1/strategy-research/milestone/6), coordinated with equity-features R14/[EPIC-E20](https://github.com/atulsrivas1/equity-features/issues/311). [M5 plan](releases/M5_PLAN.md) records the frozen R5-R13 and M2/M3 predecessor gates. Already deferred M4 remains excluded. All new stories are Backlog in the Project. Planning only; no market run, library takeover, outreach, new chat, schedule or published release. Actual final-head Codex review and delivery readback remain required.
-# Context-conditioned stock rework â€” planning, not new results
+# Context-conditioned stock rework — planning, not new results
 
 [E06](https://github.com/atulsrivas1/strategy-research/issues/34) adds four versioned stories to M2: [SR-022](https://github.com/atulsrivas1/strategy-research/issues/35), [SR-023](https://github.com/atulsrivas1/strategy-research/issues/36), [SR-024](https://github.com/atulsrivas1/strategy-research/issues/37), [SR-025](https://github.com/atulsrivas1/strategy-research/issues/38). [Protocol](knowledge/SCANNER_CONTEXT_PROTOCOL.md); [M2 plan](releases/M2_PLAN.md). SR-022 is Ready for input qualification; SR-025 and the two replay stories remain blocked/Backlog until dependencies qualify. Live [Project](https://github.com/users/atulsrivas1/projects/4) remains status authority.
 
@@ -41,7 +41,7 @@ Rework does not overwrite either previous stock report, select filters from know
 
 # Current qualification and delivery state
 
-[Restricted M0 evidence](../reports/M0-qualification.md) supersedes older prerequisite snapshots below. Gates 1â€“3 qualified under owner-approved fixed 18-stock exploratory daily simulation: original input bytes unchanged, real-history/library/actual-date adapter checks bounded, exposed chronology and disabled final protection explicit. No market/holdout rerun, profitability or release. Broad historical source adoption deferred; source claims and imported paper findings remain unreplicated where stated. Final-head hosted Codex review, checks and exact delivery pending in PR31, which incorporates PR30's safeguards. See [receipt](releases/M0_RECEIPT.md); live Project4 remains lifecycle authority.
+[Restricted M0 evidence](../reports/M0-qualification.md) supersedes older prerequisite snapshots below. Gates 1–3 qualified under owner-approved fixed 18-stock exploratory daily simulation: original input bytes unchanged, real-history/library/actual-date adapter checks bounded, exposed chronology and disabled final protection explicit. No market/holdout rerun, profitability or release. Broad historical source adoption deferred; source claims and imported paper findings remain unreplicated where stated. Final-head hosted Codex review, checks and exact delivery pending in PR31, which incorporates PR30's safeguards. See [receipt](releases/M0_RECEIPT.md); live Project4 remains lifecycle authority.
 
 
 ## Preserved earlier record
