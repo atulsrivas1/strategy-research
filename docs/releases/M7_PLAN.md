@@ -1,3 +1,9 @@
+## Current qualification scope — October 8, 2026
+
+[D1 session feasibility](../../reports/D1-session-feasibility.md), [D2 source/cohort qualification](../../reports/D2-source-qualification.md), [E4 vintage prerequisite](../../reports/E4-vintage-qualification.md).
+
+SR-040 now has a 390-bin, one-day development minute-proxy pilot; official-close, auction, action and historical-arrival authority remain blocked. SR-041 has a complete-cohort ranking contract with 33 hand-derived checks and a primary-paper cost correction; historical universe authority remains blocked. SR-047 has an as-of fundamental-vintage ingredient with 42 hand-derived checks; canonical rules and historical fundamentals remain unqualified. The session proxy has 25 hand-derived checks. All three full stories stay open at partial Test; M7 stays planned, unreleased. Zero historical strategy comparisons and final evaluations; final access disabled. One implementation was active at a time. Earlier snapshots below retain provenance. Accepted verified M6 design is fulfilled; remaining data and empirical prerequisites are not. The next family source qualification may proceed sequentially under current owner authorization after a frozen bounded specification. No new session, worker, trial budget or later release is authorized by this document.
+
 ## Daily-input continuation — October 8, 2026
 
 [SR-040 input evidence](../../reports/D1-daily-inputs.md) now includes60hand-derived normalization/action/clock checks, a bounded20-date calendar and40exact stored numeric comparisons. Finer-input existence is checked, no outcome trial. Full SR-040 open; remaining applicable input/clock/execution/protocol gates remain blocked. M7 planned/unreleased with ten assigned stories, other families unstarted. No broadening of restricted M0 acceptance.

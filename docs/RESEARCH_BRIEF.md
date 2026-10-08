@@ -1,3 +1,9 @@
+## Sequential M7 prerequisite qualification — October 8, 2026
+
+[D1 session feasibility](../reports/D1-session-feasibility.md), [D2 source/cohort qualification](../reports/D2-source-qualification.md), [E4 vintage prerequisite](../reports/E4-vintage-qualification.md).
+
+SR-040 now has a 390-bin, one-day development minute-proxy pilot; official-close, auction, action and historical-arrival authority remain blocked. SR-041 has a complete-cohort ranking contract with 33 hand-derived checks and a primary-paper cost correction; historical universe authority remains blocked. SR-047 has an as-of fundamental-vintage ingredient with 42 hand-derived checks; canonical rules and historical fundamentals remain unqualified. The session proxy has 25 hand-derived checks. All three full stories stay open at partial Test; M7 stays planned, unreleased. Zero historical strategy comparisons and final evaluations; final access disabled. One implementation was active at a time. Earlier snapshots below retain provenance.
+
 ## Owner priority amendment — shared research design first
 
 ## M6 v1 design acceptance — October 8, 2026

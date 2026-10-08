@@ -1,3 +1,7 @@
+## Current M7 prerequisite evidence — October 8, 2026
+
+See [current handoff](docs/SESSION_HANDOFF.md). SR-040, SR-041 and SR-047 have bounded source/machinery evidence; full stories remain open, empirical admission blocked and M7 unreleased. Follow the current owner-authorized sequential scope and frozen specifications; no automatic experiment or later release. Older unstarted snapshots below are history.
+
 ## Current execution after M6 — October 8, 2026
 
 SR-068 common design is accepted, published and Done in [M6 v1](https://github.com/atulsrivas1/strategy-research/releases/tag/m6-shared-design-v1). Read [the design](docs/design/DESIGN.md), [complete applicability matrix](docs/design/APPLICABILITY.md), [requirement/build register](docs/design/BUILD_REGISTER.md) and [acceptance receipt](docs/releases/M6_RECEIPT.md). Missing needs remain explicit; design acceptance does not qualify every dataset/tool or authorize a strategy replay. Earlier SR-068 Ready/undelivered startup wording below is historical.

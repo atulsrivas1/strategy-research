@@ -1,3 +1,9 @@
+## Sequential M7 prerequisite qualification — October 8, 2026
+
+[D1 session feasibility](../reports/D1-session-feasibility.md), [D2 source/cohort qualification](../reports/D2-source-qualification.md), [E4 vintage prerequisite](../reports/E4-vintage-qualification.md).
+
+SR-040 now has a 390-bin, one-day development minute-proxy pilot; official-close, auction, action and historical-arrival authority remain blocked. SR-041 has a complete-cohort ranking contract with 33 hand-derived checks and a primary-paper cost correction; historical universe authority remains blocked. SR-047 has an as-of fundamental-vintage ingredient with 42 hand-derived checks; canonical rules and historical fundamentals remain unqualified. The session proxy has 25 hand-derived checks. All three full stories stay open at partial Test; M7 stays planned, unreleased. Zero historical strategy comparisons and final evaluations; final access disabled. One implementation was active at a time. Earlier snapshots below retain provenance.
+
 ## D1 daily-input continuation — October 8, 2026
 
 [Daily-input evidence](../reports/D1-daily-inputs.md): implemented immutable normalization and a split-only feature/clock contract, with60hand-derived checks. Same20development dates match an independently checked bounded exchange calendar;40stored high/close comparisons agree exactly. Sixty finer-schema partitions exist, metadata only. Provider UTC-day interval does not certify a core-session close; actual action completeness and historical arrivals remain unqualified. Full SR-040 open, M7 unreleased, zero strategy trials/final evaluations. Next is core-session trade/auction/clock qualification and action evidence, not a silent clock change or retry. M0 closed restricted scope and prior receipts unchanged; older qualification snapshots below retain history.
