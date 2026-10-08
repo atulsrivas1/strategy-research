@@ -1,0 +1,98 @@
+[
+  {
+    "note": "01",
+    "file": "01-intraday-opening-range-breakout.md",
+    "story": "SR-029",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/48",
+    "release": "M4",
+    "kind": "Existing-family source; distinct rules preserved as untested proposals"
+  },
+  {
+    "note": "02",
+    "file": "02-intraday-vwap-mean-reversion.md",
+    "story": "SR-030",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/49",
+    "release": "M4",
+    "kind": "Existing-family source; distinct rules preserved as untested proposals"
+  },
+  {
+    "note": "03",
+    "file": "03-intraday-order-flow-imbalance.md",
+    "story": "SR-031",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/50",
+    "release": "M4",
+    "kind": "Existing-family source; distinct rules preserved as untested proposals"
+  },
+  {
+    "note": "04",
+    "file": "04-swing-rsi2-mean-reversion.md",
+    "story": "SR-032",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/51",
+    "release": "M6",
+    "kind": "Existing-family source; distinct rules preserved as untested proposals"
+  },
+  {
+    "note": "05",
+    "file": "05-swing-episodic-pivots.md",
+    "story": "SR-062",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/82",
+    "release": "M6",
+    "kind": "Existing-family source; distinct rules preserved as untested proposals"
+  },
+  {
+    "note": "06",
+    "file": "06-swing-pairs-statistical-arbitrage.md",
+    "story": "SR-035",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/54",
+    "release": "M4",
+    "kind": "Existing-family source; distinct rules preserved as untested proposals"
+  },
+  {
+    "note": "07",
+    "file": "07-position-post-earnings-drift.md",
+    "story": "SR-034",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/53",
+    "release": "M6",
+    "kind": "Existing-family source; distinct rules preserved as untested proposals"
+  },
+  {
+    "note": "08",
+    "file": "08-position-dual-momentum.md",
+    "story": "SR-064",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/84",
+    "release": "M4",
+    "kind": "Existing-family source; distinct rules preserved as untested proposals"
+  },
+  {
+    "note": "09",
+    "file": "09-position-turtle-trend-following.md",
+    "story": "SR-040",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/59",
+    "release": "M6",
+    "kind": "Existing-family source; distinct rules preserved as untested proposals"
+  },
+  {
+    "note": "10",
+    "file": "10-portfolio-volatility-risk-premium.md",
+    "story": "SR-036",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/55",
+    "release": "M4",
+    "kind": "Existing-family source; distinct rules preserved as untested proposals"
+  },
+  {
+    "note": "11",
+    "file": "11-portfolio-risk-parity.md",
+    "story": "SR-046",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/65",
+    "release": "M4",
+    "kind": "Existing-family source; distinct rules preserved as untested proposals"
+  },
+  {
+    "note": "12",
+    "file": "12-portfolio-multifactor-ensemble.md",
+    "story": "SR-044",
+    "issue": "https://github.com/atulsrivas1/strategy-research/issues/63",
+    "release": "M4",
+    "kind": "Existing-family source; distinct rules preserved as untested proposals"
+  }
+]

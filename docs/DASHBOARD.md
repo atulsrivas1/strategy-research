@@ -1,3 +1,7 @@
+## Sigmatiq V1 imported — twelve existing-story mappings
+
+[Separate Sigmatiq V1catalog](sigmatiq-strategy-library-v1/CATALOG.md) and [source caveats](sigmatiq-strategy-library-v1/IMPORT_NOTES.md). All12notes preserved and linked to existing plans; no duplicate stories.76dossiers across four libraries,40E08children,67repo story plans. M6/M4assignments and D1/D2/E4momentum order unchanged. Reported literature,not newly verified strategy results;no replay/final access. Earlier library counts below are history.
+
 ## V2 import and deduplication
 
 [All36notes mapped](strategy-library-v2/CATALOG.md), [source caveats](strategy-library-v2/IMPORT_NOTES.md).24existing family mappings;12new stories SR-056–067. E08now40children across64imported dossiers;M6planned10readiness/stock questions andM4deferred30library questions. D1/D2/E4 unchanged first;no replay/final access. Old counts below retained as history.

@@ -37,3 +37,7 @@ V3 import amendment: SR-051 adds only insider-source/five-session adaptation rea
 - [SR-063](https://github.com/atulsrivas1/strategy-research/issues/83) — V2-18: Exploratory readiness; empirical rules/sample support and applicable inputs unqualified
 
 V2 import amendment: SR-062 episodic pivots and SR-063 high-tight flags add readiness only; ten current assigned questions, no additional historical trial budget. Existing overlaps reuse their stories with canonical off-scope rules archived.
+
+## Sigmatiq V1 source import
+
+[Source-to-story mapping](../sigmatiq-strategy-library-v1/CATALOG.md) adds archival source versions to existing questions only; no new assigned story/scope/trial budget. Original canonical off-scope variants remain excluded even if a family has stock-adaptation readiness.

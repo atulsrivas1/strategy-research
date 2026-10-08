@@ -1,0 +1,100 @@
+[
+  {
+    "file": "01-intraday-opening-range-breakout.md",
+    "source_sha256": "9e24ec6aa72b55677f30b0da8709c91015640e87bb6ff32e9f4cfd62b6c31a82",
+    "private_sha256": "9e24ec6aa72b55677f30b0da8709c91015640e87bb6ff32e9f4cfd62b6c31a82",
+    "public_sha256": "9e24ec6aa72b55677f30b0da8709c91015640e87bb6ff32e9f4cfd62b6c31a82",
+    "transformations": []
+  },
+  {
+    "file": "02-intraday-vwap-mean-reversion.md",
+    "source_sha256": "460e91fe2a2427d6936132714aa149f6e299d43a3ebe221fde6456f266870733",
+    "private_sha256": "460e91fe2a2427d6936132714aa149f6e299d43a3ebe221fde6456f266870733",
+    "public_sha256": "460e91fe2a2427d6936132714aa149f6e299d43a3ebe221fde6456f266870733",
+    "transformations": []
+  },
+  {
+    "file": "03-intraday-order-flow-imbalance.md",
+    "source_sha256": "55e86b0213ea1baacb2446d3e1d50e929ae4443ac493a947f7b314e7c29eae38",
+    "private_sha256": "55e86b0213ea1baacb2446d3e1d50e929ae4443ac493a947f7b314e7c29eae38",
+    "public_sha256": "55e86b0213ea1baacb2446d3e1d50e929ae4443ac493a947f7b314e7c29eae38",
+    "transformations": []
+  },
+  {
+    "file": "04-swing-rsi2-mean-reversion.md",
+    "source_sha256": "5dd035d73016ccb39673a1b99961f7bbb5d0e98c48aaaed852c8b039a71e699f",
+    "private_sha256": "5dd035d73016ccb39673a1b99961f7bbb5d0e98c48aaaed852c8b039a71e699f",
+    "public_sha256": "5dd035d73016ccb39673a1b99961f7bbb5d0e98c48aaaed852c8b039a71e699f",
+    "transformations": []
+  },
+  {
+    "file": "05-swing-episodic-pivots.md",
+    "source_sha256": "ce22944b2695ba5992aadc040356ed5e940d269a10c18d1055584fbc1be0ffbe",
+    "private_sha256": "ce22944b2695ba5992aadc040356ed5e940d269a10c18d1055584fbc1be0ffbe",
+    "public_sha256": "ce22944b2695ba5992aadc040356ed5e940d269a10c18d1055584fbc1be0ffbe",
+    "transformations": []
+  },
+  {
+    "file": "06-swing-pairs-statistical-arbitrage.md",
+    "source_sha256": "c346794fc324d80f298d82deab50403265ef2792124b9eb254c51e530c783d37",
+    "private_sha256": "c346794fc324d80f298d82deab50403265ef2792124b9eb254c51e530c783d37",
+    "public_sha256": "c346794fc324d80f298d82deab50403265ef2792124b9eb254c51e530c783d37",
+    "transformations": []
+  },
+  {
+    "file": "07-position-post-earnings-drift.md",
+    "source_sha256": "6b555e053913aff85e1814f83f66b8c9d330d5ab806e0dfc2c9ace759455cbf5",
+    "private_sha256": "6b555e053913aff85e1814f83f66b8c9d330d5ab806e0dfc2c9ace759455cbf5",
+    "public_sha256": "6b555e053913aff85e1814f83f66b8c9d330d5ab806e0dfc2c9ace759455cbf5",
+    "transformations": []
+  },
+  {
+    "file": "08-position-dual-momentum.md",
+    "source_sha256": "84eaf08f6b930452d63750eb4de8f8948d6e789858404d4fd4efe620df1e598c",
+    "private_sha256": "84eaf08f6b930452d63750eb4de8f8948d6e789858404d4fd4efe620df1e598c",
+    "public_sha256": "84eaf08f6b930452d63750eb4de8f8948d6e789858404d4fd4efe620df1e598c",
+    "transformations": []
+  },
+  {
+    "file": "09-position-turtle-trend-following.md",
+    "source_sha256": "1ab277ab31793a252a614bb023b3294b97be41add34fc82dbed5e77f7dc1371a",
+    "private_sha256": "1ab277ab31793a252a614bb023b3294b97be41add34fc82dbed5e77f7dc1371a",
+    "public_sha256": "1ab277ab31793a252a614bb023b3294b97be41add34fc82dbed5e77f7dc1371a",
+    "transformations": []
+  },
+  {
+    "file": "10-portfolio-volatility-risk-premium.md",
+    "source_sha256": "6c18b67c8e92de7d18766381ffcfebf8680172a4358e92e1275dc9f69329714c",
+    "private_sha256": "6c18b67c8e92de7d18766381ffcfebf8680172a4358e92e1275dc9f69329714c",
+    "public_sha256": "6c18b67c8e92de7d18766381ffcfebf8680172a4358e92e1275dc9f69329714c",
+    "transformations": []
+  },
+  {
+    "file": "11-portfolio-risk-parity.md",
+    "source_sha256": "177df6878f3b8dcfdb083e128bbb7f382b0b965bec9fc4ac216cc27d11c690ac",
+    "private_sha256": "177df6878f3b8dcfdb083e128bbb7f382b0b965bec9fc4ac216cc27d11c690ac",
+    "public_sha256": "177df6878f3b8dcfdb083e128bbb7f382b0b965bec9fc4ac216cc27d11c690ac",
+    "transformations": []
+  },
+  {
+    "file": "12-portfolio-multifactor-ensemble.md",
+    "source_sha256": "bf0d68fbeba0bceb650d9c5d1202ec2ecc8078fb8396f636b15856c9386cc7df",
+    "private_sha256": "bf0d68fbeba0bceb650d9c5d1202ec2ecc8078fb8396f636b15856c9386cc7df",
+    "public_sha256": "bf0d68fbeba0bceb650d9c5d1202ec2ecc8078fb8396f636b15856c9386cc7df",
+    "transformations": []
+  },
+  {
+    "file": "_TEMPLATE.md",
+    "source_sha256": "b48efa9d135554f66de74d2c1365f6c3c9bc1ff150df75053098bb8cd4db8116",
+    "private_sha256": "b48efa9d135554f66de74d2c1365f6c3c9bc1ff150df75053098bb8cd4db8116",
+    "public_sha256": "b48efa9d135554f66de74d2c1365f6c3c9bc1ff150df75053098bb8cd4db8116",
+    "transformations": []
+  },
+  {
+    "file": "README.md",
+    "source_sha256": "f8ec297712140bca52017c38d322b2d968e64d3a1179f6191822ba23ae5037e0",
+    "private_sha256": "f8ec297712140bca52017c38d322b2d968e64d3a1179f6191822ba23ae5037e0",
+    "public_sha256": "f8ec297712140bca52017c38d322b2d968e64d3a1179f6191822ba23ae5037e0",
+    "transformations": []
+  }
+]

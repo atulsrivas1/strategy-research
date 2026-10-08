@@ -1,3 +1,7 @@
+## Sigmatiq original library
+
+[Sigmatiq V1—12source notes](docs/sigmatiq-strategy-library-v1/CATALOG.md) is now separate from the20Chartsspeak notes. Together with Sigmatiq V2/V3,76dossiers map to40existing qualification stories;imports are source proposals,not tested strategy results.
+
 ## Imported strategy-library planning
 
 [All 20 dossier stories and ranked catalog](docs/strategy-library/CATALOG.md); [M6 plan](docs/releases/M6_PLAN.md). E08 covers SR-028–047; SR-026/027 and M5 remain separately owned community work in [PR45](https://github.com/atulsrivas1/strategy-research/pull/45). Seven eligible stock/readiness stories assigned M6; thirteen excluded strategies M4. D1 then D2 then E4; no new backtest or final access. Review waiver recorded, scientific gates retained.

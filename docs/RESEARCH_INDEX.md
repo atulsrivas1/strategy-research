@@ -1,3 +1,7 @@
+## Sigmatiq V1 imported — twelve existing-story mappings
+
+[Separate Sigmatiq V1catalog](sigmatiq-strategy-library-v1/CATALOG.md) and [source caveats](sigmatiq-strategy-library-v1/IMPORT_NOTES.md). All12notes preserved and linked to existing plans; no duplicate stories.76dossiers across four libraries,40E08children,67repo story plans. M6/M4assignments and D1/D2/E4momentum order unchanged. Reported literature,not newly verified strategy results;no replay/final access. Earlier library counts below are history.
+
 ## Combined research delivery
 
 All64imported dossiers and40E08stories coexist with the M5community plan/SR-026/027. Earlier PRs merged into parent branches did not publish the full stack to main; this integration retains both histories and resolves their overlapping planning sections. Owner research-review waiver supersedes older review clauses; scientific checks, M2partial status, M3stock-evidence dependency and M5frozen predecessor gates remain. D1/D2/E4 momentum qualification next;no new backtest/final access/release.

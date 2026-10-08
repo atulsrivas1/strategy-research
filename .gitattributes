@@ -2,3 +2,4 @@ docs/strategy-library-v3/*.md -text whitespace=blank-at-eol,blank-at-eof,space-b
 docs/strategy-library-v2/*.md -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
 docs/strategy-library/**/*.md -text
 docs/strategy-library/INDEX.md -text
+docs/sigmatiq-strategy-library-v1/*.md -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol

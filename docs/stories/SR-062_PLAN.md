@@ -28,3 +28,7 @@ Qualification succeeds with auditable primary rule/input contracts or preserves 
 ## Deliverables and resume
 
 Source/rule/clock audit, versioned specification or honest blocker, manifests/commands/checks and all future outcomes if authorized; update backlog, index, lessons, handoff and Project after each experiment. Queue after current momentum/readiness priorities; no immediate data outcomes or grid. No new ETF/short/intraday/futures/puts/long-horizon mandate, paid data, worker, schedule, chat or final access. Import/planning completed is distinct from a completed scientific story.
+
+## Sigmatiq V1 source proposal
+
+[V1-05 dossier](../sigmatiq-strategy-library-v1/05-swing-episodic-pivots.md) adds the original source version for this family. [Mapping/provenance](../sigmatiq-strategy-library-v1/CATALOG.md) preserves all differing rules; imported source claims are reported, not independent local results. Existing story scope/milestone unchanged. Canonical off-scope instruments/horizons/option expressions remain deferred; no new parameter grid, review gate, source job or replay budget. Qualify source rules/clocks and register a separate justified version before selecting any variant.

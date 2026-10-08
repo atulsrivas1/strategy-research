@@ -80,3 +80,7 @@ Thirteen additional archival qualification stories; this does not authorize exec
 - [SR-066](https://github.com/atulsrivas1/strategy-research/issues/86) — V2-32: Deferred: multi-year investing, no current daily adaptation selected
 
 - [SR-067](https://github.com/atulsrivas1/strategy-research/issues/87) — V2-36: Deferred: ETF/multi-asset and decades outside scope
+
+## Sigmatiq V1 source import
+
+[Source-to-story mapping](../sigmatiq-strategy-library-v1/CATALOG.md) adds archival source versions to existing questions only; no new assigned story/scope/trial budget. Original canonical off-scope variants remain excluded even if a family has stock-adaptation readiness.
