@@ -2,7 +2,13 @@
 
 The owner explicitly waived separate code/PR review for this strategy-research project and authorized autonomous work within its operating scope. This supersedes older mandatory Codex-review clauses in research plans, templates, checklists and pending-delivery descriptions, including SR-006's review activation dependency. Separate review is optional, not a merge/Done gate. No completed review is retrospectively claimed. This does not waive source qualification, causal validity, independent relevant numerical verification, CI, privacy, exact source/artifact verification, release acceptance or current scope. It does not apply to equity-features or chartsspeak development. Retain the eight tracking stages; Code review records agent evidence inspection and the owner waiver, not independent approval. Frozen historical receipts remain unchanged; old review requirements below are historical where they conflict with this amendment.
 
-## Current owner-approved restricted M0 contract
+## Current startup disposition
+
+M0 is already [released and verified in restricted scope](https://github.com/atulsrivas1/strategy-research/releases/tag/m0-restricted-evidence-v1). This is the preserved original M0 execution handoff, not an instruction to restart its audits/replays or assign another execution session. [Current M0 scope](M0_PLAN.md) and [dashboard](../DASHBOARD.md) distinguish scoped delivery from outstanding scientific capabilities.
+
+The next research priority is [SR-068 shared design](../stories/SR-068_PLAN.md) under M6, before family-specific qualification. M2 remains partial, final disabled, no automatic worker or schedule. Separate research PR review is optional under the owner waiver; scientific checks/CI/privacy/exact delivery remain required.
+
+## Preserved owner-approved restricted M0 contract
 
 [Final qualification report](../../reports/M0-qualification.md): scientific Gates 1–3 qualified within a disclosed 18-stock daily simulation, not representative historical cap/security adoption, actual latency/fills or fresh confirmation. AMD/NFLX excluded throughout for unresolved adjustments without replacement; earlier source audits/failures retained. Historical broader adoption remains deferred under SR-008 and independent final evidence under M2. Current M0 is not released: actual final-head hosted review, checks and verified delivery still required. No new market/holdout trial.
 

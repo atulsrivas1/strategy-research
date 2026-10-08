@@ -1,4 +1,18 @@
-# Current qualification and delivery state
+# Current qualified data and delivery contract
+
+M0/M1 are released within their accepted restricted scopes: [M0 plan/release](releases/M0_PLAN.md), [M1 plan/release](releases/M1_PLAN.md). The fixed 18-name retrospective cohort excludes AMD/NFLX without replacement and is not representative historical large/mid-cap coverage. Selected source/math/library/adapter/calendar/chronology checks support only their declared daily simulation capability.
+
+Restricted daily availability is modeled at completed session close +5 minutes, decision close +10 minutes, next exact-session open entry. These are assumptions, not measured arrival/auction/quote fills. Historical arrival/revisions, broader point-in-time eligibility/actions and funded executable accounting remain unqualified where documented. Preserve missing/stale/late/unknown and entered-censored states; future availability may control evaluability, never causal admission. Selected library parity remains version/capability-specific, not all-feature certification.
+
+Both historical windows remain exposed development evidence; final confirmation dates are null and access disabled. M2 is partial/unreleased: its two modeled context comparisons are completed/rejected with an exhausted budget, while strict execution/availability/parity and genuinely unused independent evidence remain open. Separate research PR review is optional under the owner waiver; scientific checks, CI and verified delivery remain required.
+
+[SR-068](stories/SR-068_PLAN.md) research design comes first before further imported-family work. Each later experiment must qualify its exact fields/available-at/access/source versions and freeze scanner/context policy, costs, chronology, support/uncertainty/decision criteria and trial budget before outcomes. Passing SR-068 does not itself qualify any field or register a backtest. [Current evidence dashboard](DASHBOARD.md), [scanner/context protocol](knowledge/SCANNER_CONTEXT_PROTOCOL.md).
+
+## Preserved earlier qualification snapshot
+
+The following earlier status/review text is historical where superseded above; frozen receipts retain their original source and review evidence.
+
+# Earlier qualification and delivery state
 
 [Restricted M0 evidence](../reports/M0-qualification.md) supersedes older prerequisite snapshots below. Gates 1–3 qualified under owner-approved fixed 18-stock exploratory daily simulation: original input bytes unchanged, real-history/library/actual-date adapter checks bounded, exposed chronology and disabled final protection explicit. No market/holdout rerun, profitability or release. Broad historical source adoption deferred; source claims and imported paper findings remain unreplicated where stated. Final-head hosted Codex review, checks and exact delivery pending in PR31, which incorporates PR30's safeguards. See [receipt](releases/M0_RECEIPT.md); live Project4 remains lifecycle authority.
 

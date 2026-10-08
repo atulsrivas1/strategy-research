@@ -6,9 +6,13 @@ The owner explicitly waived separate code/PR review for this strategy-research p
 
 Every future strategy test compares its frozen primary scanner alone with one preregistered decision-time stock/market-context policy. Qualify historical available-at clocks, report alignment/conflict/neutral/unknown, preserve original opportunities and account for lost winners alongside avoided losses net of costs. Read [protocol](docs/knowledge/SCANNER_CONTEXT_PROTOCOL.md). Do not retrospectively filter known losers or reopen released results silently.
 
+# Current owner priority — shared design first
+
+SR-068 under E08/M6 is the first Ready research-design task. Accept and verify the common methodology/requirements before further SR-028–067 qualification, adaptation or empirical work. D1/D2 remain Backlog pending it; M4 remains excluded/deferred. Creating SR-068's plan does not complete its design or authorize a market trial. Read docs/stories/SR-068_PLAN.md and the current Project before selecting work.
+
 # Research work agreements
 
-All commits use Atul Srivastava <102820540+atulsrivas1@users.noreply.github.com> as both author and committer. Do not add Codex co-author trailers. Codex acts as the separate PR reviewer; requesting a review is not proof that it ran. Require an actual completed Codex review on the final PR head and disposition of its findings before merging or declaring delivery complete. After changes, request another review if the previous review no longer covers the final diff. This does not replace correctness checks or imply human review.
+All agent-created commits use Atul Srivastava <102820540+atulsrivas1@users.noreply.github.com> as both author and committer. Do not add Codex co-author trailers. Record agent evidence inspection and the owner waiver at Code review; separate research PR review is optional. If a separate review actually runs, record its response, covered final head and findings disposition honestly. CI and independent relevant numerical checks remain required; self-review does not imply independent approval. Disclose GitHub's service committer on generated merge commits without rewriting frozen history.
 
 Read README.md, docs/WORKFLOW.md, docs/BACKLOG.md, docs/RESEARCH_INDEX.md and current issue/Project evidence before choosing work. Use linked numbered stories and milestone gates; one active implementation initially. Source research and historical simulations are authorized within project scope; live trading, purchases and brokerage changes need separate instructions.
 
