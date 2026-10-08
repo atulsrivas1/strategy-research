@@ -1,3 +1,17 @@
+# M3 current delivery reconciliation — October 7, 2026
+
+Unreleased and blocked on supported stock decisions and qualified option contracts/quotes/accounting. No eligible stock candidate is promoted.
+
+## Current assigned stories
+
+[SR-005](../stories/SR-005_PLAN.md), [SR-015](../stories/SR-015_PLAN.md), [SR-016](../stories/SR-016_PLAN.md), [SR-021](../stories/SR-021_PLAN.md)
+
+Separate research PR review is optional under the owner waiver; scientific checks, CI, privacy, actual scoped acceptance and exact delivered-source/artifact verification remain required.
+
+## Preserved original plan and amendments
+
+Earlier status and review clauses below are historical where superseded above. Unfulfilled scientific requirements and original trial records remain binding.
+
 ## Owner research-review amendment — October 7, 2026
 
 The owner explicitly waived separate code/PR review for this strategy-research project and authorized autonomous work within its operating scope. This supersedes older mandatory Codex-review clauses in research plans, templates, checklists and pending-delivery descriptions, including SR-006's review activation dependency. Separate review is optional, not a merge/Done gate. No completed review is retrospectively claimed. This does not waive source qualification, causal validity, independent relevant numerical verification, CI, privacy, exact source/artifact verification, release acceptance or current scope. It does not apply to equity-features or chartsspeak development. Retain the eight tracking stages; Code review records agent evidence inspection and the owner waiver, not independent approval. Frozen historical receipts remain unchanged; old review requirements below are historical where they conflict with this amendment.

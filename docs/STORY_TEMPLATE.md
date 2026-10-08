@@ -14,4 +14,4 @@ Baseline/candidate, formulas/units/clocks, universe and chronological splits/pur
 
 Expected information value, effort and priority; independent relevant fixtures; exact deliverables/commands/artifacts and all-variant failure preservation.
 
-Documentation, actual final-head Codex review/findings disposition, applicable checks, declared publication and actual-source verification before Done. A plan is not an executed experiment.
+Documentation, agent evidence inspection/findings disposition and owner review waiver, applicable independent relevant checks and final-head CI, declared publication and actual-source verification before Done. Separate PR review is optional; record any actual review identity and head coverage honestly. A plan is not an executed experiment.

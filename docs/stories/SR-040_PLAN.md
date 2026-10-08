@@ -1,5 +1,15 @@
 # SR-040 — Qualify D1: Trend following: Turtles, Donchian breakouts, TSMOM and the CTA industry
 
+## Current delivery reconciliation — October 7, 2026
+
+Ready for outcome-free D1 source/rule/field-clock qualification only. Empirical protocol and trial budget not frozen; no local strategy result.
+
+[Live Project stages](https://github.com/users/atulsrivas1/projects/4) remain authoritative. Separate research PR review is optional under the owner waiver; agent inspection, independent relevant numerical checks, CI, privacy and exact delivery verification remain required. No independent approval is claimed.
+
+## Preserved plan and amendments
+
+The original specification and dated amendments below retain provenance. Earlier delivery/status/review wording is superseded by the current reconciliation and owner waiver. Unfulfilled scientific requirements remain requirements.
+
 Parent: [E08](https://github.com/atulsrivas1/strategy-research/issues/46). Release plan: [M6](../releases/M6_PLAN.md).
 State: Ready for outcome-free source/rule qualification; empirical protocol not frozen. Priority rank 1/20; high information value; small design, medium implementation effort. Scientific status: untested locally.
 

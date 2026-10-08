@@ -10,6 +10,7 @@ STORY_IDS=list(range(1,68))
 RELEASE_IDS=list(range(7))
 allowed=ALLOW_ROOT|{'docs/'+p for p in ALLOW_DOCS}|ALLOW_OTHER|{f'docs/stories/SR-{i:03}_PLAN.md' for i in STORY_IDS}|{f'docs/releases/M{i}_PLAN.md' for i in RELEASE_IDS}|{'docs/releases/M0_HANDOFF.md'}
 allowed|={'docs/knowledge/SCANNER_CONTEXT_PROTOCOL.md'}
+allowed|={'scripts/check_tracking.py','reports/TRACKING-SYNC.md'}
 allowed|={'reports/M1-development.md','reports/M1-methodology.md','reports/M1-feasibility.md','docs/sources/M1_REVERSAL.md','docs/sources/M1_AUXILIARY.md','fixtures/m1_math.py','scripts/check_m1.py'}
 allowed|={'reports/M2-readiness.md','fixtures/m2_foundation.py','scripts/check_m2.py','scripts/verify_m2.py'}
 allowed|={'fixtures/m2_sleeves.py','scripts/check_m2_sleeves.py','reports/M2-context-proxy.md','reports/M2-veto-diagnosis.md','docs/knowledge/EVENT_CONTINUATION_DESIGN.md','docs/sources/EVENT_CONTINUATION.md'}

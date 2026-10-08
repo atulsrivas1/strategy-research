@@ -1,3 +1,19 @@
+# M1 current delivery reconciliation — October 7, 2026
+
+Released and verified within accepted comparison/design/feasibility scope. Relative-loser allocation is inconclusive and not promoted; auxiliary designs are not successful market tests.
+
+[Published M1 evidence release](https://github.com/atulsrivas1/strategy-research/releases/tag/m1-restricted-evidence-v1). Its frozen tag/source/assets and historical review evidence are unchanged.
+
+## Current assigned stories
+
+[SR-003](../stories/SR-003_PLAN.md), [SR-011](../stories/SR-011_PLAN.md), [SR-012](../stories/SR-012_PLAN.md), [SR-013](../stories/SR-013_PLAN.md), [SR-014](../stories/SR-014_PLAN.md)
+
+Separate research PR review is optional under the owner waiver; scientific checks, CI, privacy, actual scoped acceptance and exact delivered-source/artifact verification remain required.
+
+## Preserved original plan and amendments
+
+Earlier status and review clauses below are historical where superseded above. Unfulfilled scientific requirements and original trial records remain binding.
+
 ## Owner research-review amendment — October 7, 2026
 
 The owner explicitly waived separate code/PR review for this strategy-research project and authorized autonomous work within its operating scope. This supersedes older mandatory Codex-review clauses in research plans, templates, checklists and pending-delivery descriptions, including SR-006's review activation dependency. Separate review is optional, not a merge/Done gate. No completed review is retrospectively claimed. This does not waive source qualification, causal validity, independent relevant numerical verification, CI, privacy, exact source/artifact verification, release acceptance or current scope. It does not apply to equity-features or chartsspeak development. Retain the eight tracking stages; Code review records agent evidence inspection and the owner waiver, not independent approval. Frozen historical receipts remain unchanged; old review requirements below are historical where they conflict with this amendment.

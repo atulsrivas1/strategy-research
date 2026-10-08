@@ -1,3 +1,17 @@
+# M6 current delivery reconciliation — October 7, 2026
+
+Planned, unreleased. Ten source/adaptation-readiness questions; D1 then D2 then E4. Zero registered historical comparisons and final evaluations in this plan.
+
+## Current assigned stories
+
+[SR-032](../stories/SR-032_PLAN.md), [SR-033](../stories/SR-033_PLAN.md), [SR-034](../stories/SR-034_PLAN.md), [SR-040](../stories/SR-040_PLAN.md), [SR-041](../stories/SR-041_PLAN.md), [SR-043](../stories/SR-043_PLAN.md), [SR-047](../stories/SR-047_PLAN.md), [SR-051](../stories/SR-051_PLAN.md), [SR-062](../stories/SR-062_PLAN.md), [SR-063](../stories/SR-063_PLAN.md)
+
+Separate research PR review is optional under the owner waiver; scientific checks, CI, privacy, actual scoped acceptance and exact delivered-source/artifact verification remain required.
+
+## Preserved original plan and amendments
+
+Earlier status and review clauses below are historical where superseded above. Unfulfilled scientific requirements and original trial records remain binding.
+
 # M6 — Stock momentum and strategy-library qualification
 
 Status: planned, unreleased. M5 is reserved for community onboarding; M4 remains deferred. This is a development/readiness evidence plan, not an alternative declaration that M2 execution/fresh-evidence gates passed, nor an activation of M3 calls.

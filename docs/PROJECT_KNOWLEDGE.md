@@ -1,3 +1,7 @@
+## Current synchronization — October 7, 2026
+
+[Current dashboard](DASHBOARD.md), [epic/release map](ROADMAP.md) and [live Project](https://github.com/users/atulsrivas1/projects/4) supersede older delivery/status snapshots below. M0/M1 released, M2 partial with two rejected modeled comparisons and exhausted budget, M3 conditional, M4 deferred, M5 planning only, M6 D1/D2/E4 qualification next. Four libraries / 76 dossiers / 40 E08 stories; no new market test. Separate research review optional; scientific/CI/privacy/actual delivery gates remain.
+
 ## Combined research delivery
 
 All64imported dossiers and40E08stories coexist with the M5community plan/SR-026/027. Earlier PRs merged into parent branches did not publish the full stack to main; this integration retains both histories and resolves their overlapping planning sections. Owner research-review waiver supersedes older review clauses; scientific checks, M2partial status, M3stock-evidence dependency and M5frozen predecessor gates remain. D1/D2/E4 momentum qualification next;no new backtest/final access/release.

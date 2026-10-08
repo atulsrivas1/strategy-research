@@ -1,5 +1,15 @@
 # SR-027 — Create research feedback and participation tasks
 
+## Current delivery reconciliation — October 7, 2026
+
+Planning delivered; implementation and outreach deferred behind the frozen equity-features R5–R13 and applicable research M2/M3 acceptance gates. M4 excluded; M6 does not silently amend this list. Full story remains open; no new empirical authorization from this synchronization.
+
+[Live Project stages](https://github.com/users/atulsrivas1/projects/4) remain authoritative. Separate research PR review is optional under the owner waiver; agent inspection, independent relevant numerical checks, CI, privacy and exact delivery verification remain required. No independent approval is claimed.
+
+## Preserved plan and amendments
+
+The original specification and dated amendments below retain provenance. Earlier delivery/status/review wording is superseded by the current reconciliation and owner waiver. Unfulfilled scientific requirements remain requirements.
+
 Parent: [E07](https://github.com/atulsrivas1/strategy-research/issues/42). Release plan: [M5](../releases/M5_PLAN.md).
 
 ## Hypothesis and information value
