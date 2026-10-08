@@ -1,5 +1,9 @@
 # SR-022 — Qualify decision-time stock and market context
 
+## Recovery and availability priority — October 8, 2026
+
+[R03 capture contract](../contracts/SR-022_AVAILABILITY_CAPTURE.md) is prepared, not implemented. Next bounded outcome-free recorder can preserve future first-seen/retrieval/revisions; it cannot certify the old dates or reopen exhausted M2 comparisons. Full story remains open, live Project lifecycle authority; freeze a specific build plan before code.
+
 ## Full replan priority — October 7, 2026
 
 Current priority: 2 — Enabling evidence. Current release: M2. After shared design, qualify availability clocks, accounting/parity and observed execution/funding; exact missing evidence stays blocked. No market replay from this plan.

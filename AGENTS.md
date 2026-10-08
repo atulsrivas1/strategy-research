@@ -1,3 +1,7 @@
+## Current recovery disposition — October 8, 2026
+
+Read [handoff](docs/SESSION_HANDOFF.md), [recovery report](reports/D1-recovery-disposition.md) and [SR022 capture contract](docs/contracts/SR-022_AVAILABILITY_CAPTURE.md). Scoped locator recovered no original chain; four gates blocked. PR106 verified. Next bounded outcome-free receipt recorder plan, no historical backfill, source-owner jobs, later release or final access. Owner attribution/exact CI/source/privacy gates retained.
+
 ## Current preparation qualification — October 8, 2026
 
 Read [current handoff](docs/SESSION_HANDOFF.md) and [preparation report](reports/D1-preparation-provenance.md). Twenty receipts retain older output paths; all original/source gates remain unqualified. PR105 verified, M7 partial Test/unreleased. Next recovery/admission scope; no owner source modification, producer jobs or historical-clock inference. Owner author AND committer and exact CI/source/artifact gates retained.

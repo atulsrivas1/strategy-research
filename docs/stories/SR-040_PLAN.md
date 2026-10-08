@@ -1,5 +1,9 @@
 # SR-040 — Qualify D1: Trend following: Turtles, Donchian breakouts, TSMOM and the CTA industry
 
+## Recovery and availability priority — October 8, 2026
+
+[Scoped recovery](../../reports/D1-recovery-disposition.md) restored no original/request chain. Source gates remain blocked; full story stays partial Test. Next shared availability contract under SR022, no repeated locator without new evidence or new trial budget.
+
 ## Preparation evidence — October 8, 2026
 
 [Twenty exact receipt comparisons](../../reports/D1-preparation-provenance.md) isolate old/new output paths, with no original request sidecars or historical runtime binding. Four source gates remain blocked. Full story stays partial Test, original scientific acceptance and budget unchanged. Next recovery/admission specification.
