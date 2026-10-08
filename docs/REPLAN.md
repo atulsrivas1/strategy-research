@@ -1,5 +1,9 @@
 # Current research plan — October 7, 2026
 
+## Shared design authored — October 8, 2026
+
+[Shared design v1](design/DESIGN.md), [complete 76-dossier/40-family applicability](design/APPLICABILITY.md), [24 requirement and feasible-build contracts](design/BUILD_REGISTER.md), [required templates](design/TEMPLATES.md) and [synthetic walkthroughs](design/WALKTHROUGHS.md) are authored. Missing data/tools remain explicit; qualify/reuse, build, prospective capture, acquire or defer paths are retained. Source imports are not causal/execution certification. Design checks/publication acceptance remain gates before SR-068 Done or M7 activation. No historical comparison/final evaluation, source-owner job or scope expansion from design.
+
 Shared research design is the first execution priority. This replan covers all 68 stories and eight epics. It reorganizes planned work; it does not deliver SR-068 or publish a scientific release. [Project 4](https://github.com/users/atulsrivas1/projects/4) remains lifecycle authority. [Machine-readable inventory](RESEARCH_PLAN.json) records each story once.
 
 ## Priority and dependency order

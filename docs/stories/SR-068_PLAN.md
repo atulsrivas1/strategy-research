@@ -1,5 +1,9 @@
 # SR-068 — Design library-wide research requirements and evaluation workflow
 
+## Shared design authored — October 8, 2026
+
+[Shared design v1](../design/DESIGN.md), [complete 76-dossier/40-family applicability](../design/APPLICABILITY.md), [24 requirement and feasible-build contracts](../design/BUILD_REGISTER.md), [required templates](../design/TEMPLATES.md) and [synthetic walkthroughs](../design/WALKTHROUGHS.md) are authored. Missing data/tools remain explicit; qualify/reuse, build, prospective capture, acquire or defer paths are retained. Source imports are not causal/execution certification. Design checks/publication acceptance remain gates before SR-068 Done or M7 activation. No historical comparison/final evaluation, source-owner job or scope expansion from design.
+
 ## Full replan priority — October 7, 2026
 
 Current priority: 1 — Design first. Current release: M6. Ready for shared design only; requirements, all 76 dossiers / 40 families, templates and synthetic walkthroughs required. Actual design remains undelivered.
