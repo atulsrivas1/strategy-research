@@ -1,3 +1,7 @@
+## October 8 qualification progress
+
+SR-040 bounded source/input qualification started under owner authorization after accepted M6 design. [Evidence and blockers](../../reports/D1-input-qualification.md) delivers a synthetic ingredient contract and source/data disposition; full story remains open. Other families are not launched. M7 remains planned, unreleased with ten assigned stories, zero historical comparisons and no release acceptance from this partial delivery.
+
 # M7 — Stock strategy qualification and bounded readiness
 
 Status: planned, unreleased. Current scope: 10 assigned stories.

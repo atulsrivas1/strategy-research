@@ -1,3 +1,7 @@
+## L-D1-001 — Ingredient existence is not causal qualification
+
+[D1 bounded audit](../reports/D1-input-qualification.md): a sufficient-looking ordered daily window can coexist with unavailable action normalization and reconstructed availability. Fail closed on unknown authority. Primary monthly futures trend evidence does not independently establish a five-session individual-stock adaptation. One sampled name does not qualify an entire universe; missing historical clocks cannot be recreated by a checker.
+
 # Veto diagnosis and next mechanism design
 
 [Exclusive saved-ledger attribution](../reports/M2-veto-diagnosis.md): market-only vetoes sacrifice the largest exclusive winning contribution, but shared vetoes prevent unique credit. Both gates remain parked, no new ablation/replay. [Next proposed hypothesis](knowledge/EVENT_CONTINUATION_DESIGN.md) is earnings-event continuation with explicit counterevidence; empirical blocked on exact event/forecast contracts and support. Next Ready work is outcome-free source trace; M2partial, final disabled, normal review required.
