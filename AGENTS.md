@@ -1,3 +1,7 @@
+## Current fifth M7 prerequisite increment — October 8, 2026
+
+SR-032 adds bounded RSI source/calculation evidence. Read [current handoff](docs/SESSION_HANDOFF.md) and [report](reports/B1-source-qualification.md). Five full stories have bounded evidence and stay open at partial Test; empirical authority blocked, M7 unreleased. No trial budget, new session or source job. Older dated snapshots below retain history.
+
 ## Current fourth M7 prerequisite increment — October 8, 2026
 
 SR-034 adds bounded B3 earnings-consensus/first-print machinery. Read [current handoff](docs/SESSION_HANDOFF.md) and [evidence](reports/B3-source-qualification.md). Four full stories remain open at partial Test; empirical source authority blocked, M7 unreleased. No actual strategy trial or new session. Earlier snapshots below retain history.

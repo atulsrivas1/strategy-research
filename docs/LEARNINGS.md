@@ -1,3 +1,7 @@
+## L-B1-001 — Initialization is part of an indicator contract
+
+[B1 RSI checks](../reports/B1-source-qualification.md) verify declared seeded Wilder arithmetic, complete session inputs and past-only availability. A rolling reset, a different warmup or an arbitrary flat-price default can change outputs; exact engine parity and historical source qualification remain separate. Primary R2 index rules do not establish the proposed stock scanner or a cost-surviving reversal edge.
+
 ## L-B3-001 — Freeze the forecast before release and preserve its basis
 
 [B3 prerequisite checks](../reports/B3-source-qualification.md) demonstrate synthetic exclusion of post-release consensus and mismatched EPS bases. Raw actual-minus-estimate, accounting change, standardized surprise and price reaction remain distinct measures. Saved timing/vintage columns do not certify immutable historical consensus or exact original arrivals. No empirical PEAD efficacy is inferred.
