@@ -1,5 +1,9 @@
 # SR-022 — Qualify decision-time stock and market context
 
+## R03 recorder v1 — October 8, 2026
+
+[Offline implementation and11 synthetic checks](../../reports/SR022-availability-recorder.md) preserve local first-seen/revisions and atomic receipt order. No real source capture, provider clock qualification or historical rehabilitation. Full SR022 remains open partial qualification; exhausted M2 comparisons unchanged. Next bounded provider adapter after source/clock qualification.
+
 ## Recovery and availability priority — October 8, 2026
 
 [R03 capture contract](../contracts/SR-022_AVAILABILITY_CAPTURE.md) is prepared, not implemented. Next bounded outcome-free recorder can preserve future first-seen/retrieval/revisions; it cannot certify the old dates or reopen exhausted M2 comparisons. Full story remains open, live Project lifecycle authority; freeze a specific build plan before code.

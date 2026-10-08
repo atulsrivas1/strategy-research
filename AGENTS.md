@@ -1,3 +1,7 @@
+## Current R03 recorder qualification — October 8, 2026
+
+Read [handoff](docs/SESSION_HANDOFF.md) and [recorder report](reports/SR022-availability-recorder.md). Offline machinery tested on synthetic files only; local observations do not qualify provider/source/historical clocks. SR022 remains open partial qualification, M2 negative/exhausted budget unchanged. All M7 full stories partial Test/unreleased. Next provider adapter plan after source/clock qualification; no actual capture/source jobs/new sessions/later releases. Owner identity and all exact CI/source/privacy gates retained.
+
 ## Current recovery disposition — October 8, 2026
 
 Read [handoff](docs/SESSION_HANDOFF.md), [recovery report](reports/D1-recovery-disposition.md) and [SR022 capture contract](docs/contracts/SR-022_AVAILABILITY_CAPTURE.md). Scoped locator recovered no original chain; four gates blocked. PR106 verified. Next bounded outcome-free receipt recorder plan, no historical backfill, source-owner jobs, later release or final access. Owner attribution/exact CI/source/privacy gates retained.

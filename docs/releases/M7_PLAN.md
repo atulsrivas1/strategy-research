@@ -1,3 +1,7 @@
+## Shared availability prerequisite — October 8, 2026
+
+[R03 recorder v1](../../reports/SR022-availability-recorder.md) implements offline local first-seen/revision/transaction receipts; eleven synthetic persistence/clock tests pass. Provider/event clocks null, source unknown, local observations only; no source capture or admission. PR107 recovery publication verified; four historical source gates blocked, all ten M7 stories partial Test/M7 unreleased. Full SR022 partial qualification under M2, exhausted comparison budget unchanged. Next source-qualified provider-metadata adapter plan; zero market rows/trials/final access, no owner producer jobs/acquisition/new session/later release. Older snapshots retain history.
+
 ## Recovery disposition and next build — October 8, 2026
 
 [Scoped recovery](../../reports/D1-recovery-disposition.md) found no original/request chain in two declared roots and an absent referenced parent manifest. Two metadata hashes and twenty expected source identities/counts verified; no original bytes recovered. Four source gates remain blocked, all ten M7 stories open partial Test, M7 unreleased. PR106 exact publication verified. Next outcome-free SR022/R03 recorder under [capture contract](../contracts/SR-022_AVAILABILITY_CAPTURE.md); historical recovery waits for a new exact source/receipt. No market rows/trials/final access, producer job, new session or later release. Older snapshots retain history.
