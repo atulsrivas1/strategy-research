@@ -1,12 +1,16 @@
 # M6 current delivery reconciliation — October 7, 2026
 
-Planned, unreleased. Ten source/adaptation-readiness questions; D1 then D2 then E4. Zero registered historical comparisons and final evaluations in this plan.
+Planned, unreleased. Eleven assigned stories: shared SR-068 research design FIRST, followed after its acceptance by ten source/adaptation-readiness questions, D1 then D2 then E4. Zero registered historical comparisons and final evaluations in this plan.
 
 ## Current assigned stories
 
-[SR-032](../stories/SR-032_PLAN.md), [SR-033](../stories/SR-033_PLAN.md), [SR-034](../stories/SR-034_PLAN.md), [SR-040](../stories/SR-040_PLAN.md), [SR-041](../stories/SR-041_PLAN.md), [SR-043](../stories/SR-043_PLAN.md), [SR-047](../stories/SR-047_PLAN.md), [SR-051](../stories/SR-051_PLAN.md), [SR-062](../stories/SR-062_PLAN.md), [SR-063](../stories/SR-063_PLAN.md)
+[SR-068](../stories/SR-068_PLAN.md), [SR-032](../stories/SR-032_PLAN.md), [SR-033](../stories/SR-033_PLAN.md), [SR-034](../stories/SR-034_PLAN.md), [SR-040](../stories/SR-040_PLAN.md), [SR-041](../stories/SR-041_PLAN.md), [SR-043](../stories/SR-043_PLAN.md), [SR-047](../stories/SR-047_PLAN.md), [SR-051](../stories/SR-051_PLAN.md), [SR-062](../stories/SR-062_PLAN.md), [SR-063](../stories/SR-063_PLAN.md)
 
 Separate research PR review is optional under the owner waiver; scientific checks, CI, privacy, actual scoped acceptance and exact delivered-source/artifact verification remain required.
+
+## Owner-directed design prerequisite
+
+[SR-068](https://github.com/atulsrivas1/strategy-research/issues/91) library-wide research design and requirements must be accepted and verified before further imported-family qualification, adaptation or empirical work. This is the owner-directed first priority; M4 stays deferred, and no historical trial budget or final access is added. SR-040/SR-041 are Backlog until this prerequisite is delivered. SR-068 is Ready for design, not completed. Its plan requires all 76 dossiers/40 family stories to have traceable applicability and qualification requirements, reusable templates and synthetic/document walkthroughs. Creating this plan does not execute the design or authorize backtests.
 
 ## Preserved original plan and amendments
 

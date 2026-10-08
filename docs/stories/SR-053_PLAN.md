@@ -6,6 +6,8 @@ Deferred and excluded from this pass. Includes 30 library stories plus SR-017/01
 
 [Live Project stages](https://github.com/users/atulsrivas1/projects/4) remain authoritative. Separate research PR review is optional under the owner waiver; agent inspection, independent relevant numerical checks, CI, privacy and exact delivery verification remain required. No independent approval is claimed.
 
+Owner priority amendment: [SR-068](https://github.com/atulsrivas1/strategy-research/issues/91) library-wide research design and requirements must be accepted and verified before further imported-family qualification, adaptation or empirical work. This is the owner-directed first priority; M4 stays deferred, and no historical trial budget or final access is added.
+
 ## Preserved plan and amendments
 
 The original specification and dated amendments below retain provenance. Earlier delivery/status/review wording is superseded by the current reconciliation and owner waiver. Unfulfilled scientific requirements remain requirements.
@@ -22,6 +24,8 @@ Separate ownership may permit asset repricing or later takeovers. SPIN-T versus 
 [V3-06 source dossier](../strategy-library-v3/06-position-spinoff-drift.md) sections 1–9, especially source reading limits, failure modes and proposed validation. [Source log](../strategy-library-v3/SOURCES.md) and [import notes](../strategy-library-v3/IMPORT_NOTES.md) distinguish the originating author's paper reads from this project's verification. Their grades/numbers are reported findings; no V3 local backtest exists. [Existing library catalog](../strategy-library/CATALOG.md) and [M2 unsuccessful context tests](../../reports/M2-context-proxy.md) remain preserved. No unchanged failed gate retry or retrospective exclusion of known losers.
 
 ## Dependencies and required data
+
+[SR-068](https://github.com/atulsrivas1/strategy-research/issues/91) library-wide research design and requirements must be accepted and verified before further imported-family qualification, adaptation or empirical work. This is the owner-directed first priority; M4 stays deferred, and no historical trial budget or final access is added.
 
 completed tax-free distribution census, action ratios, parent/child identities, contemporaneous tax status and delisting returns. [SR-008](https://github.com/atulsrivas1/strategy-research/issues/14) actions/universe, [SR-010](https://github.com/atulsrivas1/strategy-research/issues/16) chronology/exposure, [SR-022](https://github.com/atulsrivas1/strategy-research/issues/35) context clocks, [SR-025](https://github.com/atulsrivas1/strategy-research/issues/38) matched accounting and [SR-004](https://github.com/atulsrivas1/strategy-research/issues/4) applicable execution qualification remain required for empirical adoption. Explicit owner scope expansion is needed before empirical work. An import is not that instruction.
 

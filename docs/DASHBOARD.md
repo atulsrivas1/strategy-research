@@ -12,7 +12,7 @@
 | [M3](releases/M3_PLAN.md) | Conditional calls blocked on supported stock evidence and qualified option inputs/accounting. |
 | [M4](releases/M4_PLAN.md) | Deferred, excluded this pass. |
 | [M5](releases/M5_PLAN.md) | Community planning delivered; implementation/outreach deferred behind frozen predecessors. |
-| [M6](releases/M6_PLAN.md) | Planned/unreleased, ten readiness questions; [D1](stories/SR-040_PLAN.md), [D2](stories/SR-041_PLAN.md), [E4](stories/SR-047_PLAN.md) qualification order. No registered historical trial budget. |
+| [M6](releases/M6_PLAN.md) | Planned/unreleased: [SR-068 research design first](stories/SR-068_PLAN.md), then ten readiness questions after acceptance; [D1](stories/SR-040_PLAN.md), [D2](stories/SR-041_PLAN.md), [E4](stories/SR-047_PLAN.md) qualification order. No registered historical trial budget. |
 
 [Chartsspeak](strategy-library/CATALOG.md), [Sigmatiq V1](sigmatiq-strategy-library-v1/CATALOG.md), [V2](strategy-library-v2/CATALOG.md), [V3](strategy-library-v3/CATALOG.md): 76 source dossiers preserved, not 76 tested strategies. No winning strategy established.
 
