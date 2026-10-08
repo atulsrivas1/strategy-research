@@ -1,3 +1,7 @@
+## Current M7 family dispositions — October 8, 2026
+
+Read [current handoff](docs/SESSION_HANDOFF.md) and [ten-family ledger](reports/M7-readiness-ledger.md). All ten full stories open at partial Test; M7 unreleased, empirical gates blocked, trial budget zero. SR-043 is calendar/FOMC, not low-beta; compare actual title/plan before selection. Next common daily-source admission audit needs frozen specification and source-owner access rules; no new session/later release/producer job. Owner author AND committer required for implementation and local merge. Older dated snapshots below retain history.
+
 ## Current sixth M7 prerequisite increment — October 8, 2026
 
 SR-033 adds bounded opening-gap source/timing/action evidence. Read [current handoff](docs/SESSION_HANDOFF.md) and [report](reports/B2-source-qualification.md). Six full stories stay open at partial Test; empirical authority blocked, M7 unreleased. No trial budget, later release/session or source job. Both implementation and local merge must use owner author AND committer. Older dated snapshots below retain history.

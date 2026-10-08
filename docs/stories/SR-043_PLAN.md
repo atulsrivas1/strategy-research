@@ -1,5 +1,9 @@
 # SR-043 — Qualify D4: Equity seasonality and event-time effects: pre-FOMC drift, turn-of-month, Halloween, day-of-week
 
+## Bounded prerequisite evidence — October 8, 2026
+
+[D4 source and synthetic contract](../../reports/D4-source-qualification.md), 45 independent checks. Accepted SR-068 verified; full story open at partial Test, empirical authority blocked. Zero strategy trials/final evaluations, M7 planned/unreleased. Original scientific acceptance remains required; no independent approval claimed. Older startup/design-blocked wording below is history.
+
 ## Full replan priority — October 7, 2026
 
 Current priority: 3.07 — Provisional qualification. Current release: M7. Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.
@@ -8,7 +12,7 @@ Current priority: 3.07 — Provisional qualification. Current release: M7. Backl
 
 ## Current delivery reconciliation — October 7, 2026
 
-M7 planned, unreleased. Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.
+M7 planned, unreleased. Accepted SR-068 verified; bounded source/prerequisite evidence linked above. Full story open at partial Test; empirical source/clock/input/execution/protocol gates blocked, no historical trial budget.
 
 Separate research PR review is optional under the owner waiver; causal/source qualification, independent relevant checks, CI, privacy and exact acceptance remain required. No independent approval claimed.
 

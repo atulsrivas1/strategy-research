@@ -1,3 +1,7 @@
+## L-M7-007 — Source variants and knowledge clocks are separate prerequisites
+
+[Ten-family ledger](../reports/M7-readiness-ledger.md) links evidence: final calendars do not prove announcement vintages; filing code P does not isolate open-market common stock; routine labels need sufficient past history and an exact definition; an early volume ratio needs an explicit causal denominator; endpoint retreat is not full flag depth. Preserve primary rule revisions and proposed adaptations separately. These are source/synthetic lessons, not empirical strategy efficacy. Verify story title/plan when a handoff label conflicts.
+
 ## L-B2-001 — Match gap endpoints, share units and decision clocks
 
 [B2 checks](../reports/B2-source-qualification.md) distinguish a split-aligned price gap from dividend-inclusive overnight return or an executable open fill. Exact adjacent-session/endpoint lineage and opening-price arrival precede a causal gap feature. A first-half-hour VWAP source result cannot establish an official-opening-price scanner; cash distributions require separate treatment. These are synthetic contract/source boundaries, not empirical efficacy.

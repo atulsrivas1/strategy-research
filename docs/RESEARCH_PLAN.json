@@ -600,7 +600,7 @@
       "epic": "E08",
       "release": "M7",
       "priority": "3.07 \u2014 Provisional qualification",
-      "disposition": "Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.",
+      "disposition": "Accepted SR-068 verified; bounded D4 source/synthetic prerequisite evidence delivered. Full story open; empirical source/clock/input/execution/protocol gates blocked; zero historical trials. Project is lifecycle authority.",
       "dependencies": [
         "SR-004",
         "SR-008",
@@ -736,7 +736,7 @@
       "epic": "E08",
       "release": "M7",
       "priority": "3.08 \u2014 Provisional qualification",
-      "disposition": "Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.",
+      "disposition": "Accepted SR-068 verified; bounded V3-04 source/synthetic prerequisite evidence delivered. Full story open; empirical source/clock/input/execution/protocol gates blocked; zero historical trials. Project is lifecycle authority.",
       "dependencies": [
         "SR-004",
         "SR-008",
@@ -923,7 +923,7 @@
       "epic": "E08",
       "release": "M7",
       "priority": "3.09 \u2014 Provisional qualification",
-      "disposition": "Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.",
+      "disposition": "Accepted SR-068 verified; bounded V2-14 source/synthetic prerequisite evidence delivered. Full story open; empirical source/clock/input/execution/protocol gates blocked; zero historical trials. Project is lifecycle authority.",
       "dependencies": [
         "SR-004",
         "SR-008",
@@ -940,7 +940,7 @@
       "epic": "E08",
       "release": "M7",
       "priority": "3.10 \u2014 Provisional qualification",
-      "disposition": "Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.",
+      "disposition": "Accepted SR-068 verified; bounded V2-18 source/synthetic prerequisite evidence delivered. Full story open; empirical source/clock/input/execution/protocol gates blocked; zero historical trials. Project is lifecycle authority.",
       "dependencies": [
         "SR-004",
         "SR-008",
