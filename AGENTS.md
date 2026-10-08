@@ -1,3 +1,7 @@
+## Current fourth M7 prerequisite increment — October 8, 2026
+
+SR-034 adds bounded B3 earnings-consensus/first-print machinery. Read [current handoff](docs/SESSION_HANDOFF.md) and [evidence](reports/B3-source-qualification.md). Four full stories remain open at partial Test; empirical source authority blocked, M7 unreleased. No actual strategy trial or new session. Earlier snapshots below retain history.
+
 ## Current M7 prerequisite evidence — October 8, 2026
 
 See [current handoff](docs/SESSION_HANDOFF.md). SR-040, SR-041 and SR-047 have bounded source/machinery evidence; full stories remain open, empirical admission blocked and M7 unreleased. Follow the current owner-authorized sequential scope and frozen specifications; no automatic experiment or later release. Older unstarted snapshots below are history.

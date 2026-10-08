@@ -1,3 +1,7 @@
+## L-B3-001 — Freeze the forecast before release and preserve its basis
+
+[B3 prerequisite checks](../reports/B3-source-qualification.md) demonstrate synthetic exclusion of post-release consensus and mismatched EPS bases. Raw actual-minus-estimate, accounting change, standardized surprise and price reaction remain distinct measures. Saved timing/vintage columns do not certify immutable historical consensus or exact original arrivals. No empirical PEAD efficacy is inferred.
+
 ## L-M7-001 — Preserve authority boundaries in shared ingredients
 
 [D1 minute-proxy evidence](../reports/D1-session-feasibility.md) distinguishes full interval coverage from official auction/arrival authority. [D2 qualification](../reports/D2-source-qualification.md) distinguishes a reconstructed membership snapshot from a complete historical ranking denominator and corrects an imported blanket cost claim using the actual primary paper. [E4 vintage checks](../reports/E4-vintage-qualification.md) demonstrate synthetic prevention of future-restatement leakage; they do not certify a historical fundamental source. Missing authority blocks empirical use rather than disproving a strategy.

@@ -1,5 +1,9 @@
 # SR-034 — Qualify B3: Post-Earnings-Announcement Drift (PEAD)
 
+## Bounded source/machinery evidence — October 8, 2026
+
+[Primary method, source boundaries and 64 hand-derived pairing checks](../../reports/B3-source-qualification.md). Accepted SR-068 verified; full SR-034 open at partial Test, empirical source and execution gates remain blocked. M7 planned, unreleased; zero strategy trials/final evaluations. No independent approval claimed. Older startup/design-blocked text below is history, original scientific acceptance remains required.
+
 ## Full replan priority — October 7, 2026
 
 Current priority: 3.04 — Provisional qualification. Current release: M7. Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.
@@ -8,7 +12,7 @@ Current priority: 3.04 — Provisional qualification. Current release: M7. Backl
 
 ## Current delivery reconciliation — October 7, 2026
 
-M7 planned, unreleased. Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.
+M7 planned, unreleased. Accepted SR-068 verified; bounded B3 source/machinery evidence is linked above. Full story open at partial Test; empirical release/consensus/execution gates remain blocked, no historical trial budget.
 
 Separate research PR review is optional under the owner waiver; causal/source qualification, independent relevant checks, CI, privacy and exact acceptance remain required. No independent approval claimed.
 
