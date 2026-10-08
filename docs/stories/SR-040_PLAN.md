@@ -36,3 +36,7 @@ Source qualification note, scoped specification or honest blocker, exact manifes
 - [V2-27](../strategy-library-v2/27-portfolio-managed-futures-cta.md) — related source family; retain differing rules as untested proposals.
 
 [Full overlap/provenance map](../strategy-library-v2/CATALOG.md). Existing scope/milestone/scanner unchanged; canonical off-scope instruments or horizons stay deferred even where this story qualifies a stock adaptation. Source grades/strong verdicts are reported and unverified here. Selecting a differing variant later requires a separate mechanism, frozen specification and registered budget; importing it does not reopen a rejected gate or authorize a grid.
+
+## Sigmatiq V1 source proposal
+
+[V1-09 dossier](../sigmatiq-strategy-library-v1/09-position-turtle-trend-following.md) adds the original source version for this family. [Mapping/provenance](../sigmatiq-strategy-library-v1/CATALOG.md) preserves all differing rules; imported source claims are reported, not independent local results. Existing story scope/milestone unchanged. Canonical off-scope instruments/horizons/option expressions remain deferred; no new parameter grid, review gate, source job or replay budget. Qualify source rules/clocks and register a separate justified version before selecting any variant.

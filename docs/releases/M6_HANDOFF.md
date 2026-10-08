@@ -1,3 +1,7 @@
+## Sigmatiq V1 source continuity
+
+[12note mapping](../sigmatiq-strategy-library-v1/CATALOG.md) supplies additional source versions,not new experiments. D1first;qualified rule/clock contracts and frozen budget precede replay.76dossiers/40E08stories;other scope and priorities unchanged.
+
 ## V2 readiness amendment
 
 [SR-062](../stories/SR-062_PLAN.md) catalyst clocks and [SR-063](../stories/SR-063_PLAN.md) causal flags/sample support queue after current momentum readiness. D1 remains first; no enlarged universe or new replay budget.
