@@ -1,3 +1,7 @@
+## L-D1-004 — A manifest parent is a claim until the parent is verified
+
+[Source-admission audit](../reports/D1-source-admission.md) confirms20prepared hashes but finds20absent declared curated parents. Legacy provenance, UTCdaybars, partial ex-post actions and unknown historical arrivals remain independent blockers. File integrity/producer success cannot establish original feed identity or knowledge time; a bounded archive absence is not whole-lake absence. Preserve absent links rather than matching filenames/dates.
+
 ## L-M7-007 — Source variants and knowledge clocks are separate prerequisites
 
 [Ten-family ledger](../reports/M7-readiness-ledger.md) links evidence: final calendars do not prove announcement vintages; filing code P does not isolate open-market common stock; routine labels need sufficient past history and an exact definition; an early volume ratio needs an explicit causal denominator; endpoint retreat is not full flag depth. Preserve primary rule revisions and proposed adaptations separately. These are source/synthetic lessons, not empirical strategy efficacy. Verify story title/plan when a handoff label conflicts.

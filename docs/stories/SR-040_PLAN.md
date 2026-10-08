@@ -1,5 +1,9 @@
 # SR-040 — Qualify D1: Trend following: Turtles, Donchian breakouts, TSMOM and the CTA industry
 
+## Bounded source-admission evidence — October 8, 2026
+
+[100 real metadata reconciliations and 52 independent receipt checks](../../reports/D1-source-admission.md). Prepared identity verified; original lineage/session/actions/availability blocked. Missing declared source paths retained as evidence, not substituted. Fullstory open partialTest, M7unreleased; no new market rows or trial budget. Original scientific acceptance remains required.
+
 ## Bounded prerequisite evidence — October 8, 2026
 
 [390-bin minute proxy and 25 synthetic checks; official-close/auction/action/arrival authority remains blocked.](../../reports/D1-session-feasibility.md) Full story open at partial Test; no empirical admission, zero historical trials and final evaluations. M7 planned, unreleased. Accepted SR-068 prerequisite fulfilled. Original scientific acceptance below remains required; older unstarted/blocked-on-design wording is historical.
@@ -20,7 +24,7 @@ Current priority: 3.01 — Provisional qualification. Current release: M7. SR-06
 
 ## Current delivery reconciliation — October 7, 2026
 
-M7 planned, unreleased. Accepted SR-068 verified; bounded source/machinery evidence is linked above. Full story open at partial Test; empirical gates remain blocked. Priority remains provisional, no historical trial budget.
+M7 planned, unreleased. Accepted SR-068 verified. Bounded input/source-admission evidence linked above; full story open at partial Test. Original lineage/session/actions/availability, universe/execution/context/protocol gates blocked; no historical trial budget.
 
 Separate research PR review is optional under the owner waiver; causal/source qualification, independent relevant checks, CI, privacy and exact acceptance remain required. No independent approval claimed.
 
