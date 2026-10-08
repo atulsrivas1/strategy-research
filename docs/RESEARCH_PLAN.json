@@ -1024,8 +1024,8 @@
       "title": "[SR-068] Design library-wide research requirements and evaluation workflow",
       "epic": "E08",
       "release": "M6",
-      "priority": "1 \u2014 Design first",
-      "disposition": "Ready for shared design only; requirements, all 76 dossiers / 40 families, templates and synthetic walkthroughs required. Actual design remains undelivered.",
+      "priority": "Delivered design",
+      "disposition": "Common design accepted within methodology scope; M6 final publication verification required before Done. No empirical trial or blanket data qualification.",
       "dependencies": []
     }
   ]

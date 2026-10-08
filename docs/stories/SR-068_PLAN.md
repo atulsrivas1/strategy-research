@@ -1,16 +1,20 @@
-# SR-068 — Design library-wide research requirements and evaluation workflow
+# SR-068 â€” Design library-wide research requirements and evaluation workflow
 
-## Shared design authored — October 8, 2026
+## M6 v1 design acceptance — October 8, 2026
+
+The complete shared design is accepted within its methodology-only scope: 76 source versions / 40 families, 24 explicit requirement/build contracts, four templates and three independently hand-checked synthetic walkthroughs. [Design acceptance receipt](../releases/M6_RECEIPT.md) declares scope; [M6 design release](https://github.com/atulsrivas1/strategy-research/releases/tag/m6-shared-design-v1) carries exact source/artifact identities. Final publication readback is required before Released/Done. Original sources and scientific reports remain frozen. Design completion does not qualify every dataset/tool or register a trial; M7 activation still requires its exact applicable qualifications. No automatic later release/session, data job or experiment. Earlier authored/planning/undelivered status below is dated history after verified publication.
+
+## Shared design authored â€” October 8, 2026
 
 [Shared design v1](../design/DESIGN.md), [complete 76-dossier/40-family applicability](../design/APPLICABILITY.md), [24 requirement and feasible-build contracts](../design/BUILD_REGISTER.md), [required templates](../design/TEMPLATES.md) and [synthetic walkthroughs](../design/WALKTHROUGHS.md) are authored. Missing data/tools remain explicit; qualify/reuse, build, prospective capture, acquire or defer paths are retained. Source imports are not causal/execution certification. Design checks/publication acceptance remain gates before SR-068 Done or M7 activation. No historical comparison/final evaluation, source-owner job or scope expansion from design.
 
-## Full replan priority — October 7, 2026
+## Full replan priority â€” October 7, 2026
 
-Current priority: 1 — Design first. Current release: M6. Ready for shared design only; requirements, all 76 dossiers / 40 families, templates and synthetic walkthroughs required. Actual design remains undelivered.
+Current priority: 1 â€” Design first. Current release: M6. Ready for shared design only; requirements, all 76 dossiers / 40 families, templates and synthetic walkthroughs required. Actual design remains undelivered.
 
 [Complete current plan](../REPLAN.md) supersedes older ranks and release summaries below; original mechanisms, scientific requirements and executed evidence retain provenance. Project lifecycle is authoritative.
 
-## Current delivery reconciliation — October 7, 2026
+## Current delivery reconciliation â€” October 7, 2026
 
 Owner-directed first priority before the other imported strategy stories. Ready for outcome-free methodology/requirements design only; design not yet delivered, zero strategy comparisons and final evaluations authorized. Separate research PR review is optional under the owner waiver; scientific checks, privacy, CI and exact delivery acceptance remain required. No independent approval claimed.
 
@@ -18,7 +22,7 @@ Owner-directed first priority before the other imported strategy stories. Ready 
 
 This new design story establishes a shared intake and evaluation contract before family-specific qualification. Existing released science, rejected trials, data exposure and scope exclusions remain unchanged.
 
-Parent: [E08](https://github.com/atulsrivas1/strategy-research/issues/46). Release plan: [M6](../releases/M6_PLAN.md). Priority: first, before SR-028–067. Lifecycle: Ready for design; full empirical readiness is separate.
+Parent: [E08](https://github.com/atulsrivas1/strategy-research/issues/46). Release plan: [M6](../releases/M6_PLAN.md). Priority: first, before SR-028â€“067. Lifecycle: Ready for design; full empirical readiness is separate.
 
 ## Hypothesis and information value
 
@@ -34,7 +38,7 @@ Inventory all 76 dossiers with provenance through [Chartsspeak](../strategy-libr
 
 Existing plans, catalogs/manifests, accepted M0/M1 receipts, known exposure registry and current M2 blockers suffice for this outcome-free design. No new data retrieval, outcome read, pipeline ownership or paid purchase needed. Review the established source/access rules before designing any later data use. Actual data qualification remains each family's dependent task.
 
-SR-028–067 require accepted and verified SR-068 design before their next qualification, adaptation or empirical work. M4 stories stay deferred and require a separate scope amendment regardless of this dependency. SR-040/SR-041 move from Ready to Backlog pending SR-068. Already delivered imports and completed historical results are not reopened. This prerequisite does not block routine governance maintenance or require rerunning M2.
+SR-028â€“067 require accepted and verified SR-068 design before their next qualification, adaptation or empirical work. M4 stories stay deferred and require a separate scope amendment regardless of this dependency. SR-040/SR-041 move from Ready to Backlog pending SR-068. Already delivered imports and completed historical results are not reopened. This prerequisite does not block routine governance maintenance or require rerunning M2.
 
 ## Baseline and experiment
 

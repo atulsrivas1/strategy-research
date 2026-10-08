@@ -1,6 +1,10 @@
-# Current session handoff — October 7, 2026
+# Current session handoff â€” October 7, 2026
 
-## Shared design authored — October 8, 2026
+## M6 v1 design acceptance — October 8, 2026
+
+The complete shared design is accepted within its methodology-only scope: 76 source versions / 40 families, 24 explicit requirement/build contracts, four templates and three independently hand-checked synthetic walkthroughs. [Design acceptance receipt](releases/M6_RECEIPT.md) declares scope; [M6 design release](https://github.com/atulsrivas1/strategy-research/releases/tag/m6-shared-design-v1) carries exact source/artifact identities. Final publication readback is required before Released/Done. Original sources and scientific reports remain frozen. Design completion does not qualify every dataset/tool or register a trial; M7 activation still requires its exact applicable qualifications. No automatic later release/session, data job or experiment. Earlier authored/planning/undelivered status below is dated history after verified publication.
+
+## Shared design authored â€” October 8, 2026
 
 [Shared design v1](design/DESIGN.md), [complete 76-dossier/40-family applicability](design/APPLICABILITY.md), [24 requirement and feasible-build contracts](design/BUILD_REGISTER.md), [required templates](design/TEMPLATES.md) and [synthetic walkthroughs](design/WALKTHROUGHS.md) are authored. Missing data/tools remain explicit; qualify/reuse, build, prospective capture, acquire or defer paths are retained. Source imports are not causal/execution certification. Design checks/publication acceptance remain gates before SR-068 Done or M7 activation. No historical comparison/final evaluation, source-owner job or scope expansion from design.
 
@@ -8,7 +12,7 @@ The whole-project replan is documented in [REPLAN](REPLAN.md), [68-story invento
 
 Next substantive work: SR-068 requirements/design first, under its [bounded M6 handoff](releases/M6_HANDOFF.md), with synthetic/document verification only. Complete all 76 source-dossier / 40-family applicability decisions, reusable contracts and templates. Do not run historical comparisons to deliver design. The accepted matrix may revise provisional D1/D2/E4 ordering with evidence. One actual implementation; SR-022 retains its recorded partial status. No new execution owner/session has been assigned by this replan.
 
-M0/M1 published restricted science is unchanged. M1 inconclusive and not promoted; no winning strategy established. M2 partial/unreleased: two modeled context tests rejected, budget exhausted; availability clocks, observed execution/funding, full applicable parity and unused independent evidence remain unresolved. SR-020 final access disabled/dates null; M3 calls have no eligible candidate. M4 deferred. M5 frozen equity-features R5–R13/applicable M2/M3 receipt list unchanged, M4 excluded.
+M0/M1 published restricted science is unchanged. M1 inconclusive and not promoted; no winning strategy established. M2 partial/unreleased: two modeled context tests rejected, budget exhausted; availability clocks, observed execution/funding, full applicable parity and unused independent evidence remain unresolved. SR-020 final access disabled/dates null; M3 calls have no eligible candidate. M4 deferred. M5 frozen equity-features R5â€“R13/applicable M2/M3 receipt list unchanged, M4 excluded.
 
 76 imported dossiers are source claims, not independently tested strategies. All 87 original source/support documents remain hash-frozen. Keep private data, ledgers and chats private. Eight delivery stages retained; separate research PR review optional under owner waiver, with independent relevant scientific checks, CI, privacy and exact acceptance still required. Project 4 owns lifecycle status. No backtest, final access, live/paid action, worker or schedule launched by planning.
 
