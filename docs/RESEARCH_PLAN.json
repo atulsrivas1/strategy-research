@@ -549,7 +549,7 @@
       "epic": "E08",
       "release": "M7",
       "priority": "3.01 \u2014 Provisional qualification",
-      "disposition": "Accepted SR-068 verified; prepared and optimized copies traceable through bounded catalog/receipt audit. Original-feed lineage/session/actions/historical availability still blocked. Full story open partial Test, zero strategy trials; Project lifecycle authority.",
+      "disposition": "M6 accepted; daily metadata/receipts consistent except stale output paths. Missing exact originals/request sidecars and historical runtime/source/session/action/arrival evidence block admission. Full story open partial Test, zero trials; next recovery specification; Project lifecycle authority.",
       "dependencies": [
         "SR-004",
         "SR-008",

@@ -1,5 +1,9 @@
 # SR-040 — Qualify D1: Trend following: Turtles, Donchian breakouts, TSMOM and the CTA industry
 
+## Preparation evidence — October 8, 2026
+
+[Twenty exact receipt comparisons](../../reports/D1-preparation-provenance.md) isolate old/new output paths, with no original request sidecars or historical runtime binding. Four source gates remain blocked. Full story stays partial Test, original scientific acceptance and budget unchanged. Next recovery/admission specification.
+
 ## Catalog and receipt lineage evidence — October 8, 2026
 
 [220 independent metadata comparisons](../../reports/D1-lineage-location.md) locate twenty surviving optimized copies, tracing to prepared inputs only. Original lineage/session/actions/availability remain blocked. PR104 exact publication/main CI verified. Full story remains open partial Test, original scientific acceptance unchanged, no new trial budget.

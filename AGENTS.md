@@ -1,3 +1,7 @@
+## Current preparation qualification — October 8, 2026
+
+Read [current handoff](docs/SESSION_HANDOFF.md) and [preparation report](reports/D1-preparation-provenance.md). Twenty receipts retain older output paths; all original/source gates remain unqualified. PR105 verified, M7 partial Test/unreleased. Next recovery/admission scope; no owner source modification, producer jobs or historical-clock inference. Owner author AND committer and exact CI/source/artifact gates retained.
+
 ## Current daily-lineage qualification — October 8, 2026
 
 Read [current handoff](docs/SESSION_HANDOFF.md) and [lineage report](reports/D1-lineage-location.md). Optimized-copy receipts do not establish original-feed lineage; all four actual gates blocked. PR104 verification complete; full stories partial Test, M7 unreleased. Next bounded producer-code/manifest reading only; no source jobs, later release or new session. Owner author AND committer for implementation/local merge. Older dated snapshots below retain history.
