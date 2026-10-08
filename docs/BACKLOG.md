@@ -1,5 +1,13 @@
 # Ranked research backlog — October 7, 2026
 
+## M6 v1 design acceptance — October 8, 2026
+
+The complete shared design is accepted within its methodology-only scope: 76 source versions / 40 families, 24 explicit requirement/build contracts, four templates and three independently hand-checked synthetic walkthroughs. [Design acceptance receipt](releases/M6_RECEIPT.md) declares scope; [M6 design release](https://github.com/atulsrivas1/strategy-research/releases/tag/m6-shared-design-v1) carries exact source/artifact identities. Final publication readback is required before Released/Done. Original sources and scientific reports remain frozen. Design completion does not qualify every dataset/tool or register a trial; M7 activation still requires its exact applicable qualifications. No automatic later release/session, data job or experiment. Earlier authored/planning/undelivered status below is dated history after verified publication.
+
+## Shared design authored — October 8, 2026
+
+[Shared design v1](design/DESIGN.md), [complete 76-dossier/40-family applicability](design/APPLICABILITY.md), [24 requirement and feasible-build contracts](design/BUILD_REGISTER.md), [required templates](design/TEMPLATES.md) and [synthetic walkthroughs](design/WALKTHROUGHS.md) are authored. Missing data/tools remain explicit; qualify/reuse, build, prospective capture, acquire or defer paths are retained. Source imports are not causal/execution certification. Design checks/publication acceptance remain gates before SR-068 Done or M7 activation. No historical comparison/final evaluation, source-owner job or scope expansion from design.
+
 [Complete 68-story inventory and priorities](REPLAN.md) is the current scope/dependency ranking. [Project 4](https://github.com/users/atulsrivas1/projects/4) is lifecycle authority. Prior planning versions remain in repository history; original story specifications, B-001–012 provenance and frozen evidence remain preserved.
 
 1. **M6 / SR-068 common design first.** Deliver research requirements, complete 76-dossier / 40-family applicability matrix, causal/execution/evaluation contracts and meaningful synthetic/document walkthroughs. Ready for design; actual design undelivered.

@@ -1,0 +1,1829 @@
+{
+  "version": 1,
+  "date": "2026-10-08",
+  "source_dossiers": 76,
+  "family_stories": 40,
+  "families": [
+    {
+      "story": "SR-028",
+      "release": "M4",
+      "title": "[SR-028] Qualify A1: Inventory-Skew Market Making (Avellaneda-Stoikov family)",
+      "canonical_family_scope": "intraday two-sided inventory quotes",
+      "mechanism_hypothesis": "Inventory risk versus spread capture",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R19",
+        "R20",
+        "R24"
+      ],
+      "next_qualification": "Establish order-level feed/queue and inventory evidence; remain deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library/A-intraday/A1-inventory-skew-market-making.md",
+          "sha256": "5164e26bb2290b985ca91860b6768d9ceb47e3010cb5d1716c3e5bf97521ed59",
+          "title": "A1. Inventory-Skew Market Making (Avellaneda-Stoikov family)",
+          "canonical_section": "4",
+          "source_support_section": "3, 5, 11",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/01-ultra-queue-imbalance-market-making.md",
+          "sha256": "f01b67a9d06613eb8d541451dfffde59c3a686b665863bf62e9a5f45826529b4",
+          "title": "01. Queue-Imbalance Market Making \u2014 Twist: QIM-R",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/04-ultra-inventory-skew-avellaneda-stoikov.md",
+          "sha256": "0b738671c80b703480788cf4c17f64e9507a5f490a6bb2d29f7f75fe07de9f5f",
+          "title": "04. Optimal Inventory-Skew Quoting (Avellaneda\u2013Stoikov) \u2014 Twist: SKEW-G",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-029",
+      "release": "M4",
+      "title": "[SR-029] Qualify A2: Opening Range Breakout and Intraday Momentum",
+      "canonical_family_scope": "intraday opening-range long/short",
+      "mechanism_hypothesis": "Early price discovery continuation",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R16",
+        "R19",
+        "R24"
+      ],
+      "next_qualification": "Qualify opening-range timestamps and execution; intraday remains deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library/A-intraday/A2-opening-range-breakout-intraday-momentum.md",
+          "sha256": "6ce40dd0c2a81c3e286b0803d49dc1e1a74c43ad597df2cb598bf26ddc2830d5",
+          "title": "A2. Opening Range Breakout and Intraday Momentum",
+          "canonical_section": "4",
+          "source_support_section": "3, 5, 11",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/07-intraday-crabel-orb.md",
+          "sha256": "347757485b3749d8b013cb58b0db83da808e046ab784034d18381ae59a8568ee",
+          "title": "07. Crabel Opening Range Breakout \u2014 Twist: ORB-VF2",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../sigmatiq-strategy-library-v1/01-intraday-opening-range-breakout.md",
+          "sha256": "9e24ec6aa72b55677f30b0da8709c91015640e87bb6ff32e9f4cfd62b6c31a82",
+          "title": "01. Opening Range Breakout \u2014 Twist: ORB-VF",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-030",
+      "release": "M4",
+      "title": "[SR-030] Qualify A3: VWAP Reversion and Anchored VWAP",
+      "canonical_family_scope": "intraday/anchored VWAP reversion",
+      "mechanism_hypothesis": "Temporary liquidity dislocation",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R19",
+        "R24"
+      ],
+      "next_qualification": "Specify anchor known-at and causal volume denominator; deferred intraday.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library/A-intraday/A3-vwap-anchored-vwap-reversion.md",
+          "sha256": "151b61997aad62a33237561b2abdfe2aff3f78cae6342808b402533e471b3251",
+          "title": "A3. VWAP Reversion and Anchored VWAP",
+          "canonical_section": "4",
+          "source_support_section": "3, 5, 11",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/09-intraday-vwap-reversion.md",
+          "sha256": "98c8a5c6c18fd8f3ce1cc6e3fd1182544356beff28f9143813af33dccd68c7a3",
+          "title": "09. VWAP Mean Reversion \u2014 Twist: AVWAP-Q2",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../sigmatiq-strategy-library-v1/02-intraday-vwap-mean-reversion.md",
+          "sha256": "460e91fe2a2427d6936132714aa149f6e299d43a3ebe221fde6456f266870733",
+          "title": "02. VWAP Mean Reversion \u2014 Twist: AVWAP-Q",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-031",
+      "release": "M4",
+      "title": "[SR-031] Qualify A4: Volume Profile, Market Profile and Order-Flow (Auction Market Theory)",
+      "canonical_family_scope": "intraday auction/profile/order flow",
+      "mechanism_hypothesis": "Supply-demand imbalance",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R19",
+        "R24"
+      ],
+      "next_qualification": "Qualify signed trade/quote semantics and profile clocks; deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library/A-intraday/A4-volume-profile-order-flow-auction.md",
+          "sha256": "93ebe02ef4f93de804f9f78ba4a28fca93a0b84ca60a4c365c15bb21a61e890d",
+          "title": "A4. Volume Profile, Market Profile and Order-Flow (Auction Market Theory)",
+          "canonical_section": "4",
+          "source_support_section": "3, 5, 11",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/03-ultra-tape-reading-scalping.md",
+          "sha256": "e27f691749f504aa4b199640f083214cbfcd2bd3cb1bd32ac5cd346cae92b2fb",
+          "title": "03. Tape-Reading / Order-Flow Scalping \u2014 Twist: TAPE-Q",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/12-intraday-wyckoff-orderflow.md",
+          "sha256": "0307df2f4577c0e1c19d6052ec58f3bcf0e7402ee286f6d25493c6696c0f9f85",
+          "title": "12. Wyckoff\u2013Footprint Intraday Auction \u2014 Twist: WYK-FP",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../sigmatiq-strategy-library-v1/03-intraday-order-flow-imbalance.md",
+          "sha256": "55e86b0213ea1baacb2446d3e1d50e929ae4443ac493a947f7b314e7c29eae38",
+          "title": "03. Order-Flow Imbalance / Micro-Price Momentum \u2014 Twist: MIC-Q",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-032",
+      "release": "M7",
+      "title": "[SR-032] Qualify B1: RSI(2) and Short-Term Reversal",
+      "canonical_family_scope": "short-term stocks or ETFs; variant horizons differ",
+      "mechanism_hypothesis": "Liquidity-driven short-term reversal",
+      "disposition": "conditional_stock_adaptation",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R24"
+      ],
+      "next_qualification": "Qualify daily RSI definition and long-stock adaptation; do not copy ETF/overnight rules.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library/B-short-term/B1-rsi2-short-term-reversal.md",
+          "sha256": "32a231710dcb47617508e0f785e23754c0d7985ffae5793615553546a74446b7",
+          "title": "B1. RSI(2) and Short-Term Reversal",
+          "canonical_section": "4",
+          "source_support_section": "3, 5, 11",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/13-swing-connors-rsi2.md",
+          "sha256": "7d5a951ff10d335a2c76e5df60940faaa9c585815edb0a309417ebc9f5ed3e6b",
+          "title": "13. Connors RSI-2 Mean Reversion \u2014 Twist: RSI2-VX2",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../sigmatiq-strategy-library-v1/04-swing-rsi2-mean-reversion.md",
+          "sha256": "5dd035d73016ccb39673a1b99961f7bbb5d0e98c48aaaed852c8b039a71e699f",
+          "title": "04. RSI-2 Mean Reversion \u2014 Twist: RSI2-VX",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-033",
+      "release": "M7",
+      "title": "[SR-033] Qualify B2: Overnight Drift and Gap Fade",
+      "canonical_family_scope": "overnight/index or gap variants",
+      "mechanism_hypothesis": "Close/open price-discovery asymmetry",
+      "disposition": "conditional_stock_adaptation",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R16",
+        "R24"
+      ],
+      "next_qualification": "Document a distinct 2\u00e2\u20ac\u201c10-session stock mechanism; overnight canonical hold excluded.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library/B-short-term/B2-overnight-drift-gap-fade.md",
+          "sha256": "cebf9f52bdf5875984f4afa540a116e994f5c39cac4827ef8a692f33f5047014",
+          "title": "B2. Overnight Drift and Gap Fade",
+          "canonical_section": "4",
+          "source_support_section": "3, 5, 11",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/16-swing-overnight-gap-momentum.md",
+          "sha256": "5ef56bd74b8bfaa4b5450bf35b87143363e81855644955a9ed480ca91f70cf80",
+          "title": "16. Overnight Gap / Night-Effect Momentum \u2014 Twist: GAP-N",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-034",
+      "release": "M7",
+      "title": "[SR-034] Qualify B3: Post-Earnings-Announcement Drift (PEAD)",
+      "canonical_family_scope": "stocks; weeks/months earnings drift",
+      "mechanism_hypothesis": "Underreaction to earnings surprise",
+      "disposition": "conditional_stock_adaptation",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R13",
+        "R14",
+        "R24"
+      ],
+      "next_qualification": "Qualify pre-release consensus vintage and release clock before any surprise test.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library/B-short-term/B3-post-earnings-announcement-drift.md",
+          "sha256": "4d06cfc33720b0223fa35eccfd7e9166ee02c5bd9ee398366ed406dba9e43e56",
+          "title": "B3. Post-Earnings-Announcement Drift (PEAD)",
+          "canonical_section": "4",
+          "source_support_section": "3, 5, 11",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/24-position-pead-drift.md",
+          "sha256": "a19dc5989cc44332ae673dddb6a12e19b4cd2d3ed84fafa60fffef30a9a4498f",
+          "title": "24. Post-Earnings Announcement Drift \u2014 Twist: PEAD-IV2",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../sigmatiq-strategy-library-v1/07-position-post-earnings-drift.md",
+          "sha256": "6b555e053913aff85e1814f83f66b8c9d330d5ab806e0dfc2c9ace759455cbf5",
+          "title": "07. Post-Earnings Announcement Drift \u2014 Twist: PEAD-IV",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-035",
+      "release": "M4",
+      "title": "[SR-035] Qualify B4: Pairs Trading and Statistical Arbitrage",
+      "canonical_family_scope": "paired long/short stocks",
+      "mechanism_hypothesis": "Relative-price mean reversion",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R20",
+        "R24"
+      ],
+      "next_qualification": "Qualify pair formation/borrow/hedge execution; canonical shorts deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library/B-short-term/B4-pairs-trading-statistical-arbitrage.md",
+          "sha256": "e87e2dd6475beb84cc36b080771a1004b9580fb33070dd126f72080a36fc614c",
+          "title": "B4. Pairs Trading and Statistical Arbitrage",
+          "canonical_section": "4",
+          "source_support_section": "3, 5, 11",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/15-swing-pairs-stat-arb.md",
+          "sha256": "1220a35f7e4a120e4ebce9f8600b0508b5ab07bb3a94cdb416fa6997026b673c",
+          "title": "15. Pairs Trading / Statistical Arbitrage \u2014 Twist: KALMAN-B2",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../sigmatiq-strategy-library-v1/06-swing-pairs-statistical-arbitrage.md",
+          "sha256": "c346794fc324d80f298d82deab50403265ef2792124b9eb254c51e530c783d37",
+          "title": "06. Pairs Trading / Statistical Arbitrage \u2014 Twist: KALMAN-BASKET",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-036",
+      "release": "M4",
+      "title": "[SR-036] Qualify C1: Variance Risk Premium (VRP) Harvesting: short vol, put-writing, variance swaps, tail overlays",
+      "canonical_family_scope": "option selling/variance swaps",
+      "mechanism_hypothesis": "Insurance compensation",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R18",
+        "R20",
+        "R24"
+      ],
+      "next_qualification": "Qualify tail/assignment/margin/quotes; premium selling deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library/C-vol-and-flow/C1-variance-risk-premium-harvesting.md",
+          "sha256": "6cf177b6f5d3d80d096cb9ba5f8fb97c30459e425bbb2304d7ef33a442b2fe54",
+          "title": "C1. Variance Risk Premium (VRP) Harvesting: short vol, put-writing, variance swaps, tail overlays",
+          "canonical_section": "4",
+          "source_support_section": "3, 5, 11",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/26-portfolio-vrp-put-writing.md",
+          "sha256": "b9f3df1921bbf0816b5d4b4bc863a47aac33459dc5f9000e3dea110b8d933278",
+          "title": "26. Volatility Risk Premium Put Writing \u2014 Twist: VRP-G2",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../sigmatiq-strategy-library-v1/10-portfolio-volatility-risk-premium.md",
+          "sha256": "6c18b67c8e92de7d18766381ffcfebf8680172a4358e92e1275dc9f69329714c",
+          "title": "10. Volatility Risk Premium Harvesting (Short Vol / Put Writing) \u2014 Twist: VRP-GATE",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-037",
+      "release": "M4",
+      "title": "[SR-037] Qualify C2: Dispersion and Correlation Trading: index volatility vs single-stock volatility",
+      "canonical_family_scope": "index versus constituent options",
+      "mechanism_hypothesis": "Implied correlation premium",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R18",
+        "R20",
+        "R24"
+      ],
+      "next_qualification": "Qualify constituent weights and matched-leg quotes/hedges; deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library/C-vol-and-flow/C2-dispersion-correlation-trading.md",
+          "sha256": "0fa6661887567ee1cebdd7b77dc11ba1a329d7cae255e8ea74a0f582e5586c26",
+          "title": "C2. Dispersion and Correlation Trading: index volatility vs single-stock volatility",
+          "canonical_section": "4",
+          "source_support_section": "3, 5, 11",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-038",
+      "release": "M4",
+      "title": "[SR-038] Qualify C3: Dealer Gamma Exposure (GEX), vanna/charm and opex flows, 0DTE impact",
+      "canonical_family_scope": "option-derived flows and intraday stock/index context",
+      "mechanism_hypothesis": "Dealer hedging feedback",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R18",
+        "R19",
+        "R24"
+      ],
+      "next_qualification": "Qualify OI timing, sign/Greek models and attribution; do not infer dealer ownership from OI.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library/C-vol-and-flow/C3-dealer-gamma-exposure-opex-flows.md",
+          "sha256": "7c1ec15fd9aee0e9ea9e084d042152e7aa3b195d843f29ef497e683a08e9f9e2",
+          "title": "C3. Dealer Gamma Exposure (GEX), vanna/charm and opex flows, 0DTE impact",
+          "canonical_section": "4",
+          "source_support_section": "3, 5, 11",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-039",
+      "release": "M4",
+      "title": "[SR-039] Qualify C4: Crypto Funding-Rate and Basis Carry: perpetual funding arbitrage and cash-and-carry",
+      "canonical_family_scope": "crypto spot/perpetual/futures hedged carry",
+      "mechanism_hypothesis": "Funding/basis convergence",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R20",
+        "R21",
+        "R24"
+      ],
+      "next_qualification": "Qualify funding, venue/counterparty and hedged execution; deferred crypto.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library/C-vol-and-flow/C4-crypto-funding-basis-carry.md",
+          "sha256": "ca14936e07b4a1ad18e9b2a6e88ccc331409fa6d139afa2004fb536feeb4024f",
+          "title": "C4. Crypto Funding-Rate and Basis Carry: perpetual funding arbitrage and cash-and-carry",
+          "canonical_section": "4",
+          "source_support_section": "3, 5, 11",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-040",
+      "release": "M7",
+      "title": "[SR-040] Qualify D1: Trend following: Turtles, Donchian breakouts, TSMOM and the CTA industry",
+      "canonical_family_scope": "futures/forwards trend; weeks/months; stock variants differ",
+      "mechanism_hypothesis": "Price persistence after gradual information diffusion",
+      "disposition": "conditional_stock_adaptation",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R24"
+      ],
+      "next_qualification": "Qualify proposed prior-20 completed-session high breakout for long stock/five-session adaptation; no futures replication claim.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library/D-medium-term/D1-trend-following-turtles-cta.md",
+          "sha256": "c41507c0a6099f67be4f57474dce975e0ea86091d66ce5d7f9d64bc95274f195",
+          "title": "D1. Trend following: Turtles, Donchian breakouts, TSMOM and the CTA industry",
+          "canonical_section": "4",
+          "source_support_section": "3, 5, 11",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/19-position-livermore-trend.md",
+          "sha256": "5511364a75c044c8ecab0ccfe4fee47919b49eff42d747f4b9a571ea4728c195",
+          "title": "19. Livermore Pivotal-Point Trend \u2014 Twist: LIVER-P",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/20-position-turtle-trend.md",
+          "sha256": "647ce1e3562694b414743b5517a181d4a9ff9b4de1ef9f386a39b71078c3b99e",
+          "title": "20. Turtle Trend Following \u2014 Twist: TURTLE-X2",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/27-portfolio-managed-futures-cta.md",
+          "sha256": "7456d667cb4182482bfcc3369e127f6efa86c30ef948662b238ec895ab2d6fc3",
+          "title": "27. Managed-Futures CTA Time-Series Trend \u2014 Twist: CTA-T",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../sigmatiq-strategy-library-v1/09-position-turtle-trend-following.md",
+          "sha256": "1ab277ab31793a252a614bb023b3294b97be41add34fc82dbed5e77f7dc1371a",
+          "title": "09. Turtle Trend Following \u2014 Twist: TURTLE-X",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-041",
+      "release": "M7",
+      "title": "[SR-041] Qualify D2: Cross-sectional (relative-strength) momentum",
+      "canonical_family_scope": "stocks, monthly long/short relative momentum",
+      "mechanism_hypothesis": "Cross-sectional leadership persistence",
+      "disposition": "conditional_stock_adaptation",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R24"
+      ],
+      "next_qualification": "Freeze a justified formation window, ranking/tie/universe conventions and long-only adaptation; monthly WML not reproduced.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library/D-medium-term/D2-cross-sectional-momentum.md",
+          "sha256": "c015504bf16b03e44c36abe3ac73d51dfee65946e9a626b07f6f9bf75fe17efc",
+          "title": "D2. Cross-sectional (relative-strength) momentum",
+          "canonical_section": "4",
+          "source_support_section": "3, 5, 11",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-042",
+      "release": "M4",
+      "title": "[SR-042] Qualify D3: Carry in FX and futures (currency carry, roll yield, cross-asset carry)",
+      "canonical_family_scope": "FX/futures long/short carry",
+      "mechanism_hypothesis": "Compensation for funding/roll risk",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R20",
+        "R21",
+        "R24"
+      ],
+      "next_qualification": "Qualify curves/roll/funding and controls; deferred non-equity.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library/D-medium-term/D3-carry-fx-futures.md",
+          "sha256": "23b51b0d905e1208bd8fd494b63ef1a18fa24fea5f536f38d6bd198e6cd06961",
+          "title": "D3. Carry in FX and futures (currency carry, roll yield, cross-asset carry)",
+          "canonical_section": "4",
+          "source_support_section": "3, 5, 11",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/28-portfolio-fx-carry.md",
+          "sha256": "2b79f3f06a9e037b5d3cff8b56bf1d19d8f0942a15d70f8e9ee5936b4207e1e6",
+          "title": "28. FX Carry (G10 + EM Select) \u2014 Twist: CARRY-F",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-043",
+      "release": "M7",
+      "title": "[SR-043] Qualify D4: Equity seasonality and event-time effects: pre-FOMC drift, turn-of-month, Halloween, day-of-week",
+      "canonical_family_scope": "equity indices/events; overnight/seasonal variants",
+      "mechanism_hypothesis": "Scheduled information/flow timing",
+      "disposition": "conditional_stock_adaptation",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R16",
+        "R24"
+      ],
+      "next_qualification": "Qualify historical schedule and propose stock-context role; index trade and degenerate press-conference variant excluded.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library/D-medium-term/D4-seasonality-fomc-turn-of-month.md",
+          "sha256": "818af70dd6b052911fbbab6f39e15e830c558a02fb32bb104ce573e3f1969dc6",
+          "title": "D4. Equity seasonality and event-time effects: pre-FOMC drift, turn-of-month, Halloween, day-of-week",
+          "canonical_section": "4",
+          "source_support_section": "3, 5, 11",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-044",
+      "release": "M4",
+      "title": "[SR-044] Qualify E1: Value plus Quality (Magic Formula, Piotroski F-score, QMJ, HML, Gross Profitability)",
+      "canonical_family_scope": "equity factors/value/quality; months/years",
+      "mechanism_hypothesis": "Slow information/risk compensation",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R14",
+        "R20",
+        "R24"
+      ],
+      "next_qualification": "Qualify fiscal vintage and restatements; canonical long horizon/factor shorts deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library/E-long-term/E1-value-plus-quality.md",
+          "sha256": "7c6e733b8db0b59b7f83541fe260b4bad149c5bd88b48e3ae144ac867227dd28",
+          "title": "E1. Value plus Quality (Magic Formula, Piotroski F-score, QMJ, HML, Gross Profitability)",
+          "canonical_section": "4",
+          "source_support_section": "3, 5, 11",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/29-portfolio-multifactor-ensemble.md",
+          "sha256": "409291d1d130580aa9ca27a27f4e9f216c7a1f2287ca348ac4cef7e9953c263b",
+          "title": "29. Multi-Factor Equity Ensemble \u2014 Twist: FLEX2",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/31-invest-buffett-value.md",
+          "sha256": "65664e87a4237b1efc33b28bc65286276bc83d8ff7cee948562b2de69345171c",
+          "title": "31. Buffett Quality-Value Compounding \u2014 Twist: VALUE-Q",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/33-invest-greenblatt-magic-formula.md",
+          "sha256": "ccf621aa7c59928593d468803a7e044581431901fd7e4ccd63f6537595be802a",
+          "title": "33. Greenblatt Magic Formula \u2014 Twist: MAGIC-F",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/34-invest-piotroski-fscore.md",
+          "sha256": "426ce9c4125c134bb4bdbe1032b5f4b57ed5792ee2514d36876ea0eee50cd038",
+          "title": "34. Piotroski F-Score Value Filter \u2014 Twist: FSCORE-T",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/35-invest-terry-smith-quality.md",
+          "sha256": "7f199e9cd68e6b6dc47e805d02bf4734a445ce10bbe8a44e97ae6679ba5faacd",
+          "title": "35. Terry Smith Quality Compounding \u2014 Twist: QUAL-C",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../sigmatiq-strategy-library-v1/12-portfolio-multifactor-ensemble.md",
+          "sha256": "bf0d68fbeba0bceb650d9c5d1202ec2ecc8078fb8396f636b15856c9386cc7df",
+          "title": "12. Multi-Factor Ensemble (Value + Momentum + Carry + Quality) \u2014 Twist: FLEX-ENS",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-045",
+      "release": "M4",
+      "title": "[SR-045] Qualify E2: Low Volatility and Betting Against Beta",
+      "canonical_family_scope": "low-beta/vol equities or leveraged long/short factors",
+      "mechanism_hypothesis": "Constraints and defensive demand",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R20",
+        "R24"
+      ],
+      "next_qualification": "Qualify beta/covariance estimation and financing; canonical long horizon/short factor deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library/E-long-term/E2-low-volatility-betting-against-beta.md",
+          "sha256": "b2ebbf51a1964d32cb46de7323c6e29ae7d8a5c8ee9d8fcee82f53caff8e324e",
+          "title": "E2. Low Volatility and Betting Against Beta",
+          "canonical_section": "4",
+          "source_support_section": "3, 5, 11",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-046",
+      "release": "M4",
+      "title": "[SR-046] Qualify E3: Risk Parity / All Weather",
+      "canonical_family_scope": "multi-asset risk balance; long horizon",
+      "mechanism_hypothesis": "Diversification across growth/inflation shocks",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R21",
+        "R24"
+      ],
+      "next_qualification": "Qualify covariance/leverage/asset histories; deferred portfolio scope.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library/E-long-term/E3-risk-parity-all-weather.md",
+          "sha256": "1590ca70b89f88b507e4992dc05931733a0953652fdbc54c73a8a56029963f54",
+          "title": "E3. Risk Parity / All Weather",
+          "canonical_section": "4",
+          "source_support_section": "3, 5, 11",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/25-portfolio-dalio-allweather.md",
+          "sha256": "a3fb01a66ab99e31f124c7325de3bfa514582f354ed38035f8d5c01764c39a13",
+          "title": "25. Dalio All-Weather / Risk Parity \u2014 Twist: RP-REG2",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../sigmatiq-strategy-library-v1/11-portfolio-risk-parity.md",
+          "sha256": "177df6878f3b8dcfdb083e128bbb7f382b0b965bec9fc4ac216cc27d11c690ac",
+          "title": "11. Risk Parity / All-Weather Allocation \u2014 Twist: RP-REGIME",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-047",
+      "release": "M7",
+      "title": "[SR-047] Qualify E4: CANSLIM, Minervini SEPA/VCP, Darvas: Growth-Breakout Trading",
+      "canonical_family_scope": "growth stocks, discretionary bases; weeks/months",
+      "mechanism_hypothesis": "Growth leadership with supply contraction",
+      "disposition": "conditional_stock_adaptation",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R14",
+        "R17",
+        "R24"
+      ],
+      "next_qualification": "Define causal completed-bar price-only contraction adaptation; fundamental claims separately blocked until qualified.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library/E-long-term/E4-canslim-minervini-growth-breakout.md",
+          "sha256": "0c14cb57298d5a86347d323637002ee991198d810a1eac1c0259975bfcc97792",
+          "title": "E4. CANSLIM, Minervini SEPA/VCP, Darvas: Growth-Breakout Trading",
+          "canonical_section": "4",
+          "source_support_section": "3, 5, 11",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/17-swing-darvas-box.md",
+          "sha256": "8c0c8c0be5d5033ddebf26e06cea2152f1c5653bde327207e9ed4527f4a187cf",
+          "title": "17. Darvas Box Breakout \u2014 Twist: DARVAS-V",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/21-position-oneil-canslim.md",
+          "sha256": "469ce0ac502bd803fd5fc8df86a80a5f275deaac57e1fa43a12fb58d80e50a39",
+          "title": "21. O'Neil CANSLIM Growth \u2014 Twist: CANSLIM-F",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../strategy-library-v2/22-position-minervini-sepa.md",
+          "sha256": "fa663b32637b23915fecaedf125df60dc0c997af88d6edffbd40923dc5458a45",
+          "title": "22. Minervini SEPA Growth Momentum \u2014 Twist: SEPA-V",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-048",
+      "release": "M4",
+      "title": "[SR-048] Qualify V3-01: Closing-auction imbalance",
+      "canonical_family_scope": "stock closing auction",
+      "mechanism_hypothesis": "Auction imbalance price pressure",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R19",
+        "R22",
+        "R24"
+      ],
+      "next_qualification": "Qualify published imbalance and order cutoff/cancel rules; intraday deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library-v3/01-close-moc-imbalance.md",
+          "sha256": "3111075e2aa5fe234933b40c33c4eb43d68fb7a17d0934a5839dc27600a52022",
+          "title": "01. Closing-Auction Imbalance Fade \u2014 Twist: MOC-L",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-049",
+      "release": "M4",
+      "title": "[SR-049] Qualify V3-02: Last-half-hour momentum",
+      "canonical_family_scope": "intraday last-half-hour stock/index momentum",
+      "mechanism_hypothesis": "Within-session information propagation",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R16",
+        "R19",
+        "R24"
+      ],
+      "next_qualification": "Qualify intraday interval and execution/market proxy; deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library-v3/02-intraday-last-half-hour.md",
+          "sha256": "6a3efa32677cc8adb2c88387fb09be4563561662e0e5432b22c6bdd7dbe85541",
+          "title": "02. Last-Half-Hour Market Momentum \u2014 Twist: IHM-A",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-050",
+      "release": "M4",
+      "title": "[SR-050] Qualify V3-03: Williams Oops gap fade",
+      "canonical_family_scope": "intraday commodity/stock gap fade variants",
+      "mechanism_hypothesis": "Opening overreaction",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R19",
+        "R21",
+        "R24"
+      ],
+      "next_qualification": "Qualify canonical source/rules and gap timing; scope remains deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library-v3/03-intraday-williams-oops.md",
+          "sha256": "ff78e2c7afc02f0584690ff8db533dd4d19a133e108758e4ae0879c5a2a2e6a5",
+          "title": "03. Larry Williams Oops Gap Fade \u2014 Twist: OOPS-N",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-051",
+      "release": "M7",
+      "title": "[SR-051] Qualify V3-04: Opportunistic insider purchases",
+      "canonical_family_scope": "stock insider purchases; roughly month hold",
+      "mechanism_hypothesis": "Insider information conditional on routine behavior",
+      "disposition": "conditional_stock_adaptation",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R15",
+        "R24"
+      ],
+      "next_qualification": "Qualify past-only routine classification/filing clock; five-session hypothesis distinct from canonical monthly evidence.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library-v3/04-swing-opportunistic-insiders.md",
+          "sha256": "8df30d3db97a36ec314d7ced1be4b4136407ce3c868d16b7de4a3d2f07a0368b",
+          "title": "04. Opportunistic Insider Purchases \u2014 Twist: INS-R",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-052",
+      "release": "M4",
+      "title": "[SR-052] Qualify V3-05: Merger arbitrage",
+      "canonical_family_scope": "long target/short acquirer event arbitrage",
+      "mechanism_hypothesis": "Deal completion risk premium",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R20",
+        "R23",
+        "R24"
+      ],
+      "next_qualification": "Require all announcements/failures/terms and actual entry-time universe; future takeovers cannot select sample.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library-v3/05-position-merger-arbitrage.md",
+          "sha256": "fc64190513a16c079e2801d2a22985490aedc1320a0d10258cd5b9fb882aba1c",
+          "title": "05. Merger Arbitrage, Calendar Time \u2014 Twist: MNA-D",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-053",
+      "release": "M4",
+      "title": "[SR-053] Qualify V3-06: Post-spinoff drift",
+      "canonical_family_scope": "spinoff stock events; months",
+      "mechanism_hypothesis": "Forced selling and neglected information",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R14",
+        "R23",
+        "R24"
+      ],
+      "next_qualification": "Qualify spin terms/security identity/when known and failed exits; long horizon deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library-v3/06-position-spinoff-drift.md",
+          "sha256": "c4b3135ee78f2a367db0531fbbb2ba7d0ac32b26d98d449ad925fc85734d4cda",
+          "title": "06. Post-Spinoff Drift \u2014 Twist: SPIN-T",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-054",
+      "release": "M4",
+      "title": "[SR-054] Qualify V3-07: Commodity basis",
+      "canonical_family_scope": "commodity futures basis",
+      "mechanism_hypothesis": "Inventory/roll risk compensation",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R21",
+        "R24"
+      ],
+      "next_qualification": "Qualify contract/spot/roll/curve histories; deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library-v3/07-portfolio-commodity-basis.md",
+          "sha256": "51c2434b3aa6004feb9106cecaab80075a357ecc168a53331fc630706e75b9c7",
+          "title": "07. Commodity Futures Basis \u2014 Twist: CURVE-B",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-055",
+      "release": "M4",
+      "title": "[SR-055] Qualify V3-08: Graham net-current-asset value",
+      "canonical_family_scope": "deep-value stocks; long horizon",
+      "mechanism_hypothesis": "Distress/valuation convergence",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R14",
+        "R24"
+      ],
+      "next_qualification": "Qualify balance-sheet vintage and net current assets with consistent costs; long horizon deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library-v3/08-invest-graham-ncav.md",
+          "sha256": "d1cd0f18d5ea13c4a712acfd8601a78e7085a49531b301669c59f3d7300a69cf",
+          "title": "08. Graham Net-Current-Asset Value \u2014 Twist: NCAV-Q",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-056",
+      "release": "M4",
+      "title": "[SR-056] Qualify V2-02: Latency and cross-venue lead-lag",
+      "canonical_family_scope": "ultra-short cross-venue latency trades",
+      "mechanism_hypothesis": "Stale-quote race",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R19",
+        "R24"
+      ],
+      "next_qualification": "Require synchronized venue clocks and observable latency/queue; deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library-v2/02-ultra-latency-cross-venue-arb.md",
+          "sha256": "32bd0cc57591babd0045726c097ef3bee0be64e4378cd0e4268595433b2ce0be",
+          "title": "02. Cross-Venue Latency Arbitrage \u2014 Twist: LAT-X",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-057",
+      "release": "M4",
+      "title": "[SR-057] Qualify V2-05: Opening-drive scalping",
+      "canonical_family_scope": "intraday opening-drive scalps",
+      "mechanism_hypothesis": "Opening demand imbalance",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R16",
+        "R19",
+        "R24"
+      ],
+      "next_qualification": "Qualify trade/quote arrival and order timing; deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library-v2/05-ultra-opening-drive-scalping.md",
+          "sha256": "bfa528c096d8f16d352bd2a077c9eb2b2b377e6814ab636e84df150f7ea3916c",
+          "title": "05. Opening-Drive Scalping \u2014 Twist: DRIVE-F",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-058",
+      "release": "M4",
+      "title": "[SR-058] Qualify V2-06: Liquidity-sweep fade",
+      "canonical_family_scope": "intraday liquidity-sweep reversal",
+      "mechanism_hypothesis": "Transient stop-related pressure",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R19",
+        "R24"
+      ],
+      "next_qualification": "Define observable past-only sweep without invented stop orders; deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library-v2/06-ultra-liquidity-sweep-fade.md",
+          "sha256": "7fd371502626a4c59404baa67485eb295aca436450d0a3e5c25e6e969449d6f0",
+          "title": "06. Liquidity-Sweep Fade \u2014 Twist: SWEEP-F",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-059",
+      "release": "M4",
+      "title": "[SR-059] Qualify V2-08: Fisher ACD breakout",
+      "canonical_family_scope": "intraday ACD commodity/equity breakouts",
+      "mechanism_hypothesis": "Opening-range directional discovery",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R19",
+        "R21",
+        "R24"
+      ],
+      "next_qualification": "Qualify original ACD rules/offsets before any variant; deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library-v2/08-intraday-fisher-acd.md",
+          "sha256": "59baad5b2ca016872f2c62b02c403e0591972e6f7f66304bbf29676f8aee9f4f",
+          "title": "08. Fisher ACD Reference Levels \u2014 Twist: ACD-R",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-060",
+      "release": "M4",
+      "title": "[SR-060] Qualify V2-10: Bull-flag continuation",
+      "canonical_family_scope": "intraday high-volume bull flag",
+      "mechanism_hypothesis": "Volume-supported continuation",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R17",
+        "R19",
+        "R24"
+      ],
+      "next_qualification": "Require causal flag confirmation and intraday sample/execution; deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library-v2/10-intraday-aziz-bull-flag.md",
+          "sha256": "8d4151f71a783eb27b18203a22e5ba3a0faea231961395a5b4606017f01c8d57",
+          "title": "10. Aziz Intraday Bull-Flag Momentum \u2014 Twist: FLAG-V",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-061",
+      "release": "M4",
+      "title": "[SR-061] Qualify V2-11: Taylor-cycle conditioning",
+      "canonical_family_scope": "intraday Taylor-cycle conditioning",
+      "mechanism_hypothesis": "Short-cycle inventory patterns",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R19",
+        "R24"
+      ],
+      "next_qualification": "Define observable non-retrospective cycle labels and clocks; deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library-v2/11-intraday-raschke-taylor-cycle.md",
+          "sha256": "7c6a34095194fbbd0bf825fd240738e1ecb5a7840642ba9ee9e4a78f010c0a77",
+          "title": "11. Raschke\u2013Taylor 3-Day Cycle Rhythm \u2014 Twist: TAYLOR-S",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-062",
+      "release": "M7",
+      "title": "[SR-062] Qualify V2-14: Episodic catalyst pivots",
+      "canonical_family_scope": "stock catalyst/episodic pivots; swing/position variants",
+      "mechanism_hypothesis": "New-information repricing with unusual participation",
+      "disposition": "conditional_stock_adaptation",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R13",
+        "R17",
+        "R24"
+      ],
+      "next_qualification": "Qualify catalyst first-seen, universe and volume normalization; five-session adaptation not canonical replication.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library-v2/14-swing-qullamaggie-episodic-pivots.md",
+          "sha256": "52a29a9acff3c1325a413445196066697928dc341627585b755075d02657e569",
+          "title": "14. Qullamaggie Episodic Pivots \u2014 Twist: EP-CAT2",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../sigmatiq-strategy-library-v1/05-swing-episodic-pivots.md",
+          "sha256": "ce22944b2695ba5992aadc040356ed5e940d269a10c18d1055584fbc1be0ffbe",
+          "title": "05. Episodic Pivots / Momentum Bursts \u2014 Twist: EP-CAT",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-063",
+      "release": "M7",
+      "title": "[SR-063] Qualify V2-18: High-tight-flag continuation",
+      "canonical_family_scope": "stock high-tight flags; swing/position variants",
+      "mechanism_hypothesis": "Persistent leadership after tight consolidation",
+      "disposition": "conditional_stock_adaptation",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R17",
+        "R24"
+      ],
+      "next_qualification": "Freeze past-only run-up/base rule and rare-event support; no winning-pattern grid.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library-v2/18-swing-bonde-high-tight-flag.md",
+          "sha256": "713f6d15901c9b109985ccaaaab39a1dc0c010009bcbd6c7655d8c67282a48e2",
+          "title": "18. Bonde High-Tight-Flag Momentum \u2014 Twist: HTF-Q",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-064",
+      "release": "M4",
+      "title": "[SR-064] Qualify V2-23: Dual momentum allocation",
+      "canonical_family_scope": "ETF/index multi-asset monthly dual momentum",
+      "mechanism_hypothesis": "Relative leadership plus absolute-trend protection",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R21",
+        "R24"
+      ],
+      "next_qualification": "Qualify total returns/risk-free and rebalance timing; ETF/monthly scope deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library-v2/23-position-dual-momentum.md",
+          "sha256": "bf66c72915612fb963c716e3869497be6fff003fb4ce971d2594af97dfa8abe5",
+          "title": "23. Dual Momentum (Time-Series + Cross-Sectional) \u2014 Twist: VMOM2",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        },
+        {
+          "path": "../sigmatiq-strategy-library-v1/08-position-dual-momentum.md",
+          "sha256": "84eaf08f6b930452d63750eb4de8f8948d6e789858404d4fd4efe620df1e598c",
+          "title": "08. Dual / Cross-Sectional Momentum \u2014 Twist: VMOM",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-065",
+      "release": "M4",
+      "title": "[SR-065] Qualify V2-30: Tail-hedge barbell",
+      "canonical_family_scope": "long options tail hedge plus risk portfolio",
+      "mechanism_hypothesis": "Convex crisis protection",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R18",
+        "R21",
+        "R24"
+      ],
+      "next_qualification": "Qualify premium decay, hedge selection/funding/execution across whole portfolio; deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library-v2/30-portfolio-tail-hedge-universa.md",
+          "sha256": "d0f6c5f18a8f3ece8fa18a5c54adeada282822d98ba65c341da49afeb2def970",
+          "title": "30. Tail Hedge / Universa-Style Convexity \u2014 Twist: TAIL-B",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-066",
+      "release": "M4",
+      "title": "[SR-066] Qualify V2-32: Lynch growth at reasonable price",
+      "canonical_family_scope": "stock GARP; years",
+      "mechanism_hypothesis": "Growth at reasonable valuation",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R14",
+        "R24"
+      ],
+      "next_qualification": "Qualify earnings-growth vintage and valuation units; years-long scope deferred.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library-v2/32-invest-lynch-garp.md",
+          "sha256": "602c1f7f86789d42ecd0aa9f89e030b6d9c6295310cb35a09b7d686174547c3b",
+          "title": "32. Lynch GARP (Growth at a Reasonable Price) \u2014 Twist: GARP-L",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    },
+    {
+      "story": "SR-067",
+      "release": "M4",
+      "title": "[SR-067] Qualify V2-36: Permanent portfolio with index tilts",
+      "canonical_family_scope": "multi-asset permanent/index-tilt portfolio",
+      "mechanism_hypothesis": "Regime diversification",
+      "disposition": "deferred_scope",
+      "required_contracts": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R08",
+        "R09",
+        "R10",
+        "R11",
+        "R12",
+        "R21",
+        "R24"
+      ],
+      "next_qualification": "Qualify asset histories/rebalancing/risk-free/hedges; deferred long-horizon portfolio.",
+      "blocker": "No empirical admission until primary rules, exact applicable data/clock/execution contracts and frozen protocol/budget qualify; M4 also requires owner scope amendment.",
+      "versions": [
+        {
+          "path": "../strategy-library-v2/36-invest-permanent-index-tilt.md",
+          "sha256": "a62a902f5116c055ce4b0bd25e669dd572afd2a5bf24616784cb7794679e7884",
+          "title": "36. Permanent Portfolio + Index Tilt \u2014 Twist: PERM-T",
+          "canonical_section": "2",
+          "source_support_section": "3, 8",
+          "evidence_grade": "inherited source claims/access grades; strategy primary papers not reread this design; local scientific verdict untested",
+          "adaptation_boundary": "Version-specific original rules and twists stay distinct; family mapping does not merge rules or reset trial budgets."
+        }
+      ]
+    }
+  ]
+}

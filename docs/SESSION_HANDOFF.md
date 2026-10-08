@@ -1,5 +1,13 @@
 # Current session handoff — October 7, 2026
 
+## M6 v1 design acceptance — October 8, 2026
+
+The complete shared design is accepted within its methodology-only scope: 76 source versions / 40 families, 24 explicit requirement/build contracts, four templates and three independently hand-checked synthetic walkthroughs. [Design acceptance receipt](releases/M6_RECEIPT.md) declares scope; [M6 design release](https://github.com/atulsrivas1/strategy-research/releases/tag/m6-shared-design-v1) carries exact source/artifact identities. Final publication readback is required before Released/Done. Original sources and scientific reports remain frozen. Design completion does not qualify every dataset/tool or register a trial; M7 activation still requires its exact applicable qualifications. No automatic later release/session, data job or experiment. Earlier authored/planning/undelivered status below is dated history after verified publication.
+
+## Shared design authored — October 8, 2026
+
+[Shared design v1](design/DESIGN.md), [complete 76-dossier/40-family applicability](design/APPLICABILITY.md), [24 requirement and feasible-build contracts](design/BUILD_REGISTER.md), [required templates](design/TEMPLATES.md) and [synthetic walkthroughs](design/WALKTHROUGHS.md) are authored. Missing data/tools remain explicit; qualify/reuse, build, prospective capture, acquire or defer paths are retained. Source imports are not causal/execution certification. Design checks/publication acceptance remain gates before SR-068 Done or M7 activation. No historical comparison/final evaluation, source-owner job or scope expansion from design.
+
 The whole-project replan is documented in [REPLAN](REPLAN.md), [68-story inventory](RESEARCH_PLAN.json), [ranked backlog](BACKLOG.md) and [release plans](ROADMAP.md). M6 now contains only SR-068 common design; M7 contains ten stock/family-readiness stories migrated from M6. All 40 family stories retain the SR-068 native blocking dependency. Actual design has not been executed.
 
 Next substantive work: SR-068 requirements/design first, under its [bounded M6 handoff](releases/M6_HANDOFF.md), with synthetic/document verification only. Complete all 76 source-dossier / 40-family applicability decisions, reusable contracts and templates. Do not run historical comparisons to deliver design. The accepted matrix may revise provisional D1/D2/E4 ordering with evidence. One actual implementation; SR-022 retains its recorded partial status. No new execution owner/session has been assigned by this replan.

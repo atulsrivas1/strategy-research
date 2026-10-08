@@ -1,0 +1,198 @@
+{
+  "version": 1,
+  "date": "2026-10-08",
+  "requirements": [
+    {
+      "id": "R01",
+      "need": "Point-in-time security master and universe",
+      "existing_evidence": "Membership/action folders exist; broad historical eligibility unqualified",
+      "feasibility": "qualify_or_acquire",
+      "owner_story": "SR-008",
+      "acceptance": "Version security IDs, listing/delisting/changes and membership known-at; include historical non-survivors or restrict claims explicitly."
+    },
+    {
+      "id": "R02",
+      "need": "Daily bars, calendar and corporate actions",
+      "existing_evidence": "Prices/references exist; selected restricted M0 checks only",
+      "feasibility": "qualify_then_build",
+      "owner_story": "SR-008",
+      "acceptance": "Source-bound OHLCV units, sessions, missingness and split/dividend adjustment match independent examples; never adjust executable prices silently."
+    },
+    {
+      "id": "R03",
+      "need": "Available-at, receipt and revision ledger",
+      "existing_evidence": "Some source clocks/receipts exist; historical arrivals incomplete",
+      "feasibility": "prospective_or_acquire",
+      "owner_story": "SR-022",
+      "acceptance": "Keep event/acceptance/observed/first-seen/available-at separately; prove historical release clock or label modeled/unknown. New capture cannot fill old receipt gaps."
+    },
+    {
+      "id": "R04",
+      "need": "Causal daily feature engine and package adapter",
+      "existing_evidence": "References/features and selected accepted parity exist",
+      "feasibility": "build_from_qualified_inputs",
+      "owner_story": "SR-019",
+      "acceptance": "Prior-only windows, warmup and prefix/future invariance; independently expected units and accepted version/capability parity. Daily and intraday indicators distinct."
+    },
+    {
+      "id": "R05",
+      "need": "Decision-time stock and market context",
+      "existing_evidence": "Context artifacts exist; applicable clocks/coverage unqualified",
+      "feasibility": "qualify_then_build",
+      "owner_story": "SR-022",
+      "acceptance": "Mechanism-specific stock/market alignment and unknown policy; qualified non-ETF measure or explicit missing state; no 18-name market-breadth claim."
+    },
+    {
+      "id": "R06",
+      "need": "Execution and transaction-cost evidence",
+      "existing_evidence": "Trades/TBBO/minute schema evidence exists; full quote-supported fills unqualified",
+      "feasibility": "qualify_or_acquire",
+      "owner_story": "SR-004",
+      "acceptance": "Per instrument/date quote clocks, age, size, spread/status, delay, fees/slippage and fill/censor policy. TBBO is trade-triggered, not continuous quote history."
+    },
+    {
+      "id": "R07",
+      "need": "Funded portfolio and paired scanner/context accounting",
+      "existing_evidence": "Synthetic accounting/sleeves exist; full parity/funding open",
+      "feasibility": "build_and_verify",
+      "owner_story": "SR-025",
+      "acceptance": "Original scanner opportunities/weights; veto weights cash; reservations, integer quantities, overlap, dividends, unresolved positions; independent ledger conservation."
+    },
+    {
+      "id": "R08",
+      "need": "Guarded outcome/label builder",
+      "existing_evidence": "Historical labels exist but are exposed and isolated",
+      "feasibility": "build_from_qualified_inputs",
+      "owner_story": "SR-010",
+      "acceptance": "No label I/O before immutable protocol/dependency checks; purge by actual holding/label interval; retain missing/censored/unfilled denominator."
+    },
+    {
+      "id": "R09",
+      "need": "Experiment, exposure and search registry",
+      "existing_evidence": "Existing experiment/exposure records",
+      "feasibility": "extend_existing",
+      "owner_story": "SR-010",
+      "acceptance": "Immutable IDs/config/code/input hashes, pre-run timestamp, every attempted variant/failure, selected candidate, access log; final dates null/access disabled."
+    },
+    {
+      "id": "R10",
+      "need": "Dependence-aware evaluator and evidence decisions",
+      "existing_evidence": "Existing scoped synthetic/math checks; no generic promotion certificate",
+      "feasibility": "build_and_verify",
+      "owner_story": "SR-025",
+      "acceptance": "Paired date/sleeve units, effective support, dependence-aware resampling, economic floor and precision criteria frozen; costs/stress/concentration/multiple-search disclosure."
+    },
+    {
+      "id": "R11",
+      "need": "Source/artifact receipt and reproducibility pipeline",
+      "existing_evidence": "Existing manifests/CI/publication checks",
+      "feasibility": "extend_existing",
+      "owner_story": "SR-001",
+      "acceptance": "Environment/commands, exact source/input/output identities, sanitized report, all failed runs and explicit scoped acceptance read back from delivered source."
+    },
+    {
+      "id": "R12",
+      "need": "Primary-source qualification and counterevidence",
+      "existing_evidence": "76 archived dossiers; inherited reading/access grades",
+      "feasibility": "research_qualification",
+      "owner_story": "SR-068",
+      "acceptance": "Trace all versions to their family; distinguish primary read/abstract/secondary/inaccessible, canonical rules vs untested twist, local evidence vs author claims."
+    },
+    {
+      "id": "R13",
+      "need": "Earnings surprise and catalyst vintage ledger",
+      "existing_evidence": "Earnings/news/press-release folders; exact consensus vintage unqualified",
+      "feasibility": "qualify_or_acquire",
+      "owner_story": "SR-034",
+      "acceptance": "Pre-release consensus, actual earnings units, publication vs first-seen and revisions; no date-only or hindsight surprise admission."
+    },
+    {
+      "id": "R14",
+      "need": "Point-in-time fundamentals and classifications",
+      "existing_evidence": "FMP/SEC-related inputs and snapshots; some ex-post",
+      "feasibility": "qualify_then_build",
+      "owner_story": "SR-047",
+      "acceptance": "Filing/dissemination, fiscal period, units/restatements and as-of classification; do not substitute report-end date for knowledge time."
+    },
+    {
+      "id": "R15",
+      "need": "Insider identity, transactions and routine/opportunistic history",
+      "existing_evidence": "Insider folders exist; complete historical contract unqualified",
+      "feasibility": "qualify_or_acquire",
+      "owner_story": "SR-051",
+      "acceptance": "Issuer/owner IDs, transaction vs filing/arrival, amendments, transaction types and sufficient prior history for frozen routine definition; SEC holdings not Form4 coverage proof."
+    },
+    {
+      "id": "R16",
+      "need": "Exchange/session and public event schedules",
+      "existing_evidence": "Calendar-related artifacts; exact historical contract unqualified",
+      "feasibility": "qualify_then_build",
+      "owner_story": "SR-043",
+      "acceptance": "Timezone/DST/holiday/early-close and schedule-known-at; revisions and canceled events; contemporary event schedule rather than outcome timestamp."
+    },
+    {
+      "id": "R17",
+      "need": "Causal pattern and rare-event support",
+      "existing_evidence": "OHLCV ingredients; historical pattern efficacy untested",
+      "feasibility": "build_from_qualified_inputs",
+      "owner_story": "SR-047",
+      "acceptance": "Completed-bar/pivot availability, fixed pattern definition, no future-confirmed zigzag; adequate preregistered rare-event support or blocked/inconclusive."
+    },
+    {
+      "id": "R18",
+      "need": "Options security master, quotes, Greeks and expiry",
+      "existing_evidence": "Option artifacts/catalog exist; applicable M3 qualification open",
+      "feasibility": "conditional_scope",
+      "owner_story": "SR-015",
+      "acceptance": "Underlying/OCC ID, strike/expiry/type/multiplier, quotes/sizes/clocks, calculation/IV/Greeks assumptions, exercise/assignment and costs; calls only after supported stock candidate."
+    },
+    {
+      "id": "R19",
+      "need": "Order-book, venue and latency evidence",
+      "existing_evidence": "Trades/TBBO evidence; order-level complete feed not established",
+      "feasibility": "deferred_acquire",
+      "owner_story": "SR-028",
+      "acceptance": "Dataset-supported MBO/MBP sequences, order events/queue/venues, receipt latency, cancels and gaps. Cannot infer individual orders from daily bars or trade-direction alone."
+    },
+    {
+      "id": "R20",
+      "need": "Borrow, short inventory and hedge accounting",
+      "existing_evidence": "Not qualified for this project",
+      "feasibility": "deferred_acquire",
+      "owner_story": "SR-035",
+      "acceptance": "Historical locate/availability/fees, recall/dividends, financing and pair hedge execution; long-only proxy is a distinct hypothesis and scope amendment."
+    },
+    {
+      "id": "R21",
+      "need": "Non-equity instruments, curves, carry and roll history",
+      "existing_evidence": "Not qualified in current scope",
+      "feasibility": "deferred_acquire",
+      "owner_story": "SR-042",
+      "acceptance": "Instrument calendars/contracts, point-in-time roll/curve/FX/funding/collateral and transaction costs; requires explicit future scope change."
+    },
+    {
+      "id": "R22",
+      "need": "Auction imbalance and order rules",
+      "existing_evidence": "Auction feed/rules coverage unqualified",
+      "feasibility": "deferred_acquire",
+      "owner_story": "SR-048",
+      "acceptance": "Venue-specific published imbalance clock, auction order/cutoff/cancel rules, auction price/size and contemporaneous eligibility; daily close is not auction-fill proof."
+    },
+    {
+      "id": "R23",
+      "need": "Merger/spinoff and terminal-event identity",
+      "existing_evidence": "Corporate-event folders exist; full historical event coverage unqualified",
+      "feasibility": "deferred_qualification",
+      "owner_story": "SR-052",
+      "acceptance": "Announcement/terms/changes/failure/takeover/spinoff eligibility known at decision; include failed events without future takeover selection."
+    },
+    {
+      "id": "R24",
+      "need": "Owner research capital and risk mandate",
+      "existing_evidence": "Not selected for funded adoption",
+      "feasibility": "owner_decision_later",
+      "owner_story": "SR-004",
+      "acceptance": "Before funded runs specify capital, position/portfolio exposure, acceptable loss/drawdown/turnover and feasible order model; no live mandate implied."
+    }
+  ]
+}
