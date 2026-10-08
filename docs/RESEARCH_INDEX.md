@@ -1,3 +1,7 @@
+## D1 bounded qualification — October 8, 2026
+
+Owner authorized SR-040 source/input qualification after accepted M6 design. [D1 evidence and build disposition](../reports/D1-input-qualification.md) records two directly read primary papers, inaccessible Turtle rule sources, one past-only daily ingredient audit and a fail-closed synthetic ingredient contract. 45 independent hand-derived boundary checks pass. Adjustment, historical availability, calendar/source parity, universe, execution/accounting and exact empirical protocol remain unqualified. Zero historical comparisons/final evaluations. Full SR-040 stays open; Project owns lifecycle; M7 planned/unreleased. Existing shared stories cover next normalizer/calendar/parity and authority-ledger work. Earlier unstarted/undelivered/next-design priorities below are dated history; M6 remains accepted. No owned process or source-owner job.
+
 ## Owner priority amendment — shared research design first
 
 ## M6 v1 design acceptance — October 8, 2026

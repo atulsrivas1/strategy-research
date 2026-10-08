@@ -2,13 +2,17 @@
 
 ## Full replan priority — October 7, 2026
 
-Current priority: 3.01 — Provisional qualification. Current release: M7. Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.
+Current priority: 3.01 — Provisional qualification. Current release: M7. SR-068/M6 accepted; owner-authorized bounded source/input qualification started. Empirical admission blocked; no historical trial budget.
 
 [Complete current plan](../REPLAN.md) supersedes older ranks and release summaries below; original mechanisms, scientific requirements and executed evidence retain provenance. Project lifecycle is authoritative.
 
+## Bounded source/input qualification — October 8, 2026
+
+[Current qualification report](../../reports/D1-input-qualification.md) and [ingredient checks](../../scripts/check_d1_inputs.py): primary source/adaptation boundaries, one past-only development ingredient audit, feasible build paths and explicit blockers. 45 synthetic checks pass; no empirical replay or package parity. Full story remains open with adjustment, historical availability, calendar/source parity, universe, execution/accounting and exact protocol gates unresolved. M7 unreleased. Earlier unstarted source wording below is history.
+
 ## Current delivery reconciliation — October 7, 2026
 
-M7 planned, unreleased. Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.
+M7 planned, unreleased. SR-068/M6 accepted; owner-authorized bounded source/input qualification started. Empirical admission blocked; no historical trial budget.
 
 Separate research PR review is optional under the owner waiver; causal/source qualification, independent relevant checks, CI, privacy and exact acceptance remain required. No independent approval claimed.
 
