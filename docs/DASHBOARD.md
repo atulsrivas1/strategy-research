@@ -4,6 +4,8 @@
 
 [October 7 synchronization audit](../reports/TRACKING-SYNC.md) records code/planning, native parent/milestone and release verification scope.
 
+[Detailed code/evidence review](../reports/DETAILED-REVIEW.md) records saved-result arithmetic, frozen-source identity, remaining scientific gates and corrected startup/data instructions.
+
 | Release | Actual delivery and evidence |
 |---|---|
 | [M0](releases/M0_PLAN.md) | [Released restricted foundation](https://github.com/atulsrivas1/strategy-research/releases/tag/m0-restricted-evidence-v1); [qualification](../reports/M0-qualification.md). No broad-universe or executable-edge certification. |

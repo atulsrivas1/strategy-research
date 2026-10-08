@@ -1,5 +1,7 @@
 # Source and evidence map
 
+Current library provenance also lives in the [Chartsspeak catalog](../strategy-library/CATALOG.md), [Sigmatiq V1](../sigmatiq-strategy-library-v1/CATALOG.md), [V2](../strategy-library-v2/CATALOG.md) and [V3](../strategy-library-v3/CATALOG.md): 76 dossiers with access grades, source versions, family mappings and limitations. Imports and verified bytes are not independent paper reproduction. [SR-068](../stories/SR-068_PLAN.md) must design the common source/requirements contract before further family-specific work. The review-guide entry below records historical reading; separate research review is now optional under the owner waiver.
+
 Prior literature was read in targeted sections during the private research preparation on October 5, 2026; no new literature reading or local reproduction is claimed by this planning change.
 
 | Source | What was read / external claim | Use and limitation |
