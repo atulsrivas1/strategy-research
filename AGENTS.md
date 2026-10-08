@@ -1,3 +1,9 @@
+## Current execution after M6 — October 8, 2026
+
+SR-068 common design is accepted, published and Done in [M6 v1](https://github.com/atulsrivas1/strategy-research/releases/tag/m6-shared-design-v1). Read [the design](docs/design/DESIGN.md), [complete applicability matrix](docs/design/APPLICABILITY.md), [requirement/build register](docs/design/BUILD_REGISTER.md) and [acceptance receipt](docs/releases/M6_RECEIPT.md). Missing needs remain explicit; design acceptance does not qualify every dataset/tool or authorize a strategy replay. Earlier SR-068 Ready/undelivered startup wording below is historical.
+
+Ten M7 families remain Backlog, no implementation automatically assigned. Select one bounded source/readiness question, provisionally D1/SR-040, and qualify its exact source/availability/identity/execution dependencies before empirical work. Build feasible missing research-side capabilities under the responsible existing stories or separately bounded scope; do not invent historical clocks/quotes/vintages, take over source-producer jobs, acquire paid data or activate deferred M4. M2 strict gates/exhausted negative trials, M3 conditional calls, M5 frozen predecessors, final disabled and one actual implementation remain binding. Project remains lifecycle authority; no new session or schedule implied.
+
 ## Owner research-review amendment — October 7, 2026
 
 ## Current full replan — October 7, 2026
