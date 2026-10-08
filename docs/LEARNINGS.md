@@ -1,3 +1,7 @@
+## L-D1-007 — A dated marker can be a repair receipt, not source history
+
+[Scoped locator](../reports/D1-recovery-disposition.md) found a dated repair marker with an absent referenced parent and no source array. Verify schema and links before treating a filename as a provenance snapshot. Stop repeated unchanged-path searches; prospective observation records cannot repair historical arrival gaps. No whole-lake absence or empirical rejection claimed.
+
 ## L-D1-006 — Distinguish receipt path drift from source certification
 
 [Preparation inspection](../reports/D1-preparation-provenance.md) confines twenty receipt/root disagreements to output paths; hashes and declared counts agree. Preserve the discrepancy and verify each field. Neither metadata agreement nor current producer code proves historical execution, original provider coverage or arrival. Missing upstream receipts remain admission blockers.

@@ -269,7 +269,7 @@
       "epic": "E06",
       "release": "M2",
       "priority": "2 \u2014 Enabling evidence",
-      "disposition": "After shared design, qualify availability clocks, accounting/parity and observed execution/funding; exact missing evidence stays blocked. No market replay from this plan.",
+      "disposition": "Historical arrivals remain unqualified; M2 comparisons negative/exhausted unchanged. Prospective R03 contract prepared; next bounded outcome-free recorder after fresh build plan, no empirical replay or historical clock backfill. Full story open; Project lifecycle authority.",
       "dependencies": [
         "SR-008",
         "SR-019"
@@ -549,7 +549,7 @@
       "epic": "E08",
       "release": "M7",
       "priority": "3.01 \u2014 Provisional qualification",
-      "disposition": "M6 accepted; daily metadata/receipts consistent except stale output paths. Missing exact originals/request sidecars and historical runtime/source/session/action/arrival evidence block admission. Full story open partial Test, zero trials; next recovery specification; Project lifecycle authority.",
+      "disposition": "Scoped locator recovered no original/request chain; source/session/action/availability gates blocked. Full story partial Test; recover only on new exact candidate. Next enabling SR022/R03 capture build, zero market trials; Project lifecycle authority.",
       "dependencies": [
         "SR-004",
         "SR-008",

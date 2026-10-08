@@ -1,3 +1,7 @@
+## Recovery disposition and next build — October 8, 2026
+
+[Scoped recovery](../reports/D1-recovery-disposition.md) found no original/request chain in two declared roots and an absent referenced parent manifest. Two metadata hashes and twenty expected source identities/counts verified; no original bytes recovered. Four source gates remain blocked, all ten M7 stories open partial Test, M7 unreleased. PR106 exact publication verified. Next outcome-free SR022/R03 recorder under [capture contract](contracts/SR-022_AVAILABILITY_CAPTURE.md); historical recovery waits for a new exact source/receipt. No market rows/trials/final access, producer job, new session or later release. Older snapshots retain history.
+
 ## Preparation provenance — October 8, 2026
 
 [Preparation provenance](../reports/D1-preparation-provenance.md): all twenty partition/root disagreements are output-path changes only; source metadata/hashes/counts/exclusions agree. Twenty originals and request sidecars absent at declared paths; current code does not bind historical execution. Four source gates blocked, full SR040 and all ten M7 stories open partial Test; M7 unreleased, zero market rows/trials/final access. PR105 exact publication/main CI verified. Next bounded recovery/admission specification; no source-owner jobs or modifications. Older snapshots retain history.
