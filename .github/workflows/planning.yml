@@ -17,6 +17,9 @@ jobs:
       - run: python scripts/check_design.py
       - run: python scripts/check_d1_inputs.py
       - run: python scripts/check_daily_inputs.py
+      - run: python scripts/check_session_proxy.py
+      - run: python scripts/check_relative_strength.py
+      - run: python scripts/check_fundamental_vintages.py
       - run: python scripts/check_reference_fixtures.py
       - run: python scripts/check_chronology.py
       - run: python scripts/check_m1.py

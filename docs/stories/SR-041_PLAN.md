@@ -1,5 +1,9 @@
 # SR-041 — Qualify D2: Cross-sectional (relative-strength) momentum
 
+## Bounded prerequisite evidence — October 8, 2026
+
+[Primary-paper cost correction, complete-cohort ranking and 33 checks; historical universe/arrival authority remains blocked.](../../reports/D2-source-qualification.md) Full story open at partial Test; no empirical admission, zero historical trials and final evaluations. M7 planned, unreleased. Accepted SR-068 prerequisite fulfilled. Original scientific acceptance below remains required; older unstarted/blocked-on-design wording is historical.
+
 ## Full replan priority — October 7, 2026
 
 Current priority: 3.02 — Provisional qualification. Current release: M7. Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.
@@ -8,7 +12,7 @@ Current priority: 3.02 — Provisional qualification. Current release: M7. Backl
 
 ## Current delivery reconciliation — October 7, 2026
 
-M7 planned, unreleased. Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.
+M7 planned, unreleased. Accepted SR-068 verified; bounded source/machinery evidence is linked above. Full story open at partial Test; empirical gates remain blocked. Priority remains provisional, no historical trial budget.
 
 Separate research PR review is optional under the owner waiver; causal/source qualification, independent relevant checks, CI, privacy and exact acceptance remain required. No independent approval claimed.
 

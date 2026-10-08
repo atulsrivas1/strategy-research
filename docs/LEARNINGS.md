@@ -1,3 +1,7 @@
+## L-M7-001 — Preserve authority boundaries in shared ingredients
+
+[D1 minute-proxy evidence](../reports/D1-session-feasibility.md) distinguishes full interval coverage from official auction/arrival authority. [D2 qualification](../reports/D2-source-qualification.md) distinguishes a reconstructed membership snapshot from a complete historical ranking denominator and corrects an imported blanket cost claim using the actual primary paper. [E4 vintage checks](../reports/E4-vintage-qualification.md) demonstrate synthetic prevention of future-restatement leakage; they do not certify a historical fundamental source. Missing authority blocks empirical use rather than disproving a strategy.
+
 ## L-D1-002 — Date parity does not establish session timing
 
 [D1 daily-input audit](../reports/D1-daily-inputs.md) reconciles the sampled20dates/40prices while source documentation identifies UTC-day intervals. A date label, interval start and core-session completion/arrival are different clocks. Preserve interval basis, original prices and unknown arrivals; qualify finer aggregation/auction rules before core-session use. This bounded finding does not automatically rerun or invalidate earlier frozen proxy receipts.
