@@ -1,3 +1,17 @@
+# M5 current delivery reconciliation — October 7, 2026
+
+Planning delivered; implementation and outreach deferred behind the frozen equity-features R5–R13 and applicable research M2/M3 acceptance gates. M4 excluded; M6 does not silently amend this list.
+
+## Current assigned stories
+
+[SR-026](../stories/SR-026_PLAN.md), [SR-027](../stories/SR-027_PLAN.md)
+
+Separate research PR review is optional under the owner waiver; scientific checks, CI, privacy, actual scoped acceptance and exact delivered-source/artifact verification remain required.
+
+## Preserved original plan and amendments
+
+Earlier status and review clauses below are historical where superseded above. Unfulfilled scientific requirements and original trial records remain binding.
+
 # M5 - Research community onboarding (C1)
 
 ## Owner research-review amendment — October 7, 2026

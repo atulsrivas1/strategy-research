@@ -17,9 +17,9 @@ Read [brief](RESEARCH_BRIEF.md), [knowledge](PROJECT_KNOWLEDGE.md), [index](RESE
 | Backlog | Numbered bounded question, epic/milestone and explicit missing prerequisites |
 | Ready | Reviewable plan, acceptance, data/access and applicable prerequisites available; no hidden blocked execution |
 | In progress | Actual bounded authorized work underway with artifacts/commands |
-| Code review | Concrete change and documentation; actual separate Codex final-head review and findings disposition required before merge |
+| Code review | Concrete change/documentation and honest agent evidence inspection; separate PR review optional under owner waiver |
 | Test | Relevant independent correctness/data/execution/empirical checks assessed; failed runs retained |
-| Ready to release | Assigned acceptance, review, final-head checks and documentation complete; declared delivery prepared |
+| Ready to release | Assigned acceptance, agent evidence inspection, applicable final-head checks and documentation complete; declared delivery prepared |
 | Released | Approved exact source and declared artifacts published; release receipt available |
 | Done | Actual delivery verified, scope reconciled, lessons/index/backlog/handoff updated; remaining work numbered |
 

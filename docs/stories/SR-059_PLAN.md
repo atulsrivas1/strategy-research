@@ -1,5 +1,15 @@
 # SR-059 — Qualify V2-08: Fisher ACD breakout
 
+## Current delivery reconciliation — October 7, 2026
+
+Deferred and excluded from this pass. Includes 30 library stories plus SR-017/018; no scope expansion or empirical execution authorized. Full story remains open; no new empirical authorization from this synchronization.
+
+[Live Project stages](https://github.com/users/atulsrivas1/projects/4) remain authoritative. Separate research PR review is optional under the owner waiver; agent inspection, independent relevant numerical checks, CI, privacy and exact delivery verification remain required. No independent approval is claimed.
+
+## Preserved plan and amendments
+
+The original specification and dated amendments below retain provenance. Earlier delivery/status/review wording is superseded by the current reconciliation and owner waiver. Unfulfilled scientific requirements remain requirements.
+
 Parent: [E08](https://github.com/atulsrivas1/strategy-research/issues/46). Release plan: [M4](../releases/M4_PLAN.md).
 State: Deferred: intraday and discretionary rule/primary-source verification. Scientific status: untested locally. Low current-scope priority, small archival/source qualification effort; empirical effort unestimated and deferred.
 

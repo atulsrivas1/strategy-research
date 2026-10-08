@@ -1,3 +1,24 @@
+# Current epic and release map — October 7, 2026
+
+[Live Project](https://github.com/users/atulsrivas1/projects/4) owns stages. All 67 story plans have matching native parent links and release milestones. M0/M1 released in restricted accepted scopes; M2 partial; M3 conditional; M4 deferred; M5 planning only; M6 planned qualification. Four libraries total 76 dossiers and 40 E08 stories, with ten M6 and thirty M4 library questions. D1/D2/E4 first; no new historical trial budget.
+
+| Epic | Release assignment | Stories |
+|---|---|---|
+| [E01](https://github.com/atulsrivas1/strategy-research/issues/8) | M0 | [SR-001](stories/SR-001_PLAN.md), [SR-002](stories/SR-002_PLAN.md), [SR-006](stories/SR-006_PLAN.md), [SR-007](stories/SR-007_PLAN.md), [SR-008](stories/SR-008_PLAN.md), [SR-009](stories/SR-009_PLAN.md), [SR-010](stories/SR-010_PLAN.md), [SR-019](stories/SR-019_PLAN.md) |
+| [E02](https://github.com/atulsrivas1/strategy-research/issues/9) | M1 | [SR-003](stories/SR-003_PLAN.md), [SR-011](stories/SR-011_PLAN.md), [SR-012](stories/SR-012_PLAN.md), [SR-013](stories/SR-013_PLAN.md), [SR-014](stories/SR-014_PLAN.md) |
+| [E03](https://github.com/atulsrivas1/strategy-research/issues/10) | M2 | [SR-004](stories/SR-004_PLAN.md), [SR-020](stories/SR-020_PLAN.md) |
+| [E04](https://github.com/atulsrivas1/strategy-research/issues/11) | M3 | [SR-005](stories/SR-005_PLAN.md), [SR-015](stories/SR-015_PLAN.md), [SR-016](stories/SR-016_PLAN.md), [SR-021](stories/SR-021_PLAN.md) |
+| [E05](https://github.com/atulsrivas1/strategy-research/issues/12) | M4 | [SR-017](stories/SR-017_PLAN.md), [SR-018](stories/SR-018_PLAN.md) |
+| [E06](https://github.com/atulsrivas1/strategy-research/issues/34) | M2 | [SR-022](stories/SR-022_PLAN.md), [SR-023](stories/SR-023_PLAN.md), [SR-024](stories/SR-024_PLAN.md), [SR-025](stories/SR-025_PLAN.md) |
+| [E07](https://github.com/atulsrivas1/strategy-research/issues/42) | M5 | [SR-026](stories/SR-026_PLAN.md), [SR-027](stories/SR-027_PLAN.md) |
+| [E08](https://github.com/atulsrivas1/strategy-research/issues/46) | M4, M6 | [SR-028](stories/SR-028_PLAN.md), [SR-029](stories/SR-029_PLAN.md), [SR-030](stories/SR-030_PLAN.md), [SR-031](stories/SR-031_PLAN.md), [SR-032](stories/SR-032_PLAN.md), [SR-033](stories/SR-033_PLAN.md), [SR-034](stories/SR-034_PLAN.md), [SR-035](stories/SR-035_PLAN.md), [SR-036](stories/SR-036_PLAN.md), [SR-037](stories/SR-037_PLAN.md), [SR-038](stories/SR-038_PLAN.md), [SR-039](stories/SR-039_PLAN.md), [SR-040](stories/SR-040_PLAN.md), [SR-041](stories/SR-041_PLAN.md), [SR-042](stories/SR-042_PLAN.md), [SR-043](stories/SR-043_PLAN.md), [SR-044](stories/SR-044_PLAN.md), [SR-045](stories/SR-045_PLAN.md), [SR-046](stories/SR-046_PLAN.md), [SR-047](stories/SR-047_PLAN.md), [SR-048](stories/SR-048_PLAN.md), [SR-049](stories/SR-049_PLAN.md), [SR-050](stories/SR-050_PLAN.md), [SR-051](stories/SR-051_PLAN.md), [SR-052](stories/SR-052_PLAN.md), [SR-053](stories/SR-053_PLAN.md), [SR-054](stories/SR-054_PLAN.md), [SR-055](stories/SR-055_PLAN.md), [SR-056](stories/SR-056_PLAN.md), [SR-057](stories/SR-057_PLAN.md), [SR-058](stories/SR-058_PLAN.md), [SR-059](stories/SR-059_PLAN.md), [SR-060](stories/SR-060_PLAN.md), [SR-061](stories/SR-061_PLAN.md), [SR-062](stories/SR-062_PLAN.md), [SR-063](stories/SR-063_PLAN.md), [SR-064](stories/SR-064_PLAN.md), [SR-065](stories/SR-065_PLAN.md), [SR-066](stories/SR-066_PLAN.md), [SR-067](stories/SR-067_PLAN.md) |
+
+Separate PR review optional under the owner waiver; scientific checks, CI, privacy and delivery acceptance remain required.
+
+## Preserved roadmap history
+
+Earlier counts, assignments summaries and status wording below are dated history where superseded by this map. Original source rules and scope exclusions remain preserved.
+
 ## Sigmatiq V1 imported — twelve existing-story mappings
 
 [Separate Sigmatiq V1catalog](sigmatiq-strategy-library-v1/CATALOG.md) and [source caveats](sigmatiq-strategy-library-v1/IMPORT_NOTES.md). All12notes preserved and linked to existing plans; no duplicate stories.76dossiers across four libraries,40E08children,67repo story plans. M6/M4assignments and D1/D2/E4momentum order unchanged. Reported literature,not newly verified strategy results;no replay/final access. Earlier library counts below are history.

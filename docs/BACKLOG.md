@@ -1,3 +1,7 @@
+## Current synchronization — October 7, 2026
+
+[Current dashboard](DASHBOARD.md), [epic/release map](ROADMAP.md) and [live Project](https://github.com/users/atulsrivas1/projects/4) supersede older delivery/status snapshots below. M0/M1 released, M2 partial with two rejected modeled comparisons and exhausted budget, M3 conditional, M4 deferred, M5 planning only, M6 D1/D2/E4 qualification next. Four libraries / 76 dossiers / 40 E08 stories; no new market test. Separate research review optional; scientific/CI/privacy/actual delivery gates remain.
+
 ## Sigmatiq V1 imported — twelve existing-story mappings
 
 [Separate Sigmatiq V1catalog](sigmatiq-strategy-library-v1/CATALOG.md) and [source caveats](sigmatiq-strategy-library-v1/IMPORT_NOTES.md). All12notes preserved and linked to existing plans; no duplicate stories.76dossiers across four libraries,40E08children,67repo story plans. M6/M4assignments and D1/D2/E4momentum order unchanged. Reported literature,not newly verified strategy results;no replay/final access. Earlier library counts below are history.

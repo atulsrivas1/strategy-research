@@ -1,3 +1,17 @@
+# M4 current delivery reconciliation — October 7, 2026
+
+Deferred and excluded from this pass. Includes 30 library stories plus SR-017/018; no scope expansion or empirical execution authorized.
+
+## Current assigned stories
+
+[SR-017](../stories/SR-017_PLAN.md), [SR-018](../stories/SR-018_PLAN.md), [SR-028](../stories/SR-028_PLAN.md), [SR-029](../stories/SR-029_PLAN.md), [SR-030](../stories/SR-030_PLAN.md), [SR-031](../stories/SR-031_PLAN.md), [SR-035](../stories/SR-035_PLAN.md), [SR-036](../stories/SR-036_PLAN.md), [SR-037](../stories/SR-037_PLAN.md), [SR-038](../stories/SR-038_PLAN.md), [SR-039](../stories/SR-039_PLAN.md), [SR-042](../stories/SR-042_PLAN.md), [SR-044](../stories/SR-044_PLAN.md), [SR-045](../stories/SR-045_PLAN.md), [SR-046](../stories/SR-046_PLAN.md), [SR-048](../stories/SR-048_PLAN.md), [SR-049](../stories/SR-049_PLAN.md), [SR-050](../stories/SR-050_PLAN.md), [SR-052](../stories/SR-052_PLAN.md), [SR-053](../stories/SR-053_PLAN.md), [SR-054](../stories/SR-054_PLAN.md), [SR-055](../stories/SR-055_PLAN.md), [SR-056](../stories/SR-056_PLAN.md), [SR-057](../stories/SR-057_PLAN.md), [SR-058](../stories/SR-058_PLAN.md), [SR-059](../stories/SR-059_PLAN.md), [SR-060](../stories/SR-060_PLAN.md), [SR-061](../stories/SR-061_PLAN.md), [SR-064](../stories/SR-064_PLAN.md), [SR-065](../stories/SR-065_PLAN.md), [SR-066](../stories/SR-066_PLAN.md), [SR-067](../stories/SR-067_PLAN.md)
+
+Separate research PR review is optional under the owner waiver; scientific checks, CI, privacy, actual scoped acceptance and exact delivered-source/artifact verification remain required.
+
+## Preserved original plan and amendments
+
+Earlier status and review clauses below are historical where superseded above. Unfulfilled scientific requirements and original trial records remain binding.
+
 ## Owner research-review amendment — October 7, 2026
 
 The owner explicitly waived separate code/PR review for this strategy-research project and authorized autonomous work within its operating scope. This supersedes older mandatory Codex-review clauses in research plans, templates, checklists and pending-delivery descriptions, including SR-006's review activation dependency. Separate review is optional, not a merge/Done gate. No completed review is retrospectively claimed. This does not waive source qualification, causal validity, independent relevant numerical verification, CI, privacy, exact source/artifact verification, release acceptance or current scope. It does not apply to equity-features or chartsspeak development. Retain the eight tracking stages; Code review records agent evidence inspection and the owner waiver, not independent approval. Frozen historical receipts remain unchanged; old review requirements below are historical where they conflict with this amendment.
