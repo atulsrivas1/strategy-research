@@ -22,6 +22,7 @@ jobs:
       - run: python scripts/check_fundamental_vintages.py
       - run: python scripts/check_earnings_surprise.py
       - run: python scripts/check_rsi2.py
+      - run: python scripts/check_opening_gap.py
       - run: python scripts/check_reference_fixtures.py
       - run: python scripts/check_chronology.py
       - run: python scripts/check_m1.py
