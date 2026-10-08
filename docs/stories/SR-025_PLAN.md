@@ -1,5 +1,11 @@
 # SR-025 — Validate matched scanner-context accounting and causality
 
+## Full replan priority — October 7, 2026
+
+Current priority: 2 — Enabling evidence. Current release: M2. After shared design, qualify availability clocks, accounting/parity and observed execution/funding; exact missing evidence stays blocked. No market replay from this plan.
+
+[Complete current plan](../REPLAN.md) supersedes older ranks and release summaries below; original mechanisms, scientific requirements and executed evidence retain provenance. Project lifecycle is authoritative.
+
 ## Current delivery reconciliation — October 7, 2026
 
 Synthetic accounting, five-session sleeve integration and bounded proxy checks delivered. Full applicable source/scanner/context/execution parity remains unqualified; full story open. Backlog denotes remaining qualification, not absence of implemented fixtures.

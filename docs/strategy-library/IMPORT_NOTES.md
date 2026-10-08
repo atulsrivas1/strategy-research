@@ -10,4 +10,4 @@ Corrections to apply before reuse: D2's statement that long-short is market-neut
 
 Locally verified in this import: byte identity, publication checks, document links, numbered story coverage and native tracking. No strategy results reproduced, no forward returns read, no new backtest, no final holdout. Existing M2 unsuccessful gates remain rejected in their exact tested scope.
 
-See [ranked catalog](CATALOG.md), [M6 plan](../releases/M6_PLAN.md) and [workflow amendment](../CODE_REVIEW.md).
+See [ranked catalog](CATALOG.md), [M7 plan](../releases/M7_PLAN.md) and [workflow amendment](../CODE_REVIEW.md).

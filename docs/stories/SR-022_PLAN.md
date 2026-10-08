@@ -1,5 +1,11 @@
 # SR-022 — Qualify decision-time stock and market context
 
+## Full replan priority — October 7, 2026
+
+Current priority: 2 — Enabling evidence. Current release: M2. After shared design, qualify availability clocks, accounting/parity and observed execution/funding; exact missing evidence stays blocked. No market replay from this plan.
+
+[Complete current plan](../REPLAN.md) supersedes older ranks and release summaries below; original mechanisms, scientific requirements and executed evidence retain provenance. Project lifecycle is authoritative.
+
 ## Current delivery reconciliation — October 7, 2026
 
 Bounded source/math/proxy-availability qualification delivered; observed historical arrival remains unqualified. Full story open, M2 partial.

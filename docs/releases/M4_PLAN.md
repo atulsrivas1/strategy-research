@@ -1,5 +1,9 @@
 # M4 current delivery reconciliation — October 7, 2026
 
+## Current full replan
+
+[Complete priority order](../REPLAN.md) applies. Shared M6 design is first; M7 family qualification follows accepted design. This release retains its assigned stories, scientific requirements and actual evidence state; older ranks are historical. M5 frozen R5–R13/applicable M2/M3 receipt list is unchanged, M4 excluded. Separate review optional under owner waiver.
+
 Deferred and excluded from this pass. Includes 30 library stories plus SR-017/018; no scope expansion or empirical execution authorized.
 
 ## Current assigned stories

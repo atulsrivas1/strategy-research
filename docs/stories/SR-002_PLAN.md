@@ -1,5 +1,11 @@
 # SR-002 — Explain missing daily references and close conventions
 
+## Full replan priority — October 7, 2026
+
+Current priority: Delivered. Current release: M0. Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun.
+
+[Complete current plan](../REPLAN.md) supersedes older ranks and release summaries below; original mechanisms, scientific requirements and executed evidence retain provenance. Project lifecycle is authoritative.
+
 ## Current delivery reconciliation — October 7, 2026
 
 Accepted scoped delivery complete; see the published M0 release and its immutable receipt. Released and verified within the accepted restricted 18-stock daily simulation scope. Broader universe, observed fills and strategy efficacy are not certified.

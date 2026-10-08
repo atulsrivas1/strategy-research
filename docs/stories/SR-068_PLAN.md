@@ -1,5 +1,11 @@
 # SR-068 — Design library-wide research requirements and evaluation workflow
 
+## Full replan priority — October 7, 2026
+
+Current priority: 1 — Design first. Current release: M6. Ready for shared design only; requirements, all 76 dossiers / 40 families, templates and synthetic walkthroughs required. Actual design remains undelivered.
+
+[Complete current plan](../REPLAN.md) supersedes older ranks and release summaries below; original mechanisms, scientific requirements and executed evidence retain provenance. Project lifecycle is authoritative.
+
 ## Current delivery reconciliation — October 7, 2026
 
 Owner-directed first priority before the other imported strategy stories. Ready for outcome-free methodology/requirements design only; design not yet delivered, zero strategy comparisons and final evaluations authorized. Separate research PR review is optional under the owner waiver; scientific checks, privacy, CI and exact delivery acceptance remain required. No independent approval claimed.

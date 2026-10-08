@@ -1,5 +1,11 @@
 # SR-052 — Qualify V3-05: Merger arbitrage
 
+## Full replan priority — October 7, 2026
+
+Current priority: Deferred scope. Current release: M4. M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.
+
+[Complete current plan](../REPLAN.md) supersedes older ranks and release summaries below; original mechanisms, scientific requirements and executed evidence retain provenance. Project lifecycle is authoritative.
+
 ## Current delivery reconciliation — October 7, 2026
 
 Deferred and excluded from this pass. Includes 30 library stories plus SR-017/018; no scope expansion or empirical execution authorized. Full story remains open; no new empirical authorization from this synchronization.

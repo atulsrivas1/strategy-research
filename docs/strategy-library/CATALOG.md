@@ -1,5 +1,7 @@
 ## Additional V2 source mapping
 
+Current inventory: 76 dossiers across four libraries, 40 family stories plus SR-068 design (41 E08 children), 68 stories overall. M6 shared design is first; M7 contains ten gated readiness stories. All families remain Backlog until accepted verified design. Older import-time counts/ranks below are history; source mappings remain current. [Complete replan](../REPLAN.md).
+
 [V2 36-note overlap catalog](../strategy-library-v2/CATALOG.md):24family overlaps reuse current stories,12distinct questions added.64source dossiers/40epic stories total; original source files and earlier ranking remain.
 
 ## Additional library
@@ -12,13 +14,13 @@
 
 | Rank | Dossier | Story | Release | Readiness / scope |
 |---|---|---|---|---|
-| 1 | D1 | [SR-040](https://github.com/atulsrivas1/strategy-research/issues/59) / [plan](../stories/SR-040_PLAN.md) | M6 | Ready for outcome-free source/rule qualification; empirical protocol not frozen |
-| 2 | D2 | [SR-041](https://github.com/atulsrivas1/strategy-research/issues/60) / [plan](../stories/SR-041_PLAN.md) | M6 | Ready for outcome-free adaptation design; canonical evidence is months and long-short |
-| 3 | E4 | [SR-047](https://github.com/atulsrivas1/strategy-research/issues/66) / [plan](../stories/SR-047_PLAN.md) | M6 | Exploratory: five-session price-only adaptation; pattern/fundamental claims unverified |
-| 4 | B3 | [SR-034](https://github.com/atulsrivas1/strategy-research/issues/53) / [plan](../stories/SR-034_PLAN.md) | M6 | Blocked for empirical work: pre-release consensus vintage and release time unqualified |
-| 5 | B1 | [SR-032](https://github.com/atulsrivas1/strategy-research/issues/51) / [plan](../stories/SR-032_PLAN.md) | M6 | Exploratory: individual-stock adaptation; original ETF evidence excluded |
-| 6 | B2 | [SR-033](https://github.com/atulsrivas1/strategy-research/issues/52) / [plan](../stories/SR-033_PLAN.md) | M6 | Exploratory: original overnight hold outside 2–10 sessions; daily adaptation needs a new mechanism |
-| 7 | D4 | [SR-043](https://github.com/atulsrivas1/strategy-research/issues/62) / [plan](../stories/SR-043_PLAN.md) | M6 | Exploratory context design only: modern decay and schedule availability |
+| 1 | D1 | [SR-040](https://github.com/atulsrivas1/strategy-research/issues/59) / [plan](../stories/SR-040_PLAN.md) | M7 | Backlog pending accepted SR-068; proposed source/rule qualification |
+| 2 | D2 | [SR-041](https://github.com/atulsrivas1/strategy-research/issues/60) / [plan](../stories/SR-041_PLAN.md) | M7 | Backlog pending accepted SR-068; canonical evidence is months and long-short |
+| 3 | E4 | [SR-047](https://github.com/atulsrivas1/strategy-research/issues/66) / [plan](../stories/SR-047_PLAN.md) | M7 | Exploratory: five-session price-only adaptation; pattern/fundamental claims unverified |
+| 4 | B3 | [SR-034](https://github.com/atulsrivas1/strategy-research/issues/53) / [plan](../stories/SR-034_PLAN.md) | M7 | Blocked for empirical work: pre-release consensus vintage and release time unqualified |
+| 5 | B1 | [SR-032](https://github.com/atulsrivas1/strategy-research/issues/51) / [plan](../stories/SR-032_PLAN.md) | M7 | Exploratory: individual-stock adaptation; original ETF evidence excluded |
+| 6 | B2 | [SR-033](https://github.com/atulsrivas1/strategy-research/issues/52) / [plan](../stories/SR-033_PLAN.md) | M7 | Exploratory: original overnight hold outside 2–10 sessions; daily adaptation needs a new mechanism |
+| 7 | D4 | [SR-043](https://github.com/atulsrivas1/strategy-research/issues/62) / [plan](../stories/SR-043_PLAN.md) | M7 | Exploratory context design only: modern decay and schedule availability |
 | 8 | C3 | [SR-038](https://github.com/atulsrivas1/strategy-research/issues/57) / [plan](../stories/SR-038_PLAN.md) | M4 | Deferred pending model/clock qualification; optional future stock context, not proven dealer position |
 | 9 | E1 | [SR-044](https://github.com/atulsrivas1/strategy-research/issues/63) / [plan](../stories/SR-044_PLAN.md) | M4 | Deferred: years; possible later context does not authorize fundamental strategy |
 | 10 | E2 | [SR-045](https://github.com/atulsrivas1/strategy-research/issues/64) / [plan](../stories/SR-045_PLAN.md) | M4 | Deferred: years/leverage/short hedge; no daily stock adaptation selected |

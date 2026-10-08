@@ -1,5 +1,7 @@
 ## Additional V2 source mapping
 
+Current inventory: 76 dossiers across four libraries, 40 family stories plus SR-068 design (41 E08 children), 68 stories overall. M6 shared design is first; M7 contains ten gated readiness stories. All families remain Backlog until accepted verified design. Older import-time counts/ranks below are history; source mappings remain current. [Complete replan](../REPLAN.md).
+
 [V2 36-note overlap catalog](../strategy-library-v2/CATALOG.md):24family overlaps reuse current stories,12distinct questions added.64source dossiers/40epic stories total; original source files and earlier ranking remain.
 
 # V3 qualification catalog
@@ -11,7 +13,7 @@
 | V3-01 | [SR-048](https://github.com/atulsrivas1/strategy-research/issues/68) / [plan](../stories/SR-048_PLAN.md) | M4 | Deferred: close/overnight holding outside 2–10 sessions |
 | V3-02 | [SR-049](https://github.com/atulsrivas1/strategy-research/issues/69) / [plan](../stories/SR-049_PLAN.md) | M4 | Deferred: intraday and original SPY instrument excluded |
 | V3-03 | [SR-050](https://github.com/atulsrivas1/strategy-research/issues/70) / [plan](../stories/SR-050_PLAN.md) | M4 | Deferred: one-session/intraday and futures variants excluded; primary book unread |
-| V3-04 | [SR-051](https://github.com/atulsrivas1/strategy-research/issues/71) / [plan](../stories/SR-051_PLAN.md) | M6 | Blocked empirical; exploratory five-session adaptation only, canonical hold about one month |
+| V3-04 | [SR-051](https://github.com/atulsrivas1/strategy-research/issues/71) / [plan](../stories/SR-051_PLAN.md) | M7 | Blocked empirical; exploratory five-session adaptation only, canonical hold about one month |
 | V3-05 | [SR-052](https://github.com/atulsrivas1/strategy-research/issues/72) / [plan](../stories/SR-052_PLAN.md) | M4 | Deferred: deal-life horizon and stock-deal hedges/borrow outside scope |
 | V3-06 | [SR-053](https://github.com/atulsrivas1/strategy-research/issues/73) / [plan](../stories/SR-053_PLAN.md) | M4 | Deferred: 12–24 month horizon outside current pass |
 | V3-07 | [SR-054](https://github.com/atulsrivas1/strategy-research/issues/74) / [plan](../stories/SR-054_PLAN.md) | M4 | Deferred: futures and monthly roll outside scope; roll appendix unread |

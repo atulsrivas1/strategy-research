@@ -1,0 +1,1032 @@
+{
+  "date": "2026-10-07",
+  "scope": "Planning only; no new comparisons, final access, worker or schedule",
+  "stories": [
+    {
+      "story": "SR-001",
+      "issue": 1,
+      "title": "[SR-001] Adopt evidence-gated public research delivery",
+      "epic": "E01",
+      "release": "M0",
+      "priority": "Delivered",
+      "disposition": "Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun.",
+      "dependencies": []
+    },
+    {
+      "story": "SR-002",
+      "issue": 2,
+      "title": "[SR-002] Explain missing daily references and close conventions",
+      "epic": "E01",
+      "release": "M0",
+      "priority": "Delivered",
+      "disposition": "Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun.",
+      "dependencies": []
+    },
+    {
+      "story": "SR-003",
+      "issue": 3,
+      "title": "[SR-003] Broaden the fixed stock comparison",
+      "epic": "E02",
+      "release": "M1",
+      "priority": "Delivered",
+      "disposition": "Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun.",
+      "dependencies": [
+        "SR-002",
+        "SR-008",
+        "SR-009",
+        "SR-010"
+      ]
+    },
+    {
+      "story": "SR-004",
+      "issue": 4,
+      "title": "[SR-004] Validate observed fills and funded stock accounting",
+      "epic": "E03",
+      "release": "M2",
+      "priority": "2 \u2014 Enabling evidence",
+      "disposition": "After shared design, qualify availability clocks, accounting/parity and observed execution/funding; exact missing evidence stays blocked. No market replay from this plan.",
+      "dependencies": [
+        "SR-002",
+        "SR-009"
+      ]
+    },
+    {
+      "story": "SR-005",
+      "issue": 5,
+      "title": "[SR-005] Study calls for supported stock setups",
+      "epic": "E04",
+      "release": "M3",
+      "priority": "Conditional calls",
+      "disposition": "Backlog until supported stock evidence and options data/cost/execution requirements qualify; no eligible candidate currently.",
+      "dependencies": [
+        "SR-003",
+        "SR-004",
+        "SR-015",
+        "SR-020"
+      ]
+    },
+    {
+      "story": "SR-006",
+      "issue": 6,
+      "title": "[SR-006] Require owner commits and qualify Codex PR review",
+      "epic": "E01",
+      "release": "M0",
+      "priority": "Delivered",
+      "disposition": "Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun.",
+      "dependencies": []
+    },
+    {
+      "story": "SR-007",
+      "issue": 13,
+      "title": "[SR-007] Complete epic story and release planning",
+      "epic": "E01",
+      "release": "M0",
+      "priority": "Delivered",
+      "disposition": "Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun.",
+      "dependencies": []
+    },
+    {
+      "story": "SR-008",
+      "issue": 14,
+      "title": "[SR-008] Qualify historical stock universe and corporate actions",
+      "epic": "E01",
+      "release": "M0",
+      "priority": "Delivered",
+      "disposition": "Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun.",
+      "dependencies": [
+        "SR-002"
+      ]
+    },
+    {
+      "story": "SR-009",
+      "issue": 15,
+      "title": "[SR-009] Verify causal simulation and accounting fixtures",
+      "epic": "E01",
+      "release": "M0",
+      "priority": "Delivered",
+      "disposition": "Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun.",
+      "dependencies": [
+        "SR-002"
+      ]
+    },
+    {
+      "story": "SR-010",
+      "issue": 16,
+      "title": "[SR-010] Freeze data exposure splits and trial registry",
+      "epic": "E01",
+      "release": "M0",
+      "priority": "Delivered",
+      "disposition": "Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun.",
+      "dependencies": [
+        "SR-002",
+        "SR-008"
+      ]
+    },
+    {
+      "story": "SR-011",
+      "issue": 17,
+      "title": "[SR-011] Assess medium-horizon reversal and news-data feasibility",
+      "epic": "E02",
+      "release": "M1",
+      "priority": "Delivered",
+      "disposition": "Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun.",
+      "dependencies": [
+        "SR-002",
+        "SR-008"
+      ]
+    },
+    {
+      "story": "SR-012",
+      "issue": 18,
+      "title": "[SR-012] Specify downside-risk diagnostics for long entries",
+      "epic": "E02",
+      "release": "M1",
+      "priority": "Delivered",
+      "disposition": "Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun.",
+      "dependencies": [
+        "SR-003",
+        "SR-004"
+      ]
+    },
+    {
+      "story": "SR-013",
+      "issue": 19,
+      "title": "[SR-013] Qualify flow semantics before one stock-signal ablation",
+      "epic": "E02",
+      "release": "M1",
+      "priority": "Delivered",
+      "disposition": "Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun.",
+      "dependencies": [
+        "SR-002",
+        "SR-003",
+        "SR-009"
+      ]
+    },
+    {
+      "story": "SR-014",
+      "issue": 20,
+      "title": "[SR-014] Check predictor sample and decision feasibility",
+      "epic": "E02",
+      "release": "M1",
+      "priority": "Delivered",
+      "disposition": "Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun.",
+      "dependencies": [
+        "SR-003",
+        "SR-010"
+      ]
+    },
+    {
+      "story": "SR-015",
+      "issue": 21,
+      "title": "[SR-015] Qualify option contracts quotes and execution clocks",
+      "epic": "E04",
+      "release": "M3",
+      "priority": "Conditional calls",
+      "disposition": "Backlog until supported stock evidence and options data/cost/execution requirements qualify; no eligible candidate currently.",
+      "dependencies": [
+        "SR-002",
+        "SR-009"
+      ]
+    },
+    {
+      "story": "SR-016",
+      "issue": 22,
+      "title": "[SR-016] Compare frozen call-management policies",
+      "epic": "E04",
+      "release": "M3",
+      "priority": "Conditional calls",
+      "disposition": "Backlog until supported stock evidence and options data/cost/execution requirements qualify; no eligible candidate currently.",
+      "dependencies": [
+        "SR-005",
+        "SR-010",
+        "SR-015"
+      ]
+    },
+    {
+      "story": "SR-017",
+      "issue": 23,
+      "title": "[SR-017] Retain late-session continuation revisit proposal",
+      "epic": "E05",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": []
+    },
+    {
+      "story": "SR-018",
+      "issue": 24,
+      "title": "[SR-018] Preserve deferred ETF descriptive research",
+      "epic": "E05",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": []
+    },
+    {
+      "story": "SR-019",
+      "issue": 25,
+      "title": "[SR-019] Verify equity-features version and adapter parity",
+      "epic": "E01",
+      "release": "M0",
+      "priority": "Delivered",
+      "disposition": "Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun.",
+      "dependencies": [
+        "SR-002",
+        "SR-009"
+      ]
+    },
+    {
+      "story": "SR-020",
+      "issue": 26,
+      "title": "[SR-020] Independently evaluate the frozen stock candidate",
+      "epic": "E03",
+      "release": "M2",
+      "priority": "Conditional confirmation",
+      "disposition": "Blocked until eligible frozen stock candidate, genuinely unused evidence and separate relevant evaluation qualify; final dates null and access disabled.",
+      "dependencies": [
+        "SR-003",
+        "SR-004",
+        "SR-010"
+      ]
+    },
+    {
+      "story": "SR-021",
+      "issue": 27,
+      "title": "[SR-021] Preserve target-specific call context-veto comparison",
+      "epic": "E04",
+      "release": "M3",
+      "priority": "Conditional calls",
+      "disposition": "Backlog until supported stock evidence and options data/cost/execution requirements qualify; no eligible candidate currently.",
+      "dependencies": [
+        "SR-010",
+        "SR-016"
+      ]
+    },
+    {
+      "story": "SR-022",
+      "issue": 35,
+      "title": "[SR-022] Qualify decision-time stock and market context",
+      "epic": "E06",
+      "release": "M2",
+      "priority": "2 \u2014 Enabling evidence",
+      "disposition": "After shared design, qualify availability clocks, accounting/parity and observed execution/funding; exact missing evidence stays blocked. No market replay from this plan.",
+      "dependencies": [
+        "SR-008",
+        "SR-019"
+      ]
+    },
+    {
+      "story": "SR-023",
+      "issue": 36,
+      "title": "[SR-023] Rework the uptrend-pullback test with context",
+      "epic": "E06",
+      "release": "M2",
+      "priority": "Evidence closure",
+      "disposition": "Modeled comparison completed and rejected; Budget exhausted 2/2; full story open. Retain Test and unresolved acceptance, no rescue tuning or automatic rerun.",
+      "dependencies": [
+        "SR-004",
+        "SR-022",
+        "SR-025"
+      ]
+    },
+    {
+      "story": "SR-024",
+      "issue": 37,
+      "title": "[SR-024] Rework the relative-loser allocation test with context",
+      "epic": "E06",
+      "release": "M2",
+      "priority": "Evidence closure",
+      "disposition": "Modeled comparison completed and rejected; Budget exhausted 2/2; full story open. Retain Test and unresolved acceptance, no rescue tuning or automatic rerun.",
+      "dependencies": [
+        "SR-004",
+        "SR-022",
+        "SR-025"
+      ]
+    },
+    {
+      "story": "SR-025",
+      "issue": 38,
+      "title": "[SR-025] Validate matched scanner-context accounting and causality",
+      "epic": "E06",
+      "release": "M2",
+      "priority": "2 \u2014 Enabling evidence",
+      "disposition": "After shared design, qualify availability clocks, accounting/parity and observed execution/funding; exact missing evidence stays blocked. No market replay from this plan.",
+      "dependencies": [
+        "SR-004",
+        "SR-022"
+      ]
+    },
+    {
+      "story": "SR-026",
+      "issue": 43,
+      "title": "[SR-026] Publish a newcomer guide to sanitized research evidence",
+      "epic": "E07",
+      "release": "M5",
+      "priority": "Conditional community",
+      "disposition": "Deferred behind frozen equity-features R5\u2013R13 and applicable M2/M3 receipts; M4 excluded. No outreach or silent new predecessor.",
+      "dependencies": []
+    },
+    {
+      "story": "SR-027",
+      "issue": 44,
+      "title": "[SR-027] Create research feedback and participation tasks",
+      "epic": "E07",
+      "release": "M5",
+      "priority": "Conditional community",
+      "disposition": "Deferred behind frozen equity-features R5\u2013R13 and applicable M2/M3 receipts; M4 excluded. No outreach or silent new predecessor.",
+      "dependencies": [
+        "SR-026"
+      ]
+    },
+    {
+      "story": "SR-028",
+      "issue": 47,
+      "title": "[SR-028] Qualify A1: Inventory-Skew Market Making (Avellaneda-Stoikov family)",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-029",
+      "issue": 48,
+      "title": "[SR-029] Qualify A2: Opening Range Breakout and Intraday Momentum",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-030",
+      "issue": 49,
+      "title": "[SR-030] Qualify A3: VWAP Reversion and Anchored VWAP",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-031",
+      "issue": 50,
+      "title": "[SR-031] Qualify A4: Volume Profile, Market Profile and Order-Flow (Auction Market Theory)",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-032",
+      "issue": 51,
+      "title": "[SR-032] Qualify B1: RSI(2) and Short-Term Reversal",
+      "epic": "E08",
+      "release": "M7",
+      "priority": "3.05 \u2014 Provisional qualification",
+      "disposition": "Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-033",
+      "issue": 52,
+      "title": "[SR-033] Qualify B2: Overnight Drift and Gap Fade",
+      "epic": "E08",
+      "release": "M7",
+      "priority": "3.06 \u2014 Provisional qualification",
+      "disposition": "Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-034",
+      "issue": 53,
+      "title": "[SR-034] Qualify B3: Post-Earnings-Announcement Drift (PEAD)",
+      "epic": "E08",
+      "release": "M7",
+      "priority": "3.04 \u2014 Provisional qualification",
+      "disposition": "Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-035",
+      "issue": 54,
+      "title": "[SR-035] Qualify B4: Pairs Trading and Statistical Arbitrage",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-036",
+      "issue": 55,
+      "title": "[SR-036] Qualify C1: Variance Risk Premium (VRP) Harvesting: short vol, put-writing, variance swaps, tail overlays",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-037",
+      "issue": 56,
+      "title": "[SR-037] Qualify C2: Dispersion and Correlation Trading: index volatility vs single-stock volatility",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-038",
+      "issue": 57,
+      "title": "[SR-038] Qualify C3: Dealer Gamma Exposure (GEX), vanna/charm and opex flows, 0DTE impact",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-039",
+      "issue": 58,
+      "title": "[SR-039] Qualify C4: Crypto Funding-Rate and Basis Carry: perpetual funding arbitrage and cash-and-carry",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-040",
+      "issue": 59,
+      "title": "[SR-040] Qualify D1: Trend following: Turtles, Donchian breakouts, TSMOM and the CTA industry",
+      "epic": "E08",
+      "release": "M7",
+      "priority": "3.01 \u2014 Provisional qualification",
+      "disposition": "Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-041",
+      "issue": 60,
+      "title": "[SR-041] Qualify D2: Cross-sectional (relative-strength) momentum",
+      "epic": "E08",
+      "release": "M7",
+      "priority": "3.02 \u2014 Provisional qualification",
+      "disposition": "Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-042",
+      "issue": 61,
+      "title": "[SR-042] Qualify D3: Carry in FX and futures (currency carry, roll yield, cross-asset carry)",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-043",
+      "issue": 62,
+      "title": "[SR-043] Qualify D4: Equity seasonality and event-time effects: pre-FOMC drift, turn-of-month, Halloween, day-of-week",
+      "epic": "E08",
+      "release": "M7",
+      "priority": "3.07 \u2014 Provisional qualification",
+      "disposition": "Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-044",
+      "issue": 63,
+      "title": "[SR-044] Qualify E1: Value plus Quality (Magic Formula, Piotroski F-score, QMJ, HML, Gross Profitability)",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-045",
+      "issue": 64,
+      "title": "[SR-045] Qualify E2: Low Volatility and Betting Against Beta",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-046",
+      "issue": 65,
+      "title": "[SR-046] Qualify E3: Risk Parity / All Weather",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-047",
+      "issue": 66,
+      "title": "[SR-047] Qualify E4: CANSLIM, Minervini SEPA/VCP, Darvas: Growth-Breakout Trading",
+      "epic": "E08",
+      "release": "M7",
+      "priority": "3.03 \u2014 Provisional qualification",
+      "disposition": "Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-048",
+      "issue": 68,
+      "title": "[SR-048] Qualify V3-01: Closing-auction imbalance",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-049",
+      "issue": 69,
+      "title": "[SR-049] Qualify V3-02: Last-half-hour momentum",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-050",
+      "issue": 70,
+      "title": "[SR-050] Qualify V3-03: Williams Oops gap fade",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-051",
+      "issue": 71,
+      "title": "[SR-051] Qualify V3-04: Opportunistic insider purchases",
+      "epic": "E08",
+      "release": "M7",
+      "priority": "3.08 \u2014 Provisional qualification",
+      "disposition": "Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-052",
+      "issue": 72,
+      "title": "[SR-052] Qualify V3-05: Merger arbitrage",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-053",
+      "issue": 73,
+      "title": "[SR-053] Qualify V3-06: Post-spinoff drift",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-054",
+      "issue": 74,
+      "title": "[SR-054] Qualify V3-07: Commodity basis",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-055",
+      "issue": 75,
+      "title": "[SR-055] Qualify V3-08: Graham net-current-asset value",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-056",
+      "issue": 76,
+      "title": "[SR-056] Qualify V2-02: Latency and cross-venue lead-lag",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-057",
+      "issue": 77,
+      "title": "[SR-057] Qualify V2-05: Opening-drive scalping",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-058",
+      "issue": 78,
+      "title": "[SR-058] Qualify V2-06: Liquidity-sweep fade",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-059",
+      "issue": 79,
+      "title": "[SR-059] Qualify V2-08: Fisher ACD breakout",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-060",
+      "issue": 80,
+      "title": "[SR-060] Qualify V2-10: Bull-flag continuation",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-061",
+      "issue": 81,
+      "title": "[SR-061] Qualify V2-11: Taylor-cycle conditioning",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-062",
+      "issue": 82,
+      "title": "[SR-062] Qualify V2-14: Episodic catalyst pivots",
+      "epic": "E08",
+      "release": "M7",
+      "priority": "3.09 \u2014 Provisional qualification",
+      "disposition": "Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-063",
+      "issue": 83,
+      "title": "[SR-063] Qualify V2-18: High-tight-flag continuation",
+      "epic": "E08",
+      "release": "M7",
+      "priority": "3.10 \u2014 Provisional qualification",
+      "disposition": "Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-064",
+      "issue": 84,
+      "title": "[SR-064] Qualify V2-23: Dual momentum allocation",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-065",
+      "issue": 85,
+      "title": "[SR-065] Qualify V2-30: Tail-hedge barbell",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-066",
+      "issue": 86,
+      "title": "[SR-066] Qualify V2-32: Lynch growth at reasonable price",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-067",
+      "issue": 87,
+      "title": "[SR-067] Qualify V2-36: Permanent portfolio with index tilts",
+      "epic": "E08",
+      "release": "M4",
+      "priority": "Deferred scope",
+      "disposition": "M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation.",
+      "dependencies": [
+        "SR-004",
+        "SR-008",
+        "SR-010",
+        "SR-022",
+        "SR-025",
+        "SR-068"
+      ]
+    },
+    {
+      "story": "SR-068",
+      "issue": 91,
+      "title": "[SR-068] Design library-wide research requirements and evaluation workflow",
+      "epic": "E08",
+      "release": "M6",
+      "priority": "1 \u2014 Design first",
+      "disposition": "Ready for shared design only; requirements, all 76 dossiers / 40 families, templates and synthetic walkthroughs required. Actual design remains undelivered.",
+      "dependencies": []
+    }
+  ]
+}

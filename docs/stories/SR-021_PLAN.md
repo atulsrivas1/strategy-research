@@ -1,5 +1,11 @@
 # SR-021 — Preserve target-specific call context-veto comparison
 
+## Full replan priority — October 7, 2026
+
+Current priority: Conditional calls. Current release: M3. Backlog until supported stock evidence and options data/cost/execution requirements qualify; no eligible candidate currently.
+
+[Complete current plan](../REPLAN.md) supersedes older ranks and release summaries below; original mechanisms, scientific requirements and executed evidence retain provenance. Project lifecycle is authoritative.
+
 ## Current delivery reconciliation — October 7, 2026
 
 Unreleased and blocked on supported stock decisions and qualified option contracts/quotes/accounting. No eligible stock candidate is promoted. Full story remains open; no new empirical authorization from this synchronization.

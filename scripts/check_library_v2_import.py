@@ -17,7 +17,7 @@ assert {r['story'] for r in new}=={f'SR-{n:03}' for n in range(56,68)}
 for r in mapping:
     assert (lib/r['file']).is_file();s=(root/f'docs/stories/{r["story"]}_PLAN.md').read_text(encoding='utf-8')
     assert f'Release plan: [{r["release"]}]' in s
-assert len([r for r in new if r['release']=='M6'])==2
+assert len([r for r in new if r['release']=='M7'])==2
 assert 'reported prior research' in (lib/'IMPORT_NOTES.md').read_text(encoding='utf-8')
-assert 'zero historical comparisons' in (root/'docs/releases/M6_PLAN.md').read_text(encoding='utf-8')
-print('39documents /36notes:24existing family mappings+12new questions;2M6/10M4;no strategy replay')
+assert 'zero historical comparisons' in (root/'docs/releases/M7_PLAN.md').read_text(encoding='utf-8')
+print('39documents /36notes:24existing family mappings+12new questions;2M7/10M4;no strategy replay')

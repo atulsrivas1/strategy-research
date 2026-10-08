@@ -1,5 +1,11 @@
 # SR-026 — Publish a newcomer guide to sanitized research evidence
 
+## Full replan priority — October 7, 2026
+
+Current priority: Conditional community. Current release: M5. Deferred behind frozen equity-features R5–R13 and applicable M2/M3 receipts; M4 excluded. No outreach or silent new predecessor.
+
+[Complete current plan](../REPLAN.md) supersedes older ranks and release summaries below; original mechanisms, scientific requirements and executed evidence retain provenance. Project lifecycle is authoritative.
+
 ## Current delivery reconciliation — October 7, 2026
 
 Planning delivered; implementation and outreach deferred behind the frozen equity-features R5–R13 and applicable research M2/M3 acceptance gates. M4 excluded; M6 does not silently amend this list. Full story remains open; no new empirical authorization from this synchronization.

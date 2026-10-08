@@ -1,5 +1,11 @@
 # SR-023 — Rework the uptrend-pullback test with context
 
+## Full replan priority — October 7, 2026
+
+Current priority: Evidence closure. Current release: M2. Modeled comparison completed and rejected; Budget exhausted 2/2; full story open. Retain Test and unresolved acceptance, no rescue tuning or automatic rerun.
+
+[Complete current plan](../REPLAN.md) supersedes older ranks and release summaries below; original mechanisms, scientific requirements and executed evidence retain provenance. Project lifecycle is authoritative.
+
 ## Current delivery reconciliation — October 7, 2026
 
 Owner-approved modeled scanner/context comparison completed: validation increment −55.43 bps, interval includes zero, frozen benefit criterion rejected. Budget exhausted; no unchanged rerun. Test stage, full story open because applicable strict M2 acceptance remains unmet.
