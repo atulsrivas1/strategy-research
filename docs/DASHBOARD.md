@@ -2,6 +2,8 @@
 
 [Live Project](https://github.com/users/atulsrivas1/projects/4) is the current story-stage authority. [Roadmap](ROADMAP.md) gives epic/story assignments; [backlog](BACKLOG.md) ranks dependencies. This page links evidence rather than maintaining competing lifecycle counts.
 
+[October 7 synchronization audit](../reports/TRACKING-SYNC.md) records code/planning, native parent/milestone and release verification scope.
+
 | Release | Actual delivery and evidence |
 |---|---|
 | [M0](releases/M0_PLAN.md) | [Released restricted foundation](https://github.com/atulsrivas1/strategy-research/releases/tag/m0-restricted-evidence-v1); [qualification](../reports/M0-qualification.md). No broad-universe or executable-edge certification. |

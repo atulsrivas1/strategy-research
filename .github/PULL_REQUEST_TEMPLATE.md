@@ -14,6 +14,6 @@ Frozen specification or no-experiment documentation rationale; relevant independ
 
 Updated report/lessons/index/backlog/handoff; sanitized-only files; declared release channel and remaining gate:
 
-## Separate review
+## Evidence inspection and optional separate review
 
-Actual Codex response URL and reviewed final SHA; findings disposition. Pending request or self-review is not completion. Do not close research stories before their actual delivery gate.
+Record agent evidence inspection, findings disposition and the owner review waiver. If a separate review was actually completed, link its response and covered final SHA; never imply independent approval from a request or self-review. Applicable scientific checks, CI and actual delivery gates remain required before Done.
