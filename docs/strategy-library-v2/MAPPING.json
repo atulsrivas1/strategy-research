@@ -100,7 +100,7 @@
     "file": "13-swing-connors-rsi2.md",
     "story": "SR-032",
     "issue": "https://github.com/atulsrivas1/strategy-research/issues/51",
-    "release": "M6",
+    "release": "M7",
     "kind": "Existing family; V2 variants retained, not identical tested rules"
   },
   {
@@ -108,7 +108,7 @@
     "file": "14-swing-qullamaggie-episodic-pivots.md",
     "story": "SR-062",
     "issue": "https://github.com/atulsrivas1/strategy-research/issues/82",
-    "release": "M6",
+    "release": "M7",
     "kind": "Distinct question; new qualification story"
   },
   {
@@ -124,7 +124,7 @@
     "file": "16-swing-overnight-gap-momentum.md",
     "story": "SR-033",
     "issue": "https://github.com/atulsrivas1/strategy-research/issues/52",
-    "release": "M6",
+    "release": "M7",
     "kind": "Existing family; V2 variants retained, not identical tested rules"
   },
   {
@@ -132,7 +132,7 @@
     "file": "17-swing-darvas-box.md",
     "story": "SR-047",
     "issue": "https://github.com/atulsrivas1/strategy-research/issues/66",
-    "release": "M6",
+    "release": "M7",
     "kind": "Existing family; V2 variants retained, not identical tested rules"
   },
   {
@@ -140,7 +140,7 @@
     "file": "18-swing-bonde-high-tight-flag.md",
     "story": "SR-063",
     "issue": "https://github.com/atulsrivas1/strategy-research/issues/83",
-    "release": "M6",
+    "release": "M7",
     "kind": "Distinct question; new qualification story"
   },
   {
@@ -148,7 +148,7 @@
     "file": "19-position-livermore-trend.md",
     "story": "SR-040",
     "issue": "https://github.com/atulsrivas1/strategy-research/issues/59",
-    "release": "M6",
+    "release": "M7",
     "kind": "Existing family; V2 variants retained, not identical tested rules"
   },
   {
@@ -156,7 +156,7 @@
     "file": "20-position-turtle-trend.md",
     "story": "SR-040",
     "issue": "https://github.com/atulsrivas1/strategy-research/issues/59",
-    "release": "M6",
+    "release": "M7",
     "kind": "Existing family; V2 variants retained, not identical tested rules"
   },
   {
@@ -164,7 +164,7 @@
     "file": "21-position-oneil-canslim.md",
     "story": "SR-047",
     "issue": "https://github.com/atulsrivas1/strategy-research/issues/66",
-    "release": "M6",
+    "release": "M7",
     "kind": "Existing family; V2 variants retained, not identical tested rules"
   },
   {
@@ -172,7 +172,7 @@
     "file": "22-position-minervini-sepa.md",
     "story": "SR-047",
     "issue": "https://github.com/atulsrivas1/strategy-research/issues/66",
-    "release": "M6",
+    "release": "M7",
     "kind": "Existing family; V2 variants retained, not identical tested rules"
   },
   {
@@ -188,7 +188,7 @@
     "file": "24-position-pead-drift.md",
     "story": "SR-034",
     "issue": "https://github.com/atulsrivas1/strategy-research/issues/53",
-    "release": "M6",
+    "release": "M7",
     "kind": "Existing family; V2 variants retained, not identical tested rules"
   },
   {
@@ -212,7 +212,7 @@
     "file": "27-portfolio-managed-futures-cta.md",
     "story": "SR-040",
     "issue": "https://github.com/atulsrivas1/strategy-research/issues/59",
-    "release": "M6",
+    "release": "M7",
     "kind": "Existing family; V2 variants retained, not identical tested rules"
   },
   {

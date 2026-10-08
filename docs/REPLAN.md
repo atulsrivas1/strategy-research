@@ -1,0 +1,105 @@
+# Current research plan — October 7, 2026
+
+Shared research design is the first execution priority. This replan covers all 68 stories and eight epics. It reorganizes planned work; it does not deliver SR-068 or publish a scientific release. [Project 4](https://github.com/users/atulsrivas1/projects/4) remains lifecycle authority. [Machine-readable inventory](RESEARCH_PLAN.json) records each story once.
+
+## Priority and dependency order
+
+1. Deliver SR-068 / M6 common requirements and design. Inventory all 76 source dossiers against 40 family stories, distinguish canonical rules from proposed adaptations, and define reusable source, causal, execution, uncertainty and delivery contracts. Validate with synthetic/document walkthroughs only.
+2. Qualify the relevant M2 enablers: SR-022 available-at clocks, SR-025 shared accounting/full applicable parity and SR-004 observed execution/funding. SR-022 retains its actual In progress state; this planning change starts no second implementation. Do not infer that every M2 gate must precede outcome-free M7 source qualification, or that source qualification permits empirical work.
+3. Once accepted design qualifies, use M7 for bounded stock-family readiness. Provisional source-qualification order: D1/SR-040, D2/SR-041, E4/SR-047, B3/SR-034, B1/SR-032, B2/SR-033, D4/SR-043, insider/SR-051, episodic-pivot/SR-062, high-tight-flag/SR-063. This is information-value ordering, not a claim of edge or ten authorized backtests. The accepted applicability matrix may change it with recorded rationale. Data-heavy ideas remain blocked if inputs cannot qualify.
+4. Preserve SR-023/024 rejected modeled comparisons and their exhausted 2/2 budget. Full-story acceptance remains open. SR-020 confirmation is conditional on an eligible frozen candidate, unused evidence and a separate relevant evaluator; final dates remain null/access disabled. No candidate currently qualifies.
+5. M3 bought-call research remains conditional on supported stock evidence and qualified options requirements. M4 scope stays deferred. M5 community work retains its frozen equity-features R5–R13 and applicable M2/M3 receipt dependencies, M4 excluded; M6/M7 do not silently amend them.
+
+US individual stocks, long shares, 2–10 sessions; five-session proposals remain adaptations. ETFs, shorts, puts, futures, intraday and long-horizon source variants remain excluded. Every future experiment needs an immutable scanner baseline, preregistered available-at context overlay, original opportunity/weight denominators, cash for vetoed weights and avoided-loss/sacrificed-winner accounting net of costs. No retrospective rescue gate.
+
+## Release scope and acceptance
+
+| Release | Stories | Current scientific/delivery scope |
+|---|---:|---|
+| M0 | 8 | Published accepted machinery for restricted 18-name cohort; no broad execution/edge claim. |
+| M1 | 5 | Published inconclusive stock evidence; not promoted. |
+| M2 | 6 | Partial/unreleased; rejected modeled tests plus unresolved clocks, execution, parity and independent-evidence gates. |
+| M3 | 4 | Conditional bought calls; no eligible stock candidate. |
+| M4 | 32 | Deferred scope; excluded this pass. |
+| M5 | 2 | Conditional community; frozen predecessor list unchanged. |
+| M6 | 1 | Planned common design; SR-068 only, first. |
+| M7 | 10 | Planned stock/family qualification, migrated from M6; gated by accepted design. |
+
+M0/M1 source, tags, assets and receipts remain historical acceptance. M6/M7 are open milestones, not releases. M6 acceptance requires complete traceability, reusable requirements/templates, meaningful independent fixtures/walkthrough evidence and exact sanitized delivery receipt. M7 acceptance requires explicit disposition for every assigned family and reconciliation of frozen scope; blocked/deferred decisions must be accepted explicitly, never silently counted as empirical success. Any later empirical work needs its own qualified preregistration, relevant contracts and explicit finite trial budget. This plan registers zero historical comparisons and zero final evaluations.
+
+Eight stages remain Backlog → Ready → In progress → Code review → Test → Ready to release → Released → Done. Separate PR review is optional under the owner waiver; Code review records agent evidence inspection and that waiver. Causal validity, relevant independent numerical checks, CI, privacy and delivered-source/artifact verification remain gates. One actual implementation; no new execution session, schedule or automatic later release is created. Assignment of a later execution owner remains separate.
+
+## Complete story inventory
+
+Older source-family ranks and M6 ten/eleven-story summaries are dated planning history. Current membership and priority below supersede them; original specifications and frozen scientific records remain valid within their scope.
+
+| Story | Epic | Release | Priority | Required next disposition |
+|---|---|---|---|---|
+| [SR-001](stories/SR-001_PLAN.md) | E01 | M0 | Delivered | Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun. |
+| [SR-002](stories/SR-002_PLAN.md) | E01 | M0 | Delivered | Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun. |
+| [SR-003](stories/SR-003_PLAN.md) | E02 | M1 | Delivered | Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun. |
+| [SR-004](stories/SR-004_PLAN.md) | E03 | M2 | 2 — Enabling evidence | After shared design, qualify availability clocks, accounting/parity and observed execution/funding; exact missing evidence stays blocked. No market replay from this plan. |
+| [SR-005](stories/SR-005_PLAN.md) | E04 | M3 | Conditional calls | Backlog until supported stock evidence and options data/cost/execution requirements qualify; no eligible candidate currently. |
+| [SR-006](stories/SR-006_PLAN.md) | E01 | M0 | Delivered | Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun. |
+| [SR-007](stories/SR-007_PLAN.md) | E01 | M0 | Delivered | Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun. |
+| [SR-008](stories/SR-008_PLAN.md) | E01 | M0 | Delivered | Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun. |
+| [SR-009](stories/SR-009_PLAN.md) | E01 | M0 | Delivered | Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun. |
+| [SR-010](stories/SR-010_PLAN.md) | E01 | M0 | Delivered | Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun. |
+| [SR-011](stories/SR-011_PLAN.md) | E02 | M1 | Delivered | Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun. |
+| [SR-012](stories/SR-012_PLAN.md) | E02 | M1 | Delivered | Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun. |
+| [SR-013](stories/SR-013_PLAN.md) | E02 | M1 | Delivered | Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun. |
+| [SR-014](stories/SR-014_PLAN.md) | E02 | M1 | Delivered | Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun. |
+| [SR-015](stories/SR-015_PLAN.md) | E04 | M3 | Conditional calls | Backlog until supported stock evidence and options data/cost/execution requirements qualify; no eligible candidate currently. |
+| [SR-016](stories/SR-016_PLAN.md) | E04 | M3 | Conditional calls | Backlog until supported stock evidence and options data/cost/execution requirements qualify; no eligible candidate currently. |
+| [SR-017](stories/SR-017_PLAN.md) | E05 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-018](stories/SR-018_PLAN.md) | E05 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-019](stories/SR-019_PLAN.md) | E01 | M0 | Delivered | Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun. |
+| [SR-020](stories/SR-020_PLAN.md) | E03 | M2 | Conditional confirmation | Blocked until eligible frozen stock candidate, genuinely unused evidence and separate relevant evaluation qualify; final dates null and access disabled. |
+| [SR-021](stories/SR-021_PLAN.md) | E04 | M3 | Conditional calls | Backlog until supported stock evidence and options data/cost/execution requirements qualify; no eligible candidate currently. |
+| [SR-022](stories/SR-022_PLAN.md) | E06 | M2 | 2 — Enabling evidence | After shared design, qualify availability clocks, accounting/parity and observed execution/funding; exact missing evidence stays blocked. No market replay from this plan. |
+| [SR-023](stories/SR-023_PLAN.md) | E06 | M2 | Evidence closure | Modeled comparison completed and rejected; Budget exhausted 2/2; full story open. Retain Test and unresolved acceptance, no rescue tuning or automatic rerun. |
+| [SR-024](stories/SR-024_PLAN.md) | E06 | M2 | Evidence closure | Modeled comparison completed and rejected; Budget exhausted 2/2; full story open. Retain Test and unresolved acceptance, no rescue tuning or automatic rerun. |
+| [SR-025](stories/SR-025_PLAN.md) | E06 | M2 | 2 — Enabling evidence | After shared design, qualify availability clocks, accounting/parity and observed execution/funding; exact missing evidence stays blocked. No market replay from this plan. |
+| [SR-026](stories/SR-026_PLAN.md) | E07 | M5 | Conditional community | Deferred behind frozen equity-features R5–R13 and applicable M2/M3 receipts; M4 excluded. No outreach or silent new predecessor. |
+| [SR-027](stories/SR-027_PLAN.md) | E07 | M5 | Conditional community | Deferred behind frozen equity-features R5–R13 and applicable M2/M3 receipts; M4 excluded. No outreach or silent new predecessor. |
+| [SR-028](stories/SR-028_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-029](stories/SR-029_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-030](stories/SR-030_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-031](stories/SR-031_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-032](stories/SR-032_PLAN.md) | E08 | M7 | 3.05 — Provisional qualification | Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget. |
+| [SR-033](stories/SR-033_PLAN.md) | E08 | M7 | 3.06 — Provisional qualification | Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget. |
+| [SR-034](stories/SR-034_PLAN.md) | E08 | M7 | 3.04 — Provisional qualification | Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget. |
+| [SR-035](stories/SR-035_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-036](stories/SR-036_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-037](stories/SR-037_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-038](stories/SR-038_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-039](stories/SR-039_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-040](stories/SR-040_PLAN.md) | E08 | M7 | 3.01 — Provisional qualification | Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget. |
+| [SR-041](stories/SR-041_PLAN.md) | E08 | M7 | 3.02 — Provisional qualification | Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget. |
+| [SR-042](stories/SR-042_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-043](stories/SR-043_PLAN.md) | E08 | M7 | 3.07 — Provisional qualification | Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget. |
+| [SR-044](stories/SR-044_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-045](stories/SR-045_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-046](stories/SR-046_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-047](stories/SR-047_PLAN.md) | E08 | M7 | 3.03 — Provisional qualification | Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget. |
+| [SR-048](stories/SR-048_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-049](stories/SR-049_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-050](stories/SR-050_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-051](stories/SR-051_PLAN.md) | E08 | M7 | 3.08 — Provisional qualification | Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget. |
+| [SR-052](stories/SR-052_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-053](stories/SR-053_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-054](stories/SR-054_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-055](stories/SR-055_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-056](stories/SR-056_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-057](stories/SR-057_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-058](stories/SR-058_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-059](stories/SR-059_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-060](stories/SR-060_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-061](stories/SR-061_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-062](stories/SR-062_PLAN.md) | E08 | M7 | 3.09 — Provisional qualification | Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget. |
+| [SR-063](stories/SR-063_PLAN.md) | E08 | M7 | 3.10 — Provisional qualification | Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget. |
+| [SR-064](stories/SR-064_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-065](stories/SR-065_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-066](stories/SR-066_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-067](stories/SR-067_PLAN.md) | E08 | M4 | Deferred scope | M4 excluded this pass; canonical off-scope source retained. SR-068 inventory covers it but does not authorize implementation. |
+| [SR-068](stories/SR-068_PLAN.md) | E08 | M6 | 1 — Design first | Ready for shared design only; requirements, all 76 dossiers / 40 families, templates and synthetic walkthroughs required. Actual design remains undelivered. |

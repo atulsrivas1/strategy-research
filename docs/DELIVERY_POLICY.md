@@ -1,5 +1,9 @@
 ## Owner research-review amendment — October 7, 2026
 
+## Current full replan — October 7, 2026
+
+[Current priorities and all 68 story assignments](REPLAN.md) supersede older ranks, release-order summaries and M6 family assignments below. M6 now contains only SR-068 common research design, first; M7 contains the ten stock/family-readiness stories formerly assigned to M6. M0/M1 remain published, M2 partial with exhausted negative modeled tests, M3 conditional, M4 deferred and M5 frozen predecessors unchanged. No empirical budget, final access, execution owner or schedule is created. Project lifecycle remains authoritative; accepted design is required before family research.
+
 The owner explicitly waived separate code/PR review for this strategy-research project and authorized autonomous work within its operating scope. This supersedes older mandatory Codex-review clauses in research plans, templates, checklists and pending-delivery descriptions, including SR-006's review activation dependency. Separate review is optional, not a merge/Done gate. No completed review is retrospectively claimed. This does not waive source qualification, causal validity, independent relevant numerical verification, CI, privacy, exact source/artifact verification, release acceptance or current scope. It does not apply to equity-features or chartsspeak development. Retain the eight tracking stages; Code review records agent evidence inspection and the owner waiver, not independent approval. Frozen historical receipts remain unchanged; old review requirements below are historical where they conflict with this amendment.
 
 # Release-based planning and continuous pull

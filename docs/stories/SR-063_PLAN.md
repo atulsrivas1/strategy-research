@@ -1,18 +1,22 @@
 # SR-063 — Qualify V2-18: High-tight-flag continuation
 
+## Full replan priority — October 7, 2026
+
+Current priority: 3.10 — Provisional qualification. Current release: M7. Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.
+
+[Complete current plan](../REPLAN.md) supersedes older ranks and release summaries below; original mechanisms, scientific requirements and executed evidence retain provenance. Project lifecycle is authoritative.
+
 ## Current delivery reconciliation — October 7, 2026
 
-Planned, unreleased. Ten source/adaptation-readiness questions; D1 then D2 then E4. Zero registered historical comparisons and final evaluations in this plan. Full story remains open; no new empirical authorization from this synchronization.
+M7 planned, unreleased. Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.
 
-[Live Project stages](https://github.com/users/atulsrivas1/projects/4) remain authoritative. Separate research PR review is optional under the owner waiver; agent inspection, independent relevant numerical checks, CI, privacy and exact delivery verification remain required. No independent approval is claimed.
-
-Owner priority amendment: [SR-068](https://github.com/atulsrivas1/strategy-research/issues/91) library-wide research design and requirements must be accepted and verified before further imported-family qualification, adaptation or empirical work. This is the owner-directed first priority; M4 stays deferred, and no historical trial budget or final access is added.
+Separate research PR review is optional under the owner waiver; causal/source qualification, independent relevant checks, CI, privacy and exact acceptance remain required. No independent approval claimed.
 
 ## Preserved plan and amendments
 
 The original specification and dated amendments below retain provenance. Earlier delivery/status/review wording is superseded by the current reconciliation and owner waiver. Unfulfilled scientific requirements remain requirements.
 
-Parent: [E08](https://github.com/atulsrivas1/strategy-research/issues/46). Release plan: [M6](../releases/M6_PLAN.md).
+Parent: [E08](https://github.com/atulsrivas1/strategy-research/issues/46). Release plan: [M7](../releases/M7_PLAN.md).
 State: Exploratory readiness; empirical rules/sample support and applicable inputs unqualified. Scientific status: untested locally. Medium/high distinct-mechanism information value, medium/high source/data qualification effort; queue behind D1/D2/E4 and applicable data readiness.
 
 ## Hypothesis and information value

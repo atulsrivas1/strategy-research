@@ -1,5 +1,9 @@
 ## Owner priority amendment — shared research design first
 
+## Current full replan — October 7, 2026
+
+[Current priorities and all 68 story assignments](REPLAN.md) supersede older ranks, release-order summaries and M6 family assignments below. M6 now contains only SR-068 common research design, first; M7 contains the ten stock/family-readiness stories formerly assigned to M6. M0/M1 remain published, M2 partial with exhausted negative modeled tests, M3 conditional, M4 deferred and M5 frozen predecessors unchanged. No empirical budget, final access, execution owner or schedule is created. Project lifecycle remains authoritative; accepted design is required before family research.
+
 [SR-068](stories/SR-068_PLAN.md) / [live issue](https://github.com/atulsrivas1/strategy-research/issues/91) is the first Ready design task under E08/M6. Accept and verify its library-wide methodology, requirements matrix and templates before any further SR-028–067 qualification/adaptation/empirical work. D1/D2 are now Backlog pending it. There are 68 total stories, with 40 imported-family stories plus this one common design story under E08; M6 has eleven assigned stories. Source dossiers remain 76. No backtest, final access, scope expansion or new worker. Older priority/status snapshots below are historical.
 
 ## Current synchronization — October 7, 2026

@@ -1,5 +1,9 @@
 # M2 current delivery reconciliation — October 7, 2026
 
+## Current full replan
+
+[Complete priority order](../REPLAN.md) applies. Shared M6 design is first; M7 family qualification follows accepted design. This release retains its assigned stories, scientific requirements and actual evidence state; older ranks are historical. M5 frozen R5–R13/applicable M2/M3 receipt list is unchanged, M4 excluded. Separate review optional under owner waiver.
+
 Partial and unreleased. Two owner-approved modeled context comparisons are completed and rejected; the 2/2 budget is exhausted. Observed execution, historical availability, applicable full parity and genuinely unused independent evidence remain unqualified.
 
 ## Current assigned stories

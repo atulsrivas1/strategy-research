@@ -1,5 +1,11 @@
 # SR-012 — Specify downside-risk diagnostics for long entries
 
+## Full replan priority — October 7, 2026
+
+Current priority: Delivered. Current release: M1. Accepted historical scope; preserve receipt and scientific verdict; no automatic rerun.
+
+[Complete current plan](../REPLAN.md) supersedes older ranks and release summaries below; original mechanisms, scientific requirements and executed evidence retain provenance. Project lifecycle is authoritative.
+
 ## Current delivery reconciliation — October 7, 2026
 
 Accepted scoped delivery complete; see the published M1 release and its immutable receipt. Released and verified within accepted comparison/design/feasibility scope. Relative-loser allocation is inconclusive and not promoted; auxiliary designs are not successful market tests.

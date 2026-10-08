@@ -1,5 +1,11 @@
 # SR-004 — Validate observed fills and funded stock accounting
 
+## Full replan priority — October 7, 2026
+
+Current priority: 2 — Enabling evidence. Current release: M2. After shared design, qualify availability clocks, accounting/parity and observed execution/funding; exact missing evidence stays blocked. No market replay from this plan.
+
+[Complete current plan](../REPLAN.md) supersedes older ranks and release summaries below; original mechanisms, scientific requirements and executed evidence retain provenance. Project lifecycle is authoritative.
+
 ## Current delivery reconciliation — October 7, 2026
 
 Partial and unreleased. Two owner-approved modeled context comparisons are completed and rejected; the 2/2 budget is exhausted. Observed execution, historical availability, applicable full parity and genuinely unused independent evidence remain unqualified. Full story remains open; no new empirical authorization from this synchronization.

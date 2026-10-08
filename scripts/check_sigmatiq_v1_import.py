@@ -15,5 +15,5 @@ for r in mapping:
     assert (lib/r['file']).is_file();s=(root/f'docs/stories/{r["story"]}_PLAN.md').read_text(encoding='utf-8')
     assert f'Release plan: [{r["release"]}]' in s and '../sigmatiq-strategy-library-v1/'+r['file'] in s
 assert 'reported prior research' in (lib/'IMPORT_NOTES.md').read_text(encoding='utf-8')
-assert 'zero historical comparisons' in (root/'docs/releases/M6_PLAN.md').read_text(encoding='utf-8')
+assert 'zero historical comparisons' in (root/'docs/releases/M7_PLAN.md').read_text(encoding='utf-8')
 print('14exact source documents;12existing-story mappings;0new stories/trials;Chartsspeak source distinct')
