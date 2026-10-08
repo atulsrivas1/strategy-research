@@ -447,7 +447,7 @@
       "epic": "E08",
       "release": "M7",
       "priority": "3.04 \u2014 Provisional qualification",
-      "disposition": "Backlog until accepted verified SR-068; outcome-free applicability/source qualification first. Order provisional pending design matrix; no historical trial budget.",
+      "disposition": "Accepted SR-068 verified; bounded earnings source/machinery qualification evidenced. Full story open, empirical release/consensus/execution gates blocked; zero historical trials. Project is lifecycle authority.",
       "dependencies": [
         "SR-004",
         "SR-008",

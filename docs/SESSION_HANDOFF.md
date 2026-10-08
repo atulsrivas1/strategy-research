@@ -1,3 +1,7 @@
+## B3 sequential prerequisite qualification — October 8, 2026
+
+[B3 earnings prerequisite](../reports/B3-source-qualification.md): first-print actual/pre-release consensus pairing passes 64 hand-derived checks, with exact identity, fiscal period, EPS basis and clock guards. Primary paper measures and horizons remain distinct from the five-session proposal. Only saved historical schema evidence inspected; no new lake or market values. Full SR-034 stays open at partial Test, joining SR-040/041/047. Empirical release/consensus/source/execution gates remain blocked; M7 planned, unreleased. Historical strategy trials/final evaluations zero; final access disabled. Earlier dated snapshots below retain history. Next ranked source qualification is SR-032/short-term reversal after a bounded specification.
+
 ## Sequential M7 prerequisite qualification — October 8, 2026
 
 [D1 session feasibility](../reports/D1-session-feasibility.md), [D2 source/cohort qualification](../reports/D2-source-qualification.md), [E4 vintage prerequisite](../reports/E4-vintage-qualification.md).

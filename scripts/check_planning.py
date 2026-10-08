@@ -19,6 +19,7 @@ allowed|={'fixtures/daily_inputs.py','scripts/check_daily_inputs.py','reports/D1
 allowed|={'fixtures/session_proxy.py','scripts/check_session_proxy.py','reports/D1-session-feasibility.md'}
 allowed|={'fixtures/relative_strength.py','scripts/check_relative_strength.py','reports/D2-source-qualification.md'}
 allowed|={'fixtures/fundamental_vintages.py','scripts/check_fundamental_vintages.py','reports/E4-vintage-qualification.md'}
+allowed|={'fixtures/earnings_surprise.py','scripts/check_earnings_surprise.py','reports/B3-source-qualification.md'}
 allowed|={'reports/M1-development.md','reports/M1-methodology.md','reports/M1-feasibility.md','docs/sources/M1_REVERSAL.md','docs/sources/M1_AUXILIARY.md','fixtures/m1_math.py','scripts/check_m1.py'}
 allowed|={'reports/M2-readiness.md','fixtures/m2_foundation.py','scripts/check_m2.py','scripts/verify_m2.py'}
 allowed|={'fixtures/m2_sleeves.py','scripts/check_m2_sleeves.py','reports/M2-context-proxy.md','reports/M2-veto-diagnosis.md','docs/knowledge/EVENT_CONTINUATION_DESIGN.md','docs/sources/EVENT_CONTINUATION.md'}
