@@ -1,3 +1,7 @@
+## Owner nonblocking-evidence amendment — October 8, 2026
+
+Owner directs missing evidence to be nonblocking for exploratory research. [Current policy](EVIDENCE_POLICY.md): retain missing/unverified evidence, preregister assumptions/proxies, use usable inputs and report limited confidence. Missing provenance/arrival/session/action authority is not an automatic exploratory execution or delivery gate. Actual unusable inputs, calculation errors, prospective protocol/budget and protected-final rules remain. Next execution priority SR040 exploratory protocol/experiment; evidence recovery/capture supporting. No experiment executed by this policy amendment, no automatic story Done or M7 release; historical science and M2 exhausted budget unchanged. Older conflicting strict evidence gates are historical for exploratory work.
+
 ## Availability recorder v1 — October 8, 2026
 
 [R03 recorder v1](../reports/SR022-availability-recorder.md) implements offline local first-seen/revision/transaction receipts; eleven synthetic persistence/clock tests pass. Provider/event clocks null, source unknown, local observations only; no source capture or admission. PR107 recovery publication verified; four historical source gates blocked, all ten M7 stories partial Test/M7 unreleased. Full SR022 partial qualification under M2, exhausted comparison budget unchanged. Next source-qualified provider-metadata adapter plan; zero market rows/trials/final access, no owner producer jobs/acquisition/new session/later release. Older snapshots retain history.

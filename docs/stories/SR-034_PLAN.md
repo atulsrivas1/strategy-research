@@ -1,5 +1,9 @@
 # SR-034 — Qualify B3: Post-Earnings-Announcement Drift (PEAD)
 
+## Owner nonblocking-evidence amendment — October 8, 2026
+
+[Current policy](../EVIDENCE_POLICY.md) supersedes automatic missing-evidence execution/delivery gates for exploratory scope. Preserve gaps and preregister usable inputs, assumptions/proxies, baseline/context controls, costs, chronology, metrics and finite budget. Missing corroboration alone does not block a completed exploratory delivery; no automatic Done or verified-source/performance claim. Historical results/budgets/final protection remain.
+
 ## Bounded source/machinery evidence — October 8, 2026
 
 [Primary method, source boundaries and 64 hand-derived pairing checks](../../reports/B3-source-qualification.md). Accepted SR-068 verified; full SR-034 open at partial Test, empirical source and execution gates remain blocked. M7 planned, unreleased; zero strategy trials/final evaluations. No independent approval claimed. Older startup/design-blocked text below is history, original scientific acceptance remains required.

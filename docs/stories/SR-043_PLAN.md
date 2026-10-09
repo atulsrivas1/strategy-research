@@ -1,5 +1,9 @@
 # SR-043 — Qualify D4: Equity seasonality and event-time effects: pre-FOMC drift, turn-of-month, Halloween, day-of-week
 
+## Owner nonblocking-evidence amendment — October 8, 2026
+
+[Current policy](../EVIDENCE_POLICY.md) supersedes automatic missing-evidence execution/delivery gates for exploratory scope. Preserve gaps and preregister usable inputs, assumptions/proxies, baseline/context controls, costs, chronology, metrics and finite budget. Missing corroboration alone does not block a completed exploratory delivery; no automatic Done or verified-source/performance claim. Historical results/budgets/final protection remain.
+
 ## Bounded prerequisite evidence — October 8, 2026
 
 [D4 source and synthetic contract](../../reports/D4-source-qualification.md), 45 independent checks. Accepted SR-068 verified; full story open at partial Test, empirical authority blocked. Zero strategy trials/final evaluations, M7 planned/unreleased. Original scientific acceptance remains required; no independent approval claimed. Older startup/design-blocked wording below is history.

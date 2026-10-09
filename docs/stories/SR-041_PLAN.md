@@ -1,5 +1,9 @@
 # SR-041 — Qualify D2: Cross-sectional (relative-strength) momentum
 
+## Owner nonblocking-evidence amendment — October 8, 2026
+
+[Current policy](../EVIDENCE_POLICY.md) supersedes automatic missing-evidence execution/delivery gates for exploratory scope. Preserve gaps and preregister usable inputs, assumptions/proxies, baseline/context controls, costs, chronology, metrics and finite budget. Missing corroboration alone does not block a completed exploratory delivery; no automatic Done or verified-source/performance claim. Historical results/budgets/final protection remain.
+
 ## Bounded prerequisite evidence — October 8, 2026
 
 [Primary-paper cost correction, complete-cohort ranking and 33 checks; historical universe/arrival authority remains blocked.](../../reports/D2-source-qualification.md) Full story open at partial Test; no empirical admission, zero historical trials and final evaluations. M7 planned, unreleased. Accepted SR-068 prerequisite fulfilled. Original scientific acceptance below remains required; older unstarted/blocked-on-design wording is historical.

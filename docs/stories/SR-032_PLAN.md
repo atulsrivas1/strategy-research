@@ -1,5 +1,9 @@
 # SR-032 — Qualify B1: RSI(2) and Short-Term Reversal
 
+## Owner nonblocking-evidence amendment — October 8, 2026
+
+[Current policy](../EVIDENCE_POLICY.md) supersedes automatic missing-evidence execution/delivery gates for exploratory scope. Preserve gaps and preregister usable inputs, assumptions/proxies, baseline/context controls, costs, chronology, metrics and finite budget. Missing corroboration alone does not block a completed exploratory delivery; no automatic Done or verified-source/performance claim. Historical results/budgets/final protection remain.
+
 ## Bounded source/calculation evidence — October 8, 2026
 
 [RSI source boundaries and 53 independent rational/causal checks](../../reports/B1-source-qualification.md). Accepted SR-068 verified; full SR-032 open at partial Test. Empirical source/actions/sessions/arrival/universe/execution gates blocked. Zero strategy trials/final evaluations, M7 planned/unreleased. No independent approval claimed. Older startup/design-blocked wording below is history; original scientific acceptance remains required.

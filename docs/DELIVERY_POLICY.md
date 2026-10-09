@@ -1,3 +1,7 @@
+## Owner nonblocking-evidence amendment — October 8, 2026
+
+Owner directs missing evidence to be nonblocking for exploratory research. [Current policy](EVIDENCE_POLICY.md): retain missing/unverified evidence, preregister assumptions/proxies, use usable inputs and report limited confidence. Missing provenance/arrival/session/action authority is not an automatic exploratory execution or delivery gate. Actual unusable inputs, calculation errors, prospective protocol/budget and protected-final rules remain. Next execution priority SR040 exploratory protocol/experiment; evidence recovery/capture supporting. No experiment executed by this policy amendment, no automatic story Done or M7 release; historical science and M2 exhausted budget unchanged. Older conflicting strict evidence gates are historical for exploratory work.
+
 ## Owner research-review amendment — October 7, 2026
 
 ## Current full replan — October 7, 2026

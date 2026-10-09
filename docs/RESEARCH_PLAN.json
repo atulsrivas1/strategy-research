@@ -269,7 +269,7 @@
       "epic": "E06",
       "release": "M2",
       "priority": "2 \u2014 Enabling evidence",
-      "disposition": "R03 offline recorder implemented,11 synthetic persistence/clock checks; local first-seen/revisions only, no provider/source/historical qualification. Full story open partial Test, M2 comparisons negative/exhausted unchanged. Next qualified-source provider adapter plan; Project lifecycle authority.",
+      "disposition": "Owner amendment: evidence gaps do not automatically block exploratory work or delivery; use declared assumptions/proxies under a frozen bounded protocol. No evidence upgraded or full-story completion claimed. R03 offline recorder implemented,11 synthetic persistence/clock checks; local first-seen/revisions only, no provider/source/historical qualification. Full story open partial Test, M2 comparisons negative/exhausted unchanged. Next qualified-source provider adapter plan; Project lifecycle authority.",
       "dependencies": [
         "SR-008",
         "SR-019"
@@ -413,7 +413,7 @@
       "epic": "E08",
       "release": "M7",
       "priority": "3.05 \u2014 Provisional qualification",
-      "disposition": "Accepted SR-068 verified; bounded RSI source/calculation evidence delivered. Full story open, empirical source/action/session/arrival/execution gates blocked; zero historical trials. Project is lifecycle authority.",
+      "disposition": "Owner amendment: evidence gaps do not automatically block exploratory work or delivery; use declared assumptions/proxies under a frozen bounded protocol. No evidence upgraded or full-story completion claimed. Accepted SR-068 verified; bounded RSI source/calculation evidence delivered. Full story open, empirical source/action/session/arrival/execution gates blocked; zero historical trials. Project is lifecycle authority.",
       "dependencies": [
         "SR-004",
         "SR-008",
@@ -430,7 +430,7 @@
       "epic": "E08",
       "release": "M7",
       "priority": "3.06 \u2014 Provisional qualification",
-      "disposition": "Accepted SR-068 verified; bounded opening-gap source/timing/action evidence delivered. Full story open, empirical source/endpoint/action/calendar/arrival/execution gates blocked; zero historical trials. Project is lifecycle authority.",
+      "disposition": "Owner amendment: evidence gaps do not automatically block exploratory work or delivery; use declared assumptions/proxies under a frozen bounded protocol. No evidence upgraded or full-story completion claimed. Accepted SR-068 verified; bounded opening-gap source/timing/action evidence delivered. Full story open, empirical source/endpoint/action/calendar/arrival/execution gates blocked; zero historical trials. Project is lifecycle authority.",
       "dependencies": [
         "SR-004",
         "SR-008",
@@ -447,7 +447,7 @@
       "epic": "E08",
       "release": "M7",
       "priority": "3.04 \u2014 Provisional qualification",
-      "disposition": "Accepted SR-068 verified; bounded earnings source/machinery qualification evidenced. Full story open, empirical release/consensus/execution gates blocked; zero historical trials. Project is lifecycle authority.",
+      "disposition": "Owner amendment: evidence gaps do not automatically block exploratory work or delivery; use declared assumptions/proxies under a frozen bounded protocol. No evidence upgraded or full-story completion claimed. Accepted SR-068 verified; bounded earnings source/machinery qualification evidenced. Full story open, empirical release/consensus/execution gates blocked; zero historical trials. Project is lifecycle authority.",
       "dependencies": [
         "SR-004",
         "SR-008",
@@ -549,7 +549,7 @@
       "epic": "E08",
       "release": "M7",
       "priority": "3.01 \u2014 Provisional qualification",
-      "disposition": "Scoped locator recovered no original/request chain; source/session/action/availability gates blocked. Full story partial Test; recover only on new exact candidate. Next enabling SR022/R03 capture build, zero market trials; Project lifecycle authority.",
+      "disposition": "Owner amendment: evidence gaps do not automatically block exploratory work or delivery; use declared assumptions/proxies under a frozen bounded protocol. No evidence upgraded or full-story completion claimed. Scoped locator recovered no original/request chain; source/session/action/availability gates blocked. Full story partial Test; recover only on new exact candidate. Next enabling SR022/R03 capture build, zero market trials; Project lifecycle authority.",
       "dependencies": [
         "SR-004",
         "SR-008",
@@ -566,7 +566,7 @@
       "epic": "E08",
       "release": "M7",
       "priority": "3.02 \u2014 Provisional qualification",
-      "disposition": "Accepted SR-068 verified; bounded source/machinery qualification evidenced. Full story open, empirical gates blocked; zero historical trials. Project is lifecycle authority.",
+      "disposition": "Owner amendment: evidence gaps do not automatically block exploratory work or delivery; use declared assumptions/proxies under a frozen bounded protocol. No evidence upgraded or full-story completion claimed. Accepted SR-068 verified; bounded source/machinery qualification evidenced. Full story open, empirical gates blocked; zero historical trials. Project is lifecycle authority.",
       "dependencies": [
         "SR-004",
         "SR-008",
@@ -600,7 +600,7 @@
       "epic": "E08",
       "release": "M7",
       "priority": "3.07 \u2014 Provisional qualification",
-      "disposition": "Accepted SR-068 verified; bounded D4 source/synthetic prerequisite evidence delivered. Full story open; empirical source/clock/input/execution/protocol gates blocked; zero historical trials. Project is lifecycle authority.",
+      "disposition": "Owner amendment: evidence gaps do not automatically block exploratory work or delivery; use declared assumptions/proxies under a frozen bounded protocol. No evidence upgraded or full-story completion claimed. Accepted SR-068 verified; bounded D4 source/synthetic prerequisite evidence delivered. Full story open; empirical source/clock/input/execution/protocol gates blocked; zero historical trials. Project is lifecycle authority.",
       "dependencies": [
         "SR-004",
         "SR-008",
@@ -668,7 +668,7 @@
       "epic": "E08",
       "release": "M7",
       "priority": "3.03 \u2014 Provisional qualification",
-      "disposition": "Accepted SR-068 verified; bounded source/machinery qualification evidenced. Full story open, empirical gates blocked; zero historical trials. Project is lifecycle authority.",
+      "disposition": "Owner amendment: evidence gaps do not automatically block exploratory work or delivery; use declared assumptions/proxies under a frozen bounded protocol. No evidence upgraded or full-story completion claimed. Accepted SR-068 verified; bounded source/machinery qualification evidenced. Full story open, empirical gates blocked; zero historical trials. Project is lifecycle authority.",
       "dependencies": [
         "SR-004",
         "SR-008",
@@ -736,7 +736,7 @@
       "epic": "E08",
       "release": "M7",
       "priority": "3.08 \u2014 Provisional qualification",
-      "disposition": "Accepted SR-068 verified; bounded V3-04 source/synthetic prerequisite evidence delivered. Full story open; empirical source/clock/input/execution/protocol gates blocked; zero historical trials. Project is lifecycle authority.",
+      "disposition": "Owner amendment: evidence gaps do not automatically block exploratory work or delivery; use declared assumptions/proxies under a frozen bounded protocol. No evidence upgraded or full-story completion claimed. Accepted SR-068 verified; bounded V3-04 source/synthetic prerequisite evidence delivered. Full story open; empirical source/clock/input/execution/protocol gates blocked; zero historical trials. Project is lifecycle authority.",
       "dependencies": [
         "SR-004",
         "SR-008",
@@ -923,7 +923,7 @@
       "epic": "E08",
       "release": "M7",
       "priority": "3.09 \u2014 Provisional qualification",
-      "disposition": "Accepted SR-068 verified; bounded V2-14 source/synthetic prerequisite evidence delivered. Full story open; empirical source/clock/input/execution/protocol gates blocked; zero historical trials. Project is lifecycle authority.",
+      "disposition": "Owner amendment: evidence gaps do not automatically block exploratory work or delivery; use declared assumptions/proxies under a frozen bounded protocol. No evidence upgraded or full-story completion claimed. Accepted SR-068 verified; bounded V2-14 source/synthetic prerequisite evidence delivered. Full story open; empirical source/clock/input/execution/protocol gates blocked; zero historical trials. Project is lifecycle authority.",
       "dependencies": [
         "SR-004",
         "SR-008",
@@ -940,7 +940,7 @@
       "epic": "E08",
       "release": "M7",
       "priority": "3.10 \u2014 Provisional qualification",
-      "disposition": "Accepted SR-068 verified; bounded V2-18 source/synthetic prerequisite evidence delivered. Full story open; empirical source/clock/input/execution/protocol gates blocked; zero historical trials. Project is lifecycle authority.",
+      "disposition": "Owner amendment: evidence gaps do not automatically block exploratory work or delivery; use declared assumptions/proxies under a frozen bounded protocol. No evidence upgraded or full-story completion claimed. Accepted SR-068 verified; bounded V2-18 source/synthetic prerequisite evidence delivered. Full story open; empirical source/clock/input/execution/protocol gates blocked; zero historical trials. Project is lifecycle authority.",
       "dependencies": [
         "SR-004",
         "SR-008",
@@ -1028,5 +1028,6 @@
       "disposition": "Common design accepted within methodology scope; M6 final publication verification required before Done. No empirical trial or blanket data qualification.",
       "dependencies": []
     }
-  ]
+  ],
+  "evidence_policy": "Missing evidence nonblocking for exploratory execution/delivery; EVIDENCE_POLICY.md. Assumptions/proxies preregistered, unknown evidence retained; no automatic qualification/Done."
 }

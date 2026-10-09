@@ -1,5 +1,9 @@
 # SR-040 — Qualify D1: Trend following: Turtles, Donchian breakouts, TSMOM and the CTA industry
 
+## Owner nonblocking-evidence amendment — October 8, 2026
+
+[Current policy](../EVIDENCE_POLICY.md) supersedes automatic missing-evidence execution/delivery gates for exploratory scope. Preserve gaps and preregister usable inputs, assumptions/proxies, baseline/context controls, costs, chronology, metrics and finite budget. Missing corroboration alone does not block a completed exploratory delivery; no automatic Done or verified-source/performance claim. Historical results/budgets/final protection remain.
+
 ## Recovery and availability priority — October 8, 2026
 
 [Scoped recovery](../../reports/D1-recovery-disposition.md) restored no original/request chain. Source gates remain blocked; full story stays partial Test. Next shared availability contract under SR022, no repeated locator without new evidence or new trial budget.
