@@ -1,5 +1,9 @@
 # SR-040 — Qualify D1: Trend following: Turtles, Donchian breakouts, TSMOM and the CTA industry
 
+## First exploratory pilot — October 9, 2026
+
+The first SR-040 D1 exploratory pilot is delivered as inconclusive: 3 scanner opportunities, 2 vetoed net losses, 0 sacrificed winners; baseline/candidate fixed-reference contributions −0.938817%/−0.468519%, paired +0.470298 percentage points, 95% interval [0,+1.062842]. Sparse support fails the frozen promising criterion. One registered paired comparison, 96 selected private market rows, 5 synthetic cases and 17 independent actual checks; no final access. Source/session/arrival/action authority remains unverified under the nonblocking evidence policy. [Report](../../reports/D1-exploratory-pilot.md). SR-040 stays open for broader qualification, M7 planned/unreleased; next prospective question is broader support with unchanged rules, not outcome-driven threshold tuning. No new job/session/schedule.
+
 ## Owner nonblocking-evidence amendment — October 8, 2026
 
 [Current policy](../EVIDENCE_POLICY.md) supersedes automatic missing-evidence execution/delivery gates for exploratory scope. Preserve gaps and preregister usable inputs, assumptions/proxies, baseline/context controls, costs, chronology, metrics and finite budget. Missing corroboration alone does not block a completed exploratory delivery; no automatic Done or verified-source/performance claim. Historical results/budgets/final protection remain.
