@@ -549,7 +549,7 @@
       "epic": "E08",
       "release": "M7",
       "priority": "3.01 \u2014 Provisional qualification",
-      "disposition": "Owner amendment: evidence gaps do not automatically block exploratory work or delivery; use declared assumptions/proxies under a frozen bounded protocol. No evidence upgraded or full-story completion claimed. Scoped locator recovered no original/request chain; source/session/action/availability gates blocked. Full story partial Test; recover only on new exact candidate. Next enabling SR022/R03 capture build, zero market trials; Project lifecycle authority.",
+      "disposition": "D1-EXPLORATORY-1 delivered inconclusive: 3 opportunities, 2 avoided losses, no sacrificed winners, one fixed comparison; source/clock/session/action basis unverified, no final access. Full story remains open for broader qualification; next broader-support protocol, no threshold retuning. Owner amendment: evidence gaps do not automatically block exploratory work or delivery; use declared assumptions/proxies under a frozen bounded protocol. No evidence upgraded or full-story completion claimed. Scoped locator recovered no original/request chain; source/session/action/availability gates blocked. Full story partial Test; recover only on new exact candidate. Next enabling SR022/R03 capture build, zero market trials; Project lifecycle authority.",
       "dependencies": [
         "SR-004",
         "SR-008",

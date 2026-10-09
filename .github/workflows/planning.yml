@@ -38,3 +38,5 @@ jobs:
       - run: python scripts/check_library_v3_import.py
       - run: python scripts/check_library_v2_import.py
       - run: python scripts/check_sigmatiq_v1_import.py
+      - name: Check frozen exploratory D1 mechanics
+        run: python scripts/check_d1_exploratory.py
