@@ -1,3 +1,7 @@
+## Owner nonblocking-evidence amendment — October 8, 2026
+
+Owner: "lets not block it because evidence is missing". Follow [current evidence policy](docs/EVIDENCE_POLICY.md). Missing evidence is recorded uncertainty, not an automatic exploratory execution/delivery gate. Freeze assumptions/proxies and a bounded protocol; do not fabricate evidence, knowingly use future information or relax numerical correctness, final protection, privacy, CI or exact delivery/owner identity. Next SR040 exploratory protocol using available prepared inputs. Older conflicting gates retain history; no source-owner/paid/live/new session/schedule authorization.
+
 ## Current R03 recorder qualification — October 8, 2026
 
 Read [handoff](docs/SESSION_HANDOFF.md) and [recorder report](reports/SR022-availability-recorder.md). Offline machinery tested on synthetic files only; local observations do not qualify provider/source/historical clocks. SR022 remains open partial qualification, M2 negative/exhausted budget unchanged. All M7 full stories partial Test/unreleased. Next provider adapter plan after source/clock qualification; no actual capture/source jobs/new sessions/later releases. Owner identity and all exact CI/source/privacy gates retained.

@@ -1,5 +1,9 @@
 # SR-033 — Qualify B2: Overnight Drift and Gap Fade
 
+## Owner nonblocking-evidence amendment — October 8, 2026
+
+[Current policy](../EVIDENCE_POLICY.md) supersedes automatic missing-evidence execution/delivery gates for exploratory scope. Preserve gaps and preregister usable inputs, assumptions/proxies, baseline/context controls, costs, chronology, metrics and finite budget. Missing corroboration alone does not block a completed exploratory delivery; no automatic Done or verified-source/performance claim. Historical results/budgets/final protection remain.
+
 ## Bounded source/gap evidence — October 8, 2026
 
 [Source boundaries and 65 independent gap/action/timing checks](../../reports/B2-source-qualification.md). Accepted SR-068 verified; full SR-033 open at partial Test. Empirical source/endpoint/actions/calendar/arrival/execution gates blocked. Zero strategy trials/final evaluations, M7 planned/unreleased. No independent approval claimed. Older startup/design-blocked wording below is history; original scientific acceptance remains required.

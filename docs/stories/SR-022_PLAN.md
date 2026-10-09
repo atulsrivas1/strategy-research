@@ -1,5 +1,9 @@
 # SR-022 — Qualify decision-time stock and market context
 
+## Owner nonblocking-evidence amendment — October 8, 2026
+
+[Current policy](../EVIDENCE_POLICY.md) supersedes automatic missing-evidence execution/delivery gates for exploratory scope. Preserve gaps and preregister usable inputs, assumptions/proxies, baseline/context controls, costs, chronology, metrics and finite budget. Missing corroboration alone does not block a completed exploratory delivery; no automatic Done or verified-source/performance claim. Historical results/budgets/final protection remain.
+
 ## R03 recorder v1 — October 8, 2026
 
 [Offline implementation and11 synthetic checks](../../reports/SR022-availability-recorder.md) preserve local first-seen/revisions and atomic receipt order. No real source capture, provider clock qualification or historical rehabilitation. Full SR022 remains open partial qualification; exhausted M2 comparisons unchanged. Next bounded provider adapter after source/clock qualification.

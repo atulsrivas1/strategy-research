@@ -1,5 +1,9 @@
 # SR-047 — Qualify E4: CANSLIM, Minervini SEPA/VCP, Darvas: Growth-Breakout Trading
 
+## Owner nonblocking-evidence amendment — October 8, 2026
+
+[Current policy](../EVIDENCE_POLICY.md) supersedes automatic missing-evidence execution/delivery gates for exploratory scope. Preserve gaps and preregister usable inputs, assumptions/proxies, baseline/context controls, costs, chronology, metrics and finite budget. Missing corroboration alone does not block a completed exploratory delivery; no automatic Done or verified-source/performance claim. Historical results/budgets/final protection remain.
+
 ## Bounded prerequisite evidence — October 8, 2026
 
 [As-of fundamental version ingredient and 42 checks; canonical rules and historical fundamental vintages remain unqualified.](../../reports/E4-vintage-qualification.md) Full story open at partial Test; no empirical admission, zero historical trials and final evaluations. M7 planned, unreleased. Accepted SR-068 prerequisite fulfilled. Original scientific acceptance below remains required; older unstarted/blocked-on-design wording is historical.

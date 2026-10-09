@@ -1,3 +1,7 @@
+## Owner exploratory evidence amendment — October 8, 2026
+
+[Policy](../EVIDENCE_POLICY.md): missing availability/source evidence does not automatically stop an exploratory comparison. Freeze modeled clocks/proxies/unknown actions before outcomes, disclose assumptions and retain the matched scanner/context controls and four states. Do not represent modeled time as observed or use known future information. Earlier qualified-evidence-only gates are historical for explicitly exploratory scope.
+
 # Primary scanner plus decision-time stock and market context
 
 Owner requires every strategy comparison to retain its primary scanner and apply a preregistered stock/market-context overlay. This is an experimental requirement, not proven filter efficacy. Exact scanner and context fields must qualify before outcome access.
