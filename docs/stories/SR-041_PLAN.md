@@ -1,5 +1,9 @@
 # SR-041 — Qualify D2: Cross-sectional (relative-strength) momentum
 
+## First exploratory comparison — October9,2026
+
+First D2 exploratory comparison delivered:18 fixed convenience stocks,20 decisions,60 selected top-three slots and360 equal-cohort benchmark slots, all evaluable. Five-session consistency veto rejected for this tested sample:10 vetoes,2 avoided losses,8 sacrificed winners; scanner/candidate reference contributions9.296294%/8.186225%, paired−1.110069pp,95% interval[−2.338943,−0.174727]. Leadership scanner versus equal-cohort benchmark pointdifference+6.451447pp but interval[−1.943679,+14.251549] crosseszero, so leadership evidence inconclusive. [Report](../../reports/D2-exploratory-test.md). Source/session/arrival/actions unverified, all development/exposed, unfunded price proxies/no final access. Park this veto; next design needs additional temporal evidence for the unchanged scanner and explicit funded accounting, not tuning the gate. FullSR041 openTest, M7 unreleased; no newchat/schedule/sourceproducer/paid/live action.
+
 ## Owner nonblocking-evidence amendment — October 8, 2026
 
 [Current policy](../EVIDENCE_POLICY.md) supersedes automatic missing-evidence execution/delivery gates for exploratory scope. Preserve gaps and preregister usable inputs, assumptions/proxies, baseline/context controls, costs, chronology, metrics and finite budget. Missing corroboration alone does not block a completed exploratory delivery; no automatic Done or verified-source/performance claim. Historical results/budgets/final protection remain.

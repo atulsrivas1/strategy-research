@@ -40,3 +40,5 @@ jobs:
       - run: python scripts/check_sigmatiq_v1_import.py
       - name: Check frozen exploratory D1 mechanics
         run: python scripts/check_d1_exploratory.py
+      - name: Check frozen exploratory D2 ranking and pairing
+        run: python scripts/check_d2_exploratory.py
