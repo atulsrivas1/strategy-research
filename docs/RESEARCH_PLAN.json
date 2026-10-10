@@ -566,7 +566,7 @@
       "epic": "E08",
       "release": "M7",
       "priority": "3.02 \u2014 Provisional qualification",
-      "disposition": "Owner amendment: evidence gaps do not automatically block exploratory work or delivery; use declared assumptions/proxies under a frozen bounded protocol. No evidence upgraded or full-story completion claimed. Accepted SR-068 verified; bounded source/machinery qualification evidenced. Full story open, empirical gates blocked; zero historical trials. Project is lifecycle authority.",
+      "disposition": "D2-EXPLORATORY-1 delivered:60 selected slots/360 benchmark slots,5-session consistency veto rejected, leadership versus equal-cohort inconclusive; source/session/actions/arrival unverified, unfunded proxies, no final. Park veto, next temporal evidence design/funding requirement, fullstory openTest. Owner amendment: evidence gaps do not automatically block exploratory work or delivery; use declared assumptions/proxies under a frozen bounded protocol. No evidence upgraded or full-story completion claimed. Accepted SR-068 verified; bounded source/machinery qualification evidenced. Full story open, empirical gates blocked; zero historical trials. Project is lifecycle authority.",
       "dependencies": [
         "SR-004",
         "SR-008",
