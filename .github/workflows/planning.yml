@@ -46,3 +46,7 @@ jobs:
         run: python scripts/check_research_integrity.py
       - name: Check D2 funded strategy adoption and actual guarded CLI
         run: python scripts/check_d2_funded.py
+      - name: Check prospective stored-value D2 adaptation
+        run: python scripts/check_d2_funded_v2.py
+      - name: Check exact stored binary64 adapter
+        run: python scripts/check_stored_prices.py

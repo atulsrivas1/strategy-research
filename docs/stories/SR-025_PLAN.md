@@ -1,5 +1,9 @@
 # SR-025 — Validate matched scanner-context accounting and causality
 
+## Funded D2 development result — October 10, 2026
+
+[Funded raw-price diagnostic](../../reports/D2-funded-development.md) and [prospective v2 contract plus post-run defect](../contracts/D2_FUNDED_V2.md): final audit confirms NVIDIA June10,2024 ten-for-one split discontinuity crossing eight formation windows. **Invalid for momentum strategy qualification**; pre-run intake should have screened it. Exact declared arithmetic passes but does not repair economic share units. Original engine verdict/figures preserved:250 decisions/18 stocks/512 partitions, raw scanner/benchmark+0.782716%/+0.361489%, delta+0.421227pp,95%[−0.092074,+0.945310]pp inconclusive. Mean active scanner gross exposure1.959133%, conservative cash allocation. Veto diagnostic−0.393073pp, no promotion. One primary/nine armfee configs consumed, no repaired replay/date exclusion/budget reset.36 artificial v2 cases/1290 independent raw-model checks/all32 repository checks; no qualified strategy performance claim. Next versioned causal split/action-basis repair and witnesses before separately preregistered replay. All development potentially exposed/finaldisabled; fullstories openTest/M7unreleased/M2 unchanged. Agent inspection/owner waiver, no independent approval.
+
 ## Full replan priority — October 7, 2026
 
 Current priority: 2 — Enabling evidence. Current release: M2. After shared design, qualify availability clocks, accounting/parity and observed execution/funding; exact missing evidence stays blocked. No market replay from this plan.
