@@ -50,3 +50,7 @@ jobs:
         run: python scripts/check_d2_funded_v2.py
       - name: Check exact stored binary64 adapter
         run: python scripts/check_stored_prices.py
+      - name: Check causal split prices and quantity conservation
+        run: python scripts/check_split_actions.py
+      - name: Check versioned D2 split repair and guarded CLI
+        run: python scripts/check_d2_funded_v3.py
