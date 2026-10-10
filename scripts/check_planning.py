@@ -70,7 +70,7 @@ assert stages==['Backlog','Ready','In progress','Code review','Test','Ready to r
 graph={}
 for i in STORY_IDS:
     sid=f'SR-{i:03}';text=(ROOT/f'docs/stories/{sid}_PLAN.md').read_text(encoding='utf-8')
-    assert text.startswith('# '+sid+' â€” '),sid
+    assert text.startswith('# '+sid+' — '),sid
     for section in ['Hypothesis and information value','Sources and prior lessons','Dependencies and required data','Baseline and experiment','Acceptance and rejection','Deliverables and resume']:
         assert '## '+section in text,(sid,section)
     assert len(re.findall(r'Release plan: \[M\d\]',text))==1,sid
