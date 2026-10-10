@@ -1,5 +1,14 @@
 ## Audit correction — October 9, 2026
 
+## D2 settlement admission and preregistration — October 10, 2026
+
+[Admission report](../../reports/D2-sleeve-admission.md), [frozen contract](../contracts/D2_SLEEVE_PREREGISTRATION.md): exact reused18-stock/9216-row/512-session bundle and250 decisions admitted with known causal split event; settlement explicitly next supplied session close proxy, not certified broker/bank calendar. Final maturity index512 remains receivable. Current protection reviewed; all exposed development, final disabled/unassigned. Separate D2-SLEEVES-DEV-1 registered/unspent, one primary comparison/nine configurations, full source/input/map/protocol/protection/fixedregistry binding and bounded future supervisor. Three artificial resource checks/metadata-only preflight/all36 repository checks; zero new market replay/claim/attempt. Thirteen old private records/prior public source/results/budgets preserved. FullSR025/SR041 partialTest/E08open/M7unreleased/M2old2/2unchanged. Agent self-inspection/ownerwaiver, no independent approval.
+
+Next: one supervised preregistered development comparison after current protection/source/input recheck; independently verify numerical outcomes and retain failures. No grid/context promotion/rescaling/oldbudget reset/final/live/paid/producer/newchat/schedule. No owned process running.
+
+---
+
+
 [Deeper audit and D2 correction](../../reports/Research-methodology-audit.md): pre-run receipt omitted actual D2 engine; verifier only checked recorded entries. Earlier complete executed-source-binding claim is too strong. Current delivered engine reproduces saved outputs, but this does not create a historical hash.144 shadow-ledger checks reconcile unchanged curves; scanner needs negative normalized cash on9 dates, benchmark2, context0. Contributions stay unfunded proxies.60 slots/8 selected stocks/20 dates and exposed regime limit inference; three price-gap flags retained without exclusions. Tested overlays fail, underlying D2 scanner remains inconclusive. Next: source-coverage/identity/precision and funded-accounting design, separate baseline/context questions and broader prospective evidence before new experiments. Missing evidence remains nonblocking; original artifacts/verdicts/budgets and final protection unchanged. No new source-lake prices/strategy variants/final access/new session/schedule; fullstories open, M7unreleased.
 
 ## First D2 experiment — October9,2026
