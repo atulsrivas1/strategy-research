@@ -8,6 +8,7 @@ ALLOW_DOCS={'WORKFLOW.md','BACKLOG.md','RESEARCH_INDEX.md','ROADMAP.md','DELIVER
 ALLOW_OTHER={'docs/knowledge/BACKLOG_WORKFLOW.md', 'reports/SR-002-input-audit.md', 'docs/sources/SOURCE_MAP.md', 'reports/M0-qualification.md', 'fixtures/reference_machinery.py', 'docs/sources/AQUA.md', 'scripts/check_planning.py', 'reports/EQ-001-P1.md', 'scripts/check_reference_fixtures.py', '.github/PULL_REQUEST_TEMPLATE.md', 'docs/releases/M0_RECEIPT.md', '.github/workflows/planning.yml', 'fixtures/chronology.py', 'scripts/check_chronology.py', 'reports/M0-post-merge-review.md'}
 ALLOW_OTHER|={'reports/D2-corrected-development.md'}
 ALLOW_OTHER|={'docs/contracts/D2_CAPITAL_POLICY.md','reports/D2-capital-review.md'}
+ALLOW_OTHER|={'research/d2_sleeves.py', 'docs/contracts/D2_SLEEVE_IMPLEMENTATION.md', 'scripts/check_sleeve_ledger.py', 'scripts/check_d2_sleeves.py', 'research/sleeve_ledger.py', 'research/run_d2_sleeves.py', 'reports/D2-sleeve-machinery.md'}
 STORY_IDS=list(range(1,69))
 RELEASE_IDS=list(range(8))
 allowed=ALLOW_ROOT|{'docs/'+p for p in ALLOW_DOCS}|ALLOW_OTHER|{f'docs/stories/SR-{i:03}_PLAN.md' for i in STORY_IDS}|{f'docs/releases/M{i}_PLAN.md' for i in RELEASE_IDS}|{'docs/releases/M0_HANDOFF.md'}

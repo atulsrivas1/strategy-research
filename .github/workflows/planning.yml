@@ -54,3 +54,8 @@ jobs:
         run: python scripts/check_split_actions.py
       - name: Check versioned D2 split repair and guarded CLI
         run: python scripts/check_d2_funded_v3.py
+
+      - name: Check reusable cash sleeves and compound invariants
+        run: python scripts/check_sleeve_ledger.py
+      - name: Check guarded D2 sleeve adoption
+        run: python scripts/check_d2_sleeves.py
