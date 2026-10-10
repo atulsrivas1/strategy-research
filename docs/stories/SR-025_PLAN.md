@@ -12,6 +12,10 @@ Synthetic accounting, five-session sleeve integration and bounded proxy checks d
 
 [Live Project stages](https://github.com/users/atulsrivas1/projects/4) remain authoritative. Separate research PR review is optional under the owner waiver; agent inspection, independent relevant numerical checks, CI, privacy and exact delivery verification remain required. No independent approval is claimed.
 
+## Prospective integrity repair — October 9, 2026
+
+Owner requests fixing the audit findings. [Research integrity v1](../contracts/RESEARCH_INTEGRITY_V1.md) and [implementation report](../../reports/Research-integrity-repair.md) add actual-engine/dependency execution receipts, lossless identity/Decimal inputs and finite-cash paired accounting. Synthetic checks exercise conservation, fees, overlapping lots, unfilled/censored observations, temporal boundaries and original source-coverage failure. Separate funding feasibility and matched fill schedules are enforced; no implicit borrowing or retained-weight rescaling. New modules are prospective infrastructure; old engines and outcomes remain frozen. Full story remains open for actual applicable qualification, runner adoption and parity. Missing source evidence is recorded uncertainty under the owner policy, not an automatic exploratory block. M2 empirical budget remains exhausted; no new market replay or final access.
+
 ## Preserved plan and amendments
 
 The original specification and dated amendments below retain provenance. Earlier delivery/status/review wording is superseded by the current reconciliation and owner waiver. Unfulfilled scientific requirements remain requirements.
