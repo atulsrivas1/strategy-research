@@ -1,5 +1,14 @@
 ## Audit correction — October 9, 2026
 
+## D2 settlement admission and preregistration — October 10, 2026
+
+[Admission report](../../reports/D2-sleeve-admission.md), [frozen contract](../contracts/D2_SLEEVE_PREREGISTRATION.md): exact reused18-stock/9216-row/512-session bundle and250 decisions admitted with known causal split event; settlement explicitly next supplied session close proxy, not certified broker/bank calendar. Final maturity index512 remains receivable. Current protection reviewed; all exposed development, final disabled/unassigned. Separate D2-SLEEVES-DEV-1 registered/unspent, one primary comparison/nine configurations, full source/input/map/protocol/protection/fixedregistry binding and bounded future supervisor. Three artificial resource checks/metadata-only preflight/all36 repository checks; zero new market replay/claim/attempt. Thirteen old private records/prior public source/results/budgets preserved. FullSR025/SR041 partialTest/E08open/M7unreleased/M2old2/2unchanged. Agent self-inspection/ownerwaiver, no independent approval.
+
+Next: one supervised preregistered development comparison after current protection/source/input recheck; independently verify numerical outcomes and retain failures. No grid/context promotion/rescaling/oldbudget reset/final/live/paid/producer/newchat/schedule. No owned process running.
+
+---
+
+
 ## D2 sleeve ledger and guarded adoption delivered — October10,2026
 
 [Machinery](../../reports/D2-sleeve-machinery.md) / [implementation contract](../contracts/D2_SLEEVE_IMPLEMENTATION.md): seven isolated cash sleeves, previous-close budgets, sale receivables/maturity-close eligibility and exact shares/fees/NAV. Own scanner/equalcohort compounding; reference-sized diagnostic context financing separated from primary. Compound daily log uncertainty precision50/tolerance1e-12, independently resampled;37 ledger plus28 actual-D2/CLI checks, all36 repository checks. Zero new market trials/parsedrows/empirical registration/finalaccess. All previous source/results/receipts/consumed budgets preserved. Next SR041 outcome-free calendar/proxy/input admission then separate exact registration for a later bounded comparison; no calendar certification, return scaling, retry or automatic market run. FullSR025/SR041 partialTest/M7unreleased/M2unchanged. Agent inspection/ownerwaiver, no independent approval.
