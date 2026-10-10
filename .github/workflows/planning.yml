@@ -44,3 +44,5 @@ jobs:
         run: python scripts/check_d2_exploratory.py
       - name: Check future research receipts, lossless inputs and funded cash
         run: python scripts/check_research_integrity.py
+      - name: Check D2 funded strategy adoption and actual guarded CLI
+        run: python scripts/check_d2_funded.py
