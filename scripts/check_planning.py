@@ -9,6 +9,7 @@ ALLOW_OTHER={'docs/knowledge/BACKLOG_WORKFLOW.md', 'reports/SR-002-input-audit.m
 ALLOW_OTHER|={'reports/D2-corrected-development.md'}
 ALLOW_OTHER|={'docs/contracts/D2_CAPITAL_POLICY.md','reports/D2-capital-review.md'}
 ALLOW_OTHER|={'docs/contracts/D2_SLEEVE_PREREGISTRATION.md','reports/D2-sleeve-admission.md'}
+ALLOW_OTHER|={'reports/D2-sleeve-development.md'}
 ALLOW_OTHER|={'research/d2_sleeves.py', 'docs/contracts/D2_SLEEVE_IMPLEMENTATION.md', 'scripts/check_sleeve_ledger.py', 'scripts/check_d2_sleeves.py', 'research/sleeve_ledger.py', 'research/run_d2_sleeves.py', 'reports/D2-sleeve-machinery.md'}
 STORY_IDS=list(range(1,69))
 RELEASE_IDS=list(range(8))
@@ -69,7 +70,7 @@ assert stages==['Backlog','Ready','In progress','Code review','Test','Ready to r
 graph={}
 for i in STORY_IDS:
     sid=f'SR-{i:03}';text=(ROOT/f'docs/stories/{sid}_PLAN.md').read_text(encoding='utf-8')
-    assert text.startswith('# '+sid+' — '),sid
+    assert text.startswith('# '+sid+' â€” '),sid
     for section in ['Hypothesis and information value','Sources and prior lessons','Dependencies and required data','Baseline and experiment','Acceptance and rejection','Deliverables and resume']:
         assert '## '+section in text,(sid,section)
     assert len(re.findall(r'Release plan: \[M\d\]',text))==1,sid
