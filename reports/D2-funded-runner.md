@@ -1,0 +1,9 @@
+# D2 funded runner and broader protocol — October 9, 2026
+
+[Engine](../research/d2_funded.py), [CLI](../research/run_d2_funded.py) and [frozen protocol](../docs/contracts/D2_FUNDED_PROTOCOL.md) adopt repaired receipts, lossless security IDs/price text and exact funded ledgers. Primary scanner-versus-benchmark and fixed rejected-veto diagnostics are separate. The new252-minus21 formation is an explicit source-informed adaptation, rather than a silent change to the old20-session experiment. Five-session holding remains exploratory.
+
+All36 [synthetic strategy/CLI checks](../scripts/check_d2_funded.py) pass: hand ranking, subfloat precision, ties, future/late arrivals, complete-cohort handling, independent benchmark scheduling, fee-reserved cash, matched notionals, missing exits, interval/verdict boundaries, single-budget claim and actual guarded CLI/source binding. Synthetic results cannot be labeled market performance. All30 repository checks pass. Existing engines, fixtures, reports and completed records remain frozen.
+
+The prospective2024 development protocol freezes broader temporal/security support,20-decision block uncertainty, a conservative fixed cash reservation and one primary experiment/nine declared arm-fee configurations. No actual market rows or strategy experiments are run by this build. The actual long-history input bundle, stable-ID/source handoff and cross-project final/exposure map still need outcome-free intake; the old48-day reduced input is numerically insufficient. Missing source corroboration is recorded uncertainty under the owner policy, not an automatic exploratory blocker.
+
+SR-041 remains open partial Test/M7 unreleased. M2 budget and historical negative verdicts remain unchanged. Agent source/evidence inspection uses the owner review waiver; no independent approval, factor replication, observed execution, fully invested mandate or profitable strategy is claimed.

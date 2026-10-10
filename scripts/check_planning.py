@@ -37,6 +37,7 @@ allowed|={'research/d1_exploratory.py','scripts/check_d1_exploratory.py','report
 allowed|={'reports/D1-breadth-test.md'}
 allowed|={'research/d2_exploratory.py','scripts/check_d2_exploratory.py','reports/D2-exploratory-test.md'}
 allowed|={'reports/Research-methodology-audit.md'}
+allowed|={'research/d2_funded.py','research/run_d2_funded.py','scripts/check_d2_funded.py','docs/contracts/D2_FUNDED_PROTOCOL.md','reports/D2-funded-runner.md'}
 allowed|={'research/execution_guard.py','research/lossless_inputs.py','research/funded_ledger.py','scripts/check_research_integrity.py','docs/contracts/RESEARCH_INTEGRITY_V1.md','reports/Research-integrity-repair.md'}
 allowed|={'reports/M1-development.md','reports/M1-methodology.md','reports/M1-feasibility.md','docs/sources/M1_REVERSAL.md','docs/sources/M1_AUXILIARY.md','fixtures/m1_math.py','scripts/check_m1.py'}
 allowed|={'reports/M2-readiness.md','fixtures/m2_foundation.py','scripts/check_m2.py','scripts/verify_m2.py'}
