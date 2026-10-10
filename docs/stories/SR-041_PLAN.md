@@ -1,5 +1,14 @@
 # SR-041 — Qualify D2: Cross-sectional (relative-strength) momentum
 
+## D2 registered sleeve comparison delivered — October10,2026
+
+[Report](../../reports/D2-sleeve-development.md): execution failed; no qualified economic verdict; one registered comparison/nine configurations, allowance consumed. 40 terminal/source/input integrity checks; zero economic checks; all36 repository checks; exact guarded source/input/operative metadata amendment retained. Same18 stocks/9216 reused rows/250 decisions; settlement uncertified next-session-close proxy, all exposed development/final disabled. Original preregistration and fifteen prior records/source/results/budgets preserved. FullSR041/SR025 partialTest/E08open/M7unreleased/M2old2/2unchanged. Agent self-inspection/ownerwaiver, no independent reviewer approval.
+
+Next: outcome-free resource/implementation failure audit; no rerun or new allowance yet. No rescaling/grid/context promotion/oldbudget reset/live/paid/producer/newchat/schedule. Current execution terminal; no owned worker running.
+
+---
+
+
 ## D2 settlement admission and preregistration — October 10, 2026
 
 [Admission report](../../reports/D2-sleeve-admission.md), [frozen contract](../contracts/D2_SLEEVE_PREREGISTRATION.md): exact reused18-stock/9216-row/512-session bundle and250 decisions admitted with known causal split event; settlement explicitly next supplied session close proxy, not certified broker/bank calendar. Final maturity index512 remains receivable. Current protection reviewed; all exposed development, final disabled/unassigned. Separate D2-SLEEVES-DEV-1 registered/unspent, one primary comparison/nine configurations, full source/input/map/protocol/protection/fixedregistry binding and bounded future supervisor. Three artificial resource checks/metadata-only preflight/all36 repository checks; zero new market replay/claim/attempt. Thirteen old private records/prior public source/results/budgets preserved. FullSR025/SR041 partialTest/E08open/M7unreleased/M2old2/2unchanged. Agent self-inspection/ownerwaiver, no independent approval.

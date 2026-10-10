@@ -9,6 +9,7 @@ ALLOW_OTHER={'docs/knowledge/BACKLOG_WORKFLOW.md', 'reports/SR-002-input-audit.m
 ALLOW_OTHER|={'reports/D2-corrected-development.md'}
 ALLOW_OTHER|={'docs/contracts/D2_CAPITAL_POLICY.md','reports/D2-capital-review.md'}
 ALLOW_OTHER|={'docs/contracts/D2_SLEEVE_PREREGISTRATION.md','reports/D2-sleeve-admission.md'}
+ALLOW_OTHER|={'reports/D2-sleeve-development.md'}
 ALLOW_OTHER|={'research/d2_sleeves.py', 'docs/contracts/D2_SLEEVE_IMPLEMENTATION.md', 'scripts/check_sleeve_ledger.py', 'scripts/check_d2_sleeves.py', 'research/sleeve_ledger.py', 'research/run_d2_sleeves.py', 'reports/D2-sleeve-machinery.md'}
 STORY_IDS=list(range(1,69))
 RELEASE_IDS=list(range(8))
