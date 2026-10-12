@@ -59,3 +59,5 @@ jobs:
         run: python scripts/check_sleeve_ledger.py
       - name: Check guarded D2 sleeve adoption
         run: python scripts/check_d2_sleeves.py
+      - name: Check certified rational mean bounds
+        run: python scripts/check_certified_mean.py

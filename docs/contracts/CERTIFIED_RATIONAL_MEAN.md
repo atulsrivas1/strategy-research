@@ -1,0 +1,11 @@
+# Certified rational mean — prospective helper, October11,2026
+
+The descriptive average of exact daily gross/NAV ratios can have an enormous collapsed denominator. `research/certified_mean.py` keeps the exact rational terms as inputs and returns an outward enclosure rather than constructing that collapsed fraction. Existing engines and their metric/verdict contracts are unchanged; this helper is not yet a market-run consumer.
+
+For n terms x_i and scale S=10^80, let q_i=floor(S*x_i) and u_i=ceil(S*x_i), using exact integer division. L=sum(q_i)/(n*S), U=sum(u_i)/(n*S). Then L <= mean(x_i) <= U and U-L <=1/S. The midpoint has absolute error <=(U-L)/2 <=5e-81. Signed values follow the same proof; exact grid values produce zero width. No float conversion or rounding of cash, shares, fees or NAV. Outputs are exact Fractions for bounds and midpoint; the midpoint is an explicitly bounded approximation to the mean, not falsely labeled a collapsed exact mean.
+
+Default80decimal places, permitted integer precision1..120;1..512 terms, exact Fraction/integer inputs only. Reject empty/oversized inputs, floats, booleans, unknown values and invalid precision. Precision changes require a consumer's prospective contract; helper validity does not grant protocol-change or empirical authorization. Future receipts must retain exact underlying ratios or reconstructible daily ledger and certify the mean interval.
+
+Independent verification: exact Fraction means on signed/cancelling/grid/tiny/random fixtures;160-digit Decimal average on512 generated64000-bit rational terms; bound/containment and rejection witnesses. The large-term Decimal check is a numerical cross-check; the integer floor/ceil proof supplies enclosure certainty.
+
+Benchmarks are synthetic and limited to the measured fixture. Input integer bit lengths are not bounded by this API; callers must enforce resource limits. No claim that the full D2 engine now completes. Ledger runtime, other exact aggregates and serialization remain separate qualification tasks. A separately versioned consumer and complete full-size synthetic run are required before any new market registration. The prior timeout allowance remains consumed; no real replay or allowance created here.
