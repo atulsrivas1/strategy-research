@@ -1,5 +1,14 @@
 # SR-041 — Qualify D2: Cross-sectional (relative-strength) momentum
 
+## D2 synthetic scalability audit delivered — October11,2026
+
+[Report](../../reports/D2-resource-audit.md) / [certified mean](../contracts/CERTIFIED_RATIONAL_MEAN.md):512-session/18-stock/250-decision synthetic profile capped before metrics; localization completed scanner/context ledgers, stopped inside18-stock benchmark ledger. Separate exact exposure-mean sum exceeded2.1million denominator bits after33terms and capped at15s. Prospective isolated helper handles512 large ratios with exact outward bounds and midpoint error <=5e-81 in about0.03s;41 independent checks/all37 repository checks. No whole-engine speedup or prior market stack attribution claimed. All16 prior private records/old scientific source/budgets preserved; zero market rows/trials/new registration/final access. Fullstories partialTest/M7unreleased/M2unchanged; ownerwaiver/self-inspection, no independent approval.
+
+NextSR025 exact benchmark-ledger optimization/full-shape synthetic equivalence and completion; thenSR041 versioned metric/output integration. No failed-allowance reset, automatic market replay, sourceproducer/live/paid/newchat/schedule. No owned worker.
+
+---
+
+
 ## D2 registered sleeve comparison delivered — October10,2026
 
 [Report](../../reports/D2-sleeve-development.md): execution failed; no qualified economic verdict; one registered comparison/nine configurations, allowance consumed. 40 terminal/source/input integrity checks; zero economic checks; all36 repository checks; exact guarded source/input/operative metadata amendment retained. Same18 stocks/9216 reused rows/250 decisions; settlement uncertified next-session-close proxy, all exposed development/final disabled. Original preregistration and fifteen prior records/source/results/budgets preserved. FullSR041/SR025 partialTest/E08open/M7unreleased/M2old2/2unchanged. Agent self-inspection/ownerwaiver, no independent reviewer approval.
